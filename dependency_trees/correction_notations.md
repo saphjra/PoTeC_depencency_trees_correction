@@ -160,7 +160,6 @@ hier ist als doch wieder APPR und nicht kokom
  
 ### b4 ID: 7
 ['(CS (S (NN Stärke) (VAFIN ist) (NP (ART ein) (ADJA großes) (NN Polymer) (PP (APPR aus) (NN Glucose)))) ($, ,) (S (VVFIN wirkt) (ADV ebenfalls) (PTKNEG nicht) (ADJD reduzierend)) (KON und) (S (VAFIN ist) (VP (PP (ADJD hauptsächlich) (APPR in) (NN Speicherorganen)) (VZ (PTKZU zu) (VVINF finden))))) ($. .)']
-Baum nicht angezeigt
 hauptsächlich
 
 ### b4 ID: 8

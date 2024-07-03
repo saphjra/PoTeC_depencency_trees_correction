@@ -37,8 +37,11 @@ POS okay
 Satz hat spezielle Kond struktur, 
 AVP einfügen? 
 ![img_2.png](img_2.png)
+['(CS (S (VVFIN Kommt) (NP (ART der) (NN Replikationskomplex)) (PP (APPR an) (ART eine) (ADJA schadhafte) (NN DNA-Stelle))) ($, ,) (CS (S (VVFIN löst) (PPER er) (PRF sich)) (KON und) (S (VVFIN überspringt) (NP (ART den) (NN Schaden)))) ($, ,) (VP (KOUI um) (PP (APPR an) (ADJA anderer) (NN Stelle)) (VVIZU fortzufahren))) ($. .)']
 ### b1 ID: 3
 POS okay, baum scheint auch okay
+['(S (PPER Es) (VVFIN entsteht) (NP (NP(ART eine) (NN Replikationslücke)) (PP (APPRART im) (NN Tochterstrang)) ($, ,) (S (PRELS die) (VP (NP (AP (ADV über) (CARD 800)) (NN Basen)) (VVINF umfassen)) (VMFIN kann))) ($. .)']
+
 ### b1 ID: 4
 Pos correct, baum nicht
 PP clause verschoben
@@ -60,38 +63,49 @@ Pos correct, baum nicht? warum hat es eine PP clause? herausgelöscht
 Pos correct , baum auch
 ### b1 ID: 9
 POs correct, Baum nicht , VP scope verkleinert
+['(S (VZ (PTKZU Zu) (VVINF beachten)) (VAFIN ist)) ($, ,) (S (KOUS dass) (NP (ART der) (ADJA ursprüngliche) (NN DNA-Schaden))  (PP (APPR bei) (PDAT dieser) (NN Reparatur)) (VP (PTKNEG nicht) (VVPP behoben)) (VAFIN wird)) ($, ,) (KON sondern) (NP (ADV nur) (ART die) (NN Lücke) (PP (APPRART im) (NN Tochterstrang))) ($. .)']
 ### b1 ID: 10
 Pos correct, baum auch
 
 ### b2 ID: 1
 POS correct, baum auch
+['(CS (S (NN Wurzeln) (VVFIN entziehen) (NP (ART dem) (NN Boden)) (NN Wasser)) ($, ,) (KON aber) (S (PPER sie) (VVFIN nehmen) (ADV auch) (ADJA essenzielle) (NN Mineralstoffe) (PTKVZ auf))) ($. .)']
+
 ### b2 ID: 2
-POS correct, baum auch
+
+['(CS (S (NN Böden) (VAFIN sind) (ADJD heterogen)) (KON und) (S (VVFIN weisen) (NN Unterschiede) (PP (APPR auf) (ADJA kleinem) (NN Raum)) (PTKVZ auf))) ($. .)']
 ### b2 ID: 3
 POS correct baum hat relative satz der falsch scheint
 nich klar wie ich kreuzende kanten einfügen soll, PP durch Np ersetzt und VP untergeordnet
 ![img_5.png](img_5.png)
 ![img_6.png](img_6.png)
-['(S (PPER Es) (VVFIN entsteht) (NP (NP(ART eine) (NN Replikationslücke)) (PP (APPRART im) (NN Tochterstrang)) ($, ,) (S (PRELS die) (VP (NP (AP (ADV über) (CARD 800)) (NN Basen)) (VVINF umfassen)) (VMFIN kann))) ($. .)']
-
+['(S (NP (NN Wurzeln) ($, ,) (S (PRELS die) (PP (APPR durch) (ART den) (NN Boden)) (VVFIN wachsen))) ($, ,) (VMFIN können) (VP (PP (APPR auf) (NP (NN Regionen) (VVINF treffen) ($, ,) (S (PRELS die) (PRF sich) (PP (APPRART im) (CNP (TRUNC Wasser-) (KON und) (NN Mineralstoffgehalt))) (VVFIN unterscheiden))))) ($. .)']
 ### b2 ID: 4
 verzweigt von VVPP zu ADJA, obwohl ich eher zu VVPP tendiere. als folge wird die VP als AP annotiert
+['(S (PP (APPR In) (ART den) (AP (ADJD besser) (ADJA versorgten)) (NN Regionen)) (VAFIN sind) (NN Wurzeln) (AP (ADV oft) (ADJD stark) (ADJA verzweigt))) ($. .)']
 ### b2 ID: 5
-POS correct,bei baum zusätzliche CS eingefügt
-['(CS (S (VAFIN Ist) (NP (ART eine) (PIAT solche) (NN Stelle)) (VVPP gefunden)) ($, ,) (CS (S (VVFIN dringt) (NP (ART der) (NN Komplex)) (PP (APPR in) (ART die) (NN Doppelhelix)) (PTKVZ ein)) ($, ,) (S (VVFIN verdrängt) (NP (ART den) (ADJA homologen))) (KON und) (S (VVFIN bindet) (NP (ART den) (ADJA komplementären) (NN Strang))))) ($. .)']
+POS correct,bei baum zusätzliche CS 
+['(CS (S (PP (APPR Für) (ART die) (NN Aufnahme) (NP (ADJA mineralischer) (NN Nährstoffe))) (VAFIN ist) (NP (ART die) (NN Wurzelarchitektur)) (PP (APPR von) (AP (ADV ganz) (ADJA besonderer)) (NN Bedeutung))) ($, ,) (CS (S (KOUS weil) (PRF sich) (NP (ADJA unterschiedliche) (NN Mineralstoffe)) (AP (ADV ganz) (ADJD verschieden)) (VVFIN verhalten)) (KON und) (S (VP (PP (APPR durch) (ADJA verschiedenartige) (NN Kräfte)) (PP (APPRART im) (NN Boden)) (VVPP gehalten)) (VAFIN werden))) ($. .))']
+
 ### b2 ID: 6
 PO und Baum correct
 ### b2 ID: 7
 pos correct, baum nicht, VP scope verkleinert
+['(S (NP (AP (ADJD Stark) (ADJA transpirierende)) (NN Pflanzen)) (VMFIN können) (NN Nitrat) (VP (AP (ADJD schneller)) (PP (APPRART zur) (NN Wurzeloberfläche)) (VVINF transportieren))) ($, ,) (S (KOKOM als) (PPER sie) (VP (PPER es) (PP (APPRART im) (NN Pflanzenkörper)) (VVINF anreichern)) (VMFIN können)) ($. .)']
 ### b2 ID: 8
 Pos correct, baum auch
+['(CS (S (NP (ADJA Andere) (ADJA essenzielle) (NN Mineralstoffe) (NP (KOKOM wie) (NN Phosphat))) (VAFIN sind) (VP (ADV jedoch) (ADJD fest) (PP (APPRART im) (NN Boden)) (VVPP gebunden))) ($, ,) (S (PPER sie) (VAFIN haben) (NP (ADJA niedrige) (NN Diffusionskoeffizienten)))) ($. .)']
+
 ### b2 ID: 9
 daher PAV statt PROAV, PP clause verschoben, satz hierarchy stimmt überhaupt nicht, versucht es zu verbessern
 ['(CS (S (NP (ART Die) (NN Phosphatverarmungszonen) (PP (APPR von) (CARD zwei) (NN Wurzeln)) ($, ,) (S (PRELS die) (AP (AP (ADV sehr) (ADJD nah)) (ADV beieinander)) (VAFIN sind))) ($, ,) (VVFIN überlappen) (PRF sich) (ADV kaum))) (KON und) (S (NP (ART ein) (AP (ADJD reich) (ADJA verzweigtes)) (NN Wurzelsystem)) (VVFIN erhöht) (NP (ART die) (NN Phosphataufnahme)) (PP (APPR bei) (ADJA knapper) (NN Phosphatversorgung)) (PROAV daher) (ADJD enorm))) ($. .)']
 ### b2 ID: 10
-POS dagegenroav zu pav von P, bauum nicht angezeigt
+POS dagegenroav zu pav von P
+['(S (NP (ART Ein) (AP (ADJD extensiv) (ADJA ausgebildetes)) (NN Wurzelsystem) (PP (APPR mit) (ADJA größeren) (NN Zwischenräumen))) (PROAV dagegen) (VMFIN kann) (VP (NP (ART die) (NN Nitrataufnahme)) (VVINF maximieren))) ($. .)']
 ### b3 ID: 1
-buam nicht ang, Pos korrekt  
+Pos korrekt, baum nicht  
+['(S (NN Motormoleküle) (VAFIN sind) (NP (NN Enzyme) ($, ,) (S (PRELS welche) (NP (ART die) (NN Energie) (PP (APPR aus) (ART der) (NN Hydrolyse) (PP (APPR von) (NN ATP)))) (PP (APPR in) (ADJA mechanische) (NN Energie)) (VVFIN umwandeln)))) ($. .)']
+
 ### b3 ID: 2
 Dabei von Proav zu PAV, PP scope angepasst
 ['(S (PAV Dabei) (VVFIN induzieren) (PPER sie) (ART eine) (NN Konformationsänderung)) ($, ,) (S (PRELS die) (ART einen) (NN Transport) (PP (APPR auf) (NP (ART den) ($LRB ") (NN Gleisen))) ($LRB ") (VVFIN ermöglicht)) ($. .)']
@@ -99,19 +113,24 @@ Dabei von Proav zu PAV, PP scope angepasst
 POS okay
 ['(S (NP (ART Die) ($LRB ") (NN Gleise)) ($LRB ") (VMFIN können) (VP (CNP (NN Mikrotubuli) (KON oder) (NN Aktinfilamente)) (VAINF sein))) ($. .)']
 ### b3 ID: 4
-['(S (NP (ADJA Aktinbindende) (NN Motorproteine)) (VAFIN sind) (NP (ART die) (NN Myosine)) ($, ,) (S (PP (APPR von) (PRELS denen)) (PP (APPR in) (NN Eukaryoten)) (NP (CARD siebzehn) (NN Familien)) (VVFIN vorkommen))) ($. .)']
+['(S (NP (ADJA Aktinbindende) (NN Motorproteine)) (VAFIN sind) (NP (ART die) (NN Myosine) ($, ,) (S (PP (APPR von) (PRELS denen)) (PP (APPR in) (NN Eukaryoten)) (NP (CARD siebzehn) (NN Familien)) (VVFIN vorkommen)))) ($. .)']
 ### b3 ID: 5
 Pos okay, baum nicht
-['(S (NP (ART Eine) (ADJA schwere) (NN Kette)) (VAFIN ist) (VP (PP (APPR an) (NP (ART der) (NN Ausbildung)) (CNP (NP (ART einer) (TRUNC Schwanz-)) (KON und) (NP (ART einer) (NN Kopfregion)))) (VVPP beteiligt)) ($, ,) (S (PRELS welche) (NP (ART die) (NN Motordomäne)) (VVFIN bildet))) ($. .)']
+['(S (NP (ART Eine) (ADJA schwere) (NN Kette)) (VAFIN ist) (VP (PP (APPR an) (NP (ART der) (NN Ausbildung)) (CNP (NP (ART einer) (TRUNC Schwanz-)) (KON und) (NP (ART einer) (NN Kopfregion) (VVPP beteiligt) ($, ,) (S (PRELS welche) (NP (ART die) (NN Motordomäne)) (VVFIN bildet))))))) ($. .)']
 ### b3 ID: 6
 POS okay, baum auch
 ### b3 ID: 7
-Pos okay, baum nicht angezeigt
+Pos okay, 
+['(S (PP (APPRART Im) (NN Übergangsbereich) (PP (PP (APPR von) (NN Kopf)) (PP (APPR zu) (NN Schwanz)))) (VMFIN können) (CVP (VP (NP (CAP (ADJA unterschiedliche)  (ADJA leichte)) (NN Ketten)) (VVINF binden)) (KON und) (VP (PP (APPR auf) (PDAT diese) (NN Weise)) (PP (APPR an) (ART der) (NN Regulation) (PP (APPR von) (NN Myosin))) (VVINF mitwirken)))) ($. .)']
+
 ### b3 ID: 8
 Pos okay, 
 ['(CS (S (PP (APPR In) (ART den) (AP (PTKNEG nicht) (ADJA muskulären)) (NN Zellen)) (ADV beispielsweise) (VVFIN registriert) (NP (ART eine) (NN Calmodulinkette)) (NP (ART die) (NN Anwesenheit) (PP (APPR von) (NN Calciumionen)))) (KON und) (S (VVFIN ermöglicht) (NP (ART die) (NN Bindung) (PP (APPR von) (NN Myosin)) (PP (APPR an) (NN Aktin))))) ($. .)']
 ### b3 ID: 9
-POS okay, baum  nicht angezeigt
+POS okay,
+['(S (PP (ADV Je) (APPR nach) (NN Klasse)) (VMFIN kann) (NP (ART der) (NN Schwanz)) (VP (PP (APPR an) (NN Vesikel)) (VVINF anlagern)) ($, ,) (VP (KOUI um) (PPER sie) (PP (APPR entlang) (ART des) (NN Aktinfilaments)) (VZ (PTKZU zu) (VVINF ziehen)))) ($. .)']
+![img_9.png](img_9.png)
+
 ### b3 ID: 10
 PIAt zu PIDAT geändert, baum okay
 ['(S (NP (PIAT Alle) (NN Myosine) (PP (APPR bis) (APPR auf) (NN Myosin) (CARD VI))) (VVFIN bewegen) (PRF sich) (PP (APPRART zum) (NP ($LRB +) (NN Ende)) (NP (ART des) (NN Aktinfilaments)))) ($. .)']
@@ -129,6 +148,8 @@ hier ist **als** doch kein kokom sondern APPR, falsch in stimuli
 ![img_7.png](img_7.png)
 kommt es explletives es 
 ![img_8.png](img_8.png)
+['(CS (S (NP (ART Das) (NN Prinzip)) (VAFIN ist) (ADJD einfach)) ($. :)'(S (PP (APPRART Am) (NN Tag)) (VVFIN speichert) (NP (ART der) (NN Chloroplast)) (NP (ART die) (CAP (ADJA gebildete) (KON und) (ADJA überschüssige)) (NN Glucose) (PP (APPR aus) (ART der) (NN Photosynthese))) (PP (APPR als) (NN Stärke))) ($. ;) (S (PP (APPR in) (ART der) (NN Nacht)) (VVFIN kommt) (PPER es) (PP (APPR zu) (ART einer) (NN Stoffentnahme)) (PP (APPR aus) (PDAT diesem) (NN Speicher)))) ($. .)']
+
 
 ### b4 ID: 5
 ['(S (NP (ART Die) (NN Zelle)) (VMFIN kann) (PP (APPR auf) (PDAT diese) (NN Weise)) (CNP (NN Tag) (KON und) (NN Nacht)) (VP (NP (ART einen) (NN Export)) (VVINF gewährleisten))) ($. .)']
@@ -138,7 +159,7 @@ kommt es explletives es
 hier ist als doch wieder APPR und nicht kokom
  
 ### b4 ID: 7
-['(CS (S (NN Stärke) (VAFIN ist) (NP (ART ein) (ADJA großes) (NN Polymer) (PP (APPR aus) (NN Glucose))))) ($, ,) (S (VVFIN wirkt) (ADV ebenfalls) (PTKNEG nicht) (ADJD reduzierend)) (KON und) (S (VAFIN ist) (VP (PP (ADJD hauptsächlich) (APPR in) (NN Speicherorganen)) (VZ (PTKZU zu) (VVINF finden)))) ($. .)']
+['(CS (S (NN Stärke) (VAFIN ist) (NP (ART ein) (ADJA großes) (NN Polymer) (PP (APPR aus) (NN Glucose)))) ($, ,) (S (VVFIN wirkt) (ADV ebenfalls) (PTKNEG nicht) (ADJD reduzierend)) (KON und) (S (VAFIN ist) (VP (PP (ADJD hauptsächlich) (APPR in) (NN Speicherorganen)) (VZ (PTKZU zu) (VVINF finden))))) ($. .)']
 Baum nicht angezeigt
 hauptsächlich
 

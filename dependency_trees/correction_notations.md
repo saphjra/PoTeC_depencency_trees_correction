@@ -42,15 +42,20 @@ POS okay, baum scheint auch okay
 ### b1 ID: 4
 Pos correct, baum nicht
 PP clause verschoben
+['(CS (S (PP (APPR Bei) (ART der) ($LRB ") (ADJA rekombinatorischen) (NN Reparatur) ($LRB ")) (VVFIN bindet) (NP (ART das) (NN RecA-Protein)) (PP (APPR an) (ART die) (NN Einzelstrang-DNA-Enden) (PP (CAVP (ADV links) (KON und) (ADV rechts)) (NP (ART der) (NN Replikationslücke))))) (KON und) (S (VVFIN sucht) (CNP (NP (ART die) (NN Schwesterchromatide)) (KON oder) (NP (ART das) (ADJA homologe) (NN Chromosom))) (PP (APPR nach) (ADJA homologen) (NN Sequenzen)) (PTKVZ ab))) ($. .)']
+
 ### b1 ID: 5
 POS okay, baum versteckter Konditional satz APV einfügen?
 Und einecoodination von mehreren Sätzen mit Label CS verschoben
 ![img_3.png](img_3.png)
 ![img_4.png](img_4.png)
+['(CS (S (VAFIN Ist) (NP (ART eine) (PIAT solche) (NN Stelle)) (VVPP gefunden)) ($, ,) (CS (S (VVFIN dringt) (NP (ART der) (NN Komplex)) (PP (APPR in) (ART die) (NN Doppelhelix)) (PTKVZ ein)) ($, ,) (S (VVFIN verdrängt) (NP (ART den) (ADJA homologen))) (KON und) (S (VVFIN bindet) (NP (ART den) (ADJA komplementären) (NN Strang))))) ($. .)']
+
 ### b1 ID: 6
 als VOn APPR zu KOKOM, sonst Pos richtig, bau, schient okay
 ### b1 ID: 7
 Pos correct, baum nicht? warum hat es eine PP clause? herausgelöscht
+['(S (NP (ART Der) (ADJA verdrängte) (NN Strang)) (VVFIN paart) (PRF sich) (PP (APPR mit) (ART dem) (NN Strang) ($, ,) (S (PRELS der) (NP (ART den) (NN DNA-Schaden)) (VVFIN aufweist))) ($. .)']
 ### b1 ID: 8
 Pos correct , baum auch
 ### b1 ID: 9
@@ -67,10 +72,13 @@ POS correct baum hat relative satz der falsch scheint
 nich klar wie ich kreuzende kanten einfügen soll, PP durch Np ersetzt und VP untergeordnet
 ![img_5.png](img_5.png)
 ![img_6.png](img_6.png)
+['(S (PPER Es) (VVFIN entsteht) (NP (NP(ART eine) (NN Replikationslücke)) (PP (APPRART im) (NN Tochterstrang)) ($, ,) (S (PRELS die) (VP (NP (AP (ADV über) (CARD 800)) (NN Basen)) (VVINF umfassen)) (VMFIN kann))) ($. .)']
+
 ### b2 ID: 4
 verzweigt von VVPP zu ADJA, obwohl ich eher zu VVPP tendiere. als folge wird die VP als AP annotiert
 ### b2 ID: 5
 POS correct,bei baum zusätzliche CS eingefügt
+['(CS (S (VAFIN Ist) (NP (ART eine) (PIAT solche) (NN Stelle)) (VVPP gefunden)) ($, ,) (CS (S (VVFIN dringt) (NP (ART der) (NN Komplex)) (PP (APPR in) (ART die) (NN Doppelhelix)) (PTKVZ ein)) ($, ,) (S (VVFIN verdrängt) (NP (ART den) (ADJA homologen))) (KON und) (S (VVFIN bindet) (NP (ART den) (ADJA komplementären) (NN Strang))))) ($. .)']
 ### b2 ID: 6
 PO und Baum correct
 ### b2 ID: 7

@@ -229,4 +229,21 @@ pos & Baum correct
 ### p1 ID: 4
 pos & Baum correct
 ### p1 ID: 5
-dessen PRELAt oder PDS
+dessen PRELAt oder PDS -> PRELAT 
+['(S (NP (ART Die) (AP (PROAV dabei) (ADJA erzeugte)) (NN Rückstoßenergie)) (VVFIN fehlt) (NP (ART dem) (ADJA emittierten) (NN Photon))) ($, ,) (S (ADV so) (KOUS dass) (NP (PRELAT dessen) (NN Wellenlänge)) (ADV ebenfalls) (AP (PP (APPR von) (PDS jener) (NP (ART der) (NN Anregung))) (ADJD verschieden)) (VAFIN ist)) ($. .)']
+
+### p1 ID: 6
+pos & Baum nicht angezeigt
+['(NN Atome) ($, ,) (NP (S (PRELS die) (PRF sich) (PP (ADV nur) (APPR in) (PPOSAT ihrem) (NN Impuls)) (VVFIN unterscheiden))) ($, ,) (S (VMFIN können) (ADV also) (CVP (VP (NP (NN Photonen) (PP (APPR mit) (ADJA unterschiedlicher) (NN Frequenz))) (VVINF absorbieren)) (KON bzw.) (VP (VVINF emittieren)))) ($. .)']
+### p1 ID: 7
+CNP gelöscht und CS eingefügt, aber Konditional satz ist noch nicht richtig 
+['(S (VVFIN Befindet) (PRF sich) (NP (ART ein) (NN Atom)) (PP (APPR in) (ART einem) (NN Kristallgitter))) ($, ,) (CS (S (VVFIN überträgt) (PRF sich) (NP (ART der) (NN Rückstoß) (PP (APPR auf) (PDS dieses)) (KON und) (NP (ART die) (NN Energie) (PP (APPR von) (CAP (ADJA absorbiertem) (KON und) (ADJA emittiertem)) (NN Photon)))) (VVINF entsprechen) (NP (PP (APPR in) (ADV etwa)) (ART der) (NN Anregungsenergie)))) ($. .)']
+
+
+## Unterschiede in der Annotation stammen teilweise davon, dass im consticency_tree_file nach TIGER annotiert ist, und diese bei den folgenden TAGS vom STTS abweicht:
+TIGER   STTS    
+PIAT    PIAT/PIDAT
+PROAV   PAV
+
+Es macht meiner Meinung nach keinen Sinn die POS im consticuency tree den STTS tags anzupassen, wenn ihr dem TIGER Schema folgen wollt, 
+Ich würde eher die POS tags col umbenennen im word feature file und dort anpassen, oder eine weitere col einfügen mit den TIGER tags. Oder sonst irgednwie darauf verweisen

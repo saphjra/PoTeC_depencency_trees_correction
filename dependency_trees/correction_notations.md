@@ -5,25 +5,36 @@
 all POS tags are correct
 what about puntctuation 
 Baum is not correct, changend scope of VZ clause
+['(S (VP (KOUI Um) (NP (ART das) (NN Vorhandensein) (NP (ART der) (NN Polymerasekettenreaktion-Produkte))) (VZ (VVINF feststellen) (PTKZU zu) (VMINF können))) ($, ,)  (VVFIN verwendet) (PIS man) (NP (ART die) (NN Gelelektrophorese)) (PP (APPR mit) (ART einer) (ADJA anschließenden) (NN Behandlung) (NP (ART des) (NN Gels)) (PP (APPR durch) (NN Ethidiumbromid)))) ($. .)']
+![img_10.png](img_10.png)
 ### b0 ID: 2
 all POS tags are correct
 baum seems to be correct
 ### b0 ID: 3
 **darin** needs correction to PAV
-was ist mit **geladen**? in  ADJA in ![img.png](img.png) depndency tree VVPP ![img_1.png](img_1.png)
+was ist mit **geladen**? in  ADJA in dependency tree VVPP 
+![img.png](img.png) 
+![img_1.png](img_1.png)
+
 ### b0 ID: 4
 POS sind in ordnung aber baum sieht nicht richtig aus. 
 PP clause verschoben
+['(S (NP (NN Anlegen) (NP (ART eines) (ADJA elektrischen) (NN Feldes))) (VVFIN lässt) (NP (ART die) (NN Polymerasekettenreaktion-Produkte)) (PP (APPR durch) (ART ein) (ADJA gelartiges) (NN Medium) ($, ,)  (NP (ADV zumeist) (NN Agarose))) ($, ,) (VP (VVINF wandern))) ($. .)']
 ### b0 ID: 5
 Pos , baum nicht korrekt
-PP clause verschoben
+PP clause 
+['(S (NP (ART Die) (NN DNA-Fragmente)) (VVFIN wandern) (PP (APPR durch) (ART das) ($LRB ") (NN Agarose-Sieb)) ($LRB ") (PP (PP (APPRART vom) (NN Minuspol)) (PP (APPRART zum) (NN Pluspol)))) ($. .)']
 ### b0 ID: 6
 **daher** PAV statt PROAV
 PP clause verschoben
+['(CS (S (NP (ADJA Kleinere) (NN Fragmente)) (VVFIN wandern) (ADJD schneller) (PP (APPR durch) (ART das) ($LRB ") (NN Agarose-Sieb) ($LRB "))) ($, ,) (S (PROAV daher) (VVFIN befinden) (PPER sie) (PRF sich) (PP (APPR in) (ART der) (NN Nähe) (PP (APPRART zum) (NN Pluspol) (NP (ART des) (NN Gels)))))) ($. .)']
 ### b0 ID: 7
 POS sind in ordnung, Baum nicht
+['(CS (S (NP (ART Die) (ADJA größeren) (NN Fragmente)) (VVFIN wandern) (ADJD langsamer)) (KON und) (S (VVFIN bleiben) (PP (APPR in) (ART der) (NN Nähe) (PP (APPRART zum) (NN Minuspol))))) ($. .)']
 ### b0 ID: 8
-POS sind in ordnung und baum auch
+POS sind in ordnung und baum S clause an den Anfang verschoben 
+['(S (VP (KOUI Um) (NN DNA-Fragmente) (ADJD sichtbar) (VZ (PTKZU zu) (VVINF machen))) ($, ,) (VVFIN behandelt) (PIS man) (NP (ART das) (NN Gel)) (PP (APPR mit) (ART einer) (ADJA wässrigen) (NN Lösung) (PP (APPR von) (NN Ethidiumbromid)))) ($. .)']
+
 ### b0 ID: 9
 correct
 ### b0 ID: 10

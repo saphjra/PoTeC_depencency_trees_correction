@@ -280,9 +280,39 @@ CNP gelöscht und CS eingefügt, aber Konditional satz ist noch nicht richtig
 POS benutz im stimuli falsch, ist ein VVPP kein VVFIN
 ['(S (PDS Dies) (VAFIN wird) (VP (PP (APPR in) (ART der) (NN Mößbauerspektroskopie)) (VVPP benutzt))) ($, ,) (VP (KOUI um) (PP (APPR mit) (NN Hilfe) (NP (ART der) (NN Dopplerverschiebung) (NP (ART der) (NN Emissionslinien)))) (NP (ADV etwa) (NN Hyperfeinstrukturenaufspaltungen)) (PP (APPR in) (ART einer) (NN Probe)) (VZ (PTKZU zu) (VVINF analysieren))) ($. .)']
 
+### p2 ID: 1
 
+['(S (NP (ADJA Photonische) (NN Kristalle)) (VAFIN sind) (NP (AP (ADJD räumlich) (ADJA periodische)) (NN Anordnungen) (PP (APPR von) (ADJA dielektrischen) (NN Medien)) (PP (APPR mit) (CNP (NP (ADJA unterschiedlicher) (NN Dielektrizitätskonstante)) (KON und) (NP (PROAV damit) (ADJA unterschiedlichen) (NN Brechzahlen)))))) ($. .)']
 
+DAmit PROAV PAV ansosnten correct
+### p2 ID: 2
+die PRLES oder ART 
+z.B. NN oder KON (beides nicht richtig?  )
 
+['(S (PIS Man) (VMFIN kann) (VP (PPER sie) (VVINF realisieren)) (PP (APPR durch) (ADJA transparente) (NN Materialien)) ($, ,) (S (PP (APPR in) (PRELS die)) (NP (ADJA periodische) (NN Strukturen) ($LRB -LRB-) (PP (NN z.B.)) (ADJA dielektrische) (CNP (NN Mikrozylinder) (KON oder) (NN Kügelchen)) ($LRB -RRB-) (PP (S (VP (VVPP eingebaut)) (VAFIN sind))))) ($, ,) (S (NP (PRELAT deren) (NN Abstände)) (PP (APPR in) (ART der) (NN Größenordnung) (NP (ART der) (ADJA optischen) (NN Wellenlänge))) (VVFIN liegen))) ($. .)']
+
+### p2 ID: 3
+deshalb PROAV PAV ansonsten baum und POs correct
+
+['(S (PPER Sie) (VVFIN beeinflussen) (PROAV deshalb) (NP (ART die) (NN Ausbreitung) (PP (APPR von) (NN Licht)) (PP (APPR in) (PDAT diesen) (NN Materialien)))) ($. .)']
+
+### p2 ID: 4
+POS okay, Baum bräuchte wieder kreuzende kannten
+['(S (AVP (S (VVFIN Fällt) (NP (ART eine) (NN Lichtwelle)) (PP (APPR auf) (PDAT diese) (NN Struktur))) ($, ,)  (ADV so)) (VAFIN wird) (NP (ART ein) (NN Teil) (NP (ART der) (NN Wellenamplitude))) (VP (PP (APPR an) (ART den) (NN Grenzflächen) (NP (ART der) (ADJA periodischen) (NN Struktur))) (VVPP reflektiert))) ($. .)']
+
+![img_13.png](img_13.png)
+
+### p2 ID: 5
+pi-vielfaches  von PIS zu NN geändert in ct
+deshalb PAV Proav
+['(S (S (VAFIN Ist) (NP (ART die) (NN Periode) (NP (ART der) (NN Struktur))) (NP (ART ein) (NN π-vielfaches) (NP (ART der) (NN Wellenlänge)))) ($, ,) (CS (S (VVFIN überlagern) (PRF sich) (NP (ART die) (ADJA reflektierten) (NN Anteile)) (ADJD phasenrichtig)) (KON und) (S (VVFIN addieren) (PRF sich) (PROAV deshalb)))) ($. .)']
+
+### p2 ID: 6
+POS und BAum correct
+
+### p2 ID: 7
+POS correct
+['(S (S (VAFIN Ist) (NP (ART die) (NN Periode) (NP (ART der) (NN Struktur))) (NP (ART ein) (ADJD ungeradzahlig) (NN π-vielfaches) (NP (ART der) (ADJA halben) (NN Wellenlänge)))) ($, ,) (CS (S (VAFIN sind) (NP (ART die) (NN Phasen) (NP (ART der) (ADJA reflektierten) (NN Wellen))) (VP (ADV gegeneinander) (VVPP verschoben))) (KON und) (S (NP (ART die) (ADJA reflektierten) (NN Anteile)) (VVFIN löschen) (PRF sich) (CAVP (ADV teilweise) (KON oder) (ADV ganz)) (PTKVZ aus)))) ($. .)']
 
 ## Unterschiede in der Annotation stammen teilweise davon, dass im consticency_tree_file nach TIGER annotiert ist, und diese bei den folgenden TAGS vom STTS abweicht:
 TIGER   STTS    

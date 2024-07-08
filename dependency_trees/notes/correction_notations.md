@@ -314,6 +314,24 @@ POS und BAum correct
 POS correct
 ['(S (S (VAFIN Ist) (NP (ART die) (NN Periode) (NP (ART der) (NN Struktur))) (NP (ART ein) (ADJD ungeradzahlig) (NN π-vielfaches) (NP (ART der) (ADJA halben) (NN Wellenlänge)))) ($, ,) (CS (S (VAFIN sind) (NP (ART die) (NN Phasen) (NP (ART der) (ADJA reflektierten) (NN Wellen))) (VP (ADV gegeneinander) (VVPP verschoben))) (KON und) (S (NP (ART die) (ADJA reflektierten) (NN Anteile)) (VVFIN löschen) (PRF sich) (CAVP (ADV teilweise) (KON oder) (ADV ganz)) (PTKVZ aus)))) ($. .)']
 
+### p3 ID: 1
+als KOKOM APPR falsch im Stimuli
+
+['(S (NP (ART Der) (ADJA entscheidende) (NN Durchbruch) (PP (APPRART zur) (NN Aufstellung) (NP (ART eines) (NN Ordnungsschemas)))) (VVFIN gelang) (NP (ART dem) (NN Quarkmodell) ($, ,) (S (PRELS das) (ART die) (NN Vielzahl) (ART der) (AP (ADV bisher) (ADJA gefundenen)) ( PP (APPR als) ($LRB ")  (NN Elementarteilchen) ($LRB ") (NP (S (NP (NP (AP (ADJA angenommenen)) (NN Teilchen)))))) (PP (APPR als) (NN Systeme) (PP (APPR mit) (ADJA innerer) (NN Struktur) (VVFIN ansieht) ($, ,) (PRELS die) (VP (PP (APPR aus) (PIAT wenigen) ($LRB ") (AP (ADV noch) (ADJA elementareren)) ($LRB ") (NN Teilchen)) (VVPP zusammengesetzt)) (VAFIN sind))))))) ($. .)']
+
+bröuchte wieder kreuzende kanten
+
+### p3 ID: 2
+als KOKOm zu APPR
+benachbart zu ADJD
+['(S (AVP (S (VVFIN Trägt) (PIS man) (NP (ART die) (AP (ADV bisher) (ADJA bekannten)) (NN Hadronen)) (PP (APPR in) (ART einem) (NN Diagramm) (PTKVZ ein) ($, ,)  (CS (S (PP (APPR in) (PRELS dem)) (NP (PPOSAT ihre) (NN Masse)) (PP (APPR als) (NN Ordinate))) (KON und) (S (NP (PPOSAT ihr) (NN Spin)) (VP (PP (APPR als) (NN Abszisse)) (VVPP gewählt)) (VAFIN wird)))))) ($, ,) (ADV so) (VVFIN fällt) (PTKVZ auf) ($, ,) (S (KOUS dass) (PPER es) (ADJA bestimmte) (NN Gruppen) (VVFIN gibt)) ($, ,) (NP (CS (S (PP (APPR in) (PRELS denen)) (NP (ART die) (NN Teilchen)) (VP (PP (APPR in) (PDAT diesem) (NN Diagramm)) (ADJD eng) (ADJD benachbart)) (VAFIN sind)))) ($, ,) (S (VVFIN d.h.) (CNP (NP (ADJA gleichen) (NN Spin)) ($, ,) (NP (ADJA gleiche) (NN Parität)) (KON und) (NP (AP (ADV fast) (ADJA gleiche)) (NN Masse))) (VAFIN haben))) ($. .)']
+
+### p3 ID: 3
+wenigen PIAT PIDAT 
+
+['(S (PDS Dies) (VVFIN brachte) (CNP (PN (NE Murray) (NE Gell-Mann)) (KON und) (PN (NE George) (NE Zweig))) (AP (ADJD unabhängig) (ADV voneinander)) (PP (APPR auf) (ART die) (NN Idee) ($, ,) (S (KOUS dass) (NN Hadronen) (VP (VP (PP ((APPR aus) (PIAT wenigen) ($LRB ") (ADJA elementareren) ($LRB ") NN Teilchen)) (VVPP zusammengesetzt)) (VAINF sein)) (VMFIN sollten)))) ($. .)']
+
+
 ## Unterschiede in der Annotation stammen teilweise davon, dass im consticency_tree_file nach TIGER annotiert ist, und diese bei den folgenden TAGS vom STTS abweicht:
 TIGER   STTS    
 PIAT    PIAT/PIDAT

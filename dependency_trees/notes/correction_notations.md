@@ -384,7 +384,17 @@ POS correct
 ### p5 ID: 1
 POS correct
 
-['(CS (S (PP (APPR Durch) (NN Einführen) (NP (ART der) (ADJA effektiven) (NN Masse))) (VMFIN können) (NN Elektronen) (PP (PP (APPRART im) (NN Leitungsband)) (KON und) (NP (NN Löcher) (PP (APPRART im) (NN Valenzband) (NP (ART eines) (NN Kristalles))))) (VP (VP (NP (KOKOM wie) (ADJA freie) (NN Teilchen)) (VVPP aufgefasst)) (VAINF werden))) (KON und) (S (VVFIN bewegen) (PRF sich) (CPP (PP (APPRART am) (NN Energieminimum) (PP (APPRART im) (NN Leitungsband))) (KON und) (PP (APPRART am) (NN Energiemaximum) (PP (APPRART im) (NN Valenzband)))) (PP (APPR auf) (NN Parabeln)))) ($. .)']
+['(CS (S (PP (APPR Durch) (NN Einführen) (NP (ART der) (ADJA effektiven) (NN Masse))) (VMFIN können) (CNP (NP (NN Elektronen) (PP (APPRART im) (NN Leitungsband))) (KON und) (NP (NN Löcher) (PP (APPRART im) (NN Valenzband) (NP (ART eines) (NN Kristalles))))) (VP (VP (NP (KOKOM wie) (ADJA freie) (NN Teilchen)) (VVPP aufgefasst)) (VAINF werden))) (KON und) (S (VVFIN bewegen) (PRF sich) (CPP (PP (APPRART am) (NN Energieminimum) (PP (APPRART im) (NN Leitungsband))) (KON und) (PP (APPRART am) (NN Energiemaximum) (PP (APPRART im) (NN Valenzband)))) (PP (APPR auf) (NN Parabeln))))) ($. .)']
+
+### p5 ID: 2
+
+POS correct
+
+['(S (S (KOUS Da) (NP (ART die) (ADJA effektive) (NN Masse) (PP (APPRART im) (ADJA oberen) (NN Teil) (NP (ART des) (NN Valenzbandes)))) (ADJD negativ) (VAFIN ist)) ($, ,) (VAFIN wird) (NP (ART die) (NN Energieparabel) (NP (ART der) (NN Löcher))) (VP (PP (APPR nach) (ADV unten)) (VVPP gekrümmt))) ($. .)']
+
+
+
+
 
 
 ## Unterschiede in der Annotation stammen teilweise davon, dass im consticency_tree_file nach TIGER annotiert ist, und diese bei den folgenden TAGS vom STTS abweicht:

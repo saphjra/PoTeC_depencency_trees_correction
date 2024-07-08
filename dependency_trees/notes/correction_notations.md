@@ -248,10 +248,10 @@ Baum übersprungen nochmals kontrollieren
 ### p0 ID: 4
 !!!
 Pos correct? wieder ein als das ich als APPR annotieren würde nicht als KOKOM
-['(CS (S (KOUS Da) (PP (APPRART im) (NN Inneren) (NP (ART der) (NN Kammerhälften) (PP (APPR mit) (ADJA metallischen) (NN Wänden)))) (NP (PIAT kein) (ADJA elektrisches) (NN Feld)) (VVFIN existiert)) ($, ,) (S (VVFIN beschreiben) (NP (ART die) (NN Ionen)) (ADV hier) (PP (APPRART im) (NN Magnetfeld)) (NP (ART einen) (NN Halbkreis) (PP (APPR in) (ART der) (NN x-y-Ebene))) ($, ,) (S (NP (PRELAT dessen) (NN Radius)) (CC (VP (PP (APPR durch) (ART die) (AP (PP (APPR als) (NN Zentripetalkraft)) (ADJA wirkende)) (NN Lorentzkraft)) (VVPP festgelegt)) (KON und) (S (NP (PRELAT dessen) (NN Umlaufszeit)) (AP (ADJD unabhängig) (PP (APPRART vom) (NN Radius))) (VAFIN ist))))) ($. .)']
+['(CS (S (KOUS Da) (PP (APPRART im) (NN Inneren) (NP (ART der) (NN Kammerhälften) (PP (APPR mit) (ADJA metallischen) (NN Wänden)))) (NP (PIAT kein) (ADJA elektrisches) (NN Feld)) (VVFIN existiert)) ($, ,) (S (VVFIN beschreiben) (NP (ART die) (NN Ionen)) (ADV hier) (PP (APPRART im) (NN Magnetfeld)) (NP (ART einen) (NN Halbkreis) (PP (APPR in) (ART der) (NN x-y-Ebene))) ($, ,) (S (NP (PRELAT dessen) (NN Radius)) (CC (VP (PP (APPR durch) (ART die) (AP (PP (APPR als) (NN Zentripetalkraft)) (ADJA wirkende)) (NN Lorentzkraft)) (VVPP festgelegt)) (KON und) (S (NP (PRELAT dessen) (NN Umlaufszeit)) (AP (ADJD unabhängig) (PP (APPRART vom) (NN Radius))) (VAFIN ist)))))) ($. .)']
 ### p0 ID: 5
 Pos deshalb PROAV oder PAV
-['(CS (S (VAFIN Wird) (NP (ART die) (NN Hochfrequenz)) (ADV nun) (VP (AVP (ADJD genau) (ADV so)) (VVPP gewählt))) ($, ,) (S (KOUS dass) (NP (ART die) (NN Ionen)) (PP (APPR nach) (NN Durchlaufen) (NP (ART des) (NN Halbkreises))) (PP (ADV immer) (APPR zu) (ART einem) (NN Zeitpunkt) (ADV wieder)) (PP (APPRART am) (NN Spalt) (VVFIN ankommen) ($, ,) (PP (S (PP (APPR bei) (PRELS dem)) (NP (ART die) (ADJA richtige) (NN Polarität) (NP (ART der) (NN Beschleunigungsspannung))) (VVFIN anliegt)))) ($, ,) (CS (S (VVFIN nimmt) (NP (PPOSAT ihre) (ADJA kinetische) (NN Energie)) (PP (APPR bei) (NN Durchlaufen) (NP (ART des) (NN Spaltes))) (PTKVZ zu)) ($, ,) (CS (S (NP (PPOSAT ihre) (NN Geschwindigkeit)) (VVFIN wächst)) (KON und) (NP (PROAV daher) (ADV auch) (ART der) (NN Radius) (NP (ART des) (ADJA nächsten) (NN Halbkreises))))))) ($. .)']
+['(CS (S (VAFIN Wird) (NP (ART die) (NN Hochfrequenz)) (ADV nun) (VP (AVP (ADJD genau) (ADV so)) (VVPP gewählt))) ($, ,) (S (KOUS dass) (NP (ART die) (NN Ionen)) (PP (APPR nach) (NN Durchlaufen) (NP (ART des) (NN Halbkreises))) (PP (ADV immer) (APPR zu) (ART einem) (NN Zeitpunkt) (ADV wieder)) (PP (APPRART am) (NN Spalt) (VVFIN ankommen) ($, ,) (S (PP (APPR bei) (PRELS dem)) (NP (ART die) (ADJA richtige) (NN Polarität) (NP (ART der) (NN Beschleunigungsspannung))) (VVFIN anliegt))) ($, ,) (CS (S (VVFIN nimmt) (NP (PPOSAT ihre) (ADJA kinetische) (NN Energie)) (PP (APPR bei) (NN Durchlaufen) (NP (ART des) (NN Spaltes))) (PTKVZ zu)) ($, ,) (CS (S (NP (PPOSAT ihre) (NN Geschwindigkeit)) (VVFIN wächst)) (KON und) (NP (PROAV daher) (ADV auch) (ART der) (NN Radius) (NP (ART des) (ADJA nächsten) (NN Halbkreises))))))) ($. .)']
 ### p0 ID: 6
 deshalb RROAV PAV
 ['(CS (S (NP (ART Die) (NN Ionen)) (VVFIN durchlaufen) (PROAV deshalb) (NP (ART eine) (ADJA spiralartige) (NN Bahn) ($, ,) (S (PRELS die) (PP (APPR aus) (PIAT lauter) (NN Halbkreisen)) (PP (APPR mit) (ADJA wachsenden) (NN Radien)) (VVFIN besteht)))) ($, ,) (CS (S (KOUS bis) (PPER sie) (VP (NP (ART den) (NN Rand) (NP (ART des) (NN Magnetfeldes))) (VVPP erreicht)) (VAFIN haben)) (KON und) (S (VP (VP (ADV dort) (PP (APPR durch) (ART ein) (ADJA elektrisches) (NN Ablenkfeld)) (VVPP extrahiert)) (VAINF werden)) (VMFIN können)))) ($. .)']
@@ -270,11 +270,18 @@ dessen PRELAt oder PDS -> PRELAT
 ['(S (NP (ART Die) (AP (PROAV dabei) (ADJA erzeugte)) (NN Rückstoßenergie)) (VVFIN fehlt) (NP (ART dem) (ADJA emittierten) (NN Photon))) ($, ,) (S (ADV so) (KOUS dass) (NP (PRELAT dessen) (NN Wellenlänge)) (ADV ebenfalls) (AP (PP (APPR von) (PDS jener) (NP (ART der) (NN Anregung))) (ADJD verschieden)) (VAFIN ist)) ($. .)']
 
 ### p1 ID: 6
-pos & Baum nicht angezeigt
-['(NN Atome) ($, ,) (NP (S (PRELS die) (PRF sich) (PP (ADV nur) (APPR in) (PPOSAT ihrem) (NN Impuls)) (VVFIN unterscheiden))) ($, ,) (S (VMFIN können) (ADV also) (CVP (VP (NP (NN Photonen) (PP (APPR mit) (ADJA unterschiedlicher) (NN Frequenz))) (VVINF absorbieren)) (KON bzw.) (VP (VVINF emittieren)))) ($. .)']
+pos correct
+['(NP (NN Atome) ($, ,) (S (PRELS die) (PRF sich) (PP (ADV nur) (APPR in) (PPOSAT ihrem) (NN Impuls)) (VVFIN unterscheiden))) ($, ,) (S (VMFIN können) (ADV also) (CVP (VP (NP (NN Photonen) (PP (APPR mit) (ADJA unterschiedlicher) (NN Frequenz))) (VVINF absorbieren)) (KON bzw.) (VP (VVINF emittieren)))) ($. .)']
 ### p1 ID: 7
 CNP gelöscht und CS eingefügt, aber Konditional satz ist noch nicht richtig 
-['(S (VVFIN Befindet) (PRF sich) (NP (ART ein) (NN Atom)) (PP (APPR in) (ART einem) (NN Kristallgitter))) ($, ,) (CS (S (VVFIN überträgt) (PRF sich) (NP (ART der) (NN Rückstoß) (PP (APPR auf) (PDS dieses)) (KON und) (NP (ART die) (NN Energie) (PP (APPR von) (CAP (ADJA absorbiertem) (KON und) (ADJA emittiertem)) (NN Photon)))) (VVINF entsprechen) (NP (PP (APPR in) (ADV etwa)) (ART der) (NN Anregungsenergie)))) ($. .)']
+['(CS (S (VVFIN Befindet) (PRF sich) (NP (ART ein) (NN Atom)) (PP (APPR in) (ART einem) (NN Kristallgitter))) ($, ,) (CS (S (VVFIN überträgt) (PRF sich) (ART der) (NN Rückstoß) (PP (APPR auf) (PDS dieses))) (KON und) (S (NP (ART die) (NN Energie) (PP (APPR von) (CAP (ADJA absorbiertem) (KON und) (ADJA emittiertem)) (NN Photon))) (VVINF entsprechen) (NP (PP (APPR in) (ADV etwa)) (ART der) (NN Anregungsenergie))))) ($. .)']
+
+### p1 ID: 8
+POS benutz im stimuli falsch, ist ein VVPP kein VVFIN
+['(S (PDS Dies) (VAFIN wird) (VP (PP (APPR in) (ART der) (NN Mößbauerspektroskopie)) (VVPP benutzt))) ($, ,) (VP (KOUI um) (PP (APPR mit) (NN Hilfe) (NP (ART der) (NN Dopplerverschiebung) (NP (ART der) (NN Emissionslinien)))) (NP (ADV etwa) (NN Hyperfeinstrukturenaufspaltungen)) (PP (APPR in) (ART einer) (NN Probe)) (VZ (PTKZU zu) (VVINF analysieren))) ($. .)']
+
+
+
 
 
 ## Unterschiede in der Annotation stammen teilweise davon, dass im consticency_tree_file nach TIGER annotiert ist, und diese bei den folgenden TAGS vom STTS abweicht:

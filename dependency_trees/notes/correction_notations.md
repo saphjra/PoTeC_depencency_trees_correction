@@ -393,7 +393,30 @@ POS correct
 ['(S (S (KOUS Da) (NP (ART die) (ADJA effektive) (NN Masse) (PP (APPRART im) (ADJA oberen) (NN Teil) (NP (ART des) (NN Valenzbandes)))) (ADJD negativ) (VAFIN ist)) ($, ,) (VAFIN wird) (NP (ART die) (NN Energieparabel) (NP (ART der) (NN Löcher))) (VP (PP (APPR nach) (ADV unten)) (VVPP gekrümmt))) ($. .)']
 
 
+### p5 ID: 3
+POS Daraus PROAV
+Baum sieht gut aus
 
+### p5 ID: 4
+POS correct
+wieder komischer satz scheint aber richtig zu sein :
+![img_16.png](img_16.png)
+Baum sieht richtig aus 
+
+### p5 ID: 5
+solchen PIAT PIDAT
+dabei PROAV PAV
+['(S (S (KOUS Weil) (NP (ART der) (NN Wellenvektor) (NP (ART des) (NN Photons))) (AP (ADV sehr) (ADJD klein)) (VAFIN ist)) ($, ,) (VAFIN wird) (NP (ART die) (NN Wahrscheinlichkeit) (PP (APPR für) (ART einen) (PIAT solchen) (NN Übergang))) (AP (ADV viel) (ADJD größer)) ($, ,) (S (KOUS wenn) (NP (ART der) (NN Wellenvektor) (NP (ART des) (NN Elektrons))) (VP (PROAV dabei) (VVPP erhalten)) (VVFIN bleibt)) ($, ,) (S (KOKOM als) (KOUS wenn) (PP (APPR wegen) (ART der) (NN Impulserhaltung) (PP (APPRART beim) (NN Übergang))) (ADJD zusätzlich) (NP (ART ein) (NN Phonon)) (VP (VP (VVPP angeregt)) (VAINF werden)) (VMFIN muss))) ($. .)']
+
+### p5 ID: 6
+POS correct
+['(S (AVP (S (VVFIN Liegt) (NP (ART das) (NN Minimum) (NP (ART der) (NN Elektronenparabel))) (PP (APPRART im) (NN Valenzband)) (PP (ADJD senkrecht) (APPR über) (ART dem) (NN Maximum) (NP (ART der) (NN Löcherparabel))))) ($, ,)  (ADV so) (VAFIN sind) (NP (ADJA senkrechte) (NN Übergänge)) (PP (ADV bereits) (APPR ab) (NN Photonenenergien) (PP (APPR in) (ART der) (NN Größe) (NP (ART der) (NN Bandlücke)))) (ADJD möglich)) ($. .)']
+
+### p5 ID 7
+Pos correct
+['(CS (S (AVP (S (VAFIN Sind) (NP (ART die) (NN Extrema)) (VP (ADV gegeneinander) (VVPP verschoben))) ($, ,) (ADV so)) (VAFIN sind) (NP (ADJA direkte) (NN Übergänge)) (PP (ADV nur) (APPR bei) (ADJA höheren) (NN Photonenenergien)) (ADJD möglich)) (KON und) (S (NP (ADJA indirekte) (NN Übergänge) (PP (APPR mit) (AP (ADJD wesentlich) (ADJA kleinerer)) (NN Absorptionswahrscheinlichkeit))) (VAFIN sind) (NP (ART die) (ADJA einzige) (NN Möglichkeit) (PP (APPR für) (NN Photonenabsorption))))) ($. .)']
+
+überkreuzende kanten
 
 
 

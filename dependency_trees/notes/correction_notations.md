@@ -196,11 +196,12 @@ hauptsächlich wieder einmal ADJD vs ADV
 ['(CS (S (PPER Sie) (VAFIN ist) (NP (ART ein) (ADJA lineares) (NN Polymer) (PP (APPR aus) (NN β-D-Glucose)))) (KON und) (S (VVFIN liegt) (AP (ADJD hauptsächlich) (ADJD extrazellulär)) (PTKVZ vor))) ($. .)']
 
 ### b4 ID: 10
-POs , baum angepasst
+POs , baum angepasst wieder Relativesätze die nicht verschachtelt geklammert werden können
 ['(CS (S (NP (PDAT Dieses) (NN Molekül)) (VAFIN wird) (VP (APPR durch) (ADJA membranständige) (NN Cellulose-Synthasekomplexe) (VVPP synthetisiert))) ($, ,) (CS (S (PRELS die) (PP (APPR in) (ART der) (NN Membran)) (VVFIN zirkulieren)) (KON und) (CS (S (PP (APPR in) (ADJA gewisser) (NN Weise)) (ART die) (NN Cellulose-Mikrofibrillen) ($LRB ") (VVFIN weben) ($LRB ")) ($, ,) (S (PRELS die) (NP (ART die) (ADJA extrazelluläre) (NN Matrix) (NP (ART der) (NN Pflanzenzellen))) (VVFIN ausmachen))))) ($. .)']
 ### b5 ID: 1
 Pos correct
-['(S (NP (ART Ein) (NN Prion)) (VAFIN ist) (NP (ART ein) (ADJA infektiöses) (NN Protein))) ($, ,) (S (PRELS das) (PP (APPR von) (ART einem) (CAP (ADJA endogenen) ($, ,) (ADJA zellulären)) (NN Protein)) (VVFIN abstammt)) (KON und) (S (NP (PRELAT dessen) (NN Primärstruktur)) (VVFIN besitzt)))) ($, ,) (S (PRF sich) (ADV aber) (PP (APPR in) (CNP (TRUNC Sekundär-))) ($, ,) (S (TRUNC Tertiär-) (KON und) (NN Quartärstrukturen) (PP (APPR von) (PDS diesem)) (VVFIN unterscheidet))) ($. .)']
+!!
+['(S (NP (ART Ein) (NN Prion)) (VAFIN ist) (NP (ART ein) (ADJA infektiöses) (NN Protein) ($, ,) (S (PRELS das) (PP (APPR von) (ART einem) (CAP (ADJA endogenen) ($, ,) (ADJA zellulären)) (NN Protein)) (VVFIN abstammt)) (KON und) (S (NP (PRELAT dessen) (NN Primärstruktur)) (VVFIN besitzt))) ($, ,) (S (PRF sich) (ADV aber) (PP (APPR in) (CNP (TRUNC Sekundär-))) ($, ,) (S (TRUNC Tertiär-) (KON und) (NN Quartärstrukturen) (PP (APPR von) (PDS diesem)) (VVFIN unterscheidet)))) ($. .)']
 ### b5 ID: 2
 pos correct
 ['(S (NP (PPOSAT Seine) (ADJA strukturellen) (NN Eigenschaften)) (VVFIN verleihen) (NP (ART dem) (NN Prion)) (NP (ART die) (NN Fähigkeit))) ($, ,) (VP (PRF sich) (PP (APPR durch) (NN Autokatalyse)) (PP (APPR von) (ART einem) (NN Wildtypprotein)) (PP (APPRART zum) (NN Prionenprotein)) (VVIZU umzuwandeln)) ($. .)']
@@ -211,8 +212,14 @@ pos correct
 ### b5 ID: 4
 pos correct, baum auch 
 ### b5 ID: 5
-pos correct, 
-['(CS (S (NP (ART Der) (NN Begriff) (NN Amyloid)) (VAFIN ist) (VP (ADJD allgemein) (VVPP gehalten))) (KON und) (CS (S (VVFIN umfasst) (NN Proteinaggregate)) ($, ,) (S (PRELS die) (VP (PP (APPR auf) (ART eine) (ADJA besondere) (ADJA physikalisch-chemische) (NN Weise)) (VVPP angeordnet)) (VAFIN sind))) ($. :) (S (NP (ART eine) (NN Fadenform)) ($, ,) (CS (S (PP (APPR in) (PRELS der)) (PP (APPRART zum) (NN Großteil)) (NN β-Faltblattstrukturen) (VP (VZ (PTKZU zu) (VVINF finden))) (VAFIN sind)) (KON und) (S (PP (APPR in) (PRELS der)) (NP (ART eine) (NN Doppelbrechung) (PP (APPR von) (ADJA polarisiertem) (NN Licht))) (PP (APPR nach) (NN Färbung)) (PP (APPR mit) (NN Kongorot)) (VVFIN auftritt))))) ($. .)']
+pos correct, Bin das nur ich oder macht dieser Satz gar kein Sinn? die Relativsätze bezeichnen alle Eigenschaften die **Proteinaggregate** haben müssen um ein Amyloid zu sein, oder? Aber dann sollten alle RS verben im plural sein  
+Wikipedia: ![img_12.png](img_12.png) 
+Aber dan müsste der Satz doch folgendermassen heisen: 
+
+Der Begriff Amyloid ist allgemein gehalten und umfasst Proteinaggregate, die auf eine besondere physikalisch-chemische Weise angeordnet sind, in der ** oder in denen**? (bezieht sich das auf Weise oder Proteinaggregate?) eine Fadenform **mit** zum Großteil β-Faltblattstrukturen zu finden sind und in der (oder in ** welchen** ?) eine Doppelbrechung von polarisiertem Licht nach Färbung mit Kongorot auftritt.
+!!!
+
+['(CS (S (NP (ART Der) (NN Begriff) (NN Amyloid)) (VAFIN ist) (VP (ADJD allgemein) (VVPP gehalten))) (KON und) (CS (S (VVFIN umfasst) (NP (NN Proteinaggregate) ($, ,) (S (PRELS die) (VP (PP (APPR auf) (ART eine) (ADJA besondere) (ADJA physikalisch-chemische) (NN Weise)) (VVPP angeordnet)) (VAFIN sind))))) ($. :) (S (NP (ART eine) (NN Fadenform)) ($, ,) (CS (S (PP (APPR in) (PRELS der)) (PP (APPRART zum) (NN Großteil)) (NN β-Faltblattstrukturen) (VP (VZ (PTKZU zu) (VVINF finden))) (VAFIN sind)) (KON und) (S (PP (APPR in) (PRELS der)) (NP (ART eine) (NN Doppelbrechung) (PP (APPR von) (ADJA polarisiertem) (NN Licht))) (PP (APPR nach) (NN Färbung)) (PP (APPR mit) (NN Kongorot)) (VVFIN auftritt))))) ($. .)']
 ### b5 ID: 6
 pos correct
 ['(CS (S (NP (ART Das) (NN Prion)) (VVFIN bringt) (NP (PIAT keine) (ADJA genetische) (NN Veränderung)) (PP (APPR mit) (PRF sich))) ($, ,) (KON denn) (S (NP (ART das) (ADJA verantwortliche) (NN Gen)) (VVFIN führt) (ADV weiterhin) (PP (APPRART zur) (NN Expression) (PP (APPR von) (NN Proteinen) (PP (APPR mit) (ADJA normaler) (NN Primärstruktur)))))) ($. .)']
@@ -225,19 +232,23 @@ pos correct
 
 
 ### p0 ID: 1
+!!!
 Pos correct
-['(S (NP (ART Ein) (NN Zyklotron)) (VVFIN besteht) (PP (APPR aus) (ART einer) (CAP (ADJA flachen) ($, ,) (ADJA zylindrischen)) (NN Vakuumkammer)) (PP (APPR zwischen) (ART den) (NN Polen) (NP (ART eines) (NN Elektromagneten) ($, ,) (S (PRELS der) (NP (ART ein) (NN Feld) (PP (APPR in) (NN z-Richtung))) (VVFIN erzeugt)))) ($. .)']
+['(S (NP (ART Ein) (NN Zyklotron)) (VVFIN besteht) (PP (APPR aus) (ART einer) (CAP (ADJA flachen) ($, ,) (ADJA zylindrischen)) (NN Vakuumkammer)) (PP (APPR zwischen) (ART den) (NN Polen) (NP (ART eines) (NN Elektromagneten) ($, ,) (S (PRELS der) (NP (ART ein) (NN Feld) (PP (APPR in) (NN z-Richtung))) (VVFIN erzeugt))))) ($. .)']
 ### p0 ID: 2
+!!!
 Pos correct
-['(S (NP (ART Die) (NN Kammer)) (VAFIN ist) (VP (PP (APPR in) (CARD zwei) (ADJA D-förmige) (NN Hälften) (VVPP aufgeteilt) ($, ,) (S (PP (APPR zwischen) (PRELS denen)) (NP (ART eine) (NN Hochfrequenzspannung)) (VVFIN anliegt)))) ($. .)']
+['(S (NP (ART Die) (NN Kammer)) (VAFIN ist) (VP (PP (APPR in) (CARD zwei) (ADJA D-förmige) (NN Hälften) (VVPP aufgeteilt) ($, ,) (S (PP (APPR zwischen) (PRELS denen)) (NP (ART eine) (NN Hochfrequenzspannung)) (VVFIN anliegt))))) ($. .)']
 ### p0 ID: 3
+!!!
 Zu von PRKZU zu APZR geändert
 ['(S (NP (ART Die) (AP (APPR von) (ART der) (NN Ionenquelle) (PP (APPRART im) (NN Spalt) (PP (APPR zwischen) (ART den) (NN Kammern))) (PP (APPRART im) (NN Zentrum) (NP (ART der) (NN Anordnung))) (ADJA emittierten)) (ADJA positiven) (NN Ionen)) (VAFIN werden) (VP (PP (APPR auf) (ART die) (ADJA negative) (NN Kammerhälfte)) (VZ (APZR zu) (VVINF beschleunigt)))) ($. .)']
 Baum übersprungen nochmals kontrollieren
 
 ### p0 ID: 4
+!!!
 Pos correct? wieder ein als das ich als APPR annotieren würde nicht als KOKOM
-['(CS (S (KOUS Da) (PP (APPRART im) (NN Inneren) (NP (ART der) (NN Kammerhälften) (PP (APPR mit) (ADJA metallischen) (NN Wänden)))) (NP (PIAT kein) (ADJA elektrisches) (NN Feld)) (VVFIN existiert)) ($, ,) (S (VVFIN beschreiben) (NP (ART die) (NN Ionen)) (ADV hier) (PP (APPRART im) (NN Magnetfeld)) (NP (ART einen) (NN Halbkreis) (PP (APPR in) (ART der) (NN x-y-Ebene))) ($, ,) (S (NP (PRELAT dessen) (NN Radius)) (CC (VP (PP (APPR durch) (ART die) (AP (PP (APPR als) (NN Zentripetalkraft)) (ADJA wirkende)) (NN Lorentzkraft)) (VVPP festgelegt)) (KON und) (S (NP (PRELAT dessen) (NN Umlaufszeit)) (AP (ADJD unabhängig) (PP (APPRART vom) (NN Radius))) (VAFIN ist)))) ($. .)']
+['(CS (S (KOUS Da) (PP (APPRART im) (NN Inneren) (NP (ART der) (NN Kammerhälften) (PP (APPR mit) (ADJA metallischen) (NN Wänden)))) (NP (PIAT kein) (ADJA elektrisches) (NN Feld)) (VVFIN existiert)) ($, ,) (S (VVFIN beschreiben) (NP (ART die) (NN Ionen)) (ADV hier) (PP (APPRART im) (NN Magnetfeld)) (NP (ART einen) (NN Halbkreis) (PP (APPR in) (ART der) (NN x-y-Ebene))) ($, ,) (S (NP (PRELAT dessen) (NN Radius)) (CC (VP (PP (APPR durch) (ART die) (AP (PP (APPR als) (NN Zentripetalkraft)) (ADJA wirkende)) (NN Lorentzkraft)) (VVPP festgelegt)) (KON und) (S (NP (PRELAT dessen) (NN Umlaufszeit)) (AP (ADJD unabhängig) (PP (APPRART vom) (NN Radius))) (VAFIN ist))))) ($. .)']
 ### p0 ID: 5
 Pos deshalb PROAV oder PAV
 ['(CS (S (VAFIN Wird) (NP (ART die) (NN Hochfrequenz)) (ADV nun) (VP (AVP (ADJD genau) (ADV so)) (VVPP gewählt))) ($, ,) (S (KOUS dass) (NP (ART die) (NN Ionen)) (PP (APPR nach) (NN Durchlaufen) (NP (ART des) (NN Halbkreises))) (PP (ADV immer) (APPR zu) (ART einem) (NN Zeitpunkt) (ADV wieder)) (PP (APPRART am) (NN Spalt) (VVFIN ankommen) ($, ,) (PP (S (PP (APPR bei) (PRELS dem)) (NP (ART die) (ADJA richtige) (NN Polarität) (NP (ART der) (NN Beschleunigungsspannung))) (VVFIN anliegt)))) ($, ,) (CS (S (VVFIN nimmt) (NP (PPOSAT ihre) (ADJA kinetische) (NN Energie)) (PP (APPR bei) (NN Durchlaufen) (NP (ART des) (NN Spaltes))) (PTKVZ zu)) ($, ,) (CS (S (NP (PPOSAT ihre) (NN Geschwindigkeit)) (VVFIN wächst)) (KON und) (NP (PROAV daher) (ADV auch) (ART der) (NN Radius) (NP (ART des) (ADJA nächsten) (NN Halbkreises))))))) ($. .)']

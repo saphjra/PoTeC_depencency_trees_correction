@@ -331,6 +331,28 @@ wenigen PIAT PIDAT
 
 ['(S (PDS Dies) (VVFIN brachte) (CNP (PN (NE Murray) (NE Gell-Mann)) (KON und) (PN (NE George) (NE Zweig))) (AP (ADJD unabhängig) (ADV voneinander)) (PP (APPR auf) (ART die) (NN Idee) ($, ,) (S (KOUS dass) (NN Hadronen) (VP (VP (PP ((APPR aus) (PIAT wenigen) ($LRB ") (ADJA elementareren) ($LRB ") NN Teilchen)) (VVPP zusammengesetzt)) (VAINF sein)) (VMFIN sollten)))) ($. .)']
 
+### p3 ID: 4
+als KOKOM APPr
+['(S (NP (PDAT Diese) (NN Idee)) (VAFIN wurde) (VP (VVPP unterstützt) (PP (APPR durch) (ART das) (ADJA anomale) (ADJA magnetische) (NN Moment) (NP (ART des) (NN Neutrons) ($, ,)  (S (PRELS das) (PP (APPR als) (ADJA neutrales) (NN Teilchen)) (ADV eigentlich) (VP (NP (PIAT kein) (ADJA magnetisches) (NN Moment)) (VAINF haben)) (VMFIN sollte)))) ($, ,) (S (APPR außer) (KOUS wenn) (PPER es) (VP (APPR aus) (ADJA geladenen) (NN Teilchen) (VVPP zusammengesetzt)) (VAFIN ist)) ($, ,) (PP (S (NP (PRELAT deren) (NN Ladungen)) (PRF sich) (PP (APPR zu) (CARD null)) (VVFIN kompensieren))) ($. .)']
+
+wieder kreuzende kanten
+
+### p3 ID: 5
+Ausserdem PAV PROAV
+beide viele PIAT PIDAT
+
+['(S (PROAV Außerdem) (VAFIN wurde) (VP (PP (APPR bei) (ART der) (NN Streuung) (PP (APPR von) (ADJA hochenergetischen) (CNP (NN Elektronen) (KON und) (NN Protonen))) (PP (APPR an) (CNP (NN Protonen) (KON und) (NN Neutronen)))) (VVPP gefunden)) ($, ,) (S (KOUS dass) (NP (PIAT beide) (NN Nukleonen)) (NP (PIAT viele) (NN Anregungszustände)) (VAFIN haben))) ($. .)']
+
+Sehr komischer Satz
+Ausserdem wurde bei der Streuung von hochenergetischen Elektronen und Protonen an Protonen und Neutronen beobachtet? herausgefunden? gefunden, dass beide Nukleonen viele Anregungszustände haben.
+
+### p3 ID: 6 & 7 sätze gesplittet
+deshalb PAV PROAV
+['(CS (S (PPER Sie) (VMFIN können) (PROAV deshalb) (PIAT keine) ($LRB ") (ADJA elementaren) ($LRB ") (VP (NP (NN Teilchen)) (VAINF sein))) ($, ,) (KON sondern) (S (VMFIN müssen) (VP (PP (APPR aus) ($LRB ") (AP (ADJD wirklich) (ADJA elementaren)) ($LRB ") (NN Teilchen) (VVINF bestehen))))) ($. .)']
+
+### p4 ID: 1
+
+['(S (NP (ART Das) (NN Ziel) (NP (ART der) (ADJA holografischen) (NN Interferometrie))) (VAFIN ist) (NP (PPER es))) ($, ,) (NP (NN Veränderungen) (PP (APPR an) (NN Objekten)) (PP (APPR durch) (CNP (NN Belastungen)))) ($, ,) (NP (ADJA thermische) (NN Ausdehnung)) ($, ,) (VP (NN Schwingungen) (ADV usw.) (CAP (ADJD qualitativ) (KON und) (ADJD quantitativ)) (VZ (PTKZU zu) (VVINF erfassen))) ($. .)']
 
 ## Unterschiede in der Annotation stammen teilweise davon, dass im consticency_tree_file nach TIGER annotiert ist, und diese bei den folgenden TAGS vom STTS abweicht:
 TIGER   STTS    

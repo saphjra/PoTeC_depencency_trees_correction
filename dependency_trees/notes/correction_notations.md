@@ -352,7 +352,40 @@ deshalb PAV PROAV
 
 ### p4 ID: 1
 
-['(S (NP (ART Das) (NN Ziel) (NP (ART der) (ADJA holografischen) (NN Interferometrie))) (VAFIN ist) (NP (PPER es))) ($, ,) (NP (NN Veränderungen) (PP (APPR an) (NN Objekten)) (PP (APPR durch) (CNP (NN Belastungen)))) ($, ,) (NP (ADJA thermische) (NN Ausdehnung)) ($, ,) (VP (NN Schwingungen) (ADV usw.) (CAP (ADJD qualitativ) (KON und) (ADJD quantitativ)) (VZ (PTKZU zu) (VVINF erfassen))) ($. .)']
+['(S (NP (ART Das) (NN Ziel) (NP (ART der) (ADJA holografischen) (NN Interferometrie))) (VAFIN ist) (NP (PPER es) ($, ,) (NP (NN Veränderungen) (PP (APPR an) (NN Objekten)) (PP (APPR durch) (CNP (NN Belastungen) ($, ,)  (NP (ADJA thermische) (NN Ausdehnung)) ($, ,)  (NN Schwingungen) (ADV usw.))) (VP (CAP (ADJD qualitativ) (KON und) (ADJD quantitativ)) (VZ (PTKZU zu) (VVINF erfassen)))))) ($. .)']
+![img_14.png](img_14.png)
+![img_15.png](img_15.png)
+
+### p4 ID: 2
+POS correct
+['(S (PP (APPRART Beim) (NN Echtzeitverfahren) (NP (ART der) (ADJA holografischen) (NN Interferometrie))) (VAFIN wird) (PP (APPR von) (ART einem) (NN Objekt)) (PP (APPR in) (NN Ruhe)) (NP (ART ein) (NN Hologramm)) (VP (VVPP aufgenommen))) ($. .)']
+
+### p4 ID: 3
+POS correct
+['(S (NP (ART Die) (NN Hologrammplatte)) (VAFIN wird) (ADV dann) ($, ,) (VP (KOUI ohne) (PPER sie) (VZ (PTKZU zu) (VVINF bewegen))) ($, ,) (CVP (VP (PP (APPRART am) (ADJA festen) (NN Ort) (NP (ART der) (NN Aufnahme))) (VVPP entwickelt)) (KON und) (VP (PP (APPR mit) (ART der) (NN Referenzwelle)) (VVPP beleuchtet)) ($, ,) (S (KOUS sodass) (NP (ART ein) (NN Hologrammbild)) (VVPP erzeugt) (VAFIN wird)))) ($. .)']
+
+### p4 ID: 4
+POS correct
+wieder kreuzende kanten
+
+['(S (CS (AVP (S (S (VVFIN Nimmt) (PIS man) (PP (APPRART am) (NN Objekt)) (NP (AP (ADV nur) (ADV sehr) (ADJA kleine)) (NN Änderungen)) (PTKVZ vor)) (KON und) (S (VVFIN beleuchtet) (PPER es) (PP (APPRART am) (ADJA gleichen) (NN Ort)) ( PP (ADV wieder) (ADJD genau) (PP (KOKOM wie) (APPR bei) (ART der) (ADJA ersten) (NN Aufnahme))))))) ($, ,) (S (ADV so) (VAFIN werden) (PRF sich) (NP (PDAT diese) (NN Änderungen)) (VP (PP (APPR in) (NN Phasenverschiebungen) (NP (ART der) (NN Signalwelle))) (VVINF äußern)))) ($. .)']
+
+### p4  ID: 5   
+POS correct
+
+['(S (NP (ART Die) (NN Überlagerung) (NP (PDAT dieser) (NN Signalwelle)) (PP (APPRART vom) (ADJA veränderten) (NN Objekt)) (PP (APPR mit) (ART der) (NN Rekonstruktionswelle) (PP (APPRART vom) (NN Hologramm) (NP (ART des) (ADJA unveränderten) (NN Objektes))))) (VVFIN führt) ( PP (APPR zu) (NN Interferenzstrukturen)) (PP (APPRART im) (ADJA holografischen) (NN Bild) ($, ,)  (S (PRELS die) (ADV nur) (PP (APPR für) (PDAT diejenigen) (NN Teile) (NP (ART des) (NN Objektes)) (VVFIN auftreten) ($, ,)  (S (PRELS die) (VP (PRF sich) (VVPP verändert)) (VAFIN haben)))))) ($. .)']
+
+
+### p4 ID: 6
+POS correct
+
+['(S (PP (APPR Auf) (PDAT diese) (NN Weise)) (VMFIN kann) (PIS man) (VP (NP (NN Gestaltsänderungen) (VVINF feststellen) ($, ,)  (S (PRELS die) (AP (ADJD wesentlich) (ADJD kleiner) (NP (KOKOM als) (ART eine) (NN Wellenlänge) (NP (ART des) (ADJA beleuchtenden) (NN Lichtes)))) (VAFIN sind))))) ($. .)']
+
+### p5 ID: 1
+POS correct
+
+['(CS (S (PP (APPR Durch) (NN Einführen) (NP (ART der) (ADJA effektiven) (NN Masse))) (VMFIN können) (NN Elektronen) (PP (PP (APPRART im) (NN Leitungsband)) (KON und) (NP (NN Löcher) (PP (APPRART im) (NN Valenzband) (NP (ART eines) (NN Kristalles))))) (VP (VP (NP (KOKOM wie) (ADJA freie) (NN Teilchen)) (VVPP aufgefasst)) (VAINF werden))) (KON und) (S (VVFIN bewegen) (PRF sich) (CPP (PP (APPRART am) (NN Energieminimum) (PP (APPRART im) (NN Leitungsband))) (KON und) (PP (APPRART am) (NN Energiemaximum) (PP (APPRART im) (NN Valenzband)))) (PP (APPR auf) (NN Parabeln)))) ($. .)']
+
 
 ## Unterschiede in der Annotation stammen teilweise davon, dass im consticency_tree_file nach TIGER annotiert ist, und diese bei den folgenden TAGS vom STTS abweicht:
 TIGER   STTS    

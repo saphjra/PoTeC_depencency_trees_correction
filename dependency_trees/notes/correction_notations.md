@@ -221,6 +221,7 @@ pos correct
 ### b5 ID: 4
 pos correct, baum auch 
 ### b5 ID: 5
+!!!
 pos correct, Bin das nur ich oder macht dieser Satz gar kein Sinn? die Relativsätze bezeichnen alle Eigenschaften die **Proteinaggregate** haben müssen um ein Amyloid zu sein, oder? Aber dann sollten alle RS verben im plural sein  
 Wikipedia: ![img_12.png](img_12.png) 
 Aber dan müsste der Satz doch folgendermassen heisen: 
@@ -249,7 +250,7 @@ Pos correct
 Pos correct
 ['(S (NP (ART Die) (NN Kammer)) (VAFIN ist) (VP (PP (APPR in) (CARD zwei) (ADJA D-förmige) (NN Hälften) (VVPP aufgeteilt) ($, ,) (S (PP (APPR zwischen) (PRELS denen)) (NP (ART eine) (NN Hochfrequenzspannung)) (VVFIN anliegt))))) ($. .)']
 ### p0 ID: 3
-!!!
+
 Zu von PRKZU zu APZR geändert
 ['(S (NP (ART Die) (AP (APPR von) (ART der) (NN Ionenquelle) (PP (APPRART im) (NN Spalt) (PP (APPR zwischen) (ART den) (NN Kammern))) (PP (APPRART im) (NN Zentrum) (NP (ART der) (NN Anordnung))) (ADJA emittierten)) (ADJA positiven) (NN Ionen)) (VAFIN werden) (VP (PP (APPR auf) (ART die) (ADJA negative) (NN Kammerhälfte)) (VZ (APZR zu) (VVINF beschleunigt)))) ($. .)']
 Baum übersprungen nochmals kontrollieren
@@ -259,6 +260,7 @@ Baum übersprungen nochmals kontrollieren
 Pos correct? wieder ein als das ich als APPR annotieren würde nicht als KOKOM
 ['(CS (S (KOUS Da) (PP (APPRART im) (NN Inneren) (NP (ART der) (NN Kammerhälften) (PP (APPR mit) (ADJA metallischen) (NN Wänden)))) (NP (PIAT kein) (ADJA elektrisches) (NN Feld)) (VVFIN existiert)) ($, ,) (S (VVFIN beschreiben) (NP (ART die) (NN Ionen)) (ADV hier) (PP (APPRART im) (NN Magnetfeld)) (NP (ART einen) (NN Halbkreis) (PP (APPR in) (ART der) (NN x-y-Ebene))) ($, ,) (S (NP (PRELAT dessen) (NN Radius)) (CC (VP (PP (APPR durch) (ART die) (AP (PP (APPR als) (NN Zentripetalkraft)) (ADJA wirkende)) (NN Lorentzkraft)) (VVPP festgelegt)) (KON und) (S (NP (PRELAT dessen) (NN Umlaufszeit)) (AP (ADJD unabhängig) (PP (APPRART vom) (NN Radius))) (VAFIN ist)))))) ($. .)']
 ### p0 ID: 5
+!!!
 Pos deshalb PROAV oder PAV
 ['(CS (S (VAFIN Wird) (NP (ART die) (NN Hochfrequenz)) (ADV nun) (VP (AVP (ADJD genau) (ADV so)) (VVPP gewählt))) ($, ,) (S (KOUS dass) (NP (ART die) (NN Ionen)) (PP (APPR nach) (NN Durchlaufen) (NP (ART des) (NN Halbkreises))) (PP (ADV immer) (APPR zu) (ART einem) (NN Zeitpunkt) (ADV wieder)) (PP (APPRART am) (NN Spalt) (VVFIN ankommen) ($, ,) (S (PP (APPR bei) (PRELS dem)) (NP (ART die) (ADJA richtige) (NN Polarität) (NP (ART der) (NN Beschleunigungsspannung))) (VVFIN anliegt))) ($, ,) (CS (S (VVFIN nimmt) (NP (PPOSAT ihre) (ADJA kinetische) (NN Energie)) (PP (APPR bei) (NN Durchlaufen) (NP (ART des) (NN Spaltes))) (PTKVZ zu)) ($, ,) (CS (S (NP (PPOSAT ihre) (NN Geschwindigkeit)) (VVFIN wächst)) (KON und) (NP (PROAV daher) (ADV auch) (ART der) (NN Radius) (NP (ART des) (ADJA nächsten) (NN Halbkreises))))))) ($. .)']
 ### p0 ID: 6

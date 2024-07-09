@@ -44,7 +44,7 @@ Baum scheint korrekt
 ### b1 ID: 1
 RecA Pos NE zu NN, baum correct
 ### b1 ID: 2
-!!!
+
 POS okay
 Satz hat spezielle Kond struktur, 
 AVP einfügen? 
@@ -61,7 +61,7 @@ PP clause verschoben
 ['(CS (S (PP (APPR Bei) (ART der) ($LRB ") (ADJA rekombinatorischen) (NN Reparatur) ($LRB ")) (VVFIN bindet) (NP (ART das) (NN RecA-Protein)) (PP (APPR an) (ART die) (NN Einzelstrang-DNA-Enden) (PP (CAVP (ADV links) (KON und) (ADV rechts)) (NP (ART der) (NN Replikationslücke))))) (KON und) (S (VVFIN sucht) (CNP (NP (ART die) (NN Schwesterchromatide)) (KON oder) (NP (ART das) (ADJA homologe) (NN Chromosom))) (PP (APPR nach) (ADJA homologen) (NN Sequenzen)) (PTKVZ ab))) ($. .)']
 
 ### b1 ID: 5
-!!!
+
 POS okay, baum versteckter Konditional satz APV einfügen?
 Und einecoodination von mehreren Sätzen mit Label CS verschoben
 ![img_3.png](img_3.png)
@@ -71,7 +71,7 @@ Und einecoodination von mehreren Sätzen mit Label CS verschoben
 ### b1 ID: 6
 als VOn APPR zu KOKOM? , sonst Pos richtig, Baum scheinnt okay
 ### b1 ID: 7
-!!!
+
 Pos correct, baum nicht? warum hat es eine PP clause? herausgelöscht
 ['(S (NP (ART Der) (ADJA verdrängte) (NN Strang)) (VVFIN paart) (PRF sich) (PP (APPR mit) (ART dem) (NN Strang) ($, ,) (S (PRELS der) (NP (ART den) (NN DNA-Schaden)) (VVFIN aufweist)))) ($. .)']
 ### b1 ID: 8
@@ -92,7 +92,7 @@ POS correct
 
 ['(CS (S (NN Böden) (VAFIN sind) (ADJD heterogen)) (KON und) (S (VVFIN weisen) (NN Unterschiede) (PP (APPR auf) (ADJA kleinem) (NN Raum)) (PTKVZ auf))) ($. .)']
 ### b2 ID: 3
-!!!
+
 POS correct baum hat relative satz der falsch scheint
 nicht klar wie ich kreuzende kanten einfügen soll, PP durch Np ersetzt und VP untergeordnet
 ![img_5.png](img_5.png)

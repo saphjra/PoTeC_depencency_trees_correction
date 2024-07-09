@@ -281,15 +281,18 @@ dessen PRELAt oder PDS -> PRELAT
 ['(S (NP (ART Die) (AP (PROAV dabei) (ADJA erzeugte)) (NN Rückstoßenergie)) (VVFIN fehlt) (NP (ART dem) (ADJA emittierten) (NN Photon))) ($, ,) (S (ADV so) (KOUS dass) (NP (PRELAT dessen) (NN Wellenlänge)) (ADV ebenfalls) (AP (PP (APPR von) (PDS jener) (NP (ART der) (NN Anregung))) (ADJD verschieden)) (VAFIN ist)) ($. .)']
 
 ### p1 ID: 6
+!!!
 pos correct
-['(NP (NN Atome) ($, ,) (S (PRELS die) (PRF sich) (PP (ADV nur) (APPR in) (PPOSAT ihrem) (NN Impuls)) (VVFIN unterscheiden))) ($, ,) (S (VMFIN können) (ADV also) (CVP (VP (NP (NN Photonen) (PP (APPR mit) (ADJA unterschiedlicher) (NN Frequenz))) (VVINF absorbieren)) (KON bzw.) (VP (VVINF emittieren)))) ($. .)']
+['(S (NP (NN Atome) ($, ,) (S (PRELS die) (PRF sich) (PP (ADV nur) (APPR in) (PPOSAT ihrem) (NN Impuls)) (VVFIN unterscheiden))) ($, ,) (VMFIN können) (ADV also) (CVP (VP (NP (NN Photonen) (PP (APPR mit) (ADJA unterschiedlicher) (NN Frequenz))) (VVINF absorbieren)) (KON bzw.) (VP (VVINF emittieren)))) ($. .)']
 ### p1 ID: 7
-CNP gelöscht und CS eingefügt, aber Konditional satz ist noch nicht richtig 
-['(CS (S (VVFIN Befindet) (PRF sich) (NP (ART ein) (NN Atom)) (PP (APPR in) (ART einem) (NN Kristallgitter))) ($, ,) (CS (S (VVFIN überträgt) (PRF sich) (ART der) (NN Rückstoß) (PP (APPR auf) (PDS dieses))) (KON und) (S (NP (ART die) (NN Energie) (PP (APPR von) (CAP (ADJA absorbiertem) (KON und) (ADJA emittiertem)) (NN Photon))) (VVINF entsprechen) (NP (PP (APPR in) (ADV etwa)) (ART der) (NN Anregungsenergie))))) ($. .)']
+!!!
+CNP gelöscht und CS eingefügt, aber Konditional satz ist noch nicht richtig, müsste das verb nicht zu dem enstrpicht statt entsprechen sein ?
+['(CS (CS (S (S (VVFIN Befindet) (PRF sich) (NP (ART ein) (NN Atom)) (PP (APPR in) (ART einem) (NN Kristallgitter))) ($, ,)  (VVFIN überträgt) (PRF sich) (ART der) (NN Rückstoß) (PP (APPR auf) (PDS dieses))) (KON und) (S (NP (ART die) (NN Energie) (PP (APPR von) (CAP (ADJA absorbiertem) (KON und) (ADJA emittiertem)) (NN Photon))) (VVFIN entsprechen) (NP (PP (APPR in) (ADV etwa)) (ART der) (NN Anregungsenergie))))) ($. .)']
 
 ### p1 ID: 8
+!!!
 POS benutz im stimuli falsch, ist ein VVPP kein VVFIN
-['(S (PDS Dies) (VAFIN wird) (VP (PP (APPR in) (ART der) (NN Mößbauerspektroskopie)) (VVPP benutzt))) ($, ,) (VP (KOUI um) (PP (APPR mit) (NN Hilfe) (NP (ART der) (NN Dopplerverschiebung) (NP (ART der) (NN Emissionslinien)))) (NP (ADV etwa) (NN Hyperfeinstrukturenaufspaltungen)) (PP (APPR in) (ART einer) (NN Probe)) (VZ (PTKZU zu) (VVINF analysieren))) ($. .)']
+['(S (PDS Dies) (VAFIN wird) (VP (PP (APPR in) (ART der) (NN Mößbauerspektroskopie)) (VVPP benutzt)) ($, ,) (VP (KOUI um) (PP (APPR mit) (NN Hilfe) (NP (ART der) (NN Dopplerverschiebung) (NP (ART der) (NN Emissionslinien)))) (NP (ADV etwa) (NN Hyperfeinstrukturenaufspaltungen)) (PP (APPR in) (ART einer) (NN Probe)) (VZ (PTKZU zu) (VVINF analysieren)))) ($. .)']
 
 ### p2 ID: 1
 
@@ -297,6 +300,7 @@ POS benutz im stimuli falsch, ist ein VVPP kein VVFIN
 
 DAmit PROAV PAV ansosnten correct
 ### p2 ID: 2
+!!!
 die PRLES oder ART 
 z.B. NN oder KON (beides nicht richtig?  )
 
@@ -308,6 +312,7 @@ deshalb PROAV PAV ansonsten baum und POs correct
 ['(S (PPER Sie) (VVFIN beeinflussen) (PROAV deshalb) (NP (ART die) (NN Ausbreitung) (PP (APPR von) (NN Licht)) (PP (APPR in) (PDAT diesen) (NN Materialien)))) ($. .)']
 
 ### p2 ID: 4
+!!!
 POS okay, Baum bräuchte wieder kreuzende kannten
 ['(S (AVP (S (VVFIN Fällt) (NP (ART eine) (NN Lichtwelle)) (PP (APPR auf) (PDAT diese) (NN Struktur))) ($, ,)  (ADV so)) (VAFIN wird) (NP (ART ein) (NN Teil) (NP (ART der) (NN Wellenamplitude))) (VP (PP (APPR an) (ART den) (NN Grenzflächen) (NP (ART der) (ADJA periodischen) (NN Struktur))) (VVPP reflektiert))) ($. .)']
 

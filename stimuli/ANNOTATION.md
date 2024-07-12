@@ -31,7 +31,7 @@ _follow_ the current word. If there is no punctuation mark after the word, the t
 * **Sentence beginning**: If the word is the first word of a sentence.
 * **Word/Char indices in sentence/text**: Several types of positional information on the words and characters in the text or sentences was added as tags. 
 
-### Dependency Trees
+### Constituency Trees
 In addition to the word tags, we provide dependency trees for all of the texts. The trees were created using the tool 
 [benepar](https://pypi.org/project/benepar/). The trees are provided as a list of tuples, where the tuples contain the word, PoS-tag and are nested according
 to the sentence structure. Small manual corrections were made to adjust the trees for the same sentence splits as in the

@@ -192,7 +192,7 @@ extrahiert	extrahiern	VERB	VVPP	oc	werden	AUX	[dort, durch]	6	p0	6
 werden	werden	AUX	VAINF	oc	können	AUX	[extrahiert]	6	p0	6
 können	können	AUX	VMFIN	cj	und	CCONJ	[werden]	6	p0	6
 .	--	PUNCT	$.	punct	durchlaufen	VERB	[]	6	p0	6
-Um	um	SCONJ	KOUI	cp	können	AUX	[]	0	b0	1
+   	um	SCONJ	KOUI	cp	können	AUX	[]	0	b0	1
 das	der	DET	ART	nk	Vorhandensein	NOUN	[]	0	b0	1
 Vorhandensein	Vorhandensein	NOUN	NN	oa	feststellen	VERB	[das, Polymerasekettenreaktion-Produkte]	0	b0	1
 der	der	DET	ART	nk	Polymerasekettenreaktion-Produkte	NOUN	[]	0	b0	1

@@ -16,7 +16,7 @@ def create_syntax_trees(path=None):
     nlp = spacy.load('de_core_news_sm')
     nlp.add_pipe("benepar", config={"model": "benepar_de2"})
 
-    stimuli_file = Path(f'{path}/dependency_trees_manually_corrected.tsv')
+    stimuli_file = Path(f'{path}/dependency_trees.tsv')
 
     stimuli = pd.read_csv(stimuli_file, sep='\t', keep_default_na=False,
                           na_values=['#N/A', '#N/A N/A', '#NA', '-1.#IND', '-1.#QNAN', '-NaN', '-nan',
@@ -128,8 +128,7 @@ def _create_constituency_trees(sentence: spacy.tokens.span.Span) -> tuple[Any, l
 
 def main() -> int:
     path = '/home/popos/PycharmProjects/PoTeC_depencency_trees_correction/stimuli'
-    display_syntax_trees(path=path)
-
+    create_syntax_trees(path=path)
     return 0
 
 

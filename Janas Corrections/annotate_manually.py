@@ -122,7 +122,7 @@ def parse_args():
     parser.add_argument(
         '--file_path',
         type=str,
-        default='constituency_trees.tsv',
+        default='uncorrected_constituency_trees.tsv',
         help='Path to the file containing the samples'
     )
 
@@ -171,7 +171,7 @@ def clean_df(file_path):
 if __name__ == "__main__":
     args = parse_args()
     sentence_Id = 0
-    file_path = 'constituency_trees_1.tsv'
+    file_path = 'constituency_trees_manually_corrected.tsv'
     #file_path = args.file_path
     root = tk.Tk()
 

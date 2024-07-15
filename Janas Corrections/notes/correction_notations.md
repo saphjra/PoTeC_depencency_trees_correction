@@ -3,6 +3,7 @@
 # Dependency Trees
 
 Differences between uncorrected_dependency_trees.tsv and manually_corrected_dependency_trees.tsv before correction
+out of the box due to different source files fed to the dependency parser
 
 Text_id_num     text id      sent_index in text
 11              p5           5,6
@@ -13,6 +14,113 @@ Text_id_num     text id      sent_index in text
 3               b3           1,8
 2               b2           1,5
 1               b1           2
+
+## Biology senetences
+### b0 ID: 1
+
+### b0 ID: 2
+
+### b0 ID: 3
+
+### b0 ID: 4
+
+### b0 ID: 5
+
+### b0 ID: 6
+
+### b0 ID: 7
+
+### b0 ID: 8
+
+### b0 ID: 9
+
+### b0 ID: 10
+
+### b1 ID: 1
+
+### b1 ID: 2
+
+### b1 ID: 3
+
+### b1 ID: 4
+
+### b1 ID: 5
+
+### b1 ID: 6
+
+### b1 ID: 7
+
+### b1 ID: 8
+
+### b1 ID: 9
+
+### b1 ID: 10
+
+### b2 ID: 1
+
+### b2 ID: 2
+
+### b2 ID: 3
+
+### b2 ID: 4
+
+### b2 ID: 5
+
+### b2 ID: 6
+
+### b2 ID: 7
+
+### b2 ID: 8
+
+### b2 ID: 9
+
+### b2 ID: 10
+
+### b3 ID: 1
+
+### b3 ID: 2
+
+### b3 ID: 3
+
+### b3 ID: 4
+
+### b3 ID: 5
+
+### b3 ID: 6
+
+### b3 ID: 7
+
+### b3 ID: 8
+
+### b3 ID: 9
+
+### b3 ID: 10
+
+### b3 ID: 11
+
+### b3 ID: 12
+
+### b4 ID: 1
+
+### b4 ID: 2
+
+### b4 ID: 3
+
+### b4 ID: 4
+
+### b4 ID: 5
+
+### b4 ID: 6
+
+### b4 ID: 7
+
+### b4 ID: 8
+
+### b4 ID: 9
+
+### b4 ID: 10
+
+
 
 # Consticuency Trees
 

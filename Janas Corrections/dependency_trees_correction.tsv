@@ -192,7 +192,7 @@ extrahiert	extrahiern	VERB	VVPP	oc	werden	AUX	[dort, durch]	6	p0	6
 werden	werden	AUX	VAINF	oc	können	AUX	[extrahiert]	6	p0	6
 können	können	AUX	VMFIN	cj	und	CCONJ	[werden]	6	p0	6
 .	--	PUNCT	$.	punct	durchlaufen	VERB	[]	6	p0	6
-   	um	SCONJ	KOUI	cp	können	AUX	[]	0	b0	1
+Um	um	SCONJ	KOUI	cp	können	AUX	[]	0	b0	1
 das	der	DET	ART	nk	Vorhandensein	NOUN	[]	0	b0	1
 Vorhandensein	Vorhandensein	NOUN	NN	oa	feststellen	VERB	[das, Polymerasekettenreaktion-Produkte]	0	b0	1
 der	der	DET	ART	nk	Polymerasekettenreaktion-Produkte	NOUN	[]	0	b0	1
@@ -1635,146 +1635,146 @@ von	von	ADP	APPR	mnr	Quartärstrukturen	NOUN	[diesem]	5	b5	1
 diesem	dieser	PRON	PDS	nk	von	ADP	[]	5	b5	1
 unterscheidet	unterscheiden	VERB	VVFIN	cj	besitzt	VERB	[sich, aber, in]	5	b5	1
 .	--	PUNCT	$.	punct	ist	AUX	[]	5	b5	1
-Seine	sein	DET	PPOSAT	nk	Eigenschaften	NOUN	[]	5	b5	2
-strukturellen	strukturell	ADJ	ADJA	nk	Eigenschaften	NOUN	[]	5	b5	2
-Eigenschaften	Eigenschaft	NOUN	NN	sb	verleihen	VERB	[Seine, strukturellen]	5	b5	2
-verleihen	verleihen	VERB	VVFIN	ROOT	verleihen	VERB	[Eigenschaften, Prion, Fähigkeit, .]	5	b5	2
-dem	der	DET	ART	nk	Prion	NOUN	[]	5	b5	2
-Prion	Prion	NOUN	NN	da	verleihen	VERB	[dem]	5	b5	2
-die	der	DET	ART	nk	Fähigkeit	NOUN	[]	5	b5	2
-Fähigkeit	Fähigkeit	NOUN	NN	oa	verleihen	VERB	[die, ,, umzuwandeln]	5	b5	2
-,	--	PUNCT	$,	punct	Fähigkeit	NOUN	[]	5	b5	2
-sich	sich	PRON	PRF	oa	umzuwandeln	VERB	[]	5	b5	2
-durch	durch	ADP	APPR	mo	umzuwandeln	VERB	[Autokatalyse]	5	b5	2
-Autokatalyse	Autokatalyse	NOUN	NN	nk	durch	ADP	[]	5	b5	2
-von	von	ADP	APPR	mo	umzuwandeln	VERB	[Wildtypprotein]	5	b5	2
-einem	ein	DET	ART	nk	Wildtypprotein	NOUN	[]	5	b5	2
-Wildtypprotein	Wildtypprotein	NOUN	NN	nk	von	ADP	[einem]	5	b5	2
-zum	zu	ADP	APPRART	mo	umzuwandeln	VERB	[Prionenprotein]	5	b5	2
-Prionenprotein	Prionenprotein	NOUN	NN	nk	zum	ADP	[]	5	b5	2
-umzuwandeln	umwandeln	VERB	VVIZU	oc	Fähigkeit	NOUN	[sich, durch, von, zum]	5	b5	2
-.	--	PUNCT	$.	punct	verleihen	VERB	[]	5	b5	2
-Dieses	dieser	DET	PDAT	nk	Ereignis	NOUN	[]	5	b5	3
-Ereignis	Ereignis	NOUN	NN	sb	kann	AUX	[Dieses]	5	b5	3
-kann	können	AUX	VMFIN	ROOT	kann	AUX	[Ereignis, erfolgen, .]	5	b5	3
-spontan	spontan	ADV	ADJD	mo	erfolgen	VERB	[oder]	5	b5	3
-oder	oder	CCONJ	KON	cd	spontan	ADV	[durch]	5	b5	3
-durch	durch	ADP	APPR	cj	oder	CCONJ	[Aufnahme]	5	b5	3
-die	der	DET	ART	nk	Aufnahme	NOUN	[]	5	b5	3
-Aufnahme	Aufnahme	NOUN	NN	nk	durch	ADP	[die, Prions]	5	b5	3
-eines	ein	DET	ART	nk	Prions	NOUN	[]	5	b5	3
-anderen	anderer	ADJ	ADJA	nk	Prions	NOUN	[]	5	b5	3
-Prions	Prion	NOUN	NN	ag	Aufnahme	NOUN	[eines, anderen]	5	b5	3
-erfolgen	erfolgen	VERB	VVINF	oc	kann	AUX	[spontan]	5	b5	3
-.	--	PUNCT	$.	punct	kann	AUX	[]	5	b5	3
-Die	der	DET	ART	nk	Ausbildung	NOUN	[]	5	b5	4
-Ausbildung	Ausbildung	NOUN	NN	sb	sind	AUX	[Die, Fasern, und]	5	b5	4
-amyloider	amyloid	ADJ	ADJA	nk	Fasern	NOUN	[]	5	b5	4
-Fasern	Faser	NOUN	NN	ag	Ausbildung	NOUN	[amyloider]	5	b5	4
-und	und	CCONJ	KON	cd	Ausbildung	NOUN	[]	5	b5	4
-der	der	DET	ART	nk	Charakter	NOUN	[]	5	b5	4
-infektiöse	infektiös	ADJ	ADJA	nk	Charakter	NOUN	[]	5	b5	4
-Charakter	Charakter	NOUN	NN	sb	sind	AUX	[der, infektiöse]	5	b5	4
-sind	sein	AUX	VAFIN	ROOT	sind	AUX	[Ausbildung, Charakter, verknüpft, .]	5	b5	4
-eng	eng	ADV	ADJD	mo	verknüpft	VERB	[]	5	b5	4
-miteinander	miteinander	ADV	ADV	mo	verknüpft	VERB	[]	5	b5	4
-verknüpft	verknüpfen	VERB	VVPP	pd	sind	AUX	[eng, miteinander]	5	b5	4
-.	--	PUNCT	$.	punct	sind	AUX	[]	5	b5	4
-Der	der	DET	ART	nk	Begriff	NOUN	[]	5	b5	5
-Begriff	Begriff	NOUN	NN	sb	ist	AUX	[Der, Amyloid, Fadenform]	5	b5	5
-Amyloid	Amyloid	PROPN	NN	nk	Begriff	NOUN	[]	5	b5	5
-ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Begriff, gehalten, :, .]	5	b5	5
-allgemein	allgemein	ADV	ADJD	mo	gehalten	VERB	[]	5	b5	5
-gehalten	halten	VERB	VVPP	oc	ist	AUX	[allgemein, und]	5	b5	5
-und	und	CCONJ	KON	cd	gehalten	VERB	[umfasst]	5	b5	5
-umfasst	umfasst	VERB	VVFIN	cj	und	CCONJ	[Proteinaggregate]	5	b5	5
-Proteinaggregate	Proteinaggregat	PROPN	NN	oa	umfasst	VERB	[,, sind]	5	b5	5
-,	--	PUNCT	$,	punct	Proteinaggregate	PROPN	[]	5	b5	5
-die	der	PRON	PRELS	sb	sind	AUX	[]	5	b5	5
-auf	auf	ADP	APPR	mo	angeordnet	VERB	[Weise]	5	b5	5
-eine	ein	DET	ART	nk	Weise	NOUN	[]	5	b5	5
-besondere	besonderer	ADJ	ADJA	nk	Weise	NOUN	[]	5	b5	5
-physikalisch-chemische	physikalisch-chemisch	ADJ	ADJA	nk	Weise	NOUN	[]	5	b5	5
-Weise	Weise	NOUN	NN	nk	auf	ADP	[eine, besondere, physikalisch-chemische]	5	b5	5
-angeordnet	anordnen	VERB	VVPP	oc	sind	AUX	[auf]	5	b5	5
-sind	sein	AUX	VAFIN	rc	Proteinaggregate	PROPN	[die, angeordnet]	5	b5	5
-:	--	PUNCT	$.	punct	ist	AUX	[]	5	b5	5
-eine	ein	DET	ART	nk	Fadenform	NOUN	[]	5	b5	5
-Fadenform	Fadenform	NOUN	NN	app	Begriff	NOUN	[eine, ,, sind]	5	b5	5
-,	--	PUNCT	$,	punct	Fadenform	NOUN	[]	5	b5	5
-in	in	ADP	APPR	mo	finden	VERB	[der]	5	b5	5
-der	der	PRON	PRELS	nk	in	ADP	[]	5	b5	5
-zum	zu	ADP	APPRART	mo	β-Faltblattstrukturen	VERB	[Großteil]	5	b5	5
-Großteil	Großteil	NOUN	NN	nk	zum	ADP	[]	5	b5	5
-β-Faltblattstrukturen	β-Faltblattstrukturen	VERB	NN	oc	finden	VERB	[zum]	5	b5	5
-zu	zu	PART	PTKZU	pm	finden	VERB	[]	5	b5	5
-finden	finden	VERB	VVINF	oc	sind	AUX	[in, β-Faltblattstrukturen, zu]	5	b5	5
-sind	sein	AUX	VAFIN	rc	Fadenform	NOUN	[finden, und]	5	b5	5
-und	und	CCONJ	KON	cd	sind	AUX	[auftritt]	5	b5	5
-in	in	ADP	APPR	mo	auftritt	VERB	[der]	5	b5	5
-der	der	DET	PRELS	nk	in	ADP	[]	5	b5	5
-eine	ein	DET	ART	nk	Doppelbrechung	NOUN	[]	5	b5	5
-Doppelbrechung	Doppelbrechung	NOUN	NN	oa	auftritt	VERB	[eine, von, nach]	5	b5	5
-von	von	ADP	APPR	pg	Doppelbrechung	NOUN	[Licht]	5	b5	5
-polarisiertem	polarisiert	ADJ	ADJA	nk	Licht	NOUN	[]	5	b5	5
-Licht	Licht	NOUN	NN	nk	von	ADP	[polarisiertem]	5	b5	5
-nach	nach	ADP	APPR	mnr	Doppelbrechung	NOUN	[Färbung]	5	b5	5
-Färbung	Färbung	NOUN	NN	nk	nach	ADP	[mit]	5	b5	5
-mit	mit	ADP	APPR	mnr	Färbung	NOUN	[Kongorot]	5	b5	5
-Kongorot	Kongorot	NOUN	NN	nk	mit	ADP	[]	5	b5	5
-auftritt	auftreten	VERB	VVFIN	cj	und	CCONJ	[in, Doppelbrechung]	5	b5	5
-.	--	PUNCT	$.	punct	ist	AUX	[]	5	b5	5
-Das	der	DET	ART	nk	Prion	NOUN	[]	5	b5	6
-Prion	Prion	NOUN	NN	sb	bringt	VERB	[Das]	5	b5	6
-bringt	bringen	VERB	VVFIN	ROOT	bringt	VERB	[Prion, Veränderung, mit, ,, denn, .]	5	b5	6
-keine	kein	DET	PIAT	nk	Veränderung	NOUN	[]	5	b5	6
-genetische	genetisch	ADJ	ADJA	nk	Veränderung	NOUN	[]	5	b5	6
-Veränderung	Veränderung	NOUN	NN	oa	bringt	VERB	[keine, genetische]	5	b5	6
-mit	mit	ADP	APPR	mo	bringt	VERB	[sich]	5	b5	6
-sich	sich	PRON	PRF	nk	mit	ADP	[]	5	b5	6
-,	--	PUNCT	$,	punct	bringt	VERB	[]	5	b5	6
-denn	denn	CCONJ	KON	cd	bringt	VERB	[führt]	5	b5	6
-das	der	DET	ART	nk	Gen	NOUN	[]	5	b5	6
-verantwortliche	verantwortlich	ADJ	ADJA	nk	Gen	NOUN	[]	5	b5	6
-Gen	Gen	NOUN	NN	sb	führt	VERB	[das, verantwortliche]	5	b5	6
-führt	führen	VERB	VVFIN	cj	denn	CCONJ	[Gen, weiterhin, zur]	5	b5	6
-weiterhin	weiterhin	ADV	ADV	mo	führt	VERB	[]	5	b5	6
-zur	zu	ADP	APPRART	mo	führt	VERB	[Expression]	5	b5	6
-Expression	Expression	NOUN	NN	nk	zur	ADP	[von]	5	b5	6
-von	von	ADP	APPR	pg	Expression	NOUN	[Proteinen]	5	b5	6
-Proteinen	Protein	NOUN	NN	nk	von	ADP	[mit]	5	b5	6
-mit	mit	ADP	APPR	mnr	Proteinen	NOUN	[Primärstruktur]	5	b5	6
-normaler	normal	ADJ	ADJA	nk	Primärstruktur	NOUN	[]	5	b5	6
-Primärstruktur	Primärstruktur	NOUN	NN	nk	mit	ADP	[normaler]	5	b5	6
-.	--	PUNCT	$.	punct	bringt	VERB	[]	5	b5	6
-Die	der	DET	ART	nk	Prionenform	NOUN	[]	5	b5	7
-Prionenform	Prionenform	NOUN	NN	sb	vermehrt	VERB	[Die]	5	b5	7
-vermehrt	vermehren	VERB	VVFIN	ROOT	vermehrt	VERB	[Prionenform, sich, somit, über, .]	5	b5	7
-sich	sich	PRON	PRF	oa	vermehrt	VERB	[]	5	b5	7
-somit	somit	ADV	ADV	mo	vermehrt	VERB	[]	5	b5	7
-über	über	ADP	APPR	op	vermehrt	VERB	[Umwandlung]	5	b5	7
-die	der	DET	ART	nk	Umwandlung	NOUN	[]	5	b5	7
-Umwandlung	Umwandlung	NOUN	NN	nk	über	ADP	[die, vom, zum]	5	b5	7
-vom	von	ADP	APPRART	op	Umwandlung	NOUN	[Wildtypprotein]	5	b5	7
-Wildtypprotein	Wildtypprotein	NOUN	NN	nk	vom	ADP	[]	5	b5	7
-zum	zu	ADP	APPRART	mnr	Umwandlung	NOUN	[Typ]	5	b5	7
-amyloiden	amyloid	ADJ	ADJA	nk	Typ	NOUN	[]	5	b5	7
-Typ	Typ	NOUN	NN	nk	zum	ADP	[amyloiden]	5	b5	7
-.	--	PUNCT	$.	punct	vermehrt	VERB	[]	5	b5	7
-Eine	ein	DET	ART	nk	Deletion	NOUN	[]	5	b5	8
-Deletion	Deletion	NOUN	NN	sb	würde	AUX	[Eine, Gens]	5	b5	8
-des	der	DET	ART	nk	Gens	NOUN	[]	5	b5	8
-codierenden	codierend	ADJ	ADJA	nk	Gens	NOUN	[]	5	b5	8
-Gens	Gen	NOUN	NN	ag	Deletion	NOUN	[des, codierenden, Proteins]	5	b5	8
-des	der	DET	ART	nk	Proteins	NOUN	[]	5	b5	8
-zellulären	zellulärer	ADJ	ADJA	nk	Proteins	NOUN	[]	5	b5	8
-Proteins	Protein	NOUN	NN	ag	Gens	NOUN	[des, zellulären]	5	b5	8
-würde	werden	AUX	VAFIN	ROOT	würde	AUX	[Deletion, somit, verhindern, .]	5	b5	8
-somit	somit	ADV	ADV	mo	würde	AUX	[]	5	b5	8
-eine	ein	DET	ART	nk	Prioneninfektion	NOUN	[]	5	b5	8
-Prioneninfektion	Prioneninfektion	NOUN	NN	oa	verhindern	VERB	[eine]	5	b5	8
-verhindern	verhindern	VERB	VVINF	oc	würde	AUX	[Prioneninfektion]	5	b5	8
-.	--	PUNCT	$.	punct	würde	AUX	[]	5	b5	8
+Seine	sein	DET	PPOSAT	nk	Eigenschaften	NOUN	[]	5	b5	1
+strukturellen	strukturell	ADJ	ADJA	nk	Eigenschaften	NOUN	[]	5	b5	1
+Eigenschaften	Eigenschaft	NOUN	NN	sb	verleihen	VERB	[Seine, strukturellen]	5	b5	1
+verleihen	verleihen	VERB	VVFIN	ROOT	verleihen	VERB	[Eigenschaften, Prion, Fähigkeit, .]	5	b5	1
+dem	der	DET	ART	nk	Prion	NOUN	[]	5	b5	1
+Prion	Prion	NOUN	NN	da	verleihen	VERB	[dem]	5	b5	1
+die	der	DET	ART	nk	Fähigkeit	NOUN	[]	5	b5	1
+Fähigkeit	Fähigkeit	NOUN	NN	oa	verleihen	VERB	[die, ,, umzuwandeln]	5	b5	1
+,	--	PUNCT	$,	punct	Fähigkeit	NOUN	[]	5	b5	1
+sich	sich	PRON	PRF	oa	umzuwandeln	VERB	[]	5	b5	1
+durch	durch	ADP	APPR	mo	umzuwandeln	VERB	[Autokatalyse]	5	b5	1
+Autokatalyse	Autokatalyse	NOUN	NN	nk	durch	ADP	[]	5	b5	1
+von	von	ADP	APPR	mo	umzuwandeln	VERB	[Wildtypprotein]	5	b5	1
+einem	ein	DET	ART	nk	Wildtypprotein	NOUN	[]	5	b5	1
+Wildtypprotein	Wildtypprotein	NOUN	NN	nk	von	ADP	[einem]	5	b5	1
+zum	zu	ADP	APPRART	mo	umzuwandeln	VERB	[Prionenprotein]	5	b5	1
+Prionenprotein	Prionenprotein	NOUN	NN	nk	zum	ADP	[]	5	b5	1
+umzuwandeln	umwandeln	VERB	VVIZU	oc	Fähigkeit	NOUN	[sich, durch, von, zum]	5	b5	1
+.	--	PUNCT	$.	punct	verleihen	VERB	[]	5	b5	1
+Dieses	dieser	DET	PDAT	nk	Ereignis	NOUN	[]	5	b5	1
+Ereignis	Ereignis	NOUN	NN	sb	kann	AUX	[Dieses]	5	b5	1
+kann	können	AUX	VMFIN	ROOT	kann	AUX	[Ereignis, erfolgen, .]	5	b5	1
+spontan	spontan	ADV	ADJD	mo	erfolgen	VERB	[oder]	5	b5	1
+oder	oder	CCONJ	KON	cd	spontan	ADV	[durch]	5	b5	1
+durch	durch	ADP	APPR	cj	oder	CCONJ	[Aufnahme]	5	b5	1
+die	der	DET	ART	nk	Aufnahme	NOUN	[]	5	b5	1
+Aufnahme	Aufnahme	NOUN	NN	nk	durch	ADP	[die, Prions]	5	b5	1
+eines	ein	DET	ART	nk	Prions	NOUN	[]	5	b5	1
+anderen	anderer	ADJ	ADJA	nk	Prions	NOUN	[]	5	b5	1
+Prions	Prion	NOUN	NN	ag	Aufnahme	NOUN	[eines, anderen]	5	b5	1
+erfolgen	erfolgen	VERB	VVINF	oc	kann	AUX	[spontan]	5	b5	1
+.	--	PUNCT	$.	punct	kann	AUX	[]	5	b5	1
+Die	der	DET	ART	nk	Ausbildung	NOUN	[]	5	b5	1
+Ausbildung	Ausbildung	NOUN	NN	sb	sind	AUX	[Die, Fasern, und]	5	b5	1
+amyloider	amyloid	ADJ	ADJA	nk	Fasern	NOUN	[]	5	b5	1
+Fasern	Faser	NOUN	NN	ag	Ausbildung	NOUN	[amyloider]	5	b5	1
+und	und	CCONJ	KON	cd	Ausbildung	NOUN	[Charakter]	5	b5	1
+der	der	DET	ART	nk	Charakter	NOUN	[]	5	b5	1
+infektiöse	infektiös	ADJ	ADJA	nk	Charakter	NOUN	[]	5	b5	1
+Charakter	Charakter	NOUN	NN	cj	und	CCONJ	[der, infektiöse]	5	b5	1
+sind	sein	AUX	VAFIN	ROOT	sind	AUX	[Ausbildung, verknüpft, .]	5	b5	1
+eng	eng	ADV	ADJD	mo	verknüpft	VERB	[]	5	b5	1
+miteinander	miteinander	ADV	ADV	mo	verknüpft	VERB	[]	5	b5	1
+verknüpft	verknüpfen	VERB	VVPP	pd	sind	AUX	[eng, miteinander]	5	b5	1
+.	--	PUNCT	$.	punct	sind	AUX	[]	5	b5	1
+Der	der	DET	ART	nk	Begriff	NOUN	[]	5	b5	1
+Begriff	Begriff	NOUN	NN	sb	ist	AUX	[Der, Amyloid, Fadenform]	5	b5	1
+Amyloid	Amyloid	PROPN	NN	nk	Begriff	NOUN	[]	5	b5	1
+ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Begriff, gehalten, :, .]	5	b5	1
+allgemein	allgemein	ADV	ADJD	mo	gehalten	VERB	[]	5	b5	1
+gehalten	halten	VERB	VVPP	oc	ist	AUX	[allgemein, und]	5	b5	1
+und	und	CCONJ	KON	cd	gehalten	VERB	[umfasst]	5	b5	1
+umfasst	umfasst	VERB	VVFIN	cj	und	CCONJ	[Proteinaggregate]	5	b5	1
+Proteinaggregate	Proteinaggregat	PROPN	NN	oa	umfasst	VERB	[,, sind]	5	b5	1
+,	--	PUNCT	$,	punct	Proteinaggregate	PROPN	[]	5	b5	1
+die	der	PRON	PRELS	sb	sind	AUX	[]	5	b5	1
+auf	auf	ADP	APPR	mo	angeordnet	VERB	[Weise]	5	b5	1
+eine	ein	DET	ART	nk	Weise	NOUN	[]	5	b5	1
+besondere	besonderer	ADJ	ADJA	nk	Weise	NOUN	[]	5	b5	1
+physikalisch-chemische	physikalisch-chemisch	ADJ	ADJA	nk	Weise	NOUN	[]	5	b5	1
+Weise	Weise	NOUN	NN	nk	auf	ADP	[eine, besondere, physikalisch-chemische]	5	b5	1
+angeordnet	anordnen	VERB	VVPP	oc	sind	AUX	[auf]	5	b5	1
+sind	sein	AUX	VAFIN	rc	Proteinaggregate	PROPN	[die, angeordnet]	5	b5	1
+:	--	PUNCT	$.	punct	ist	AUX	[]	5	b5	1
+eine	ein	DET	ART	nk	Fadenform	NOUN	[]	5	b5	1
+Fadenform	Fadenform	NOUN	NN	app	Begriff	NOUN	[eine, ,, sind]	5	b5	1
+,	--	PUNCT	$,	punct	Fadenform	NOUN	[]	5	b5	1
+in	in	ADP	APPR	mo	finden	VERB	[der]	5	b5	1
+der	der	PRON	PRELS	nk	in	ADP	[]	5	b5	1
+zum	zu	ADP	APPRART	mo	β-Faltblattstrukturen	VERB	[Großteil]	5	b5	1
+Großteil	Großteil	NOUN	NN	nk	zum	ADP	[]	5	b5	1
+β-Faltblattstrukturen	β-Faltblattstrukturen	VERB	NN	oc	finden	VERB	[zum]	5	b5	1
+zu	zu	PART	PTKZU	pm	finden	VERB	[]	5	b5	1
+finden	finden	VERB	VVINF	oc	sind	AUX	[in, β-Faltblattstrukturen, zu]	5	b5	1
+sind	sein	AUX	VAFIN	rc	Fadenform	NOUN	[finden, und]	5	b5	1
+und	und	CCONJ	KON	cd	sind	AUX	[auftritt]	5	b5	1
+in	in	ADP	APPR	mo	auftritt	VERB	[der]	5	b5	1
+der	der	DET	PRELS	nk	in	ADP	[]	5	b5	1
+eine	ein	DET	ART	nk	Doppelbrechung	NOUN	[]	5	b5	1
+Doppelbrechung	Doppelbrechung	NOUN	NN	oa	auftritt	VERB	[eine, von, nach]	5	b5	1
+von	von	ADP	APPR	pg	Doppelbrechung	NOUN	[Licht]	5	b5	1
+polarisiertem	polarisiert	ADJ	ADJA	nk	Licht	NOUN	[]	5	b5	1
+Licht	Licht	NOUN	NN	nk	von	ADP	[polarisiertem]	5	b5	1
+nach	nach	ADP	APPR	mnr	Doppelbrechung	NOUN	[Färbung]	5	b5	1
+Färbung	Färbung	NOUN	NN	nk	nach	ADP	[mit]	5	b5	1
+mit	mit	ADP	APPR	mnr	Färbung	NOUN	[Kongorot]	5	b5	1
+Kongorot	Kongorot	NOUN	NN	nk	mit	ADP	[]	5	b5	1
+auftritt	auftreten	VERB	VVFIN	cj	und	CCONJ	[in, Doppelbrechung]	5	b5	1
+.	--	PUNCT	$.	punct	ist	AUX	[]	5	b5	1
+Das	der	DET	ART	nk	Prion	NOUN	[]	5	b5	1
+Prion	Prion	NOUN	NN	sb	bringt	VERB	[Das]	5	b5	1
+bringt	bringen	VERB	VVFIN	ROOT	bringt	VERB	[Prion, Veränderung, mit, ,, denn, .]	5	b5	1
+keine	kein	DET	PIAT	nk	Veränderung	NOUN	[]	5	b5	1
+genetische	genetisch	ADJ	ADJA	nk	Veränderung	NOUN	[]	5	b5	1
+Veränderung	Veränderung	NOUN	NN	oa	bringt	VERB	[keine, genetische]	5	b5	1
+mit	mit	ADP	APPR	mo	bringt	VERB	[sich]	5	b5	1
+sich	sich	PRON	PRF	nk	mit	ADP	[]	5	b5	1
+,	--	PUNCT	$,	punct	bringt	VERB	[]	5	b5	1
+denn	denn	CCONJ	KON	cd	bringt	VERB	[führt]	5	b5	1
+das	der	DET	ART	nk	Gen	NOUN	[]	5	b5	1
+verantwortliche	verantwortlich	ADJ	ADJA	nk	Gen	NOUN	[]	5	b5	1
+Gen	Gen	NOUN	NN	sb	führt	VERB	[das, verantwortliche]	5	b5	1
+führt	führen	VERB	VVFIN	cj	denn	CCONJ	[Gen, weiterhin, zur]	5	b5	1
+weiterhin	weiterhin	ADV	ADV	mo	führt	VERB	[]	5	b5	1
+zur	zu	ADP	APPRART	mo	führt	VERB	[Expression]	5	b5	1
+Expression	Expression	NOUN	NN	nk	zur	ADP	[von]	5	b5	1
+von	von	ADP	APPR	pg	Expression	NOUN	[Proteinen]	5	b5	1
+Proteinen	Protein	NOUN	NN	nk	von	ADP	[mit]	5	b5	1
+mit	mit	ADP	APPR	mnr	Proteinen	NOUN	[Primärstruktur]	5	b5	1
+normaler	normal	ADJ	ADJA	nk	Primärstruktur	NOUN	[]	5	b5	1
+Primärstruktur	Primärstruktur	NOUN	NN	nk	mit	ADP	[normaler]	5	b5	1
+.	--	PUNCT	$.	punct	bringt	VERB	[]	5	b5	1
+Die	der	DET	ART	nk	Prionenform	NOUN	[]	5	b5	1
+Prionenform	Prionenform	NOUN	NN	sb	vermehrt	VERB	[Die]	5	b5	1
+vermehrt	vermehren	VERB	VVFIN	ROOT	vermehrt	VERB	[Prionenform, sich, somit, über, .]	5	b5	1
+sich	sich	PRON	PRF	oa	vermehrt	VERB	[]	5	b5	1
+somit	somit	ADV	ADV	mo	vermehrt	VERB	[]	5	b5	1
+über	über	ADP	APPR	op	vermehrt	VERB	[Umwandlung]	5	b5	1
+die	der	DET	ART	nk	Umwandlung	NOUN	[]	5	b5	1
+Umwandlung	Umwandlung	NOUN	NN	nk	über	ADP	[die, vom, zum]	5	b5	1
+vom	von	ADP	APPRART	op	Umwandlung	NOUN	[Wildtypprotein]	5	b5	1
+Wildtypprotein	Wildtypprotein	NOUN	NN	nk	vom	ADP	[]	5	b5	1
+zum	zu	ADP	APPRART	mnr	Umwandlung	NOUN	[Typ]	5	b5	1
+amyloiden	amyloid	ADJ	ADJA	nk	Typ	NOUN	[]	5	b5	1
+Typ	Typ	NOUN	NN	nk	zum	ADP	[amyloiden]	5	b5	1
+.	--	PUNCT	$.	punct	vermehrt	VERB	[]	5	b5	1
+Eine	ein	DET	ART	nk	Deletion	NOUN	[]	5	b5	1
+Deletion	Deletion	NOUN	NN	sb	würde	AUX	[Eine, Gens]	5	b5	1
+des	der	DET	ART	nk	Gens	NOUN	[]	5	b5	1
+codierenden	codierend	ADJ	ADJA	nk	Gens	NOUN	[]	5	b5	1
+Gens	Gen	NOUN	NN	ag	Deletion	NOUN	[des, codierenden, Proteins]	5	b5	1
+des	der	DET	ART	nk	Proteins	NOUN	[]	5	b5	1
+zellulären	zellulärer	ADJ	ADJA	nk	Proteins	NOUN	[]	5	b5	1
+Proteins	Protein	NOUN	NN	ag	Gens	NOUN	[des, zellulären]	5	b5	1
+würde	werden	AUX	VAFIN	ROOT	würde	AUX	[Deletion, somit, verhindern, .]	5	b5	1
+somit	somit	ADV	ADV	mo	würde	AUX	[]	5	b5	1
+eine	ein	DET	ART	nk	Prioneninfektion	NOUN	[]	5	b5	1
+Prioneninfektion	Prioneninfektion	NOUN	NN	oa	verhindern	VERB	[eine]	5	b5	1
+verhindern	verhindern	VERB	VVINF	oc	würde	AUX	[Prioneninfektion]	5	b5	1
+.	--	PUNCT	$.	punct	würde	AUX	[]	5	b5	1
 Das	der	DET	ART	nk	Ziel	NOUN	[]	10	p4	1
 Ziel	Ziel	NOUN	NN	pd	ist	AUX	[Das, Interferometrie]	10	p4	1
 der	der	DET	ART	nk	Interferometrie	NOUN	[]	10	p4	1
@@ -1800,138 +1800,138 @@ quantitativ	quantitativ	ADV	ADJD	cj	und	CCONJ	[]	10	p4	1
 zu	zu	PART	PTKZU	pm	erfassen	VERB	[]	10	p4	1
 erfassen	erfassen	VERB	VVINF	re	es	PRON	[Veränderungen, qualitativ, zu]	10	p4	1
 .	--	PUNCT	$.	punct	ist	AUX	[]	10	p4	1
-Beim	bei	ADP	APPRART	mo	aufgenommen	VERB	[Echtzeitverfahren]	10	p4	2
-Echtzeitverfahren	Echtzeitverfahr	NOUN	NN	nk	Beim	ADP	[Interferometrie]	10	p4	2
-der	der	DET	ART	nk	Interferometrie	NOUN	[]	10	p4	2
-holografischen	holografisch	ADJ	ADJA	nk	Interferometrie	NOUN	[]	10	p4	2
-Interferometrie	Interferometrie	NOUN	NN	ag	Echtzeitverfahren	NOUN	[der, holografischen]	10	p4	2
-wird	werden	AUX	VAFIN	ROOT	wird	AUX	[aufgenommen, .]	10	p4	2
-von	von	ADP	APPR	sbp	aufgenommen	VERB	[Objekt]	10	p4	2
-einem	ein	DET	ART	nk	Objekt	NOUN	[]	10	p4	2
-Objekt	Objekt	NOUN	NN	nk	von	ADP	[einem]	10	p4	2
-in	in	ADP	APPR	mo	aufgenommen	VERB	[Ruhe]	10	p4	2
-Ruhe	Ruhe	NOUN	NN	nk	in	ADP	[]	10	p4	2
-ein	ein	DET	ART	nk	Hologramm	NOUN	[]	10	p4	2
-Hologramm	Hologramm	NOUN	NN	oa	aufgenommen	VERB	[ein]	10	p4	2
-aufgenommen	aufnehmen	VERB	VVPP	oc	wird	AUX	[Beim, von, in, Hologramm]	10	p4	2
-.	--	PUNCT	$.	punct	wird	AUX	[]	10	p4	2
-Die	der	DET	ART	nk	Hologrammplatte	NOUN	[]	10	p4	3
-Hologrammplatte	Hologrammplatte	NOUN	NN	sb	wird	AUX	[Die]	10	p4	3
-wird	werden	AUX	VAFIN	ROOT	wird	AUX	[Hologrammplatte, entwickelt, wird, .]	10	p4	3
-dann	dann	ADV	ADV	mo	entwickelt	VERB	[,, bewegen]	10	p4	3
-,	--	PUNCT	$,	punct	dann	ADV	[]	10	p4	3
-ohne	ohne	SCONJ	KOUI	cp	bewegen	VERB	[]	10	p4	3
-sie	sie	PRON	PPER	oa	bewegen	VERB	[]	10	p4	3
-zu	zu	PART	PTKZU	pm	bewegen	VERB	[]	10	p4	3
-bewegen	bewegen	VERB	VVINF	re	dann	ADV	[ohne, sie, zu]	10	p4	3
-,	--	PUNCT	$,	punct	entwickelt	VERB	[]	10	p4	3
-am	an	ADP	APPRART	mo	entwickelt	VERB	[Ort]	10	p4	3
-festen	fest	ADJ	ADJA	nk	Ort	NOUN	[]	10	p4	3
-Ort	Ort	NOUN	NN	nk	am	ADP	[festen, Aufnahme]	10	p4	3
-der	der	DET	ART	nk	Aufnahme	NOUN	[]	10	p4	3
-Aufnahme	Aufnahme	NOUN	NN	ag	Ort	NOUN	[der]	10	p4	3
-entwickelt	entwickeln	VERB	VVPP	oc	wird	AUX	[dann, ,, am, und]	10	p4	3
-und	und	CCONJ	KON	cd	entwickelt	VERB	[beleuchtet]	10	p4	3
-mit	mit	ADP	APPR	op	beleuchtet	VERB	[Referenzwelle]	10	p4	3
-der	der	DET	ART	nk	Referenzwelle	NOUN	[]	10	p4	3
-Referenzwelle	Referenzwelle	NOUN	NN	nk	mit	ADP	[der]	10	p4	3
-beleuchtet	beleuchten	VERB	VVPP	cj	und	CCONJ	[mit]	10	p4	3
-,	--	PUNCT	$,	punct	sodass	VERB	[]	10	p4	3
-sodass	sodass	VERB	KOUS	mo	erzeugt	VERB	[,, Hologrammbild]	10	p4	3
-ein	ein	DET	ART	nk	Hologrammbild	NOUN	[]	10	p4	3
-Hologrammbild	Hologrammbild	NOUN	NN	sb	sodass	VERB	[ein]	10	p4	3
-erzeugt	erzeugen	VERB	VVPP	oc	wird	AUX	[sodass]	10	p4	3
-wird	werden	AUX	VAFIN	oc	wird	AUX	[erzeugt]	10	p4	3
-.	--	PUNCT	$.	punct	wird	AUX	[]	10	p4	3
-Nimmt	nehmen	VERB	VVFIN	re	so	ADV	[man, am, Änderungen, vor, und]	10	p4	4
-man	man	PRON	PIS	sb	Nimmt	VERB	[]	10	p4	4
-am	an	ADP	APPRART	mo	Nimmt	VERB	[Objekt]	10	p4	4
-Objekt	Objekt	NOUN	NN	nk	am	ADP	[]	10	p4	4
-nur	nur	ADV	ADV	mo	kleine	ADJ	[]	10	p4	4
-sehr	sehr	ADV	ADV	mo	kleine	ADJ	[]	10	p4	4
-kleine	klein	ADJ	ADJA	nk	Änderungen	NOUN	[nur, sehr]	10	p4	4
-Änderungen	Änderung	NOUN	NN	oa	Nimmt	VERB	[kleine]	10	p4	4
-vor	vor	ADP	PTKVZ	svp	Nimmt	VERB	[]	10	p4	4
-und	und	CCONJ	KON	cd	Nimmt	VERB	[beleuchtet]	10	p4	4
-beleuchtet	beleuchten	VERB	VVFIN	cj	und	CCONJ	[es, am, wieder, genau]	10	p4	4
-es	es	PRON	PPER	oa	beleuchtet	VERB	[]	10	p4	4
-am	an	ADP	APPRART	mo	beleuchtet	VERB	[Ort]	10	p4	4
-gleichen	gleich	ADJ	ADJA	nk	Ort	NOUN	[]	10	p4	4
-Ort	Ort	NOUN	NN	nk	am	ADP	[gleichen]	10	p4	4
-wieder	wieder	ADV	ADV	mo	beleuchtet	VERB	[]	10	p4	4
-genau	genau	ADV	ADJD	mo	beleuchtet	VERB	[bei]	10	p4	4
-wie	wie	ADP	KOKOM	cm	bei	ADP	[]	10	p4	4
-bei	bei	ADP	APPR	cc	genau	ADV	[wie, Aufnahme]	10	p4	4
-der	der	DET	ART	nk	Aufnahme	NOUN	[]	10	p4	4
-ersten	erster	ADJ	ADJA	nk	Aufnahme	NOUN	[]	10	p4	4
-Aufnahme	Aufnahme	NOUN	NN	nk	bei	ADP	[der, ersten]	10	p4	4
-,	--	PUNCT	$,	punct	so	ADV	[]	10	p4	4
-so	so	ADV	ADV	mo	äußern	VERB	[Nimmt, ,]	10	p4	4
-werden	werden	AUX	VAFIN	ROOT	werden	AUX	[Änderungen, äußern, .]	10	p4	4
-sich	sich	PRON	PRF	oa	äußern	VERB	[]	10	p4	4
-diese	dieser	DET	PDAT	nk	Änderungen	NOUN	[]	10	p4	4
-Änderungen	Änderung	NOUN	NN	sb	werden	AUX	[diese]	10	p4	4
-in	in	ADP	APPR	mo	äußern	VERB	[Phasenverschiebungen]	10	p4	4
-Phasenverschiebungen	Phasenverschiebunge	NOUN	NN	nk	in	ADP	[Signalwelle]	10	p4	4
-der	der	DET	ART	nk	Signalwelle	NOUN	[]	10	p4	4
-Signalwelle	Signalwell	NOUN	NN	ag	Phasenverschiebungen	NOUN	[der]	10	p4	4
-äußern	äußern	VERB	VVINF	oc	werden	AUX	[so, sich, in]	10	p4	4
-.	--	PUNCT	$.	punct	werden	AUX	[]	10	p4	4
-Die	der	DET	ART	nk	Überlagerung	NOUN	[]	10	p4	5
-Überlagerung	Überlagerung	NOUN	NN	sb	führt	VERB	[Die, Signalwelle, vom, vom]	10	p4	5
-dieser	dieser	DET	PDAT	nk	Signalwelle	NOUN	[]	10	p4	5
-Signalwelle	Signalwelle	NOUN	NN	ag	Überlagerung	NOUN	[dieser]	10	p4	5
-vom	von	ADP	APPRART	mnr	Überlagerung	NOUN	[Objekt]	10	p4	5
-veränderten	verändert	ADJ	ADJA	nk	Objekt	NOUN	[]	10	p4	5
-Objekt	Objekt	NOUN	NN	nk	vom	ADP	[veränderten, mit]	10	p4	5
-mit	mit	ADP	APPR	mnr	Objekt	NOUN	[Rekonstruktionswelle]	10	p4	5
-der	der	DET	ART	nk	Rekonstruktionswelle	NOUN	[]	10	p4	5
-Rekonstruktionswelle	Rekonstruktionswelle	NOUN	NN	nk	mit	ADP	[der]	10	p4	5
-vom	von	ADP	APPRART	mnr	Überlagerung	NOUN	[Hologramm]	10	p4	5
-Hologramm	Hologramm	NOUN	NN	nk	vom	ADP	[Objektes]	10	p4	5
-des	der	DET	ART	nk	Objektes	NOUN	[]	10	p4	5
-unveränderten	unverändert	ADJ	ADJA	nk	Objektes	NOUN	[]	10	p4	5
-Objektes	Objekt	NOUN	NN	ag	Hologramm	NOUN	[des, unveränderten]	10	p4	5
-führt	führen	VERB	VVFIN	ROOT	führt	VERB	[Überlagerung, zu, .]	10	p4	5
-zu	zu	ADP	APPR	mo	führt	VERB	[Interferenzstrukturen]	10	p4	5
-Interferenzstrukturen	Interferenzstruktur	NOUN	NN	nk	zu	ADP	[im]	10	p4	5
-im	in	ADP	APPRART	mnr	Interferenzstrukturen	NOUN	[Bild]	10	p4	5
-holografischen	holografisch	ADJ	ADJA	nk	Bild	NOUN	[]	10	p4	5
-Bild	Bild	NOUN	NN	nk	im	ADP	[holografischen, ,, auftreten]	10	p4	5
-,	--	PUNCT	$,	punct	Bild	NOUN	[]	10	p4	5
-die	der	PRON	PRELS	sb	auftreten	VERB	[]	10	p4	5
-nur	nur	ADV	ADV	mo	für	ADP	[]	10	p4	5
-für	für	ADP	APPR	mo	auftreten	VERB	[nur, Teile]	10	p4	5
-diejenigen	derjenige	DET	PDAT	nk	Teile	NOUN	[]	10	p4	5
-Teile	Teil	NOUN	NN	nk	für	ADP	[diejenigen, Objektes, haben]	10	p4	5
-des	der	DET	ART	nk	Objektes	NOUN	[]	10	p4	5
-Objektes	Objekt	NOUN	NN	ag	Teile	NOUN	[des]	10	p4	5
-auftreten	auftreten	VERB	VVFIN	rc	Bild	NOUN	[die, für, ,]	10	p4	5
-,	--	PUNCT	$,	punct	auftreten	VERB	[]	10	p4	5
-die	der	PRON	PRELS	sb	haben	AUX	[]	10	p4	5
-sich	sich	PRON	PRF	oa	verändert	VERB	[]	10	p4	5
-verändert	verändern	VERB	VVPP	oc	haben	AUX	[sich]	10	p4	5
-haben	haben	AUX	VAFIN	rc	Teile	NOUN	[die, verändert]	10	p4	5
-.	--	PUNCT	$.	punct	führt	VERB	[]	10	p4	5
-Auf	auf	ADP	APPR	mo	kann	AUX	[Weise]	10	p4	6
-diese	dieser	DET	PDAT	nk	Weise	NOUN	[]	10	p4	6
-Weise	Weise	NOUN	NN	nk	Auf	ADP	[diese]	10	p4	6
-kann	können	AUX	VMFIN	ROOT	kann	AUX	[Auf, man, feststellen, .]	10	p4	6
-man	man	PRON	PIS	sb	kann	AUX	[]	10	p4	6
-Gestaltsänderungen	Gestaltsänderung	NOUN	NN	oa	feststellen	VERB	[sind]	10	p4	6
-feststellen	feststellen	VERB	VVINF	oc	kann	AUX	[Gestaltsänderungen, ,]	10	p4	6
-,	--	PUNCT	$,	punct	feststellen	VERB	[]	10	p4	6
-die	der	PRON	PRELS	sb	sind	AUX	[]	10	p4	6
-wesentlich	wesentlich	ADV	ADJD	mo	kleiner	ADV	[]	10	p4	6
-kleiner	klein	ADV	ADJD	pd	sind	AUX	[wesentlich, Wellenlänge]	10	p4	6
-als	als	ADP	KOKOM	cm	Wellenlänge	NOUN	[]	10	p4	6
-eine	ein	DET	ART	nk	Wellenlänge	NOUN	[]	10	p4	6
-Wellenlänge	Wellenlang	NOUN	NN	cc	kleiner	ADV	[als, eine, Lichtes]	10	p4	6
-des	der	DET	ART	nk	Lichtes	NOUN	[]	10	p4	6
-beleuchtenden	beleuchtend	ADJ	ADJA	nk	Lichtes	NOUN	[]	10	p4	6
-Lichtes	Licht	NOUN	NN	ag	Wellenlänge	NOUN	[des, beleuchtenden]	10	p4	6
-sind	sein	AUX	VAFIN	rc	Gestaltsänderungen	NOUN	[die, kleiner]	10	p4	6
-.	--	PUNCT	$.	punct	kann	AUX	[]	10	p4	6
+Beim	bei	ADP	APPRART	mo	aufgenommen	VERB	[Echtzeitverfahren]	10	p4	1
+Echtzeitverfahren	Echtzeitverfahr	NOUN	NN	nk	Beim	ADP	[Interferometrie]	10	p4	1
+der	der	DET	ART	nk	Interferometrie	NOUN	[]	10	p4	1
+holografischen	holografisch	ADJ	ADJA	nk	Interferometrie	NOUN	[]	10	p4	1
+Interferometrie	Interferometrie	NOUN	NN	ag	Echtzeitverfahren	NOUN	[der, holografischen]	10	p4	1
+wird	werden	AUX	VAFIN	ROOT	wird	AUX	[aufgenommen, .]	10	p4	1
+von	von	ADP	APPR	sbp	aufgenommen	VERB	[Objekt]	10	p4	1
+einem	ein	DET	ART	nk	Objekt	NOUN	[]	10	p4	1
+Objekt	Objekt	NOUN	NN	nk	von	ADP	[einem]	10	p4	1
+in	in	ADP	APPR	mo	aufgenommen	VERB	[Ruhe]	10	p4	1
+Ruhe	Ruhe	NOUN	NN	nk	in	ADP	[]	10	p4	1
+ein	ein	DET	ART	nk	Hologramm	NOUN	[]	10	p4	1
+Hologramm	Hologramm	NOUN	NN	oa	aufgenommen	VERB	[ein]	10	p4	1
+aufgenommen	aufnehmen	VERB	VVPP	oc	wird	AUX	[Beim, von, in, Hologramm]	10	p4	1
+.	--	PUNCT	$.	punct	wird	AUX	[]	10	p4	1
+Die	der	DET	ART	nk	Hologrammplatte	NOUN	[]	10	p4	1
+Hologrammplatte	Hologrammplatte	NOUN	NN	sb	wird	AUX	[Die]	10	p4	1
+wird	werden	AUX	VAFIN	ROOT	wird	AUX	[Hologrammplatte, entwickelt, wird, .]	10	p4	1
+dann	dann	ADV	ADV	mo	entwickelt	VERB	[,, bewegen]	10	p4	1
+,	--	PUNCT	$,	punct	dann	ADV	[]	10	p4	1
+ohne	ohne	SCONJ	KOUI	cp	bewegen	VERB	[]	10	p4	1
+sie	sie	PRON	PPER	oa	bewegen	VERB	[]	10	p4	1
+zu	zu	PART	PTKZU	pm	bewegen	VERB	[]	10	p4	1
+bewegen	bewegen	VERB	VVINF	re	dann	ADV	[ohne, sie, zu]	10	p4	1
+,	--	PUNCT	$,	punct	entwickelt	VERB	[]	10	p4	1
+am	an	ADP	APPRART	mo	entwickelt	VERB	[Ort]	10	p4	1
+festen	fest	ADJ	ADJA	nk	Ort	NOUN	[]	10	p4	1
+Ort	Ort	NOUN	NN	nk	am	ADP	[festen, Aufnahme]	10	p4	1
+der	der	DET	ART	nk	Aufnahme	NOUN	[]	10	p4	1
+Aufnahme	Aufnahme	NOUN	NN	ag	Ort	NOUN	[der]	10	p4	1
+entwickelt	entwickeln	VERB	VVPP	oc	wird	AUX	[dann, ,, am, und]	10	p4	1
+und	und	CCONJ	KON	cd	entwickelt	VERB	[beleuchtet]	10	p4	1
+mit	mit	ADP	APPR	op	beleuchtet	VERB	[Referenzwelle]	10	p4	1
+der	der	DET	ART	nk	Referenzwelle	NOUN	[]	10	p4	1
+Referenzwelle	Referenzwelle	NOUN	NN	nk	mit	ADP	[der]	10	p4	1
+beleuchtet	beleuchten	VERB	VVPP	cj	und	CCONJ	[mit]	10	p4	1
+,	--	PUNCT	$,	punct	sodass	VERB	[]	10	p4	1
+sodass	sodass	VERB	KOUS	mo	erzeugt	VERB	[,, Hologrammbild]	10	p4	1
+ein	ein	DET	ART	nk	Hologrammbild	NOUN	[]	10	p4	1
+Hologrammbild	Hologrammbild	NOUN	NN	sb	sodass	VERB	[ein]	10	p4	1
+erzeugt	erzeugen	VERB	VVPP	oc	wird	AUX	[sodass]	10	p4	1
+wird	werden	AUX	VAFIN	oc	wird	AUX	[erzeugt]	10	p4	1
+.	--	PUNCT	$.	punct	wird	AUX	[]	10	p4	1
+Nimmt	nehmen	VERB	VVFIN	re	so	ADV	[man, am, Änderungen, vor, und]	10	p4	1
+man	man	PRON	PIS	sb	Nimmt	VERB	[]	10	p4	1
+am	an	ADP	APPRART	mo	Nimmt	VERB	[Objekt]	10	p4	1
+Objekt	Objekt	NOUN	NN	nk	am	ADP	[]	10	p4	1
+nur	nur	ADV	ADV	mo	kleine	ADJ	[]	10	p4	1
+sehr	sehr	ADV	ADV	mo	kleine	ADJ	[]	10	p4	1
+kleine	klein	ADJ	ADJA	nk	Änderungen	NOUN	[nur, sehr]	10	p4	1
+Änderungen	Änderung	NOUN	NN	oa	Nimmt	VERB	[kleine]	10	p4	1
+vor	vor	ADP	PTKVZ	svp	Nimmt	VERB	[]	10	p4	1
+und	und	CCONJ	KON	cd	Nimmt	VERB	[beleuchtet]	10	p4	1
+beleuchtet	beleuchten	VERB	VVFIN	cj	und	CCONJ	[es, am, wieder, genau]	10	p4	1
+es	es	PRON	PPER	oa	beleuchtet	VERB	[]	10	p4	1
+am	an	ADP	APPRART	mo	beleuchtet	VERB	[Ort]	10	p4	1
+gleichen	gleich	ADJ	ADJA	nk	Ort	NOUN	[]	10	p4	1
+Ort	Ort	NOUN	NN	nk	am	ADP	[gleichen]	10	p4	1
+wieder	wieder	ADV	ADV	mo	beleuchtet	VERB	[]	10	p4	1
+genau	genau	ADV	ADJD	mo	beleuchtet	VERB	[bei]	10	p4	1
+wie	wie	ADP	KOKOM	cm	bei	ADP	[]	10	p4	1
+bei	bei	ADP	APPR	cc	genau	ADV	[wie, Aufnahme]	10	p4	1
+der	der	DET	ART	nk	Aufnahme	NOUN	[]	10	p4	1
+ersten	erster	ADJ	ADJA	nk	Aufnahme	NOUN	[]	10	p4	1
+Aufnahme	Aufnahme	NOUN	NN	nk	bei	ADP	[der, ersten]	10	p4	1
+,	--	PUNCT	$,	punct	so	ADV	[]	10	p4	1
+so	so	ADV	ADV	mo	äußern	VERB	[Nimmt, ,]	10	p4	1
+werden	werden	AUX	VAFIN	ROOT	werden	AUX	[Änderungen, äußern, .]	10	p4	1
+sich	sich	PRON	PRF	oa	äußern	VERB	[]	10	p4	1
+diese	dieser	DET	PDAT	nk	Änderungen	NOUN	[]	10	p4	1
+Änderungen	Änderung	NOUN	NN	sb	werden	AUX	[diese]	10	p4	1
+in	in	ADP	APPR	mo	äußern	VERB	[Phasenverschiebungen]	10	p4	1
+Phasenverschiebungen	Phasenverschiebunge	NOUN	NN	nk	in	ADP	[Signalwelle]	10	p4	1
+der	der	DET	ART	nk	Signalwelle	NOUN	[]	10	p4	1
+Signalwelle	Signalwell	NOUN	NN	ag	Phasenverschiebungen	NOUN	[der]	10	p4	1
+äußern	äußern	VERB	VVINF	oc	werden	AUX	[so, sich, in]	10	p4	1
+.	--	PUNCT	$.	punct	werden	AUX	[]	10	p4	1
+Die	der	DET	ART	nk	Überlagerung	NOUN	[]	10	p4	1
+Überlagerung	Überlagerung	NOUN	NN	sb	führt	VERB	[Die, Signalwelle, vom, vom]	10	p4	1
+dieser	dieser	DET	PDAT	nk	Signalwelle	NOUN	[]	10	p4	1
+Signalwelle	Signalwelle	NOUN	NN	ag	Überlagerung	NOUN	[dieser]	10	p4	1
+vom	von	ADP	APPRART	mnr	Überlagerung	NOUN	[Objekt]	10	p4	1
+veränderten	verändert	ADJ	ADJA	nk	Objekt	NOUN	[]	10	p4	1
+Objekt	Objekt	NOUN	NN	nk	vom	ADP	[veränderten, mit]	10	p4	1
+mit	mit	ADP	APPR	mnr	Objekt	NOUN	[Rekonstruktionswelle]	10	p4	1
+der	der	DET	ART	nk	Rekonstruktionswelle	NOUN	[]	10	p4	1
+Rekonstruktionswelle	Rekonstruktionswelle	NOUN	NN	nk	mit	ADP	[der]	10	p4	1
+vom	von	ADP	APPRART	mnr	Überlagerung	NOUN	[Hologramm]	10	p4	1
+Hologramm	Hologramm	NOUN	NN	nk	vom	ADP	[Objektes]	10	p4	1
+des	der	DET	ART	nk	Objektes	NOUN	[]	10	p4	1
+unveränderten	unverändert	ADJ	ADJA	nk	Objektes	NOUN	[]	10	p4	1
+Objektes	Objekt	NOUN	NN	ag	Hologramm	NOUN	[des, unveränderten]	10	p4	1
+führt	führen	VERB	VVFIN	ROOT	führt	VERB	[Überlagerung, zu, .]	10	p4	1
+zu	zu	ADP	APPR	mo	führt	VERB	[Interferenzstrukturen]	10	p4	1
+Interferenzstrukturen	Interferenzstruktur	NOUN	NN	nk	zu	ADP	[im]	10	p4	1
+im	in	ADP	APPRART	mnr	Interferenzstrukturen	NOUN	[Bild]	10	p4	1
+holografischen	holografisch	ADJ	ADJA	nk	Bild	NOUN	[]	10	p4	1
+Bild	Bild	NOUN	NN	nk	im	ADP	[holografischen, ,, auftreten]	10	p4	1
+,	--	PUNCT	$,	punct	Bild	NOUN	[]	10	p4	1
+die	der	PRON	PRELS	sb	auftreten	VERB	[]	10	p4	1
+nur	nur	ADV	ADV	mo	für	ADP	[]	10	p4	1
+für	für	ADP	APPR	mo	auftreten	VERB	[nur, Teile]	10	p4	1
+diejenigen	derjenige	DET	PDAT	nk	Teile	NOUN	[]	10	p4	1
+Teile	Teil	NOUN	NN	nk	für	ADP	[diejenigen, Objektes, haben]	10	p4	1
+des	der	DET	ART	nk	Objektes	NOUN	[]	10	p4	1
+Objektes	Objekt	NOUN	NN	ag	Teile	NOUN	[des]	10	p4	1
+auftreten	auftreten	VERB	VVFIN	rc	Bild	NOUN	[die, für, ,]	10	p4	1
+,	--	PUNCT	$,	punct	auftreten	VERB	[]	10	p4	1
+die	der	PRON	PRELS	sb	haben	AUX	[]	10	p4	1
+sich	sich	PRON	PRF	oa	verändert	VERB	[]	10	p4	1
+verändert	verändern	VERB	VVPP	oc	haben	AUX	[sich]	10	p4	1
+haben	haben	AUX	VAFIN	rc	Teile	NOUN	[die, verändert]	10	p4	1
+.	--	PUNCT	$.	punct	führt	VERB	[]	10	p4	1
+Auf	auf	ADP	APPR	mo	kann	AUX	[Weise]	10	p4	1
+diese	dieser	DET	PDAT	nk	Weise	NOUN	[]	10	p4	1
+Weise	Weise	NOUN	NN	nk	Auf	ADP	[diese]	10	p4	1
+kann	können	AUX	VMFIN	ROOT	kann	AUX	[Auf, man, feststellen, .]	10	p4	1
+man	man	PRON	PIS	sb	kann	AUX	[]	10	p4	1
+Gestaltsänderungen	Gestaltsänderung	NOUN	NN	oa	feststellen	VERB	[sind]	10	p4	1
+feststellen	feststellen	VERB	VVINF	oc	kann	AUX	[Gestaltsänderungen, ,]	10	p4	1
+,	--	PUNCT	$,	punct	feststellen	VERB	[]	10	p4	1
+die	der	PRON	PRELS	sb	sind	AUX	[]	10	p4	1
+wesentlich	wesentlich	ADV	ADJD	mo	kleiner	ADV	[]	10	p4	1
+kleiner	klein	ADV	ADJD	pd	sind	AUX	[wesentlich, Wellenlänge]	10	p4	1
+als	als	ADP	KOKOM	cm	Wellenlänge	NOUN	[]	10	p4	1
+eine	ein	DET	ART	nk	Wellenlänge	NOUN	[]	10	p4	1
+Wellenlänge	Wellenlang	NOUN	NN	cc	kleiner	ADV	[als, eine, Lichtes]	10	p4	1
+des	der	DET	ART	nk	Lichtes	NOUN	[]	10	p4	1
+beleuchtenden	beleuchtend	ADJ	ADJA	nk	Lichtes	NOUN	[]	10	p4	1
+Lichtes	Licht	NOUN	NN	ag	Wellenlänge	NOUN	[des, beleuchtenden]	10	p4	1
+sind	sein	AUX	VAFIN	rc	Gestaltsänderungen	NOUN	[die, kleiner]	10	p4	1
+.	--	PUNCT	$.	punct	kann	AUX	[]	10	p4	1
 Durch	durch	ADP	APPR	mo	können	AUX	[Einführen]	11	p5	1
 Einführen	Einführen	NOUN	NN	nk	Durch	ADP	[Masse]	11	p5	1
 der	der	DET	ART	nk	Masse	NOUN	[]	11	p5	1

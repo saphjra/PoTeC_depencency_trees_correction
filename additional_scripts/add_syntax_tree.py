@@ -16,7 +16,7 @@ def create_syntax_trees(path=None):
     nlp = spacy.load('de_core_news_sm')
     nlp.add_pipe("benepar", config={"model": "benepar_de2"})
 
-    stimuli_file = Path(f'{path}/dependency_trees.tsv')
+    stimuli_file = Path(f'{path}/uncorrected_constituency_trees.tsv')
 
     stimuli = pd.read_csv(stimuli_file, sep='\t', keep_default_na=False,
                           na_values=['#N/A', '#N/A N/A', '#NA', '-1.#IND', '-1.#QNAN', '-NaN', '-nan',
@@ -30,7 +30,7 @@ def create_syntax_trees(path=None):
         text_id = text_row['text_id']
         text_id_numeric = text_row['text_id_numeric']
         text = text_row['sentence']
-
+        sent_index = text_row['sent_index_in_text']
         # create a new df that contains the sentence index, the sentence and the dependency tree
         new_columns = {
             'sent_index_in_text': [],
@@ -45,11 +45,13 @@ def create_syntax_trees(path=None):
         # visualize the dependency tree
 
         sentences = list(doc.sents)
-        for sent_index, sent in enumerate(sentences):
+
+        for _, sent in enumerate(sentences):
             dep_df = _create_dependency_trees(sent)
             dep_df['text_id_numeric'] = text_id_numeric
             dep_df['text_id'] = text_id
-            dep_df['sent_index_in_text'] = sent_index + 1
+            dep_df['sent_index_in_text'] = sent_index
+
             dependency_df = pd.concat([dependency_df, dep_df])
 
             tree, constituents, pos = _create_constituency_trees(sent)
@@ -66,9 +68,9 @@ def create_syntax_trees(path=None):
         const_tree_dfs.append(new_df)
 
     const_tree_df = pd.concat(const_tree_dfs)
-    const_tree_df.to_csv(f'{path}/uncorrected_constituency_trees.tsv', sep='\t', index=True, index_label='index')
+    const_tree_df.to_csv(f'{path}/test_2_uncorrected_constituency_trees.tsv', sep='\t', index=True, index_label='index')
 
-    dependency_df.to_csv(f'{path}/uncorrected_dependency_trees.tsv', sep='\t', index=False)
+    dependency_df.to_csv(f'{path}/test_2_uncorrected_dependency_trees.tsv', sep='\t', index=False)
 
 def display_syntax_trees(path=None):
 
@@ -77,7 +79,7 @@ def display_syntax_trees(path=None):
     nlp = spacy.load('de_core_news_sm')
     nlp.add_pipe("benepar", config={"model": "benepar_de2"})
 
-    stimuli_file = Path(f'{path}/dependency_trees_manually_corrected.tsv')
+    stimuli_file = Path(f'{path}/uncorrected_constituency_trees.tsv')
     stimuli = pd.read_csv(stimuli_file, sep='\t', keep_default_na=False,
                           na_values=['#N/A', '#N/A N/A', '#NA', '-1.#IND', '-1.#QNAN', '-NaN', '-nan',
                                      '1.#IND',

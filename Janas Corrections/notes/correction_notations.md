@@ -61,24 +61,26 @@ correct
 ### b1 ID: 10
 correct
 ### b2 ID: 1
-check because of differences in original file anyway
+check because of differences in original file anyway, 
+Wasser wrongly annotated in corrected file, 
 ### b2 ID: 2
-
+heterogen ist falsch annotiert, so wei auch die beiden aufs
 ### b2 ID: 3
-
+auf Mo oder OP?
 ### b2 ID: 4
-
+verwzeigt als PD wäre aber im widerspruch zum adjektiv
 ### b2 ID: 5
 check because of differences in original file anyway
-
+Für meiner meinung nnach falsche dependency
 ### b2 ID: 6
-
+correct
 ### b2 ID: 7
-
+correct
 ### b2 ID: 8
-
+wie sollte 'wie Phosphat' annotiert werden?, rest stimmt
 ### b2 ID: 9
 
+'und' falsche dependency,  sowie abhängiges von erhöht
 ### b2 ID: 10
 
 ### b3 ID: 1

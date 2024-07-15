@@ -17,33 +17,37 @@ Text_id_num     text id      sent_index in text
 
 ## Biology senetences
 ### b0 ID: 1
-
+correct
 ### b0 ID: 2
-
+correct
 ### b0 ID: 3
-
+correct
 ### b0 ID: 4
-
+correct
 ### b0 ID: 5
-
+needs correction 
 ### b0 ID: 6
-
+needs correction
 ### b0 ID: 7
-
+correct
 ### b0 ID: 8
-
+correct
 ### b0 ID: 9
+correct
 
 ### b0 ID: 10
+correct
 
 ### b1 ID: 1
+correct
 
 ### b1 ID: 2
-
+check because of differences in original file anyway
+new ann seems correct
 ### b1 ID: 3
-
+wrongly annotated as relative clause, should be dependend of Repl not TOchetrstrang
 ### b1 ID: 4
-
+check again, with scheme
 ### b1 ID: 5
 
 ### b1 ID: 6
@@ -57,7 +61,7 @@ Text_id_num     text id      sent_index in text
 ### b1 ID: 10
 
 ### b2 ID: 1
-
+check because of differences in original file anyway
 ### b2 ID: 2
 
 ### b2 ID: 3
@@ -65,6 +69,7 @@ Text_id_num     text id      sent_index in text
 ### b2 ID: 4
 
 ### b2 ID: 5
+check because of differences in original file anyway
 
 ### b2 ID: 6
 
@@ -77,6 +82,7 @@ Text_id_num     text id      sent_index in text
 ### b2 ID: 10
 
 ### b3 ID: 1
+check because of differences in original file anyway
 
 ### b3 ID: 2
 
@@ -91,6 +97,7 @@ Text_id_num     text id      sent_index in text
 ### b3 ID: 7
 
 ### b3 ID: 8
+check because of differences in original file anyway
 
 ### b3 ID: 9
 
@@ -119,6 +126,66 @@ Text_id_num     text id      sent_index in text
 ### b4 ID: 9
 
 ### b4 ID: 10
+
+### b4 ID: 11
+
+### b4 ID: 12
+
+### b5 ID: 1
+
+### b5 ID: 2
+
+### b5 ID: 3
+
+### b5 ID: 4
+
+### b5 ID: 5
+
+### b5 ID: 6
+
+### b5 ID: 7
+
+### b5 ID: 8
+
+### b5 ID: 9
+
+### b5 ID: 10
+
+### p0 ID: 1
+
+### p0 ID: 2
+
+### p0 ID: 3
+
+### p0 ID: 4
+
+### p0 ID: 5
+
+### p0 ID: 6
+
+### p0 ID: 7
+
+### p0 ID: 8
+
+### p0 ID: 9
+
+### p0 ID: 10
+
+### p1 ID: 1
+
+### p3 ID: 1
+check because of differences in original file anyway
+### p3 ID: 2
+check because of differences in original file anyway
+### p3 ID: 6
+check because of differences in original file anyway
+
+### p5 ID: 5
+check because of differences in original file anyway
+### p5 ID: 6
+check because of differences in original file anyway
+
+
 
 
 

@@ -82,10 +82,10 @@ wie sollte 'wie Phosphat' annotiert werden?, rest stimmt
 
 'und' falsche dependency,  sowie abhängiges von erhöht
 ### b2 ID: 10
-
+dagegen mnr? nitrataufnahme AO nicht sb
 ### b3 ID: 1
 check because of differences in original file anyway
-
+würde aus abhängig von energie und nicht umwandeln machen 
 ### b3 ID: 2
 
 ### b3 ID: 3

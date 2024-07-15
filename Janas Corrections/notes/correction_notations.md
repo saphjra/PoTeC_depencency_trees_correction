@@ -49,17 +49,17 @@ wrongly annotated as relative clause, should be dependend of Repl not TOchetrstr
 ### b1 ID: 4
 check again, with scheme
 ### b1 ID: 5
-
+check again
 ### b1 ID: 6
-
+correct
 ### b1 ID: 7
-
+correct
 ### b1 ID: 8
-
+correct
 ### b1 ID: 9
-
+correct
 ### b1 ID: 10
-
+correct
 ### b2 ID: 1
 check because of differences in original file anyway
 ### b2 ID: 2

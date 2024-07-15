@@ -1,5 +1,21 @@
 ## Correction notes Jana
 
+# Dependency Trees
+
+Differences between uncorrected_dependency_trees.tsv and manually_corrected_dependency_trees.tsv before correction
+
+Text_id_num     text id      sent_index in text
+11              p5           5,6
+9               p3           1,2,6
+8               p2           3
+7               p1           7
+4               b4           6
+3               b3           1,8
+2               b2           1,5
+1               b1           2
+
+# Consticuency Trees
+
 ## Biology senetences
 ### b0 ID: 1
 all POS tags are correct

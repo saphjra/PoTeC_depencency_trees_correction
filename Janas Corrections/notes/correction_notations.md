@@ -77,7 +77,7 @@ correct
 ### b2 ID: 7
 correct
 ### b2 ID: 8
-wie sollte 'wie Phosphat' annotiert werden?, rest stimmt
+wie sollte 'wie Phosphat' annotiert werden?, rest stimmt -> wie CM ? 
 ### b2 ID: 9
 
 'und' falsche dependency,  sowie abhängiges von erhöht
@@ -87,13 +87,13 @@ dagegen mnr? nitrataufnahme AO nicht sb
 check because of differences in original file anyway
 würde aus abhängig von energie und nicht umwandeln machen 
 ### b3 ID: 2
-
+correct
 ### b3 ID: 3
-
+ganz falsch wegen gänsefüsschen
 ### b3 ID: 4
 
 ### b3 ID: 5
-
+COnsticuency tree nicht eindeutig/ möglich
 ### b3 ID: 6
 
 ### b3 ID: 7

@@ -130,7 +130,7 @@ def _create_constituency_trees(sentence: spacy.tokens.span.Span) -> tuple[Any, l
 
 def main() -> int:
     path = '/home/popos/PycharmProjects/PoTeC_depencency_trees_correction/stimuli'
-    create_syntax_trees(path=path)
+    display_syntax_trees(path=path)
     return 0
 
 

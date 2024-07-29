@@ -336,7 +336,6 @@ als KOKOM APPR falsch im Stimuli
 ['(S (NP (ART Der) (ADJA entscheidende) (NN Durchbruch) (PP (APPRART zur) (NN Aufstellung) (NP (ART eines) (NN Ordnungsschemas)))) (VVFIN gelang) (NP (ART dem) (NN Quarkmodell) ($, ,) (S (PRELS das) (ART die) (NN Vielzahl) (ART der) (AP (ADV bisher) (ADJA gefundenen)) ( PP (APPR als) ($LRB ")  (NN Elementarteilchen) ($LRB ") (NP (S (NP (NP (AP (ADJA angenommenen)) (NN Teilchen)))))) (PP (APPR als) (NN Systeme) (PP (APPR mit) (ADJA innerer) (NN Struktur) (VVFIN ansieht) ($, ,) (PRELS die) (VP (PP (APPR aus) (PIAT wenigen) ($LRB ") (AP (ADV noch) (ADJA elementareren)) ($LRB ") (NN Teilchen)) (VVPP zusammengesetzt)) (VAFIN sind)))))) ($. .)']
 
 bröuchte wieder kreuzende kanten
-!!!! korrigieren zeigt es noch nicht richtig an 
 ### p3 ID: 2
 als KOKOm zu APPR
 benachbart zu ADJD
@@ -388,6 +387,7 @@ wieder kreuzende kanten
 
 ### p4  ID: 5   
 POS correct
+
 ['(S (NP (ART Die) (NN Überlagerung) (NP (PDAT dieser) (NN Signalwelle)) (PP (APPRART vom) (ADJA veränderten) (NN Objekt)) (PP (APPR mit) (ART der) (NN Rekonstruktionswelle) (PP (APPRART vom) (NN Hologramm) (NP (ART des) (ADJA unveränderten) (NN Objektes))))) (VVFIN führt) ( PP (APPR zu) (NN Interferenzstrukturen)) (PP (APPRART im) (ADJA holografischen) (NN Bild) ($, ,)  (S (PRELS die) (ADV nur) (PP (APPR für) (PDAT diejenigen) (NN Teile) (NP (ART des) (NN Objektes)) (VVFIN auftreten) ($, ,)  (S (PRELS die) (VP (PRF sich) (VVPP verändert)) (VAFIN haben)))))) ($. .)']
 
 
@@ -398,8 +398,8 @@ POS correct
 
 ### p5 ID: 1
 POS correct
-!!!
-['(CS (S (PP (APPR Durch) (NN Einführen) (NP (ART der) (ADJA effektiven) (NN Masse))) (VMFIN können) (CNP (NP (NN Elektronen) (PP (APPRART im) (NN Leitungsband))) (KON und) (NP (NN Löcher) (PP (APPRART im) (NN Valenzband) (NP (ART eines) (NN Kristalles))))) (VP (VP (NP (KOKOM wie) (ADJA freie) (NN Teilchen)) (VVPP aufgefasst)) (VAINF werden))) (KON und) (S (VVFIN bewegen) (PRF sich) (CPP (PP (APPRART am) (NN Energieminimum) (PP (APPRART im) (NN Leitungsband))) (KON und) (PP (APPRART am) (NN Energiemaximum) (PP (APPRART im) (NN Valenzband)))) (PP (APPR auf) (NN Parabeln)))) ($. .)']
+
+['(CS (S (PP (APPR Durch) (NN Einführen) (NP (ART der) (ADJA effektiven) (NN Masse))) (VMFIN können) (CNP (NP (NN Elektronen) (PP (APPRART im) (NN Leitungsband))) (KON und) (NP (NN Löcher) (PP (APPRART im) (NN Valenzband) (NP (ART eines) (NN Kristalles))))) (VP (VP (NP (KOKOM wie) (ADJA freie) (NN Teilchen)) (VVPP aufgefasst)) (VAINF werden))) (KON und) (S (VVFIN bewegen) (PRF sich) (CPP (PP (APPRART am) (NN Energieminimum) (PP (APPRART im) (NN Leitungsband))) (KON und) (PP (APPRART am) (NN Energiemaximum) (PP (APPRART im) (NN Valenzband)))) (PP (APPR auf) (NN Parabeln))))) ($. .)']
 
 ### p5 ID: 2
 

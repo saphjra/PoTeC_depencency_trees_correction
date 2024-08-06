@@ -91,7 +91,8 @@ correct
 ### b3 ID: 3
 ganz falsch wegen gänsefüsschen
 ### b3 ID: 4
-
+![img.png](img.png)
+scheint falsch ,von denen wäre ein Phrasaler Genitiv aber er ist in einer REC deswegen bin ich nciht sicher wie ich es annotieren soll, ich glaube ich bräuchte eine sekundäre kantew
 ### b3 ID: 5
 COnsticuency tree nicht eindeutig/ möglich
 ### b3 ID: 6

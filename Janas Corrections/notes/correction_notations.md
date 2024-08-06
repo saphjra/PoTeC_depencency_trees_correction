@@ -525,14 +525,16 @@ POS correct
 
 ### p3 ID: 1
 als KOKOM APPR falsch im Stimuli
-
-['(S (NP (ART Der) (ADJA entscheidende) (NN Durchbruch) (PP (APPRART zur) (NN Aufstellung) (NP (ART eines) (NN Ordnungsschemas)))) (VVFIN gelang) (NP (ART dem) (NN Quarkmodell) ($, ,) (S (PRELS das) (ART die) (NN Vielzahl) (ART der) (AP (ADV bisher) (ADJA gefundenen)) ( PP (APPR als) ($LRB ")  (NN Elementarteilchen) ($LRB ") (NP (S (NP (NP (AP (ADJA angenommenen)) (NN Teilchen)))))) (PP (APPR als) (NN Systeme) (PP (APPR mit) (ADJA innerer) (NN Struktur) (VVFIN ansieht) ($, ,) (PRELS die) (VP (PP (APPR aus) (PIAT wenigen) ($LRB ") (AP (ADV noch) (ADJA elementareren)) ($LRB ") (NN Teilchen)) (VVPP zusammengesetzt)) (VAFIN sind)))))) ($. .)']
+!!!
+['(S (NP (ART Der) (ADJA entscheidende) (NN Durchbruch) (PP (APPRART zur) (NN Aufstellung) (NP (ART eines) (NN Ordnungsschemas)))) (VVFIN gelang) (NP (ART dem) (NN Quarkmodell) ($, ,) (S (PRELS das) (NP (ART die) (NN Vielzahl) (ART der) (AP (ADV bisher) (ADJA gefundenen)) (PP (APPR als) ($LRB ")  (NN Elementarteilchen) ($LRB ") (AP (ADJA angenommenen)) (NN Teilchen))) (PP (APPR als) (NN Systeme) (PP (APPR mit) (ADJA innerer) (NN Struktur) (VVFIN ansieht) ($, ,) (PRELS die) (VP (PP (APPR aus) (PIAT wenigen) ($LRB ") (AP (ADV noch) (ADJA elementareren)) ($LRB ") (NN Teilchen)) (VVPP zusammengesetzt)) (VAFIN sind)))))) ($. .)']
 
 bröuchte wieder kreuzende kanten
+
 ### p3 ID: 2
 als KOKOm zu APPR
 benachbart zu ADJD
-['(S (AVP (S (VVFIN Trägt) (PIS man) (NP (ART die) (AP (ADV bisher) (ADJA bekannten)) (NN Hadronen)) (PP (APPR in) (ART einem) (NN Diagramm) (PTKVZ ein) ($, ,)  (CS (S (PP (APPR in) (PRELS dem)) (NP (PPOSAT ihre) (NN Masse)) (PP (APPR als) (NN Ordinate))) (KON und) (S (NP (PPOSAT ihr) (NN Spin)) (VP (PP (APPR als) (NN Abszisse)) (VVPP gewählt)) (VAFIN wird)))))) ($, ,) (ADV so) (VVFIN fällt) (PTKVZ auf) ($, ,) (S (KOUS dass) (PPER es) (ADJA bestimmte) (NN Gruppen) (VVFIN gibt)) ($, ,) (NP (CS (S (PP (APPR in) (PRELS denen)) (NP (ART die) (NN Teilchen)) (VP (PP (APPR in) (PDAT diesem) (NN Diagramm)) (ADJD eng) (ADJD benachbart)) (VAFIN sind)))) ($, ,) (S (VVFIN d.h.) (CNP (NP (ADJA gleichen) (NN Spin)) ($, ,) (NP (ADJA gleiche) (NN Parität)) (KON und) (NP (AP (ADV fast) (ADJA gleiche)) (NN Masse))) (VAFIN haben))) ($. .)']
+!!!
+['(S (AVP (S (VVFIN Trägt) (PIS man) (NP (ART die) (AP (ADV bisher) (ADJA bekannten)) (NN Hadronen)) (PP (APPR in) (ART einem) (NN Diagramm) (PTKVZ ein) ($, ,)  (CS (S (PP (APPR in) (PRELS dem)) (NP (PPOSAT ihre) (NN Masse)) (PP (APPR als) (NN Ordinate))) (KON und) (S (NP (PPOSAT ihr) (NN Spin)) (VP (PP (APPR als) (NN Abszisse)) (VVPP gewählt)) (VAFIN wird)))))) ($, ,) (ADV so) (VVFIN fällt) (PTKVZ auf) ($, ,) (S (KOUS dass) (PPER es) (NP (ADJA bestimmte) (NN Gruppen) (VVFIN gibt) ($, ,) (S (PP (APPR in) (PRELS denen)) (NP (ART die) (NN Teilchen)) (VP (PP (APPR in) (PDAT diesem) (NN Diagramm)) (ADJD eng) (ADJD benachbart)) (VAFIN sind))) ($, ,) (S (VVFIN d.h.)) (CNP (NP (ADJA gleichen) (NN Spin)) ($, ,) (NP (ADJA gleiche) (NN Parität)) (KON und) (NP (AP (ADV fast) (ADJA gleiche)) (NN Masse))) (VAFIN haben)))) ($. .)']
 
 ### p3 ID: 3
 wenigen PIAT PIDAT 
@@ -541,8 +543,10 @@ wenigen PIAT PIDAT
 
 ### p3 ID: 4
 als KOKOM APPr
-['(S (NP (PDAT Diese) (NN Idee)) (VAFIN wurde) (VP (VVPP unterstützt) (PP (APPR durch) (ART das) (ADJA anomale) (ADJA magnetische) (NN Moment) (NP (ART des) (NN Neutrons) ($, ,)  (S (PRELS das) (PP (APPR als) (ADJA neutrales) (NN Teilchen)) (ADV eigentlich) (VP (NP (PIAT kein) (ADJA magnetisches) (NN Moment)) (VAINF haben)) (VMFIN sollte)))) ($, ,) (S (APPR außer) (KOUS wenn) (PPER es) (VP (APPR aus) (ADJA geladenen) (NN Teilchen) (VVPP zusammengesetzt)) (VAFIN ist)) ($, ,) (PP (S (NP (PRELAT deren) (NN Ladungen)) (PRF sich) (PP (APPR zu) (CARD null)) (VVFIN kompensieren))))) ($. .)']
-!!!
+
+
+['(S (NP (PDAT Diese) (NN Idee)) (VAFIN wurde) (VP (VVPP unterstützt) (PP (APPR durch) (ART das) (ADJA anomale) (ADJA magnetische) (NN Moment) (NP (ART des) (NN Neutrons) ($, ,)  (S (PRELS das) (PP (APPR als) (ADJA neutrales) (NN Teilchen)) (ADV eigentlich) (VP (NP (PIAT kein) (ADJA magnetisches) (NN Moment)) (VAINF haben)) (VMFIN sollte)))) ($, ,) (S (APPR außer) (KOUS wenn) (PPER es) (VP (APPR aus) (ADJA geladenen) (NN Teilchen) (VVPP zusammengesetzt)) (VAFIN ist)) ($, ,) (PP (S (NP (PRELAT deren) (NN Ladungen)) (PRF sich) (PP (APPR zu) (CARD null)) (VVFIN kompensieren))) ($. .)']
+
 wieder kreuzende kanten
 
 ### p3 ID: 5

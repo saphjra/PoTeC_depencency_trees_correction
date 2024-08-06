@@ -6,7 +6,7 @@ import regex as re
 from nltk import TreePrettyPrinter
 from nltk.tree import ParentedTree
 import pandas as pd
-
+import numpy as np
 
 class SampleViewer:
 
@@ -168,7 +168,16 @@ def clean_df(file_path):
     data.to_csv(file_path, sep='\t', encoding='utf-8', index=True, index_label='index')
 
 
-if __name__ == "__main__":
+def manually_corrected_cols(file_path, index_not_manually_corrected_sentences: list): # ids is the list of sentence indexes that were not manually corrected
+    data = pd.read_csv(file_path, sep='\t', encoding='utf-8')
+    data.rename(columns={"needs_correction": "manually_corrected"}, inplace=True)
+    data['manually_corrected'] = True
+    for i in index_not_manually_corrected_sentences:
+        #data['manually_corrected'] = np.where(data['index'] == i, True)
+        data.loc[data['index'] == i, 'manually_corrected'] = False
+    data.to_csv(f"{file_path}_correted", sep='\t', encoding='utf-8', index=False)
+
+def display_constituency_trees():
     args = parse_args()
     sentence_Id = 0
     file_path = 'constituency_trees_manually_corrected.tsv'
@@ -183,3 +192,12 @@ if __name__ == "__main__":
     # root.attributes('-fullscreen', True)
     app = SampleViewer(root, file_path, args.languages, args.all_samples, args.no_punctuation, sentence_Id)
     root.mainloop()
+
+
+if __name__ == "__main__":
+    args = parse_args()
+    sentence_Id = 0
+    file_path = 'constituency_trees_1.tsv'
+    index_not_manually_corrected_sentences = [2, 8, 9, 11, 15, 17, 19, 25, 27, 35, 39, 49, 55, 58, 68, 69, 79, 96, 97]
+    manually_corrected_cols(file_path, index_not_manually_corrected_sentences)
+

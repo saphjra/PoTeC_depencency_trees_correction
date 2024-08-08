@@ -219,7 +219,7 @@ POs , baum angepasst wieder Relativesätze die nicht verschachtelt geklammert we
 ### b5 ID: 1
 Pos correct
 !!
-['(S (NP (ART Ein) (NN Prion)) (VAFIN ist) (NP (ART ein) (ADJA infektiöses) (NN Protein) ($, ,) (S (PRELS das) (PP (APPR von) (ART einem) (CAP (ADJA endogenen) ($, ,) (ADJA zellulären)) (NN Protein)) (VVFIN abstammt)) (KON und) (S (NP (PRELAT dessen) (NN Primärstruktur)) (VVFIN besitzt))) ($, ,) (S (PRF sich) (ADV aber) (PP (APPR in) (CNP (TRUNC Sekundär-))) ($, ,) (S (TRUNC Tertiär-) (KON und) (NN Quartärstrukturen) (PP (APPR von) (PDS diesem)) (VVFIN unterscheidet)))) ($. .)']
+['(S (NP (ART Ein) (NN Prion)) (VAFIN ist) (NP (ART ein) (ADJA infektiöses) (NN Protein) ($, ,) (CS (CS (S (PRELS das) (PP (APPR von) (ART einem) (CAP (ADJA endogenen) ($, ,) (ADJA zellulären)) (NN Protein)) (VVFIN abstammt)) (KON und) (S (NP (PRELAT dessen) (NN Primärstruktur)) (VVFIN besitzt))) ($, ,) (S (PRF sich) (ADV aber) (PP (APPR in) (CNP (TRUNC Sekundär-) ($, ,) (TRUNC Tertiär-) (KON und) (NN Quartärstrukturen))) (PP (APPR von) (PDS diesem)) (VVFIN unterscheidet))))) ($. .)']
 ### b5 ID: 2
 pos correct
 

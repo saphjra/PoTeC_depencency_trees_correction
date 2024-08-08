@@ -1603,57 +1603,57 @@ Probe	Probe	NOUN	NN	nk	in	ADP	[einer]	7	p1	8
 zu	zu	PART	PTKZU	pm	analysieren	VERB	[]	7	p1	8
 analysieren	analysieren	VERB	VVINF	mo	benutzt	VERB	[um, mit, Hyperfeinstrukturenaufspaltungen, zu]	7	p1	8
 .	--	PUNCT	$.	punct	wird	AUX	[]	7	p1	8
-Ein	ein	DET	ART	nk	Prion	NOUN	[]	5	b5	1
-Prion	Prion	NOUN	NN	sb	ist	AUX	[Ein]	5	b5	1
-ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Prion, Protein, .]	5	b5	1
-ein	ein	DET	ART	nk	Protein	NOUN	[]	5	b5	1
-infektiöses	infektiös	ADJ	ADJA	nk	Protein	NOUN	[]	5	b5	1
-Protein	Protein	NOUN	NN	pd	ist	AUX	[ein, infektiöses, ,, abstammt]	5	b5	1
-,	--	PUNCT	$,	punct	Protein	NOUN	[]	5	b5	1
-das	der	PRON	PRELS	sb	abstammt	VERB	[]	5	b5	1
-von	von	ADP	APPR	op	abstammt	VERB	[Protein]	5	b5	1
-einem	ein	DET	ART	nk	Protein	NOUN	[]	5	b5	1
-endogenen	endogen	ADJ	ADJA	nk	Protein	NOUN	[,, zellulären]	5	b5	1
-,	--	PUNCT	$,	punct	endogenen	ADJ	[]	5	b5	1
-zellulären	zellulärer	DET	ADJA	cj	endogenen	ADJ	[]	5	b5	1
-Protein	Protein	NOUN	NN	nk	von	ADP	[einem, endogenen]	5	b5	1
-abstammt	abstammt	VERB	VVFIN	rc	Protein	NOUN	[das, von, und]	5	b5	1
-und	und	CCONJ	KON	cd	abstammt	VERB	[besitzt]	5	b5	1
-dessen	der	PRON	PRELAT	ag	Primärstruktur	NOUN	[]	5	b5	1
-Primärstruktur	Primärstruktur	NOUN	NN	oa	besitzt	VERB	[dessen]	5	b5	1
-besitzt	besitzen	VERB	VVFIN	cj	und	CCONJ	[Primärstruktur, ,, unterscheidet]	5	b5	1
-,	--	PUNCT	$,	punct	besitzt	VERB	[]	5	b5	1
-sich	sich	PRON	PRF	oa	unterscheidet	VERB	[]	5	b5	1
-aber	aber	ADV	ADV	mo	unterscheidet	VERB	[]	5	b5	1
-in	in	ADP	APPR	mo	unterscheidet	VERB	[Quartärstrukturen]	5	b5	1
-Sekundär-	Sekundär	X	TRUNC	cj	Tertiär-	X	[]	5	b5	1
-,	--	PUNCT	$,	punct	Quartärstrukturen	NOUN	[]	5	b5	1
-Tertiär-	Tertiär	X	TRUNC	cj	und	CCONJ	[Sekundär-]	5	b5	1
-und	und	CCONJ	KON	cd	Quartärstrukturen	NOUN	[Tertiär-]	5	b5	1
-Quartärstrukturen	Quartärstruktur	NOUN	NN	nk	in	ADP	[,, und, von]	5	b5	1
-von	von	ADP	APPR	mnr	Quartärstrukturen	NOUN	[diesem]	5	b5	1
-diesem	dieser	PRON	PDS	nk	von	ADP	[]	5	b5	1
-unterscheidet	unterscheiden	VERB	VVFIN	cj	besitzt	VERB	[sich, aber, in]	5	b5	1
-.	--	PUNCT	$.	punct	ist	AUX	[]	5	b5	1
-Seine	sein	DET	PPOSAT	nk	Eigenschaften	NOUN	[]	5	b5	2
-strukturellen	strukturell	ADJ	ADJA	nk	Eigenschaften	NOUN	[]	5	b5	2
-Eigenschaften	Eigenschaft	NOUN	NN	sb	verleihen	VERB	[Seine, strukturellen]	5	b5	2
-verleihen	verleihen	VERB	VVFIN	ROOT	verleihen	VERB	[Eigenschaften, Prion, Fähigkeit, .]	5	b5	2
-dem	der	DET	ART	nk	Prion	NOUN	[]	5	b5	2
-Prion	Prion	NOUN	NN	da	verleihen	VERB	[dem]	5	b5	2
-die	der	DET	ART	nk	Fähigkeit	NOUN	[]	5	b5	2
-Fähigkeit	Fähigkeit	NOUN	NN	oa	verleihen	VERB	[die, ,, umzuwandeln]	5	b5	2
-,	--	PUNCT	$,	punct	Fähigkeit	NOUN	[]	5	b5	2
-sich	sich	PRON	PRF	oa	umzuwandeln	VERB	[]	5	b5	2
-durch	durch	ADP	APPR	mo	umzuwandeln	VERB	[Autokatalyse]	5	b5	2
-Autokatalyse	Autokatalyse	NOUN	NN	nk	durch	ADP	[]	5	b5	2
-von	von	ADP	APPR	mo	umzuwandeln	VERB	[Wildtypprotein]	5	b5	2
-einem	ein	DET	ART	nk	Wildtypprotein	NOUN	[]	5	b5	2
-Wildtypprotein	Wildtypprotein	NOUN	NN	nk	von	ADP	[einem]	5	b5	2
-zum	zu	ADP	APPRART	mo	umzuwandeln	VERB	[Prionenprotein]	5	b5	2
-Prionenprotein	Prionenprotein	NOUN	NN	nk	zum	ADP	[]	5	b5	2
-umzuwandeln	umwandeln	VERB	VVIZU	oc	Fähigkeit	NOUN	[sich, durch, von, zum]	5	b5	2
-.	--	PUNCT	$.	punct	verleihen	VERB	[]	5	b5	2
+Ein	ein	DET	ART	nk	Prion	NOUN	[]	5	b5	1	False
+Prion	Prion	NOUN	NN	sb	ist	AUX	[Ein]	5	b5	1	False
+ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Prion, Protein, .]	5	b5	1	False
+ein	ein	DET	ART	nk	Protein	NOUN	[]	5	b5	1	False
+infektiöses	infektiös	ADJ	ADJA	nk	Protein	NOUN	[]	5	b5	1	False
+Protein	Protein	NOUN	NN	pd	ist	AUX	[ein, infektiöses, ,, abstammt]	5	b5	1	False
+,	--	PUNCT	$,	punct	Protein	NOUN	[]	5	b5	1	False
+das	der	PRON	PRELS	sb	abstammt	VERB	[]	5	b5	1	False
+von	von	ADP	APPR	op	abstammt	VERB	[Protein]	5	b5	1	False
+einem	ein	DET	ART	nk	Protein	NOUN	[]	5	b5	1	False
+endogenen	endogen	ADJ	ADJA	nk	Protein	NOUN	[,, zellulären]	5	b5	1	False
+,	--	PUNCT	$,	punct	endogenen	ADJ	[]	5	b5	1	False
+zellulären	zellulärer	DET	ADJA	cj	endogenen	ADJ	[]	5	b5	1	False
+Protein	Protein	NOUN	NN	nk	von	ADP	[einem, endogenen]	5	b5	1	False
+abstammt	abstammt	VERB	VVFIN	rc	Protein	NOUN	[das, von, und]	5	b5	1	False
+und	und	CCONJ	KON	cd	abstammt	VERB	[besitzt]	5	b5	1	False
+dessen	der	PRON	PRELAT	ag	Primärstruktur	NOUN	[]	5	b5	1	False
+Primärstruktur	Primärstruktur	NOUN	NN	oa	besitzt	VERB	[dessen]	5	b5	1	False
+besitzt	besitzen	VERB	VVFIN	cj	und	CCONJ	[Primärstruktur, ,, unterscheidet]	5	b5	1	False
+,	--	PUNCT	$,	punct	besitzt	VERB	[]	5	b5	1	False
+sich	sich	PRON	PRF	oa	unterscheidet	VERB	[]	5	b5	1	False
+aber	aber	CCONJ	KON	cd	unterscheidet	VERB	[]	5	b5	1	True
+in	in	ADP	APPR	mo	unterscheidet	VERB	[Quartärstrukturen]	5	b5	1	False
+Sekundär-	Sekundär	X	TRUNC	cj	Tertiär-	X	[]	5	b5	1	False
+,	--	PUNCT	$,	punct	Quartärstrukturen	NOUN	[]	5	b5	1	False
+Tertiär-	Tertiär	X	TRUNC	cj	und	CCONJ	[Sekundär-]	5	b5	1	False
+und	und	CCONJ	KON	cd	Quartärstrukturen	NOUN	[Tertiär-]	5	b5	1	False
+Quartärstrukturen	Quartärstruktur	NOUN	NN	nk	in	ADP	[,, und, von]	5	b5	1	False
+von	von	ADP	APPR	mnr	Quartärstrukturen	NOUN	[diesem]	5	b5	1	False
+diesem	dieser	PRON	PDS	nk	von	ADP	[]	5	b5	1	False
+unterscheidet	unterscheiden	VERB	VVFIN	cj	besitzt	VERB	[sich, aber, in]	5	b5	1	False
+.	--	PUNCT	$.	punct	ist	AUX	[]	5	b5	1	False
+Seine	sein	DET	PPOSAT	nk	Eigenschaften	NOUN	[]	5	b5	2	False
+strukturellen	strukturell	ADJ	ADJA	nk	Eigenschaften	NOUN	[]	5	b5	2	False
+Eigenschaften	Eigenschaft	NOUN	NN	sb	verleihen	VERB	[Seine, strukturellen]	5	b5	2	False
+verleihen	verleihen	VERB	VVFIN	ROOT	verleihen	VERB	[Eigenschaften, Prion, Fähigkeit, .]	5	b5	2	False
+dem	der	DET	ART	nk	Prion	NOUN	[]	5	b5	2	False
+Prion	Prion	NOUN	NN	da	verleihen	VERB	[dem]	5	b5	2	False
+die	der	DET	ART	nk	Fähigkeit	NOUN	[]	5	b5	2	False
+Fähigkeit	Fähigkeit	NOUN	NN	oa	verleihen	VERB	[die, ,, umzuwandeln]	5	b5	2	False
+,	--	PUNCT	$,	punct	Fähigkeit	NOUN	[]	5	b5	2	False
+sich	sich	PRON	PRF	oa	umzuwandeln	VERB	[]	5	b5	2	False
+durch	durch	ADP	APPR	mo	umzuwandeln	VERB	[Autokatalyse]	5	b5	2	False
+Autokatalyse	Autokatalyse	NOUN	NN	nk	durch	ADP	[]	5	b5	2	False
+von	von	ADP	APPR	mo	umzuwandeln	VERB	[Wildtypprotein]	5	b5	2	False
+einem	ein	DET	ART	nk	Wildtypprotein	NOUN	[]	5	b5	2	False
+Wildtypprotein	Wildtypprotein	NOUN	NN	nk	von	ADP	[einem]	5	b5	2	False
+zum	zu	ADP	APPRART	mo	umzuwandeln	VERB	[Prionenprotein]	5	b5	2	False
+Prionenprotein	Prionenprotein	NOUN	NN	nk	zum	ADP	[]	5	b5	2	False
+umzuwandeln	umwandeln	VERB	VVIZU	oc	Fähigkeit	NOUN	[sich, durch, von, zum]	5	b5	2	False
+.	--	PUNCT	$.	punct	verleihen	VERB	[]	5	b5	2	False
 Dieses	dieser	DET	PDAT	nk	Ereignis	NOUN	[]	5	b5	3
 Ereignis	Ereignis	NOUN	NN	sb	kann	AUX	[Dieses]	5	b5	3
 kann	können	AUX	VMFIN	ROOT	kann	AUX	[Ereignis, erfolgen, .]	5	b5	3

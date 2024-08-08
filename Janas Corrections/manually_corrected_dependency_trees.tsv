@@ -632,96 +632,96 @@ ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Für, Wurzelarchitektur, ,, verhalten, .]	2	b2	
 die	der	DET	ART	nk	Wurzelarchitektur	NOUN	[]	2	b2	5	False
 Wurzelarchitektur	Wurzelarchitektur	NOUN	NN	sb	ist	AUX	[die, von]	2	b2	5	False
 von	von	ADP	APPR	mo	ist	AUX	[Bedeutung]	2	b2	5	True
-ganz	ganz	ADV	ADV	mo	besonderer	ADJ	[]	2	b2	5
-besonderer	besonderer	ADJ	ADJA	nk	Bedeutung	NOUN	[ganz]	2	b2	5
-Bedeutung	Bedeutung	NOUN	NN	nk	von	ADP	[besonderer]	2	b2	5
-,	--	PUNCT	$,	punct	ist	AUX	[]	2	b2	5
-weil	weil	SCONJ	KOUS	cp	verhalten	VERB	[]	2	b2	5
-sich	sich	PRON	PRF	oa	verhalten	VERB	[]	2	b2	5
-unterschiedliche	unterschiedlich	ADJ	ADJA	nk	Mineralstoffe	NOUN	[]	2	b2	5
-Mineralstoffe	Mineralstoff	NOUN	NN	sb	verhalten	VERB	[unterschiedliche]	2	b2	5
-ganz	ganz	ADV	ADV	mo	verschieden	ADV	[]	2	b2	5
-verschieden	verschieden	ADV	ADJD	mo	verhalten	VERB	[ganz]	2	b2	5
-verhalten	verhalten	VERB	VVFIN	mo	ist	AUX	[weil, sich, Mineralstoffe, verschieden, und]	2	b2	5
-und	und	CCONJ	KON	cd	verhalten	VERB	[werden]	2	b2	5
-durch	durch	ADP	APPR	mo	gehalten	VERB	[Kräfte]	2	b2	5
-verschiedenartige	verschiedenartig	ADJ	ADJA	nk	Kräfte	NOUN	[]	2	b2	5
-Kräfte	Kraft	NOUN	NN	nk	durch	ADP	[verschiedenartige, im]	2	b2	5
-im	in	ADP	APPRART	mnr	Kräfte	NOUN	[Boden]	2	b2	5
-Boden	Boden	NOUN	NN	nk	im	ADP	[]	2	b2	5
-gehalten	halten	VERB	VVPP	oc	werden	AUX	[durch]	2	b2	5
-werden	werden	AUX	VAFIN	cj	und	CCONJ	[gehalten]	2	b2	5
-.	--	PUNCT	$.	punct	ist	AUX	[]	2	b2	5
-Nitrationen	Nitration	NOUN	NN	sb	diffundieren	VERB	[]	2	b2	6
-diffundieren	diffundieren	VERB	VVFIN	ROOT	diffundieren	VERB	[Nitrationen, schnell, im, .]	2	b2	6
-schnell	schnell	ADV	ADJD	mo	diffundieren	VERB	[]	2	b2	6
-im	in	ADP	APPRART	mo	diffundieren	VERB	[Bodenwasser]	2	b2	6
-Bodenwasser	Bodenwasser	NOUN	NN	nk	im	ADP	[]	2	b2	6
-.	--	PUNCT	$.	punct	diffundieren	VERB	[]	2	b2	6
-Stark	stark	ADV	ADJD	mo	transpirierende	ADJ	[]	2	b2	7
-transpirierende	transpirierend	ADJ	ADJA	nk	Pflanzen	NOUN	[Stark]	2	b2	7
-Pflanzen	Pflanze	NOUN	NN	sb	können	AUX	[transpirierende]	2	b2	7
-können	können	AUX	VMFIN	ROOT	können	AUX	[Pflanzen, transportieren, .]	2	b2	7
-Nitrat	Nitrat	NOUN	NN	oa	transportieren	VERB	[]	2	b2	7
-schneller	schnell	ADV	ADJD	mo	transportieren	VERB	[]	2	b2	7
-zur	zu	ADP	APPRART	mo	transportieren	VERB	[Wurzeloberfläche]	2	b2	7
-Wurzeloberfläche	Wurzeloberfläche	NOUN	NN	nk	zur	ADP	[]	2	b2	7
-transportieren	transportieren	VERB	VVINF	oc	können	AUX	[Nitrat, schneller, zur, ,, können]	2	b2	7
-,	--	PUNCT	$,	punct	transportieren	VERB	[]	2	b2	7
-als	als	SCONJ	KOKOM	cp	können	AUX	[]	2	b2	7
-sie	sie	PRON	PPER	sb	können	AUX	[]	2	b2	7
-es	es	PRON	PPER	oa	anreichern	VERB	[]	2	b2	7
-im	in	ADP	APPRART	mo	anreichern	VERB	[Pflanzenkörper]	2	b2	7
-Pflanzenkörper	Pflanzenkörper	NOUN	NN	nk	im	ADP	[]	2	b2	7
-anreichern	anreichern	VERB	VVINF	oc	können	AUX	[es, im]	2	b2	7
-können	können	AUX	VMFIN	mo	transportieren	VERB	[als, sie, anreichern]	2	b2	7
-.	--	PUNCT	$.	punct	können	AUX	[]	2	b2	7
-Andere	anderer	ADJ	ADJA	nk	Mineralstoffe	NOUN	[]	2	b2	8
-essenzielle	essenziell	ADJ	ADJA	nk	Mineralstoffe	NOUN	[]	2	b2	8
-Mineralstoffe	Mineralstoff	NOUN	NN	sb	sind	AUX	[Andere, essenzielle, wie]	2	b2	8
-wie	wie	ADP	KOKOM	cd	Mineralstoffe	NOUN	[Phosphat]	2	b2	8
-Phosphat	Phosphat	NOUN	NN	cj	wie	ADP	[]	2	b2	8
-sind	sein	AUX	VAFIN	ROOT	sind	AUX	[Mineralstoffe, gebunden, ,, haben, .]	2	b2	8
-jedoch	jedoch	ADV	ADV	mo	gebunden	VERB	[]	2	b2	8
-fest	fest	ADV	ADJD	mo	gebunden	VERB	[]	2	b2	8
-im	in	ADP	APPRART	mo	gebunden	VERB	[Boden]	2	b2	8
-Boden	Boden	NOUN	NN	nk	im	ADP	[]	2	b2	8
-gebunden	binden	VERB	VVPP	oc	sind	AUX	[jedoch, fest, im]	2	b2	8
-,	--	PUNCT	$,	punct	sind	AUX	[]	2	b2	8
-sie	sie	PRON	PPER	sb	haben	VERB	[]	2	b2	8
-haben	haben	VERB	VAFIN	cj	sind	AUX	[sie, Diffusionskoeffizienten]	2	b2	8
-niedrige	niedrig	ADJ	ADJA	nk	Diffusionskoeffizienten	NOUN	[]	2	b2	8
-Diffusionskoeffizienten	Diffusionskoeffizient	NOUN	NN	oa	haben	VERB	[niedrige]	2	b2	8
-.	--	PUNCT	$.	punct	sind	AUX	[]	2	b2	8
-Die	der	DET	ART	nk	Phosphatverarmungszonen	NOUN	[]	2	b2	9
-Phosphatverarmungszonen	Phosphatverarmungszon	NOUN	NN	sb	überlappen	VERB	[Die, von]	2	b2	9
-von	von	ADP	APPR	pg	Phosphatverarmungszonen	NOUN	[Wurzeln]	2	b2	9
-zwei	zwei	NUM	CARD	nk	Wurzeln	NOUN	[]	2	b2	9
-Wurzeln	Wurzel	NOUN	NN	nk	von	ADP	[zwei, ,, sind]	2	b2	9
-,	--	PUNCT	$,	punct	Wurzeln	NOUN	[]	2	b2	9
-die	der	PRON	PRELS	sb	sind	AUX	[]	2	b2	9
-sehr	sehr	ADV	ADV	mo	nah	ADV	[]	2	b2	9
-nah	nah	ADV	ADJD	mo	beieinander	ADV	[sehr]	2	b2	9
-beieinander	beieinand	ADV	ADV	pd	sind	AUX	[nah]	2	b2	9
-sind	sein	AUX	VAFIN	rc	Wurzeln	NOUN	[die, beieinander]	2	b2	9
-,	--	PUNCT	$,	punct	überlappen	VERB	[]	2	b2	9
-überlappen	überlappen	VERB	VVFIN	ROOT	überlappen	VERB	[Phosphatverarmungszonen, ,, sich, kaum, erhöht, .]	2	b2	9
-sich	sich	PRON	PRF	oa	überlappen	VERB	[]	2	b2	9
-kaum	kaum	ADV	ADV	mo	überlappen	VERB	[und]	2	b2	9
-und	und	CCONJ	KON	cd	kaum	ADV	[Wurzelsystem]	2	b2	9
-ein	ein	DET	ART	nk	Wurzelsystem	NOUN	[]	2	b2	9
-reich	reich	ADV	ADJD	mo	verzweigtes	ADJ	[]	2	b2	9
-verzweigtes	verzweigt	ADJ	ADJA	nk	Wurzelsystem	NOUN	[reich]	2	b2	9
-Wurzelsystem	Wurzelsystem	NOUN	NN	cj	und	CCONJ	[ein, verzweigtes]	2	b2	9
-erhöht	erhöhen	VERB	VVFIN	mo	überlappen	VERB	[Phosphataufnahme, bei, daher, enorm]	2	b2	9
-die	der	DET	ART	nk	Phosphataufnahme	NOUN	[]	2	b2	9
-Phosphataufnahme	Phosphataufnahme	NOUN	NN	oa	erhöht	VERB	[die]	2	b2	9
-bei	bei	ADP	APPR	mo	erhöht	VERB	[Phosphatversorgung]	2	b2	9
-knapper	knapp	ADJ	ADJA	nk	Phosphatversorgung	NOUN	[]	2	b2	9
-Phosphatversorgung	Phosphatversorgung	NOUN	NN	nk	bei	ADP	[knapper]	2	b2	9
-daher	daher	ADV	PROAV	mo	erhöht	VERB	[]	2	b2	9
-enorm	enorm	ADV	ADJD	mo	erhöht	VERB	[]	2	b2	9
-.	--	PUNCT	$.	punct	überlappen	VERB	[]	2	b2	9
+ganz	ganz	ADV	ADV	mo	besonderer	ADJ	[]	2	b2	5	False
+besonderer	besonderer	ADJ	ADJA	nk	Bedeutung	NOUN	[ganz]	2	b2	5	False
+Bedeutung	Bedeutung	NOUN	NN	nk	von	ADP	[besonderer]	2	b2	5	False
+,	--	PUNCT	$,	punct	ist	AUX	[]	2	b2	5	False
+weil	weil	SCONJ	KOUS	cp	verhalten	VERB	[]	2	b2	5	False
+sich	sich	PRON	PRF	oa	verhalten	VERB	[]	2	b2	5	False
+unterschiedliche	unterschiedlich	ADJ	ADJA	nk	Mineralstoffe	NOUN	[]	2	b2	5	False
+Mineralstoffe	Mineralstoff	NOUN	NN	sb	verhalten	VERB	[unterschiedliche]	2	b2	5	False
+ganz	ganz	ADV	ADV	mo	verschieden	ADV	[]	2	b2	5	False
+verschieden	verschieden	ADV	ADJD	mo	verhalten	VERB	[ganz]	2	b2	5	False
+verhalten	verhalten	VERB	VVFIN	mo	ist	AUX	[weil, sich, Mineralstoffe, verschieden, und]	2	b2	5	False
+und	und	CCONJ	KON	cd	verhalten	VERB	[werden]	2	b2	5	False
+durch	durch	ADP	APPR	mo	gehalten	VERB	[Kräfte]	2	b2	5	False
+verschiedenartige	verschiedenartig	ADJ	ADJA	nk	Kräfte	NOUN	[]	2	b2	5	False
+Kräfte	Kraft	NOUN	NN	nk	durch	ADP	[verschiedenartige]	2	b2	5	True
+im	in	ADP	APPRART	mo	gehalten	VERB	[Boden]	2	b2	5	True
+Boden	Boden	NOUN	NN	nk	im	ADP	[]	2	b2	5	False
+gehalten	halten	VERB	VVPP	oc	werden	AUX	[durch, im]	2	b2	5	True
+werden	werden	AUX	VAFIN	cj	und	CCONJ	[gehalten]	2	b2	5	False
+.	--	PUNCT	$.	punct	ist	AUX	[]	2	b2	5	False
+Nitrationen	Nitration	NOUN	NN	sb	diffundieren	VERB	[]	2	b2	6	False
+diffundieren	diffundieren	VERB	VVFIN	ROOT	diffundieren	VERB	[Nitrationen, schnell, im, .]	2	b2	6	False
+schnell	schnell	ADV	ADJD	mo	diffundieren	VERB	[]	2	b2	6	False
+im	in	ADP	APPRART	mo	diffundieren	VERB	[Bodenwasser]	2	b2	6	False
+Bodenwasser	Bodenwasser	NOUN	NN	nk	im	ADP	[]	2	b2	6	False
+.	--	PUNCT	$.	punct	diffundieren	VERB	[]	2	b2	6	False
+Stark	stark	ADV	ADJD	mo	transpirierende	ADJ	[]	2	b2	7	False
+transpirierende	transpirierend	ADJ	ADJA	nk	Pflanzen	NOUN	[Stark]	2	b2	7	False
+Pflanzen	Pflanze	NOUN	NN	sb	können	AUX	[transpirierende]	2	b2	7	False
+können	können	AUX	VMFIN	ROOT	können	AUX	[Pflanzen, transportieren, .]	2	b2	7	False
+Nitrat	Nitrat	NOUN	NN	oa	transportieren	VERB	[]	2	b2	7	False
+schneller	schnell	ADV	ADJD	mo	transportieren	VERB	[]	2	b2	7	False
+zur	zu	ADP	APPRART	mo	transportieren	VERB	[Wurzeloberfläche]	2	b2	7	False
+Wurzeloberfläche	Wurzeloberfläche	NOUN	NN	nk	zur	ADP	[]	2	b2	7	False
+transportieren	transportieren	VERB	VVINF	oc	können	AUX	[Nitrat, schneller, zur, ,, können]	2	b2	7	False
+,	--	PUNCT	$,	punct	transportieren	VERB	[]	2	b2	7	False
+als	als	SCONJ	KOKOM	cp	können	AUX	[]	2	b2	7	False
+sie	sie	PRON	PPER	sb	können	AUX	[]	2	b2	7	False
+es	es	PRON	PPER	oa	anreichern	VERB	[]	2	b2	7	False
+im	in	ADP	APPRART	mo	anreichern	VERB	[Pflanzenkörper]	2	b2	7	False
+Pflanzenkörper	Pflanzenkörper	NOUN	NN	nk	im	ADP	[]	2	b2	7	False
+anreichern	anreichern	VERB	VVINF	oc	können	AUX	[es, im]	2	b2	7	False
+können	können	AUX	VMFIN	mo	transportieren	VERB	[als, sie, anreichern]	2	b2	7	False
+.	--	PUNCT	$.	punct	können	AUX	[]	2	b2	7	False
+Andere	anderer	ADJ	ADJA	nk	Mineralstoffe	NOUN	[]	2	b2	8	False
+essenzielle	essenziell	ADJ	ADJA	nk	Mineralstoffe	NOUN	[]	2	b2	8	False
+Mineralstoffe	Mineralstoff	NOUN	NN	sb	sind	AUX	[Andere, essenzielle, wie]	2	b2	8	False
+wie	wie	ADP	KOKOM	cc	Mineralstoffe	NOUN	[Phosphat]	2	b2	8	True
+Phosphat	Phosphat	NOUN	NN	nk	wie	ADP	[]	2	b2	8	True
+sind	sein	AUX	VAFIN	ROOT	sind	AUX	[Mineralstoffe, gebunden, ,, haben, .]	2	b2	8	False
+jedoch	jedoch	ADV	ADV	mo	gebunden	VERB	[]	2	b2	8	False
+fest	fest	ADV	ADJD	mo	gebunden	VERB	[]	2	b2	8	False
+im	in	ADP	APPRART	mo	gebunden	VERB	[Boden]	2	b2	8	False
+Boden	Boden	NOUN	NN	nk	im	ADP	[]	2	b2	8	False
+gebunden	binden	VERB	VVPP	oc	sind	AUX	[jedoch, fest, im]	2	b2	8	False
+,	--	PUNCT	$,	punct	sind	AUX	[]	2	b2	8	False
+sie	sie	PRON	PPER	sb	haben	VERB	[]	2	b2	8	False
+haben	haben	VERB	VAFIN	cj	sind	AUX	[sie, Diffusionskoeffizienten]	2	b2	8	False
+niedrige	niedrig	ADJ	ADJA	nk	Diffusionskoeffizienten	NOUN	[]	2	b2	8	False
+Diffusionskoeffizienten	Diffusionskoeffizient	NOUN	NN	oa	haben	VERB	[niedrige]	2	b2	8	False
+.	--	PUNCT	$.	punct	sind	AUX	[]	2	b2	8	False
+Die	der	DET	ART	nk	Phosphatverarmungszonen	NOUN	[]	2	b2	9	False
+Phosphatverarmungszonen	Phosphatverarmungszon	NOUN	NN	sb	überlappen	VERB	[Die, von]	2	b2	9	False
+von	von	ADP	APPR	pg	Phosphatverarmungszonen	NOUN	[Wurzeln]	2	b2	9	False
+zwei	zwei	NUM	CARD	nk	Wurzeln	NOUN	[]	2	b2	9	False
+Wurzeln	Wurzel	NOUN	NN	nk	von	ADP	[zwei, ,, sind]	2	b2	9	False
+,	--	PUNCT	$,	punct	Wurzeln	NOUN	[]	2	b2	9	False
+die	der	PRON	PRELS	sb	sind	AUX	[]	2	b2	9	False
+sehr	sehr	ADV	ADV	mo	nah	ADV	[]	2	b2	9	False
+nah	nah	ADV	ADJD	mo	beieinander	ADV	[sehr]	2	b2	9	False
+beieinander	beieinand	ADV	ADV	pd	sind	AUX	[nah]	2	b2	9	False
+sind	sein	AUX	VAFIN	rc	Wurzeln	NOUN	[die, beieinander]	2	b2	9	False
+,	--	PUNCT	$,	punct	überlappen	VERB	[]	2	b2	9	False
+überlappen	überlappen	VERB	VVFIN	ROOT	überlappen	VERB	[Phosphatverarmungszonen, ,, sich, kaum, und, .]	2	b2	9	True
+sich	sich	PRON	PRF	oa	überlappen	VERB	[]	2	b2	9	False
+kaum	kaum	ADV	ADV	mo	überlappen	VERB	[]	2	b2	9	True
+und	und	CCONJ	KON	cd	überlappen	VERB	[erhöht]	2	b2	9	True
+ein	ein	DET	ART	nk	Wurzelsystem	NOUN	[]	2	b2	9	False
+reich	reich	ADV	ADJD	mo	verzweigtes	ADJ	[]	2	b2	9	False
+verzweigtes	verzweigt	ADJ	ADJA	nk	Wurzelsystem	NOUN	[reich]	2	b2	9	False
+Wurzelsystem	Wurzelsystem	NOUN	NN	sb	erhöht	VERB	[ein, verzweigtes]	2	b2	9	True
+erhöht	erhöhen	VERB	VVFIN	mo	und	CCONJ	[Wurzelsystem, Phosphataufnahme, bei, daher, enorm]	2	b2	9	True
+die	der	DET	ART	nk	Phosphataufnahme	NOUN	[]	2	b2	9	False
+Phosphataufnahme	Phosphataufnahme	NOUN	NN	oa	erhöht	VERB	[die]	2	b2	9	False
+bei	bei	ADP	APPR	mo	erhöht	VERB	[Phosphatversorgung]	2	b2	9	False
+knapper	knapp	ADJ	ADJA	nk	Phosphatversorgung	NOUN	[]	2	b2	9	False
+Phosphatversorgung	Phosphatversorgung	NOUN	NN	nk	bei	ADP	[knapper]	2	b2	9	False
+daher	daher	ADV	PROAV	mo	erhöht	VERB	[]	2	b2	9	False
+enorm	enorm	ADV	ADJD	mo	erhöht	VERB	[]	2	b2	9	False
+.	--	PUNCT	$.	punct	überlappen	VERB	[]	2	b2	9	False
 Ein	ein	DET	ART	nk	Wurzelsystem	NOUN	[]	2	b2	10
 extensiv	extensiv	ADV	ADJD	mo	ausgebildetes	ADJ	[]	2	b2	10
 ausgebildetes	ausgebildet	ADJ	ADJA	nk	Wurzelsystem	NOUN	[extensiv]	2	b2	10

@@ -1,41 +1,41 @@
-spacy_word	spacy_lemma	spacy_pos	spacy_tag	dependency	dependency_head	dependency_head_pos	dependency_children	text_id_numeric	text_id	sent_index_in_text
-Ein	ein	DET	ART	nk	Zyklotron	NOUN	[]	6	p0	1
-Zyklotron	Zyklotron	NOUN	NN	sb	besteht	VERB	[Ein]	6	p0	1
-besteht	bestehen	VERB	VVFIN	ROOT	besteht	VERB	[Zyklotron, aus, .]	6	p0	1
-aus	aus	ADP	APPR	op	besteht	VERB	[Vakuumkammer]	6	p0	1
-einer	ein	DET	ART	nk	Vakuumkammer	NOUN	[]	6	p0	1
-flachen	flach	ADJ	ADJA	nk	Vakuumkammer	NOUN	[zylindrischen]	6	p0	1
-,	--	PUNCT	$,	punct	zylindrischen	VERB	[]	6	p0	1
-zylindrischen	zylindrischen	VERB	ADJA	cj	flachen	ADJ	[,]	6	p0	1
-Vakuumkammer	Vakuumkammer	NOUN	NN	nk	aus	ADP	[einer, flachen, zwischen]	6	p0	1
-zwischen	zwischen	ADP	APPR	mnr	Vakuumkammer	NOUN	[Polen]	6	p0	1
-den	der	DET	ART	nk	Polen	NOUN	[]	6	p0	1
-Polen	Pole	NOUN	NN	nk	zwischen	ADP	[den, Elektromagneten]	6	p0	1
-eines	ein	DET	ART	nk	Elektromagneten	NOUN	[]	6	p0	1
-Elektromagneten	Elektromagnet	NOUN	NN	ag	Polen	NOUN	[eines, ,, erzeugt]	6	p0	1
-,	--	PUNCT	$,	punct	Elektromagneten	NOUN	[]	6	p0	1
-der	der	PRON	PRELS	sb	erzeugt	VERB	[]	6	p0	1
-ein	ein	DET	ART	nk	Feld	NOUN	[]	6	p0	1
-Feld	Feld	NOUN	NN	oa	erzeugt	VERB	[ein]	6	p0	1
-in	in	ADP	APPR	mo	erzeugt	VERB	[z-Richtung]	6	p0	1
-z-Richtung	z-Richtung	NOUN	NN	nk	in	ADP	[]	6	p0	1
-erzeugt	erzeugen	VERB	VVFIN	rc	Elektromagneten	NOUN	[der, Feld, in]	6	p0	1
-.	--	PUNCT	$.	punct	besteht	VERB	[]	6	p0	1
-Die	der	DET	ART	nk	Kammer	NOUN	[]	6	p0	2
-Kammer	Kammer	NOUN	NN	sb	ist	AUX	[Die]	6	p0	2
-ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Kammer, aufgeteilt, .]	6	p0	2
-in	in	ADP	APPR	mo	aufgeteilt	VERB	[Hälften]	6	p0	2
-zwei	zwei	NUM	CARD	nk	Hälften	NOUN	[]	6	p0	2
-D-förmige	D-förmige	NUM	ADJA	nk	Hälften	NOUN	[]	6	p0	2
-Hälften	Hälft	NOUN	NN	nk	in	ADP	[zwei, D-förmige, anliegt]	6	p0	2
-aufgeteilt	aufteilen	VERB	VVPP	oc	ist	AUX	[in, ,]	6	p0	2
-,	--	PUNCT	$,	punct	aufgeteilt	VERB	[]	6	p0	2
-zwischen	zwischen	ADP	APPR	mo	anliegt	VERB	[denen]	6	p0	2
-denen	der	PRON	PRELS	nk	zwischen	ADP	[]	6	p0	2
-eine	ein	DET	ART	nk	Hochfrequenzspannung	NOUN	[]	6	p0	2
-Hochfrequenzspannung	Hochfrequenzspannung	NOUN	NN	sb	anliegt	VERB	[eine]	6	p0	2
-anliegt	anliegen	VERB	VVFIN	rc	Hälften	NOUN	[zwischen, Hochfrequenzspannung]	6	p0	2
-.	--	PUNCT	$.	punct	ist	AUX	[]	6	p0	2
+spacy_word	spacy_lemma	spacy_pos	spacy_tag	dependency	dependency_head	dependency_head_pos	dependency_children	text_id_numeric	text_id	sent_index_in_text	manually_corrected
+Ein	ein	DET	ART	nk	Zyklotron	NOUN	[]	6	p0	1	False
+Zyklotron	Zyklotron	NOUN	NN	sb	besteht	VERB	[Ein]	6	p0	1	False
+besteht	bestehen	VERB	VVFIN	ROOT	besteht	VERB	[Zyklotron, aus, .]	6	p0	1	False
+aus	aus	ADP	APPR	op	besteht	VERB	[Vakuumkammer]	6	p0	1	False
+einer	ein	DET	ART	nk	Vakuumkammer	NOUN	[]	6	p0	1	False
+flachen	flach	ADJ	ADJA	nk	Vakuumkammer	NOUN	[zylindrischen]	6	p0	1	False
+,	--	PUNCT	$,	punct	zylindrischen	VERB	[]	6	p0	1	False
+zylindrischen	zylindrischen	VERB	ADJA	cj	flachen	ADJ	[,]	6	p0	1	False
+Vakuumkammer	Vakuumkammer	NOUN	NN	nk	aus	ADP	[einer, flachen, zwischen]	6	p0	1	False
+zwischen	zwischen	ADP	APPR	mnr	Vakuumkammer	NOUN	[Polen]	6	p0	1	False
+den	der	DET	ART	nk	Polen	NOUN	[]	6	p0	1	False
+Polen	Pole	NOUN	NN	nk	zwischen	ADP	[den, Elektromagneten]	6	p0	1	False
+eines	ein	DET	ART	nk	Elektromagneten	NOUN	[]	6	p0	1	False
+Elektromagneten	Elektromagnet	NOUN	NN	ag	Polen	NOUN	[eines, ,, erzeugt]	6	p0	1	False
+,	--	PUNCT	$,	punct	Elektromagneten	NOUN	[]	6	p0	1	False
+der	der	PRON	PRELS	sb	erzeugt	VERB	[]	6	p0	1	False
+ein	ein	DET	ART	nk	Feld	NOUN	[]	6	p0	1	False
+Feld	Feld	NOUN	NN	oa	erzeugt	VERB	[ein]	6	p0	1	False
+in	in	ADP	APPR	mo	erzeugt	VERB	[z-Richtung]	6	p0	1	False
+z-Richtung	z-Richtung	NOUN	NN	nk	in	ADP	[]	6	p0	1	False
+erzeugt	erzeugen	VERB	VVFIN	rc	Elektromagneten	NOUN	[der, Feld, in]	6	p0	1	False
+.	--	PUNCT	$.	punct	besteht	VERB	[]	6	p0	1	False
+Die	der	DET	ART	nk	Kammer	NOUN	[]	6	p0	2	False
+Kammer	Kammer	NOUN	NN	sb	ist	AUX	[Die]	6	p0	2	False
+ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Kammer, aufgeteilt, .]	6	p0	2	False
+in	in	ADP	APPR	mo	aufgeteilt	VERB	[Hälften]	6	p0	2	False
+zwei	zwei	NUM	CARD	nk	Hälften	NOUN	[]	6	p0	2	False
+D-förmige	D-förmige	NUM	ADJA	nk	Hälften	NOUN	[]	6	p0	2	False
+Hälften	Hälft	NOUN	NN	nk	in	ADP	[zwei, D-förmige, anliegt]	6	p0	2	False
+aufgeteilt	aufteilen	VERB	VVPP	oc	ist	AUX	[in, ,]	6	p0	2	False
+,	--	PUNCT	$,	punct	aufgeteilt	VERB	[]	6	p0	2	False
+zwischen	zwischen	ADP	APPR	mo	anliegt	VERB	[denen]	6	p0	2	False
+denen	der	PRON	PRELS	nk	zwischen	ADP	[]	6	p0	2	False
+eine	ein	DET	ART	nk	Hochfrequenzspannung	NOUN	[]	6	p0	2	False
+Hochfrequenzspannung	Hochfrequenzspannung	NOUN	NN	sb	anliegt	VERB	[eine]	6	p0	2	False
+anliegt	anliegen	VERB	VVFIN	rc	Hälften	NOUN	[zwischen, Hochfrequenzspannung]	6	p0	2	False
+.	--	PUNCT	$.	punct	ist	AUX	[]	6	p0	2	False
 Die	der	DET	ART	nk	Ionen	NOUN	[]	6	p0	3
 von	von	ADP	APPR	sbp	emittierten	ADJ	[Ionenquelle]	6	p0	3
 der	der	DET	ART	nk	Ionenquelle	NOUN	[]	6	p0	3

@@ -158,7 +158,7 @@ def parse_args():
 
 def on_closing():
     if messagebox.askokcancel("Quit", "Do you want to quit?"):
-        clean_df(file_path)
+        #clean_df(file_path)
         root.destroy()
 
 
@@ -180,7 +180,7 @@ def manually_corrected_cols(file_path, index_not_manually_corrected_sentences: l
 def display_constituency_trees():
     args = parse_args()
     sentence_Id = 0
-    file_path = 'constituency_trees_manually_corrected.tsv'
+    file_path = 'manually_corrected_constituency_trees.tsv'
     #file_path = args.file_path
     root = tk.Tk()
 
@@ -195,9 +195,10 @@ def display_constituency_trees():
 
 
 if __name__ == "__main__":
-    args = parse_args()
-    sentence_Id = 0
-    file_path = 'constituency_trees_1.tsv'
-    index_not_manually_corrected_sentences = [2, 8, 9, 11, 15, 17, 19, 25, 27, 35, 39, 49, 55, 58, 68, 69, 79, 96, 97]
-    manually_corrected_cols(file_path, index_not_manually_corrected_sentences)
-
+    #args = parse_args()
+    #sentence_Id = 0
+    #file_path = 'constituency_trees_1.tsv'
+    #index_not_manually_corrected_sentences = [2, 8, 9, 11, 15, 17, 19, 25, 27, 35, 39, 49, 55, 58, 68, 69, 79, 96, 97]
+    #manually_corrected_cols(file_path, index_not_manually_corrected_sentences)
+    #
+    display_constituency_trees()

@@ -1057,180 +1057,180 @@ oder	oder	CCONJ	KON	cd	teilweise	ADV	[ganz]	8	p2	7
 ganz	ganz	ADV	ADV	cj	oder	CCONJ	[]	8	p2	7
 aus	aus	ADP	PTKVZ	svp	löschen	VERB	[]	8	p2	7
 .	--	PUNCT	$.	punct	sind	AUX	[]	8	p2	7
-Eine	ein	DET	ART	nk	Parenchymzelle	NOUN	[]	4	b4	1
-chlorophyllhaltige	chlorophyllhaltig	ADJ	ADJA	nk	Parenchymzelle	NOUN	[]	4	b4	1
-Parenchymzelle	Parenchymzelle	NOUN	NN	sb	exportiert	VERB	[Eine, chlorophyllhaltige, in]	4	b4	1
-in	in	ADP	APPR	mnr	Parenchymzelle	NOUN	[Angiospermenblatt]	4	b4	1
-einem	ein	DET	ART	nk	Angiospermenblatt	NOUN	[]	4	b4	1
-Angiospermenblatt	Angiospermenblatt	NOUN	NN	nk	in	ADP	[einem]	4	b4	1
-exportiert	exportieren	VERB	VVFIN	ROOT	exportiert	VERB	[Parenchymzelle, Material, und, .]	4	b4	1
-organisches	organisch	ADJ	ADJA	nk	Material	NOUN	[]	4	b4	1
-Material	Material	NOUN	NN	sb	exportiert	VERB	[organisches, in]	4	b4	1
-in	in	ADP	APPR	mnr	Material	NOUN	[Form]	4	b4	1
-Form	Form	NOUN	NN	nk	in	ADP	[von]	4	b4	1
-von	von	ADP	APPR	pg	Form	NOUN	[Saccharose]	4	b4	1
-Saccharose	Saccharose	NOUN	NN	nk	von	ADP	[aus]	4	b4	1
-aus	aus	ADP	APPR	mnr	Saccharose	NOUN	[Zelle]	4	b4	1
-der	der	DET	ART	nk	Zelle	NOUN	[]	4	b4	1
-Zelle	Zelle	NOUN	NN	nk	aus	ADP	[der]	4	b4	1
-und	und	CCONJ	KON	cd	exportiert	VERB	[versorgt]	4	b4	1
-versorgt	versorgen	VERB	VVFIN	cj	und	CCONJ	[damit, in, Zellen]	4	b4	1
-damit	damit	ADV	PROAV	mo	versorgt	VERB	[]	4	b4	1
-selbst	selbst	ADV	ADV	mo	in	ADP	[]	4	b4	1
-in	in	ADP	APPR	mo	versorgt	VERB	[selbst, Nacht]	4	b4	1
-der	der	DET	ART	nk	Nacht	NOUN	[]	4	b4	1
-Nacht	Nacht	NOUN	NN	nk	in	ADP	[der]	4	b4	1
-alle	aller	DET	PIAT	nk	Zellen	NOUN	[]	4	b4	1
-chlorophyllfreien	chlorophyllfrei	ADJ	ADJA	nk	Zellen	NOUN	[]	4	b4	1
-Zellen	Zelle	NOUN	NN	oa	versorgt	VERB	[alle, chlorophyllfreien, Pflanze]	4	b4	1
-der	der	DET	ART	nk	Pflanze	NOUN	[]	4	b4	1
-Pflanze	Pflanze	NOUN	NN	ag	Zellen	NOUN	[der]	4	b4	1
-.	--	PUNCT	$.	punct	exportiert	VERB	[]	4	b4	1
-Das	der	DET	ART	nk	Prinzip	NOUN	[]	4	b4	2
-Prinzip	Prinzip	NOUN	NN	sb	ist	AUX	[Das]	4	b4	2
-ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Prinzip, einfach, :]	4	b4	2
-einfach	einfach	ADV	ADJD	pd	ist	AUX	[]	4	b4	2
-:	--	PUNCT	$.	punct	ist	AUX	[]	4	b4	2
-Am	an	ADP	APPRART	mo	speichert	VERB	[Tag]	4	b4	3
-Tag	Tag	NOUN	NN	nk	Am	ADP	[]	4	b4	3
-speichert	speichern	VERB	VVFIN	ROOT	speichert	VERB	[Am, Chloroplast, Glucose, als, ;]	4	b4	3
-der	der	DET	ART	nk	Chloroplast	NOUN	[]	4	b4	3
-Chloroplast	Chloroplast	NOUN	NN	sb	speichert	VERB	[der]	4	b4	3
-die	der	DET	ART	nk	Glucose	NOUN	[]	4	b4	3
-gebildete	gebildet	ADJ	ADJA	nk	Glucose	NOUN	[und]	4	b4	3
-und	und	CCONJ	KON	cd	gebildete	ADJ	[überschüssige]	4	b4	3
-überschüssige	überschüssig	ADJ	ADJA	cj	und	CCONJ	[]	4	b4	3
-Glucose	Glucos	NOUN	NN	oa	speichert	VERB	[die, gebildete, aus]	4	b4	3
-aus	aus	ADP	APPR	mnr	Glucose	NOUN	[Photosynthese]	4	b4	3
-der	der	DET	ART	nk	Photosynthese	NOUN	[]	4	b4	3
-Photosynthese	Photosynthese	NOUN	NN	nk	aus	ADP	[der]	4	b4	3
-als	als	ADP	APPR	mo	speichert	VERB	[Stärke]	4	b4	3
-Stärke	Stärke	NOUN	NN	nk	als	ADP	[]	4	b4	3
-;	--	PUNCT	$.	punct	speichert	VERB	[]	4	b4	3
-in	in	ADP	APPR	mo	kommt	VERB	[Nacht]	4	b4	4
-der	der	DET	ART	nk	Nacht	NOUN	[]	4	b4	4
-Nacht	Nacht	NOUN	NN	nk	in	ADP	[der]	4	b4	4
-kommt	kommen	VERB	VVFIN	ROOT	kommt	VERB	[in, es, zu, .]	4	b4	4
-es	es	PRON	PPER	ep	kommt	VERB	[]	4	b4	4
-zu	zu	ADP	APPR	mo	kommt	VERB	[Stoffentnahme]	4	b4	4
-einer	ein	DET	ART	nk	Stoffentnahme	NOUN	[]	4	b4	4
-Stoffentnahme	Stoffentnahme	NOUN	NN	nk	zu	ADP	[einer, aus]	4	b4	4
-aus	aus	ADP	APPR	mnr	Stoffentnahme	NOUN	[Speicher]	4	b4	4
-diesem	dieser	DET	PDAT	nk	Speicher	NOUN	[]	4	b4	4
-Speicher	Speicher	NOUN	NN	nk	aus	ADP	[diesem]	4	b4	4
-.	--	PUNCT	$.	punct	kommt	VERB	[]	4	b4	4
-Die	der	DET	ART	nk	Zelle	NOUN	[]	4	b4	5
-Zelle	Zelle	NOUN	NN	sb	kann	AUX	[Die]	4	b4	5
-kann	können	AUX	VMFIN	ROOT	kann	AUX	[Zelle, gewährleisten, .]	4	b4	5
-auf	auf	ADP	APPR	mo	gewährleisten	VERB	[Weise, Tag]	4	b4	5
-diese	dieser	DET	PDAT	nk	Weise	NOUN	[]	4	b4	5
-Weise	Weise	NOUN	NN	nk	auf	ADP	[diese]	4	b4	5
-Tag	Tag	NOUN	NN	nk	auf	ADP	[und]	4	b4	5
-und	und	CCONJ	KON	cd	Tag	NOUN	[Nacht]	4	b4	5
-Nacht	Nacht	NOUN	NN	cj	und	CCONJ	[]	4	b4	5
-einen	ein	DET	ART	nk	Export	NOUN	[]	4	b4	5
-Export	Export	NOUN	NN	oa	gewährleisten	VERB	[einen]	4	b4	5
-gewährleisten	gewährleisten	VERB	VVINF	oc	kann	AUX	[auf, Export]	4	b4	5
-.	--	PUNCT	$.	punct	kann	AUX	[]	4	b4	5
-Saccharose	Saccharose	NOUN	NN	pd	ist	AUX	[]	4	b4	6
-ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Saccharose, Dimer, und, .]	4	b4	6
-ein	ein	DET	ART	nk	Dimer	NOUN	[]	4	b4	6
-Dimer	Dimer	NOUN	NN	pd	ist	AUX	[ein]	4	b4	6
-und	und	CCONJ	KON	cd	ist	AUX	[wirkt]	4	b4	6
-wirkt	wirken	VERB	VVFIN	cj	und	CCONJ	[nicht, reduzierend, ,, wird]	4	b4	6
-nicht	nicht	PART	PTKNEG	ng	wirkt	VERB	[]	4	b4	6
-reduzierend	reduzierend	ADV	ADJD	mo	wirkt	VERB	[]	4	b4	6
-,	--	PUNCT	$,	punct	wirkt	VERB	[]	4	b4	6
-sie	sie	PRON	PPER	sb	wird	AUX	[]	4	b4	6
-wird	werden	AUX	VAFIN	oc	wirkt	VERB	[sie, verwendet]	4	b4	6
-in	in	ADP	APPR	mo	verwendet	VERB	[Pflanze]	4	b4	6
-der	der	DET	ART	nk	Pflanze	NOUN	[]	4	b4	6
-Pflanze	Pflanze	NOUN	NN	nk	in	ADP	[der]	4	b4	6
-vor	vor	ADP	APPR	mo	als	ADP	[allem]	4	b4	6
-allem	alle	PRON	PIS	nk	vor	ADP	[]	4	b4	6
-als	als	ADP	APPR	mo	verwendet	VERB	[vor, Speicherstoff]	4	b4	6
-leicht	leicht	ADV	ADJD	mo	verfügbarer	ADJ	[]	4	b4	6
-verfügbarer	verfügbar	ADJ	ADJA	nk	Speicherstoff	NOUN	[leicht]	4	b4	6
-Speicherstoff	Speicherstoff	NOUN	NN	nk	als	ADP	[verfügbarer]	4	b4	6
-verwendet	verwenden	VERB	VVPP	oc	wird	AUX	[in, als]	4	b4	6
+Eine	ein	DET	ART	nk	Parenchymzelle	NOUN	[]	4	b4	1	False
+chlorophyllhaltige	chlorophyllhaltig	ADJ	ADJA	nk	Parenchymzelle	NOUN	[]	4	b4	1	False
+Parenchymzelle	Parenchymzelle	NOUN	NN	sb	exportiert	VERB	[Eine, chlorophyllhaltige, aus, in]	4	b4	1	True
+in	in	ADP	APPR	mnr	Parenchymzelle	NOUN	[Angiospermenblatt]	4	b4	1	False
+einem	ein	DET	ART	nk	Angiospermenblatt	NOUN	[]	4	b4	1	False
+Angiospermenblatt	Angiospermenblatt	NOUN	NN	nk	in	ADP	[einem]	4	b4	1	False
+exportiert	exportieren	VERB	VVFIN	ROOT	exportiert	VERB	[Parenchymzelle, Material, und, .]	4	b4	1	False
+organisches	organisch	ADJ	ADJA	nk	Material	NOUN	[]	4	b4	1	False
+Material	Material	NOUN	NN	ao	exportiert	VERB	[organisches, in]	4	b4	1	True
+in	in	ADP	APPR	mnr	Material	NOUN	[Form]	4	b4	1	False
+Form	Form	NOUN	NN	nk	in	ADP	[von]	4	b4	1	False
+von	von	ADP	APPR	pg	Form	NOUN	[Saccharose]	4	b4	1	False
+Saccharose	Saccharose	NOUN	NN	nk	von	ADP	[]	4	b4	1	True
+aus	aus	ADP	APPR	mo	exportiert	VERB	[Zelle]	4	b4	1	True
+der	der	DET	ART	nk	Zelle	NOUN	[]	4	b4	1	False
+Zelle	Zelle	NOUN	NN	nk	aus	ADP	[der]	4	b4	1	False
+und	und	CCONJ	KON	cd	exportiert	VERB	[versorgt]	4	b4	1	False
+versorgt	versorgen	VERB	VVFIN	cj	und	CCONJ	[damit, in, Zellen]	4	b4	1	False
+damit	damit	ADV	PROAV	mo	versorgt	VERB	[]	4	b4	1	False
+selbst	selbst	ADV	ADV	mo	in	ADP	[]	4	b4	1	False
+in	in	ADP	APPR	mo	versorgt	VERB	[selbst, Nacht]	4	b4	1	False
+der	der	DET	ART	nk	Nacht	NOUN	[]	4	b4	1	False
+Nacht	Nacht	NOUN	NN	nk	in	ADP	[der]	4	b4	1	False
+alle	aller	DET	PIAT	nk	Zellen	NOUN	[]	4	b4	1	False
+chlorophyllfreien	chlorophyllfrei	ADJ	ADJA	nk	Zellen	NOUN	[]	4	b4	1	False
+Zellen	Zelle	NOUN	NN	oa	versorgt	VERB	[alle, chlorophyllfreien, Pflanze]	4	b4	1	False
+der	der	DET	ART	nk	Pflanze	NOUN	[]	4	b4	1	False
+Pflanze	Pflanze	NOUN	NN	ag	Zellen	NOUN	[der]	4	b4	1	False
+.	--	PUNCT	$.	punct	exportiert	VERB	[]	4	b4	1	False
+Das	der	DET	ART	nk	Prinzip	NOUN	[]	4	b4	2	True
+Prinzip	Prinzip	NOUN	NN	sb	ist	AUX	[Das]	4	b4	2	True
+ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Prinzip, einfach, :, speichert]	4	b4	2	True
+einfach	einfach	ADV	ADJD	pd	ist	AUX	[]	4	b4	2	True
+:	--	PUNCT	$.	punct	ist	AUX	[]	4	b4	2	True
+Am	an	ADP	APPRART	mo	speichert	VERB	[Tag]	4	b4	2	True
+Tag	Tag	NOUN	NN	nk	Am	ADP	[]	4	b4	2	True
+speichert	speichern	VERB	VVFIN	cj	ist	AUX	[Am, Chloroplast, Glucose, als, ;, kommt]	4	b4	2	True
+der	der	DET	ART	nk	Chloroplast	NOUN	[]	4	b4	2	True
+Chloroplast	Chloroplast	NOUN	NN	sb	speichert	VERB	[der]	4	b4	2	True
+die	der	DET	ART	nk	Glucose	NOUN	[]	4	b4	2	True
+gebildete	gebildet	ADJ	ADJA	nk	Glucose	NOUN	[und]	4	b4	2	True
+und	und	CCONJ	KON	cd	gebildete	ADJ	[überschüssige]	4	b4	2	True
+überschüssige	überschüssig	ADJ	ADJA	cj	und	CCONJ	[]	4	b4	2	True
+Glucose	Glucos	NOUN	NN	oa	speichert	VERB	[die, gebildete, aus]	4	b4	2	True
+aus	aus	ADP	APPR	mnr	Glucose	NOUN	[Photosynthese]	4	b4	2	True
+der	der	DET	ART	nk	Photosynthese	NOUN	[]	4	b4	2	True
+Photosynthese	Photosynthese	NOUN	NN	nk	aus	ADP	[der]	4	b4	2	True
+als	als	ADP	APPR	mo	speichert	VERB	[Stärke]	4	b4	2	True
+Stärke	Stärke	NOUN	NN	nk	als	ADP	[]	4	b4	2	True
+;	--	PUNCT	$.	punct	speichert	VERB	[]	4	b4	2	True
+in	in	ADP	APPR	mo	kommt	VERB	[Nacht]	4	b4	2	True
+der	der	DET	ART	nk	Nacht	NOUN	[]	4	b4	2	True
+Nacht	Nacht	NOUN	NN	nk	in	ADP	[der]	4	b4	2	True
+kommt	kommen	VERB	VVFIN	cj	speichert	VERB	[in, es, zu, .]	4	b4	2	True
+es	es	PRON	PPER	ep	kommt	VERB	[]	4	b4	2	True
+zu	zu	ADP	APPR	mo	kommt	VERB	[Stoffentnahme]	4	b4	2	True
+einer	ein	DET	ART	nk	Stoffentnahme	NOUN	[]	4	b4	2	True
+Stoffentnahme	Stoffentnahme	NOUN	NN	nk	zu	ADP	[einer, aus]	4	b4	2	True
+aus	aus	ADP	APPR	mnr	Stoffentnahme	NOUN	[Speicher]	4	b4	2	True
+diesem	dieser	DET	PDAT	nk	Speicher	NOUN	[]	4	b4	2	True
+Speicher	Speicher	NOUN	NN	nk	aus	ADP	[diesem]	4	b4	2	True
+.	--	PUNCT	$.	punct	kommt	VERB	[]	4	b4	2	True
+Die	der	DET	ART	nk	Zelle	NOUN	[]	4	b4	3
+Zelle	Zelle	NOUN	NN	sb	kann	AUX	[Die]	4	b4	3
+kann	können	AUX	VMFIN	ROOT	kann	AUX	[Zelle, gewährleisten, .]	4	b4	3
+auf	auf	ADP	APPR	mo	gewährleisten	VERB	[Weise]	4	b4	3	True
+diese	dieser	DET	PDAT	nk	Weise	NOUN	[]	4	b4	3
+Weise	Weise	NOUN	NN	nk	auf	ADP	[diese]	4	b4	3
+Tag	Tag	NOUN	NN	mo	gewährleisten	VERB	[und]	4	b4	3	True
+und	und	CCONJ	KON	cd	Tag	NOUN	[Nacht]	4	b4	3
+Nacht	Nacht	NOUN	NN	cj	und	CCONJ	[]	4	b4	3
+einen	ein	DET	ART	nk	Export	NOUN	[]	4	b4	3
+Export	Export	NOUN	NN	oa	gewährleisten	VERB	[einen]	4	b4	3
+gewährleisten	gewährleisten	VERB	VVINF	oc	kann	AUX	[auf,Tag, Export]	4	b4	3	True
+.	--	PUNCT	$.	punct	kann	AUX	[]	4	b4	3
+Saccharose	Saccharose	NOUN	NN	pd	ist	AUX	[]	4	b4	4
+ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Saccharose, Dimer, und, .]	4	b4	4
+ein	ein	DET	ART	nk	Dimer	NOUN	[]	4	b4	4
+Dimer	Dimer	NOUN	NN	pd	ist	AUX	[ein]	4	b4	4
+und	und	CCONJ	KON	cd	ist	AUX	[wirkt]	4	b4	4
+wirkt	wirken	VERB	VVFIN	cj	und	CCONJ	[nicht, reduzierend, ,, wird]	4	b4	4
+nicht	nicht	PART	PTKNEG	ng	wirkt	VERB	[]	4	b4	4
+reduzierend	reduzierend	ADV	ADJD	mo	wirkt	VERB	[]	4	b4	4
+,	--	PUNCT	$,	punct	wirkt	VERB	[]	4	b4	4
+sie	sie	PRON	PPER	sb	wird	AUX	[]	4	b4	4
+wird	werden	AUX	VAFIN	oc	wirkt	VERB	[sie, verwendet]	4	b4	4
+in	in	ADP	APPR	mo	verwendet	VERB	[Pflanze]	4	b4	4
+der	der	DET	ART	nk	Pflanze	NOUN	[]	4	b4	4
+Pflanze	Pflanze	NOUN	NN	nk	in	ADP	[der]	4	b4	4
+vor	vor	ADP	APPR	mo	als	ADP	[allem]	4	b4	4
+allem	alle	PRON	PIS	nk	vor	ADP	[]	4	b4	4
+als	als	ADP	APPR	mo	verwendet	VERB	[vor, Speicherstoff]	4	b4	4
+leicht	leicht	ADV	ADJD	mo	verfügbarer	ADJ	[]	4	b4	4
+verfügbarer	verfügbar	ADJ	ADJA	nk	Speicherstoff	NOUN	[leicht]	4	b4	4
+Speicherstoff	Speicherstoff	NOUN	NN	nk	als	ADP	[verfügbarer]	4	b4	4
+verwendet	verwenden	VERB	VVPP	oc	wird	AUX	[in, als]	4	b4	4
+.	--	PUNCT	$.	punct	ist	AUX	[]	4	b4	4
+Stärke	Stärke	NOUN	NN	sb	ist	AUX	[]	4	b4	5
+ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Stärke, Polymer, wirkt, .]	4	b4	5
+ein	ein	DET	ART	nk	Polymer	NOUN	[]	4	b4	5
+großes	groß	ADJ	ADJA	nk	Polymer	NOUN	[]	4	b4	5
+Polymer	Polymer	NOUN	NN	pd	ist	AUX	[ein, großes, aus]	4	b4	5
+aus	aus	ADP	APPR	mnr	Polymer	NOUN	[Glucose]	4	b4	5
+Glucose	Glucose	NOUN	NN	nk	aus	ADP	[]	4	b4	5
+,	--	PUNCT	$,	punct	wirkt	VERB	[]	4	b4	5
+wirkt	wirken	VERB	VVFIN	cj	ist	AUX	[,, ebenfalls, nicht, reduzierend, und]	4	b4	5
+ebenfalls	ebenfalls	ADV	ADV	mo	wirkt	VERB	[]	4	b4	5
+nicht	nicht	PART	PTKNEG	ng	wirkt	VERB	[]	4	b4	5
+reduzierend	reduzierend	ADV	ADJD	mo	wirkt	VERB	[]	4	b4	5
+und	und	CCONJ	KON	cd	wirkt	VERB	[ist]	4	b4	5
+ist	sein	AUX	VAFIN	cj	und	CCONJ	[finden]	4	b4	5
+hauptsächlich	hauptsächlich	ADV	ADJD	mo	finden	VERB	[]	4	b4	5
+in	in	ADP	APPR	mo	finden	VERB	[Speicherorganen]	4	b4	5
+Speicherorganen	Speicherorga	NOUN	NN	nk	in	ADP	[]	4	b4	5
+zu	zu	PART	PTKZU	pm	finden	VERB	[]	4	b4	5
+finden	finden	VERB	VVINF	oc	ist	AUX	[hauptsächlich, in, zu]	4	b4	5
+.	--	PUNCT	$.	punct	ist	AUX	[]	4	b4	5
+Das	der	DET	ART	nk	Kohlenhydrat	NOUN	[]	4	b4	6
+am	am	PART	PTKA	pm	häufigsten	ADV	[]	4	b4	6
+häufigsten	häufig	ADV	ADJD	mo	vorkommende	ADJ	[am]	4	b4	6
+in	in	ADP	APPR	mo	vorkommende	ADJ	[Biosphäre]	4	b4	6
+der	der	DET	ART	nk	Biosphäre	NOUN	[]	4	b4	6
+Biosphäre	Biosphäre	NOUN	NN	nk	in	ADP	[der]	4	b4	6
+vorkommende	vorkommend	ADJ	ADJA	nk	Kohlenhydrat	NOUN	[häufigsten, in]	4	b4	6
+Kohlenhydrat	Kohlenhydrat	NOUN	NN	sb	ist	AUX	[Das, vorkommende]	4	b4	6
+ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Kohlenhydrat, unbestritten, Cellulose, .]	4	b4	6
+unbestritten	unbestritten	ADV	ADJD	mo	ist	AUX	[]	4	b4	6
+die	der	DET	ART	nk	Cellulose	NOUN	[]	4	b4	6
+Cellulose	Cellulose	NOUN	NN	pd	ist	AUX	[die]	4	b4	6
 .	--	PUNCT	$.	punct	ist	AUX	[]	4	b4	6
-Stärke	Stärke	NOUN	NN	sb	ist	AUX	[]	4	b4	7
-ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Stärke, Polymer, wirkt, .]	4	b4	7
+Sie	sie	PRON	PPER	sb	ist	AUX	[]	4	b4	7
+ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Sie, Polymer, und, .]	4	b4	7
 ein	ein	DET	ART	nk	Polymer	NOUN	[]	4	b4	7
-großes	groß	ADJ	ADJA	nk	Polymer	NOUN	[]	4	b4	7
-Polymer	Polymer	NOUN	NN	pd	ist	AUX	[ein, großes, aus]	4	b4	7
-aus	aus	ADP	APPR	mnr	Polymer	NOUN	[Glucose]	4	b4	7
-Glucose	Glucose	NOUN	NN	nk	aus	ADP	[]	4	b4	7
-,	--	PUNCT	$,	punct	wirkt	VERB	[]	4	b4	7
-wirkt	wirken	VERB	VVFIN	cj	ist	AUX	[,, ebenfalls, nicht, reduzierend, und]	4	b4	7
-ebenfalls	ebenfalls	ADV	ADV	mo	wirkt	VERB	[]	4	b4	7
-nicht	nicht	PART	PTKNEG	ng	wirkt	VERB	[]	4	b4	7
-reduzierend	reduzierend	ADV	ADJD	mo	wirkt	VERB	[]	4	b4	7
-und	und	CCONJ	KON	cd	wirkt	VERB	[ist]	4	b4	7
-ist	sein	AUX	VAFIN	cj	und	CCONJ	[finden]	4	b4	7
-hauptsächlich	hauptsächlich	ADV	ADJD	mo	finden	VERB	[]	4	b4	7
-in	in	ADP	APPR	mo	finden	VERB	[Speicherorganen]	4	b4	7
-Speicherorganen	Speicherorga	NOUN	NN	nk	in	ADP	[]	4	b4	7
-zu	zu	PART	PTKZU	pm	finden	VERB	[]	4	b4	7
-finden	finden	VERB	VVINF	oc	ist	AUX	[hauptsächlich, in, zu]	4	b4	7
+lineares	linear	ADJ	ADJA	nk	Polymer	NOUN	[]	4	b4	7
+Polymer	Polymer	NOUN	NN	pd	ist	AUX	[ein, lineares, aus]	4	b4	7
+aus	aus	ADP	APPR	mnr	Polymer	NOUN	[β-D-Glucose]	4	b4	7
+β-D-Glucose	β-D-Glucose	PROPN	NN	nk	aus	ADP	[]	4	b4	7
+und	und	CCONJ	KON	cd	ist	AUX	[liegt]	4	b4	7
+liegt	liegen	VERB	VVFIN	cj	und	CCONJ	[extrazellulär, vor]	4	b4	7
+hauptsächlich	hauptsächlich	ADV	ADJD	mo	extrazellulär	ADV	[]	4	b4	7
+extrazellulär	extrazellulär	ADV	ADJD	mo	liegt	VERB	[hauptsächlich]	4	b4	7
+vor	vor	ADP	PTKVZ	svp	liegt	VERB	[]	4	b4	7
 .	--	PUNCT	$.	punct	ist	AUX	[]	4	b4	7
-Das	der	DET	ART	nk	Kohlenhydrat	NOUN	[]	4	b4	8
-am	am	PART	PTKA	pm	häufigsten	ADV	[]	4	b4	8
-häufigsten	häufig	ADV	ADJD	mo	vorkommende	ADJ	[am]	4	b4	8
-in	in	ADP	APPR	mo	vorkommende	ADJ	[Biosphäre]	4	b4	8
-der	der	DET	ART	nk	Biosphäre	NOUN	[]	4	b4	8
-Biosphäre	Biosphäre	NOUN	NN	nk	in	ADP	[der]	4	b4	8
-vorkommende	vorkommend	ADJ	ADJA	nk	Kohlenhydrat	NOUN	[häufigsten, in]	4	b4	8
-Kohlenhydrat	Kohlenhydrat	NOUN	NN	sb	ist	AUX	[Das, vorkommende]	4	b4	8
-ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Kohlenhydrat, unbestritten, Cellulose, .]	4	b4	8
-unbestritten	unbestritten	ADV	ADJD	mo	ist	AUX	[]	4	b4	8
-die	der	DET	ART	nk	Cellulose	NOUN	[]	4	b4	8
-Cellulose	Cellulose	NOUN	NN	pd	ist	AUX	[die]	4	b4	8
-.	--	PUNCT	$.	punct	ist	AUX	[]	4	b4	8
-Sie	sie	PRON	PPER	sb	ist	AUX	[]	4	b4	9
-ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Sie, Polymer, und, .]	4	b4	9
-ein	ein	DET	ART	nk	Polymer	NOUN	[]	4	b4	9
-lineares	linear	ADJ	ADJA	nk	Polymer	NOUN	[]	4	b4	9
-Polymer	Polymer	NOUN	NN	pd	ist	AUX	[ein, lineares, aus]	4	b4	9
-aus	aus	ADP	APPR	mnr	Polymer	NOUN	[β-D-Glucose]	4	b4	9
-β-D-Glucose	β-D-Glucose	PROPN	NN	nk	aus	ADP	[]	4	b4	9
-und	und	CCONJ	KON	cd	ist	AUX	[liegt]	4	b4	9
-liegt	liegen	VERB	VVFIN	cj	und	CCONJ	[extrazellulär, vor]	4	b4	9
-hauptsächlich	hauptsächlich	ADV	ADJD	mo	extrazellulär	ADV	[]	4	b4	9
-extrazellulär	extrazellulär	ADV	ADJD	mo	liegt	VERB	[hauptsächlich]	4	b4	9
-vor	vor	ADP	PTKVZ	svp	liegt	VERB	[]	4	b4	9
-.	--	PUNCT	$.	punct	ist	AUX	[]	4	b4	9
-Dieses	dieser	DET	PDAT	nk	Molekül	NOUN	[]	4	b4	10
-Molekül	Molekül	NOUN	NN	sb	wird	AUX	[Dieses]	4	b4	10
-wird	werden	AUX	VAFIN	ROOT	wird	AUX	[Molekül, synthetisiert, .]	4	b4	10
-durch	durch	ADP	APPR	mo	synthetisiert	VERB	[Cellulose-Synthasekomplexe]	4	b4	10
-membranständige	membranständig	ADJ	ADJA	nk	Cellulose-Synthasekomplexe	NOUN	[]	4	b4	10
-Cellulose-Synthasekomplexe	Cellulose-Synthasekomplexe	NOUN	NN	nk	durch	ADP	[membranständige, zirkulieren]	4	b4	10
-synthetisiert	synthetisiern	VERB	VVPP	oc	wird	AUX	[durch, ,]	4	b4	10
-,	--	PUNCT	$,	punct	synthetisiert	VERB	[]	4	b4	10
-die	der	PRON	PRELS	sb	zirkulieren	VERB	[]	4	b4	10
-in	in	ADP	APPR	mo	zirkulieren	VERB	[Membran]	4	b4	10
-der	der	DET	ART	nk	Membran	PROPN	[]	4	b4	10
-Membran	Membran	PROPN	NN	nk	in	ADP	[der]	4	b4	10
-zirkulieren	zirkulieren	VERB	VVFIN	rc	Cellulose-Synthasekomplexe	NOUN	[die, in, und]	4	b4	10
-und	und	CCONJ	KON	cd	zirkulieren	VERB	[weben]	4	b4	10
-in	in	ADP	APPR	mo	weben	VERB	[Weise]	4	b4	10
-gewisser	gewiß	ADJ	ADJA	nk	Weise	NOUN	[]	4	b4	10
-Weise	Weise	NOUN	NN	nk	in	ADP	[gewisser, ausmachen]	4	b4	10
-die	der	DET	ART	nk	Cellulose-Mikrofibrillen	NOUN	[]	4	b4	10
-Cellulose-Mikrofibrillen	Cellulose-Mikrofibrille	NOUN	NN	oa	weben	VERB	[die]	4	b4	10
-""""	--	PUNCT	$LRB	punct	weben	VERB	[]	4	b4	10
-weben	weben	VERB	VVFIN	cj	und	CCONJ	"[in, Cellulose-Mikrofibrillen, "", "", ,]"	4	b4	10
-""""	--	PUNCT	$LRB	punct	weben	VERB	[]	4	b4	10
-,	--	PUNCT	$,	punct	weben	VERB	[]	4	b4	10
-die	der	PRON	PRELS	sb	ausmachen	VERB	[]	4	b4	10
-die	der	DET	ART	nk	Matrix	NOUN	[]	4	b4	10
-extrazelluläre	extrazellulär	ADJ	ADJA	nk	Matrix	NOUN	[]	4	b4	10
-Matrix	Matrix	NOUN	NN	oa	ausmachen	VERB	[die, extrazelluläre, Pflanzenzellen]	4	b4	10
-der	der	DET	ART	nk	Pflanzenzellen	NOUN	[]	4	b4	10
-Pflanzenzellen	Pflanzenzell	NOUN	NN	ag	Matrix	NOUN	[der]	4	b4	10
-ausmachen	ausmachen	VERB	VVFIN	rc	Weise	NOUN	[die, Matrix]	4	b4	10
-.	--	PUNCT	$.	punct	wird	AUX	[]	4	b4	10
+Dieses	dieser	DET	PDAT	nk	Molekül	NOUN	[]	4	b4	8
+Molekül	Molekül	NOUN	NN	sb	wird	AUX	[Dieses]	4	b4	8
+wird	werden	AUX	VAFIN	ROOT	wird	AUX	[Molekül, synthetisiert, .]	4	b4	8
+durch	durch	ADP	APPR	mo	synthetisiert	VERB	[Cellulose-Synthasekomplexe]	4	b4	8
+membranständige	membranständig	ADJ	ADJA	nk	Cellulose-Synthasekomplexe	NOUN	[]	4	b4	8
+Cellulose-Synthasekomplexe	Cellulose-Synthasekomplexe	NOUN	NN	nk	durch	ADP	[membranständige, zirkulieren]	4	b4	8
+synthetisiert	synthetisiern	VERB	VVPP	oc	wird	AUX	[durch, ,]	4	b4	8
+,	--	PUNCT	$,	punct	synthetisiert	VERB	[]	4	b4	8
+die	der	PRON	PRELS	sb	zirkulieren	VERB	[]	4	b4	8
+in	in	ADP	APPR	mo	zirkulieren	VERB	[Membran]	4	b4	8
+der	der	DET	ART	nk	Membran	PROPN	[]	4	b4	8
+Membran	Membran	PROPN	NN	nk	in	ADP	[der]	4	b4	8
+zirkulieren	zirkulieren	VERB	VVFIN	rc	Cellulose-Synthasekomplexe	NOUN	[die, in, und]	4	b4	8
+und	und	CCONJ	KON	cd	zirkulieren	VERB	[weben]	4	b4	8
+in	in	ADP	APPR	mo	weben	VERB	[Weise]	4	b4	8
+gewisser	gewiß	ADJ	ADJA	nk	Weise	NOUN	[]	4	b4	8
+Weise	Weise	NOUN	NN	nk	in	ADP	[gewisser, ausmachen]	4	b4	8
+die	der	DET	ART	nk	Cellulose-Mikrofibrillen	NOUN	[]	4	b4	8
+Cellulose-Mikrofibrillen	Cellulose-Mikrofibrille	NOUN	NN	oa	weben	VERB	[die]	4	b4	8
+""""	--	PUNCT	$LRB	punct	weben	VERB	[]	4	b4	8
+weben	weben	VERB	VVFIN	cj	und	CCONJ	"[in, Cellulose-Mikrofibrillen, "", "", ,]"	4	b4	8
+""""	--	PUNCT	$LRB	punct	weben	VERB	[]	4	b4	8
+,	--	PUNCT	$,	punct	weben	VERB	[]	4	b4	8
+die	der	PRON	PRELS	sb	ausmachen	VERB	[]	4	b4	8
+die	der	DET	ART	nk	Matrix	NOUN	[]	4	b4	8
+extrazelluläre	extrazellulär	ADJ	ADJA	nk	Matrix	NOUN	[]	4	b4	8
+Matrix	Matrix	NOUN	NN	oa	ausmachen	VERB	[die, extrazelluläre, Pflanzenzellen]	4	b4	8
+der	der	DET	ART	nk	Pflanzenzellen	NOUN	[]	4	b4	8
+Pflanzenzellen	Pflanzenzell	NOUN	NN	ag	Matrix	NOUN	[der]	4	b4	8
+ausmachen	ausmachen	VERB	VVFIN	rc	Weise	NOUN	[die, Matrix]	4	b4	8
+.	--	PUNCT	$.	punct	wird	AUX	[]	4	b4	8
 Motormoleküle	Motormoleküle	ADV	NN	sb	sind	AUX	[]	3	b3	1	True
 sind	sein	AUX	VAFIN	ROOT	sind	AUX	[Motormoleküle, Enzyme, .]	3	b3	1	False
 Enzyme	Enzyme	NOUN	NN	pd	sind	AUX	[,, umwandeln]	3	b3	1	True
@@ -1422,7 +1422,7 @@ der	der	DET	ART	nk	Muskelzellen	NOUN	[]	3	b3	12	False
 Muskelzellen	Muskelzell	NOUN	NN	ag	Apparat	NOUN	[der]	3	b3	12	False
 zu	zu	PART	PTKZU	pm	finden	VERB	[]	3	b3	12	False
 finden	finden	VERB	VVINF	oc	ist	AUX	[im, zu]	3	b3	12	True
-,	--	PUNCT	$,	punct	ist	AUX	[in]	3	b3	12
+,	--	PUNCT	$,	punct	ist	AUX	[in]	3	b3	12	False
 aber	aber	CCONJ	KON	cd	im	ADP	[in]	3	b3	12	True
 auch	auch	ADV	ADV	mo	aber	CCONJ	[]	3	b3	12	True
 in	in	ADP	APPR	cj	aber	CCONJ	[Zellen]	3	b3	12	False

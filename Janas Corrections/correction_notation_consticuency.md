@@ -171,6 +171,12 @@ PIAt zu PIDAT geändert, baum okay
 ### b3 ID: 12
 !!
 ['(CS (S (PPER Es) (VAFIN ist) (VP (PP (APPRART im) (ADJA kontraktilen) (NN Apparat) (NP (ART der) (NN Muskelzellen))) (VZ (PTKZU zu) (VVINF finden)))) ($, ,) (KON aber) (CP (ADV auch) (APPR in) (ADJA anderen) (NN Zellen) ($, ,) (S (PWAV wo) (PPER es) (VP (PP (APPRART am) (NN Kontraktionsmechanismus)) (VVPP beteiligt)) (VAFIN ist)))) ($. .)']
+
+brächte kreuzende kanten 
+alternative: 
+['(S (PPER Es) (VAFIN ist) (VP (CPP (PP (APPRART im) (ADJA kontraktilen) (NN Apparat) (NP (ART der) (NN Muskelzellen)) (VZ (PTKZU zu) (VVINF finden))) ($, ,) (KON aber) (ADV auch) (APPR in) (NP (ADJA anderen) (NN Zellen) ($, ,) (S (PWAV wo) (PPER es) (VP (PP (APPRART am) (NN Kontraktionsmechanismus)) (VVPP beteiligt)) (VAFIN ist)))))) ($. .)']
+
+
 ### b4 ID: 1
 ['(CS (S (NP (ART Eine) (ADJA chlorophyllhaltige) (NN Parenchymzelle) (PP (APPR in) (ART einem) (NN Angiospermenblatt))) (VVFIN exportiert) (NP (ADJA organisches) (NN Material)) (PP (APPR in) (NN Form) (PP (APPR von) (NN Saccharose))) (PP (APPR aus) (ART der) (NN Zelle))) (KON und) (S (VVFIN versorgt) (PROAV damit) (PP (ADV selbst) (APPR in) (ART der) (NN Nacht)) (NP (PIAT alle) (ADJA chlorophyllfreien) (NN Zellen) (NP (ART der) (NN Pflanze))))) ($. .)']
 korrekt

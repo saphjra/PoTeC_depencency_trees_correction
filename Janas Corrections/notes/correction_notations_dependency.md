@@ -120,27 +120,27 @@ not sure how to annotate "+" - symbol: either as X XY or As SYM, automatically a
 zwei sb in einer phrase
 in form & aus der zelle sollte mo sein 
 ### b4 ID: 2
-
+gesplittet in 3 phrasen, die ich wieder zusamen geführt haben, alle folgenden ID wurden angepasst daher werden auch alle als manually corrected gelistet, habe ich aber noch nicht nachgtragen um den überblick über sonstige änderung zu behalten
 ### b4 ID: 3
-
+-> b4 2
 ### b4 ID: 4
-
+-> b4 2
 ### b4 ID: 5
-
+b4 3
 ### b4 ID: 6
-
+b4 4
 ### b4 ID: 7
-
+b4 5
 ### b4 ID: 8
-
+ba 6
 ### b4 ID: 9
-
+b4 7
 ### b4 ID: 10
-
+b4 8
 ### b4 ID: 11
-
+b4 9
 ### b4 ID: 12
-
+b4 10
 ### b5 ID: 1
 
 ### b5 ID: 2

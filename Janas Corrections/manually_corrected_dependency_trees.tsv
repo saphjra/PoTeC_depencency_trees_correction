@@ -722,19 +722,19 @@ Phosphatversorgung	Phosphatversorgung	NOUN	NN	nk	bei	ADP	[knapper]	2	b2	9	False
 daher	daher	ADV	PROAV	mo	erhöht	VERB	[]	2	b2	9	False
 enorm	enorm	ADV	ADJD	mo	erhöht	VERB	[]	2	b2	9	False
 .	--	PUNCT	$.	punct	überlappen	VERB	[]	2	b2	9	False
-Ein	ein	DET	ART	nk	Wurzelsystem	NOUN	[]	2	b2	10
-extensiv	extensiv	ADV	ADJD	mo	ausgebildetes	ADJ	[]	2	b2	10
-ausgebildetes	ausgebildet	ADJ	ADJA	nk	Wurzelsystem	NOUN	[extensiv]	2	b2	10
-Wurzelsystem	Wurzelsystem	NOUN	NN	sb	kann	AUX	[Ein, ausgebildetes, mit]	2	b2	10
-mit	mit	ADP	APPR	mnr	Wurzelsystem	NOUN	[Zwischenräumen]	2	b2	10
-größeren	groß	ADJ	ADJA	nk	Zwischenräumen	NOUN	[]	2	b2	10
-Zwischenräumen	Zwischenräume	NOUN	NN	nk	mit	ADP	[größeren, dagegen]	2	b2	10
-dagegen	dagegen	ADV	PROAV	mnr	Zwischenräumen	NOUN	[]	2	b2	10
-kann	können	AUX	VMFIN	ROOT	kann	AUX	[Wurzelsystem, Nitrataufnahme, maximieren, .]	2	b2	10
-die	der	DET	ART	nk	Nitrataufnahme	NOUN	[]	2	b2	10
-Nitrataufnahme	Nitrataufnahme	NOUN	NN	sb	kann	AUX	[die]	2	b2	10
-maximieren	maximieren	VERB	VVINF	oc	kann	AUX	[]	2	b2	10
-.	--	PUNCT	$.	punct	kann	AUX	[]	2	b2	10
+Ein	ein	DET	ART	nk	Wurzelsystem	NOUN	[]	2	b2	10	False
+extensiv	extensiv	ADV	ADJD	mo	ausgebildetes	ADJ	[]	2	b2	10	False
+ausgebildetes	ausgebildet	ADJ	ADJA	nk	Wurzelsystem	NOUN	[extensiv]	2	b2	10	False
+Wurzelsystem	Wurzelsystem	NOUN	NN	sb	kann	AUX	[Ein, ausgebildetes, mit]	2	b2	10	False
+mit	mit	ADP	APPR	mnr	Wurzelsystem	NOUN	[Zwischenräumen]	2	b2	10	False
+größeren	groß	ADJ	ADJA	nk	Zwischenräumen	NOUN	[]	2	b2	10	False
+Zwischenräumen	Zwischenräume	NOUN	NN	nk	mit	ADP	[größeren, dagegen]	2	b2	10	False
+dagegen	dagegen	ADV	PROAV	mnr	Zwischenräumen	NOUN	[]	2	b2	10	False
+kann	können	AUX	VMFIN	ROOT	kann	AUX	[Wurzelsystem, Nitrataufnahme, maximieren, .]	2	b2	10	False
+die	der	DET	ART	nk	Nitrataufnahme	NOUN	[]	2	b2	10	False
+Nitrataufnahme	Nitrataufnahme	NOUN	NN	ao	kann	AUX	[die]	2	b2	10	True
+maximieren	maximieren	VERB	VVINF	oc	kann	AUX	[]	2	b2	10	False
+.	--	PUNCT	$.	punct	kann	AUX	[]	2	b2	10	False
 In	in	ADP	APPR	mo	veranlasst	VERB	[Rekombinationsreparatur]	1	b1	1	False
 der	der	DET	ART	nk	Rekombinationsreparatur	NOUN	[]	1	b1	1	False
 homologen	homolog	ADJ	ADJA	nk	Rekombinationsreparatur	NOUN	[]	1	b1	1	False
@@ -1231,211 +1231,211 @@ der	der	DET	ART	nk	Pflanzenzellen	NOUN	[]	4	b4	10
 Pflanzenzellen	Pflanzenzell	NOUN	NN	ag	Matrix	NOUN	[der]	4	b4	10
 ausmachen	ausmachen	VERB	VVFIN	rc	Weise	NOUN	[die, Matrix]	4	b4	10
 .	--	PUNCT	$.	punct	wird	AUX	[]	4	b4	10
-Motormoleküle	Motormoleküle	ADV	NN	pd	sind	AUX	[]	3	b3	1
-sind	sein	AUX	VAFIN	ROOT	sind	AUX	[Motormoleküle, Enzyme, .]	3	b3	1
-Enzyme	Enzyme	NOUN	NN	sb	sind	AUX	[,, umwandeln]	3	b3	1
-,	--	PUNCT	$,	punct	Enzyme	NOUN	[]	3	b3	1
-welche	welcher	PRON	PRELS	sb	umwandeln	VERB	[]	3	b3	1
-die	der	DET	ART	nk	Energie	NOUN	[]	3	b3	1
-Energie	Energie	NOUN	NN	oa	umwandeln	VERB	[die]	3	b3	1
-aus	aus	ADP	APPR	mo	umwandeln	VERB	[Hydrolyse]	3	b3	1
-der	der	DET	ART	nk	Hydrolyse	NOUN	[]	3	b3	1
-Hydrolyse	Hydrolyse	NOUN	NN	nk	aus	ADP	[der, von, in]	3	b3	1
-von	von	ADP	APPR	pg	Hydrolyse	NOUN	[ATP]	3	b3	1
-ATP	ATP	PROPN	NN	nk	von	ADP	[]	3	b3	1
-in	in	ADP	APPR	mnr	Hydrolyse	NOUN	[Energie]	3	b3	1
-mechanische	mechanisch	ADJ	ADJA	nk	Energie	NOUN	[]	3	b3	1
-Energie	Energie	NOUN	NN	nk	in	ADP	[mechanische]	3	b3	1
-umwandeln	umwandeln	VERB	VVFIN	rc	Enzyme	NOUN	[welche, Energie, aus]	3	b3	1
-.	--	PUNCT	$.	punct	sind	AUX	[]	3	b3	1
-Dabei	dabei	ADV	PROAV	mo	induzieren	VERB	[]	3	b3	2
-induzieren	induzieren	VERB	VVFIN	ROOT	induzieren	VERB	[Dabei, sie, Konformationsänderung, .]	3	b3	2
-sie	sie	PRON	PPER	sb	induzieren	VERB	[]	3	b3	2
-eine	ein	DET	ART	nk	Konformationsänderung	NOUN	[]	3	b3	2
-Konformationsänderung	Konformationsänderung	NOUN	NN	oa	induzieren	VERB	[eine, ,, ermöglicht]	3	b3	2
-,	--	PUNCT	$,	punct	Konformationsänderung	NOUN	[]	3	b3	2
-die	der	PRON	PRELS	sb	ermöglicht	VERB	[]	3	b3	2
-einen	ein	DET	ART	nk	Transport	NOUN	[]	3	b3	2
-Transport	Transport	NOUN	NN	oa	ermöglicht	VERB	[einen, auf]	3	b3	2
-auf	auf	ADP	APPR	mnr	Transport	NOUN	[Gleisen]	3	b3	2
-den	der	DET	ART	nk	Gleisen	NOUN	[]	3	b3	2
-""""	--	PUNCT	$LRB	punct	Gleisen	NOUN	[]	3	b3	2
-Gleisen	Gleis	NOUN	NN	nk	auf	ADP	"[den, "", ""]"	3	b3	2
-""""	--	PUNCT	$LRB	punct	Gleisen	NOUN	[]	3	b3	2
-ermöglicht	ermöglichen	VERB	VVFIN	rc	Konformationsänderung	NOUN	[die, Transport]	3	b3	2
-.	--	PUNCT	$.	punct	induzieren	VERB	[]	3	b3	2
-Die	der	DET	ART	nk	Gleise	NOUN	[]	3	b3	3
-""""	--	PUNCT	$LRB	punct	Gleise	NOUN	[]	3	b3	3
-Gleise	Gleis	NOUN	NN	mo	können	AUX	"[Die, "", ""]"	3	b3	3
-""""	--	PUNCT	$LRB	punct	Gleise	NOUN	[]	3	b3	3
-können	können	AUX	VMFIN	ROOT	können	AUX	[Gleise, Mikrotubuli, sein, .]	3	b3	3
-Mikrotubuli	Mikrotubuli	PROPN	NN	sb	können	AUX	[oder]	3	b3	3
-oder	oder	CCONJ	KON	cd	Mikrotubuli	PROPN	[Aktinfilamente]	3	b3	3
-Aktinfilamente	Aktinfilament	NOUN	NN	cj	oder	CCONJ	[]	3	b3	3
-sein	sein	AUX	VAINF	oc	können	AUX	[]	3	b3	3
-.	--	PUNCT	$.	punct	können	AUX	[]	3	b3	3
-Aktinbindende	aktinbindend	ADJ	ADJA	nk	Motorproteine	NOUN	[]	3	b3	4
-Motorproteine	Motorprotein	NOUN	NN	sb	sind	AUX	[Aktinbindende]	3	b3	4
-sind	sein	AUX	VAFIN	ROOT	sind	AUX	[Motorproteine, Myosine, .]	3	b3	4
-die	der	DET	ART	nk	Myosine	NOUN	[]	3	b3	4
-Myosine	Myosin	NOUN	NN	pd	sind	AUX	[die, ,, vorkommen]	3	b3	4
-,	--	PUNCT	$,	punct	Myosine	NOUN	[]	3	b3	4
-von	von	ADP	APPR	mo	vorkommen	VERB	[denen]	3	b3	4
-denen	der	PRON	PRELS	nk	von	ADP	[]	3	b3	4
-in	in	ADP	APPR	mo	vorkommen	VERB	[Eukaryoten]	3	b3	4
-Eukaryoten	Eukaryot	NOUN	NE	nk	in	ADP	[]	3	b3	4
-siebzehn	siebzehn	NUM	CARD	nk	Familien	NOUN	[]	3	b3	4
-Familien	Familie	NOUN	NN	oa	vorkommen	VERB	[siebzehn]	3	b3	4
-vorkommen	vorkommen	VERB	VVFIN	rc	Myosine	NOUN	[von, in, Familien]	3	b3	4
-.	--	PUNCT	$.	punct	sind	AUX	[]	3	b3	4
-Eine	ein	DET	ART	nk	Kette	NOUN	[]	3	b3	5
-schwere	schwer	ADJ	ADJA	nk	Kette	NOUN	[]	3	b3	5
-Kette	Kette	NOUN	NN	sb	ist	AUX	[Eine, schwere]	3	b3	5
-ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Kette, beteiligt, .]	3	b3	5
-an	an	ADP	APPR	op	beteiligt	VERB	[Ausbildung]	3	b3	5
-der	der	DET	ART	nk	Ausbildung	NOUN	[]	3	b3	5
-Ausbildung	Ausbildung	NOUN	NN	nk	an	ADP	[der, Kopfregion, bildet]	3	b3	5
-einer	ein	DET	ART	nk	Kopfregion	NOUN	[]	3	b3	5
-Schwanz-	Schwanz	X	TRUNC	cj	und	CCONJ	[]	3	b3	5
-und	und	CCONJ	KON	cd	Kopfregion	NOUN	[Schwanz-]	3	b3	5
-einer	ein	DET	ART	nk	Kopfregion	NOUN	[]	3	b3	5
-Kopfregion	Kopfregion	NOUN	NN	ag	Ausbildung	NOUN	[einer, und, einer]	3	b3	5
-beteiligt	beteiligen	VERB	VVPP	pd	ist	AUX	[an, ,]	3	b3	5
-,	--	PUNCT	$,	punct	beteiligt	VERB	[]	3	b3	5
-welche	welcher	PRON	PRELS	oa	bildet	VERB	[]	3	b3	5
-die	der	DET	ART	nk	Motordomäne	NOUN	[]	3	b3	5
-Motordomäne	Motordoman	NOUN	NN	sb	bildet	VERB	[die]	3	b3	5
-bildet	bilden	VERB	VVFIN	rc	Ausbildung	NOUN	[welche, Motordomäne]	3	b3	5
-.	--	PUNCT	$.	punct	ist	AUX	[]	3	b3	5
-Der	der	DET	ART	nk	Kopf	NOUN	[]	3	b3	6
-Kopf	Kopf	NOUN	NN	sb	besitzt	VERB	[Der]	3	b3	6
-besitzt	besitzen	VERB	VVFIN	ROOT	besitzt	VERB	[Kopf, ATP-Bindungsstelle, .]	3	b3	6
-eine	ein	DET	ART	nk	ATP-Bindungsstelle	NOUN	[]	3	b3	6
-Aktin-	Aktin	X	TRUNC	cj	und	CCONJ	[]	3	b3	6
-und	und	CCONJ	KON	cd	ATP-Bindungsstelle	NOUN	[Aktin-]	3	b3	6
-eine	ein	DET	ART	nk	ATP-Bindungsstelle	NOUN	[]	3	b3	6
-ATP-Bindungsstelle	ATP-Bindungsstelle	NOUN	NN	oa	besitzt	VERB	[eine, und, eine]	3	b3	6
-.	--	PUNCT	$.	punct	besitzt	VERB	[]	3	b3	6
-Im	in	ADP	APPRART	mo	können	AUX	[Übergangsbereich]	3	b3	7
-Übergangsbereich	Übergangsbereich	NOUN	NN	nk	Im	ADP	[von, zu]	3	b3	7
-von	von	ADP	APPR	mnr	Übergangsbereich	NOUN	[Kopf]	3	b3	7
-Kopf	Kopf	NOUN	NN	nk	von	ADP	[]	3	b3	7
-zu	zu	ADP	APPR	mnr	Übergangsbereich	NOUN	[Schwanz]	3	b3	7
-Schwanz	Schwanz	NOUN	NN	nk	zu	ADP	[]	3	b3	7
-können	können	AUX	VMFIN	ROOT	können	AUX	[Im, binden, .]	3	b3	7
-unterschiedliche	unterschiedlich	ADJ	ADJA	nk	Ketten	NOUN	[]	3	b3	7
-leichte	leicht	ADJ	ADJA	nk	Ketten	NOUN	[]	3	b3	7
-Ketten	Kette	NOUN	NN	oa	binden	VERB	[unterschiedliche, leichte]	3	b3	7
-binden	binden	VERB	VVINF	oc	können	AUX	[Ketten, und]	3	b3	7
-und	und	CCONJ	KON	cd	binden	VERB	[mitwirken]	3	b3	7
-auf	auf	ADP	APPR	mo	mitwirken	VERB	[Weise]	3	b3	7
-diese	dieser	DET	PDAT	nk	Weise	NOUN	[]	3	b3	7
-Weise	Weise	NOUN	NN	nk	auf	ADP	[diese]	3	b3	7
-an	an	ADP	APPR	op	mitwirken	VERB	[Regulation]	3	b3	7
-der	der	DET	ART	nk	Regulation	NOUN	[]	3	b3	7
-Regulation	Regulation	NOUN	NN	nk	an	ADP	[der, von]	3	b3	7
-von	von	ADP	APPR	pg	Regulation	NOUN	[Myosin]	3	b3	7
-Myosin	Myosin	NOUN	NN	nk	von	ADP	[]	3	b3	7
-mitwirken	mitwirken	VERB	VVINF	cj	und	CCONJ	[auf, an]	3	b3	7
-.	--	PUNCT	$.	punct	können	AUX	[]	3	b3	7
-In	in	ADP	APPR	mo	registriert	VERB	[Zellen, beispielsweise]	3	b3	8
-den	der	DET	ART	nk	Zellen	NOUN	[]	3	b3	8
-nicht	nicht	PART	PTKNEG	ng	muskulären	ADJ	[]	3	b3	8
-muskulären	muskuläer	ADJ	ADJA	nk	Zellen	NOUN	[nicht]	3	b3	8
-Zellen	Zelle	NOUN	NN	nk	In	ADP	[den, muskulären]	3	b3	8
-beispielsweise	beispielsweise	ADV	ADV	mo	In	ADP	[]	3	b3	8
-registriert	registrieren	VERB	VVFIN	ROOT	registriert	VERB	[In, Calmodulinkette, Anwesenheit, und, .]	3	b3	8
-eine	ein	DET	ART	nk	Calmodulinkette	NOUN	[]	3	b3	8
-Calmodulinkette	Calmodulinkette	NOUN	NN	sb	registriert	VERB	[eine]	3	b3	8
-die	der	DET	ART	nk	Anwesenheit	NOUN	[]	3	b3	8
-Anwesenheit	Anwesenheit	NOUN	NN	oa	registriert	VERB	[die, von]	3	b3	8
-von	von	ADP	APPR	pg	Anwesenheit	NOUN	[Calciumionen]	3	b3	8
-Calciumionen	Calciumion	NOUN	NN	nk	von	ADP	[]	3	b3	8
-und	und	CCONJ	KON	cd	registriert	VERB	[ermöglicht]	3	b3	8
-ermöglicht	ermöglichen	VERB	VVFIN	cj	und	CCONJ	[Bindung, an]	3	b3	8
-die	der	DET	ART	nk	Bindung	NOUN	[]	3	b3	8
-Bindung	Bindung	NOUN	NN	oa	ermöglicht	VERB	[die, von]	3	b3	8
-von	von	ADP	APPR	pg	Bindung	NOUN	[Myosin]	3	b3	8
-Myosin	Myosin	NOUN	NN	nk	von	ADP	[]	3	b3	8
-an	an	ADP	APPR	mo	ermöglicht	VERB	[Aktin]	3	b3	8
-Aktin	Aktin	NOUN	NN	nk	an	ADP	[]	3	b3	8
-.	--	PUNCT	$.	punct	registriert	VERB	[]	3	b3	8
-Je	je	ADV	ADV	mo	nach	ADP	[]	3	b3	9
-nach	nach	ADP	APPR	mo	kann	AUX	[Je, Klasse]	3	b3	9
-Klasse	Klasse	NOUN	NN	nk	nach	ADP	[]	3	b3	9
-kann	können	AUX	VMFIN	ROOT	kann	AUX	[nach, Schwanz, anlagern, .]	3	b3	9
-der	der	DET	ART	nk	Schwanz	NOUN	[]	3	b3	9
-Schwanz	Schwanz	NOUN	NN	sb	kann	AUX	[der]	3	b3	9
-an	an	ADP	APPR	mo	anlagern	VERB	[Vesikel]	3	b3	9
-Vesikel	Vesikel	NOUN	NN	nk	an	ADP	[]	3	b3	9
-anlagern	anlagern	VERB	VVINF	oc	kann	AUX	[an, ,, ziehen]	3	b3	9
-,	--	PUNCT	$,	punct	anlagern	VERB	[]	3	b3	9
-um	um	SCONJ	KOUI	cp	ziehen	VERB	[]	3	b3	9
-sie	sie	PRON	PPER	oa	ziehen	VERB	[]	3	b3	9
-entlang	entlang	ADP	APPR	mo	ziehen	VERB	[Aktinfilaments]	3	b3	9
-des	der	DET	ART	nk	Aktinfilaments	NOUN	[]	3	b3	9
-Aktinfilaments	Aktinfilament	NOUN	NN	nk	entlang	ADP	[des]	3	b3	9
-zu	zu	PART	PTKZU	pm	ziehen	VERB	[]	3	b3	9
-ziehen	ziehen	VERB	VVINF	mo	anlagern	VERB	[um, sie, entlang, zu]	3	b3	9
-.	--	PUNCT	$.	punct	kann	AUX	[]	3	b3	9
-Alle	aller	DET	PIAT	nk	Myosine	NOUN	[]	3	b3	10
-Myosine	Myosin	NOUN	NN	sb	bewegen	VERB	[Alle, auf]	3	b3	10
-bis	bis	ADP	APPR	ac	auf	ADP	[]	3	b3	10
-auf	auf	ADP	APPR	mnr	Myosine	NOUN	[bis, Myosin]	3	b3	10
-Myosin	Myosin	NOUN	NN	nk	auf	ADP	[VI]	3	b3	10
-VI	VI	NOUN	CARD	nk	Myosin	NOUN	[]	3	b3	10
-bewegen	bewegen	VERB	VVFIN	ROOT	bewegen	VERB	[Myosine, sich, zum, .]	3	b3	10
-sich	sich	PRON	PRF	oa	bewegen	VERB	[]	3	b3	10
-zum	zu	ADP	APPRART	mo	bewegen	VERB	[+, Aktinfilaments]	3	b3	10
-+	+	CCONJ	$LRB	cd	zum	ADP	[Ende]	3	b3	10
-Ende	Ende	NOUN	NN	cj	+	CCONJ	[]	3	b3	10
-des	der	DET	ART	nk	Aktinfilaments	NOUN	[]	3	b3	10
-Aktinfilaments	Aktinfilament	NOUN	NN	ag	zum	ADP	[des]	3	b3	10
-.	--	PUNCT	$.	punct	bewegen	VERB	[]	3	b3	10
-Myosin	Myosin	NOUN	NE	sb	ist	AUX	[II]	3	b3	11
-II	II	NUM	CARD	nk	Myosin	NOUN	[]	3	b3	11
-ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Myosin, Dimer, ,, hat, .]	3	b3	11
-ein	ein	DET	ART	nk	Dimer	NOUN	[]	3	b3	11
-Dimer	Dimer	NOUN	NN	pd	ist	AUX	[ein]	3	b3	11
-,	--	PUNCT	$,	punct	ist	AUX	[]	3	b3	11
-es	es	PRON	PPER	ep	hat	VERB	[]	3	b3	11
-hat	haben	VERB	VAFIN	cj	ist	AUX	[es, Köpfe, und]	3	b3	11
-zwei	zwei	NUM	CARD	nk	Köpfe	NOUN	[]	3	b3	11
-Köpfe	Kopf	NOUN	NN	oa	hat	VERB	[zwei]	3	b3	11
-und	und	CCONJ	KON	cd	hat	VERB	[kann]	3	b3	11
-kann	können	AUX	VMFIN	cj	und	CCONJ	[binden]	3	b3	11
-mit	mit	ADP	APPR	mo	binden	VERB	[Schwanz]	3	b3	11
-seinem	sein	DET	PPOSAT	nk	Schwanz	NOUN	[]	3	b3	11
-Schwanz	Schwanz	NOUN	NN	nk	mit	ADP	[seinem]	3	b3	11
-an	an	ADP	APPR	mo	binden	VERB	[Filament]	3	b3	11
-ein	ein	DET	ART	nk	Filament	NOUN	[]	3	b3	11
-bipolares	bipolar	ADJ	ADJA	nk	Filament	NOUN	[]	3	b3	11
-Filament	Filament	NOUN	NN	nk	an	ADP	[ein, bipolares]	3	b3	11
-binden	binden	VERB	VVINF	oc	kann	AUX	[mit, an]	3	b3	11
-.	--	PUNCT	$.	punct	ist	AUX	[]	3	b3	11
-Es	es	PRON	PPER	sb	ist	AUX	[]	3	b3	12
-ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Es, finden, ,, aber, .]	3	b3	12
-im	in	ADP	APPRART	mo	finden	VERB	[Apparat]	3	b3	12
-kontraktilen	kontraktil	ADJ	ADJA	nk	Apparat	NOUN	[]	3	b3	12
-Apparat	Apparat	NOUN	NN	nk	im	ADP	[kontraktilen, Muskelzellen]	3	b3	12
-der	der	DET	ART	nk	Muskelzellen	NOUN	[]	3	b3	12
-Muskelzellen	Muskelzell	NOUN	NN	ag	Apparat	NOUN	[der]	3	b3	12
-zu	zu	PART	PTKZU	pm	finden	VERB	[]	3	b3	12
-finden	finden	VERB	VVINF	oc	ist	AUX	[im, zu]	3	b3	12
-,	--	PUNCT	$,	punct	ist	AUX	[]	3	b3	12
-aber	aber	CCONJ	KON	cd	ist	AUX	[in]	3	b3	12
-auch	auch	ADV	ADV	mo	in	ADP	[]	3	b3	12
-in	in	ADP	APPR	cj	aber	CCONJ	[auch, Zellen]	3	b3	12
-anderen	anderer	ADJ	ADJA	nk	Zellen	NOUN	[]	3	b3	12
-Zellen	Zelle	NOUN	NN	nk	in	ADP	[anderen, ,, ist]	3	b3	12
-,	--	PUNCT	$,	punct	Zellen	NOUN	[]	3	b3	12
-wo	wo	SCONJ	PWAV	mo	ist	AUX	[]	3	b3	12
-es	es	PRON	PPER	sb	ist	AUX	[]	3	b3	12
-am	an	ADP	APPRART	mo	beteiligt	VERB	[Kontraktionsmechanismus]	3	b3	12
-Kontraktionsmechanismus	Kontraktionsmechanismus	NOUN	NN	nk	am	ADP	[]	3	b3	12
-beteiligt	beteiligen	VERB	VVPP	pd	ist	AUX	[am]	3	b3	12
-ist	sein	AUX	VAFIN	rc	Zellen	NOUN	[wo, es, beteiligt]	3	b3	12
-.	--	PUNCT	$.	punct	ist	AUX	[]	3	b3	12
+Motormoleküle	Motormoleküle	ADV	NN	sb	sind	AUX	[]	3	b3	1	True
+sind	sein	AUX	VAFIN	ROOT	sind	AUX	[Motormoleküle, Enzyme, .]	3	b3	1	False
+Enzyme	Enzyme	NOUN	NN	pd	sind	AUX	[,, umwandeln]	3	b3	1	True
+,	--	PUNCT	$,	punct	Enzyme	NOUN	[]	3	b3	1	False
+welche	welcher	PRON	PRELS	sb	umwandeln	VERB	[]	3	b3	1	False
+die	der	DET	ART	nk	Energie	NOUN	[]	3	b3	1	False
+Energie	Energie	NOUN	NN	oa	umwandeln	VERB	[die, aus]	3	b3	1	True
+aus	aus	ADP	APPR	mnr	Energie	Noun	[Hydrolyse]	3	b3	1	True
+der	der	DET	ART	nk	Hydrolyse	NOUN	[]	3	b3	1	False
+Hydrolyse	Hydrolyse	NOUN	NN	nk	aus	ADP	[der, von, in]	3	b3	1	False
+von	von	ADP	APPR	pg	Hydrolyse	NOUN	[ATP]	3	b3	1	False
+ATP	ATP	PROPN	NN	nk	von	ADP	[]	3	b3	1	False
+in	in	ADP	APPR	mnr	Hydrolyse	NOUN	[Energie]	3	b3	1	False
+mechanische	mechanisch	ADJ	ADJA	nk	Energie	NOUN	[]	3	b3	1	False
+Energie	Energie	NOUN	NN	nk	in	ADP	[mechanische]	3	b3	1	False
+umwandeln	umwandeln	VERB	VVFIN	rc	Enzyme	NOUN	[welche, Energie]	3	b3	1	True
+.	--	PUNCT	$.	punct	sind	AUX	[]	3	b3	1	False
+Dabei	dabei	ADV	PROAV	mo	induzieren	VERB	[]	3	b3	2	False
+induzieren	induzieren	VERB	VVFIN	ROOT	induzieren	VERB	[Dabei, sie, Konformationsänderung, .]	3	b3	2	False
+sie	sie	PRON	PPER	sb	induzieren	VERB	[]	3	b3	2	False
+eine	ein	DET	ART	nk	Konformationsänderung	NOUN	[]	3	b3	2	False
+Konformationsänderung	Konformationsänderung	NOUN	NN	oa	induzieren	VERB	[eine, ,, ermöglicht]	3	b3	2	False
+,	--	PUNCT	$,	punct	Konformationsänderung	NOUN	[]	3	b3	2	False
+die	der	PRON	PRELS	sb	ermöglicht	VERB	[]	3	b3	2	False
+einen	ein	DET	ART	nk	Transport	NOUN	[]	3	b3	2	False
+Transport	Transport	NOUN	NN	oa	ermöglicht	VERB	[einen, auf]	3	b3	2	False
+auf	auf	ADP	APPR	mnr	Transport	NOUN	[Gleisen]	3	b3	2	False
+den	der	DET	ART	nk	Gleisen	NOUN	[]	3	b3	2	False
+""""	--	PUNCT	$LRB	punct	Gleisen	NOUN	[]	3	b3	2	False
+Gleisen	Gleis	NOUN	NN	nk	auf	ADP	"[den, "", ""]"	3	b3	2	False
+""""	--	PUNCT	$LRB	punct	Gleisen	NOUN	[]	3	b3	2	False
+ermöglicht	ermöglichen	VERB	VVFIN	rc	Konformationsänderung	NOUN	[die, Transport]	3	b3	2	False
+.	--	PUNCT	$.	punct	induzieren	VERB	[]	3	b3	2	False
+Die	der	DET	ART	nk	Gleise	NOUN	[]	3	b3	3	False
+""""	--	PUNCT	$LRB	punct	Gleise	NOUN	[]	3	b3	3	False
+Gleise	Gleis	NOUN	NN	sb	können	AUX	"[Die, "", ""]"	3	b3	3	True
+""""	--	PUNCT	$LRB	punct	Gleise	NOUN	[]	3	b3	3	False
+können	können	AUX	VMFIN	ROOT	können	AUX	[Gleise, Mikrotubuli, sein, .]	3	b3	3	False
+Mikrotubuli	Mikrotubuli	PROPN	NN	pd	sein	AUX	[oder]	3	b3	3	True
+oder	oder	CCONJ	KON	cd	Mikrotubuli	PROPN	[Aktinfilamente]	3	b3	3	False
+Aktinfilamente	Aktinfilament	NOUN	NN	cj	oder	CCONJ	[]	3	b3	3	False
+sein	sein	AUX	VAINF	oc	können	AUX	[Mikrotubuli]	3	b3	3	True
+.	--	PUNCT	$.	punct	können	AUX	[]	3	b3	3	False
+Aktinbindende	aktinbindend	ADJ	ADJA	nk	Motorproteine	NOUN	[]	3	b3	4	False
+Motorproteine	Motorprotein	NOUN	NN	sb	sind	AUX	[Aktinbindende]	3	b3	4	False
+sind	sein	AUX	VAFIN	ROOT	sind	AUX	[Motorproteine, Myosine, .]	3	b3	4	False
+die	der	DET	ART	nk	Myosine	NOUN	[]	3	b3	4	False
+Myosine	Myosin	NOUN	NN	pd	sind	AUX	[die, ,, vorkommen]	3	b3	4	False
+,	--	PUNCT	$,	punct	Myosine	NOUN	[]	3	b3	4	False
+von	von	ADP	APPR	pg	Familien	NOUN	[denen]	3	b3	4	True
+denen	der	PRON	PRELS	nk	von	ADP	[]	3	b3	4	False
+in	in	ADP	APPR	mo	vorkommen	VERB	[Eukaryoten]	3	b3	4	False
+Eukaryoten	Eukaryot	NOUN	NE	nk	in	ADP	[]	3	b3	4	False
+siebzehn	siebzehn	NUM	CARD	nk	Familien	NOUN	[]	3	b3	4	False
+Familien	Familie	NOUN	NN	sb	vorkommen	VERB	[von, siebzehn]	3	b3	4	True
+vorkommen	vorkommen	VERB	VVFIN	rc	Myosine	NOUN	[in, Familien]	3	b3	4	True
+.	--	PUNCT	$.	punct	sind	AUX	[]	3	b3	4	False
+Eine	ein	DET	ART	nk	Kette	NOUN	[]	3	b3	5	False
+schwere	schwer	ADJ	ADJA	nk	Kette	NOUN	[]	3	b3	5	False
+Kette	Kette	NOUN	NN	sb	ist	AUX	[Eine, schwere]	3	b3	5	False
+ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Kette, beteiligt, .]	3	b3	5	False
+an	an	ADP	APPR	op	beteiligt	VERB	[Ausbildung]	3	b3	5	False
+der	der	DET	ART	nk	Ausbildung	NOUN	[]	3	b3	5	False
+Ausbildung	Ausbildung	NOUN	NN	nk	an	ADP	[der, Kopfregion]	3	b3	5	True
+einer	ein	DET	ART	nk	Schwanz-	NOUN	[]	3	b3	5	True
+Schwanz-	Schwanz	X	TRUNC	cj	und	CCONJ	[einer]	3	b3	5	True
+und	und	CCONJ	KON	cd	Kopfregion	NOUN	[Schwanz-]	3	b3	5	False
+einer	ein	DET	ART	nk	Kopfregion	NOUN	[]	3	b3	5	False
+Kopfregion	Kopfregion	NOUN	NN	ag	Ausbildung	NOUN	[einer, und, einer, bildet]	3	b3	5	True
+beteiligt	beteiligen	VERB	VVPP	pd	ist	AUX	[an, ,]	3	b3	5	False
+,	--	PUNCT	$,	punct	beteiligt	VERB	[]	3	b3	5	False
+welche	welcher	PRON	PRELS	oa	bildet	VERB	[]	3	b3	5	False
+die	der	DET	ART	nk	Motordomäne	NOUN	[]	3	b3	5	False
+Motordomäne	Motordoman	NOUN	NN	sb	bildet	VERB	[die]	3	b3	5	False
+bildet	bilden	VERB	VVFIN	rc	Kopfregion	NOUN	[welche, Motordomäne]	3	b3	5	True
+.	--	PUNCT	$.	punct	ist	AUX	[]	3	b3	5	False
+Der	der	DET	ART	nk	Kopf	NOUN	[]	3	b3	6	False
+Kopf	Kopf	NOUN	NN	sb	besitzt	VERB	[Der]	3	b3	6	False
+besitzt	besitzen	VERB	VVFIN	ROOT	besitzt	VERB	[Kopf, ATP-Bindungsstelle, .]	3	b3	6	False
+eine	ein	DET	ART	nk	ATP-Bindungsstelle	NOUN	[]	3	b3	6	False
+Aktin-	Aktin	X	TRUNC	cj	und	CCONJ	[]	3	b3	6	False
+und	und	CCONJ	KON	cd	ATP-Bindungsstelle	NOUN	[Aktin-]	3	b3	6	False
+eine	ein	DET	ART	nk	ATP-Bindungsstelle	NOUN	[]	3	b3	6	False
+ATP-Bindungsstelle	ATP-Bindungsstelle	NOUN	NN	oa	besitzt	VERB	[eine, und, eine]	3	b3	6	False
+.	--	PUNCT	$.	punct	besitzt	VERB	[]	3	b3	6	False
+Im	in	ADP	APPRART	mo	können	AUX	[Übergangsbereich]	3	b3	7	False
+Übergangsbereich	Übergangsbereich	NOUN	NN	nk	Im	ADP	[von, zu]	3	b3	7	False
+von	von	ADP	APPR	mnr	Übergangsbereich	NOUN	[Kopf]	3	b3	7	False
+Kopf	Kopf	NOUN	NN	nk	von	ADP	[]	3	b3	7	False
+zu	zu	ADP	APPR	mnr	Übergangsbereich	NOUN	[Schwanz]	3	b3	7	False
+Schwanz	Schwanz	NOUN	NN	nk	zu	ADP	[]	3	b3	7	False
+können	können	AUX	VMFIN	ROOT	können	AUX	[Im, Ketten, binden, .]	3	b3	7	True
+unterschiedliche	unterschiedlich	ADJ	ADJA	nk	Ketten	NOUN	[]	3	b3	7	True
+leichte	leicht	ADJ	ADJA	nk	Ketten	NOUN	[]	3	b3	7	False
+Ketten	Kette	NOUN	NN	sb	können	VERB	[unterschiedliche, leichte]	3	b3	7	False
+binden	binden	VERB	VVINF	oc	können	AUX	[Ketten, und]	3	b3	7	False
+und	und	CCONJ	KON	cd	binden	VERB	[mitwirken]	3	b3	7	False
+auf	auf	ADP	APPR	mo	mitwirken	VERB	[Weise]	3	b3	7	False
+diese	dieser	DET	PDAT	nk	Weise	NOUN	[]	3	b3	7	False
+Weise	Weise	NOUN	NN	nk	auf	ADP	[diese]	3	b3	7	False
+an	an	ADP	APPR	op	mitwirken	VERB	[Regulation]	3	b3	7	False
+der	der	DET	ART	nk	Regulation	NOUN	[]	3	b3	7	False
+Regulation	Regulation	NOUN	NN	nk	an	ADP	[der, von]	3	b3	7	False
+von	von	ADP	APPR	pg	Regulation	NOUN	[Myosin]	3	b3	7	False
+Myosin	Myosin	NOUN	NN	nk	von	ADP	[]	3	b3	7	False
+mitwirken	mitwirken	VERB	VVINF	cj	und	CCONJ	[auf, an]	3	b3	7	False
+.	--	PUNCT	$.	punct	können	AUX	[]	3	b3	7	False
+In	in	ADP	APPR	mo	registriert	VERB	[Zellen, beispielsweise]	3	b3	8	False
+den	der	DET	ART	nk	Zellen	NOUN	[]	3	b3	8	False
+nicht	nicht	PART	PTKNEG	ng	muskulären	ADJ	[]	3	b3	8	False
+muskulären	muskuläer	ADJ	ADJA	nk	Zellen	NOUN	[nicht]	3	b3	8	False
+Zellen	Zelle	NOUN	NN	nk	In	ADP	[den, muskulären]	3	b3	8	False
+beispielsweise	beispielsweise	ADV	ADV	mo	In	ADP	[]	3	b3	8	False
+registriert	registrieren	VERB	VVFIN	ROOT	registriert	VERB	[In, Calmodulinkette, Anwesenheit, und, .]	3	b3	8	False
+eine	ein	DET	ART	nk	Calmodulinkette	NOUN	[]	3	b3	8	False
+Calmodulinkette	Calmodulinkette	NOUN	NN	sb	registriert	VERB	[eine]	3	b3	8	False
+die	der	DET	ART	nk	Anwesenheit	NOUN	[]	3	b3	8	False
+Anwesenheit	Anwesenheit	NOUN	NN	oa	registriert	VERB	[die, von]	3	b3	8	False
+von	von	ADP	APPR	pg	Anwesenheit	NOUN	[Calciumionen]	3	b3	8	False
+Calciumionen	Calciumion	NOUN	NN	nk	von	ADP	[]	3	b3	8	False
+und	und	CCONJ	KON	cd	registriert	VERB	[ermöglicht]	3	b3	8	False
+ermöglicht	ermöglichen	VERB	VVFIN	cj	und	CCONJ	[Bindung, an]	3	b3	8	False
+die	der	DET	ART	nk	Bindung	NOUN	[]	3	b3	8	False
+Bindung	Bindung	NOUN	NN	oa	ermöglicht	VERB	[die, von]	3	b3	8	False
+von	von	ADP	APPR	pg	Bindung	NOUN	[Myosin]	3	b3	8	False
+Myosin	Myosin	NOUN	NN	nk	von	ADP	[]	3	b3	8	False
+an	an	ADP	APPR	mo	ermöglicht	VERB	[Aktin]	3	b3	8	False
+Aktin	Aktin	NOUN	NN	nk	an	ADP	[]	3	b3	8	False
+.	--	PUNCT	$.	punct	registriert	VERB	[]	3	b3	8	False
+Je	je	ADV	ADV	mo	nach	ADP	[]	3	b3	9	False
+nach	nach	ADP	APPR	mo	kann	AUX	[Je, Klasse]	3	b3	9	False
+Klasse	Klasse	NOUN	NN	nk	nach	ADP	[]	3	b3	9	False
+kann	können	AUX	VMFIN	ROOT	kann	AUX	[nach, Schwanz, anlagern, .]	3	b3	9	False
+der	der	DET	ART	nk	Schwanz	NOUN	[]	3	b3	9	False
+Schwanz	Schwanz	NOUN	NN	sb	kann	AUX	[der]	3	b3	9	False
+an	an	ADP	APPR	mo	anlagern	VERB	[Vesikel]	3	b3	9	False
+Vesikel	Vesikel	NOUN	NN	nk	an	ADP	[]	3	b3	9	False
+anlagern	anlagern	VERB	VVINF	oc	kann	AUX	[an, ,, ziehen]	3	b3	9	False
+,	--	PUNCT	$,	punct	anlagern	VERB	[]	3	b3	9	False
+um	um	SCONJ	KOUI	cp	ziehen	VERB	[]	3	b3	9	False
+sie	sie	PRON	PPER	oa	ziehen	VERB	[]	3	b3	9	False
+entlang	entlang	ADP	APPR	mo	ziehen	VERB	[Aktinfilaments]	3	b3	9	False
+des	der	DET	ART	nk	Aktinfilaments	NOUN	[]	3	b3	9	False
+Aktinfilaments	Aktinfilament	NOUN	NN	nk	entlang	ADP	[des]	3	b3	9	False
+zu	zu	PART	PTKZU	pm	ziehen	VERB	[]	3	b3	9	False
+ziehen	ziehen	VERB	VVINF	mo	anlagern	VERB	[um, sie, entlang, zu]	3	b3	9	False
+.	--	PUNCT	$.	punct	kann	AUX	[]	3	b3	9	False
+Alle	aller	DET	PIAT	nk	Myosine	NOUN	[]	3	b3	10	False
+Myosine	Myosin	NOUN	NN	sb	bewegen	VERB	[Alle, auf]	3	b3	10	False
+bis	bis	ADP	APPR	ac	auf	ADP	[]	3	b3	10	False
+auf	auf	ADP	APPR	mnr	Myosine	NOUN	[bis, Myosin]	3	b3	10	False
+Myosin	Myosin	NOUN	NN	nk	auf	ADP	[VI]	3	b3	10	False
+VI	VI	NOUN	CARD	nk	Myosin	NOUN	[]	3	b3	10	False
+bewegen	bewegen	VERB	VVFIN	ROOT	bewegen	VERB	[Myosine, sich, zum, .]	3	b3	10	False
+sich	sich	PRON	PRF	oa	bewegen	VERB	[]	3	b3	10	False
+zum	zu	ADP	APPRART	mo	bewegen	VERB	[Ende, Aktinfilaments]	3	b3	10	True
++	+	X	Trunc	cd	Ende	NOUN	[]	3	b3	10	True
+Ende	Ende	NOUN	NN	cj	zum	ADP	[+]	3	b3	10	False
+des	der	DET	ART	nk	Aktinfilaments	NOUN	[]	3	b3	10	False
+Aktinfilaments	Aktinfilament	NOUN	NN	ag	zum	ADP	[des]	3	b3	10	False
+.	--	PUNCT	$.	punct	bewegen	VERB	[]	3	b3	10	False
+Myosin	Myosin	NOUN	NE	sb	ist	AUX	[II]	3	b3	11	False
+II	II	NUM	CARD	nk	Myosin	NOUN	[]	3	b3	11	False
+ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Myosin, Dimer, ,, hat, .]	3	b3	11	False
+ein	ein	DET	ART	nk	Dimer	NOUN	[]	3	b3	11	False
+Dimer	Dimer	NOUN	NN	pd	ist	AUX	[ein]	3	b3	11	False
+,	--	PUNCT	$,	punct	ist	AUX	[]	3	b3	11	False
+es	es	PRON	PPER	sb	hat	VERB	[]	3	b3	11	True
+hat	haben	VERB	VAFIN	cj	ist	AUX	[es, Köpfe, und]	3	b3	11	False
+zwei	zwei	NUM	CARD	nk	Köpfe	NOUN	[]	3	b3	11	False
+Köpfe	Kopf	NOUN	NN	oa	hat	VERB	[zwei]	3	b3	11	False
+und	und	CCONJ	KON	cd	hat	VERB	[kann]	3	b3	11	False
+kann	können	AUX	VMFIN	cj	und	CCONJ	[binden]	3	b3	11	False
+mit	mit	ADP	APPR	mo	binden	VERB	[Schwanz]	3	b3	11	False
+seinem	sein	DET	PPOSAT	nk	Schwanz	NOUN	[]	3	b3	11	False
+Schwanz	Schwanz	NOUN	NN	nk	mit	ADP	[seinem]	3	b3	11	False
+an	an	ADP	APPR	mo	binden	VERB	[Filament]	3	b3	11	False
+ein	ein	DET	ART	nk	Filament	NOUN	[]	3	b3	11	False
+bipolares	bipolar	ADJ	ADJA	nk	Filament	NOUN	[]	3	b3	11	False
+Filament	Filament	NOUN	NN	nk	an	ADP	[ein, bipolares]	3	b3	11	False
+binden	binden	VERB	VVINF	oc	kann	AUX	[mit, an]	3	b3	11	False
+.	--	PUNCT	$.	punct	ist	AUX	[]	3	b3	11	False
+Es	es	PRON	PPER	sb	ist	AUX	[]	3	b3	12	False
+ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Es, finden, ,, .]	3	b3	12	True
+im	in	ADP	APPRART	mo	finden	VERB	[Apparat, aber]	3	b3	12	True
+kontraktilen	kontraktil	ADJ	ADJA	nk	Apparat	NOUN	[]	3	b3	12	False
+Apparat	Apparat	NOUN	NN	nk	im	ADP	[kontraktilen, Muskelzellen]	3	b3	12	True
+der	der	DET	ART	nk	Muskelzellen	NOUN	[]	3	b3	12	False
+Muskelzellen	Muskelzell	NOUN	NN	ag	Apparat	NOUN	[der]	3	b3	12	False
+zu	zu	PART	PTKZU	pm	finden	VERB	[]	3	b3	12	False
+finden	finden	VERB	VVINF	oc	ist	AUX	[im, zu]	3	b3	12	True
+,	--	PUNCT	$,	punct	ist	AUX	[in]	3	b3	12
+aber	aber	CCONJ	KON	cd	im	ADP	[in]	3	b3	12	True
+auch	auch	ADV	ADV	mo	aber	CCONJ	[]	3	b3	12	True
+in	in	ADP	APPR	cj	aber	CCONJ	[Zellen]	3	b3	12	False
+anderen	anderer	ADJ	ADJA	nk	Zellen	NOUN	[]	3	b3	12	False
+Zellen	Zelle	NOUN	NN	nk	in	ADP	[anderen, ,, ist]	3	b3	12	True
+,	--	PUNCT	$,	punct	Zellen	NOUN	[]	3	b3	12	False
+wo	wo	SCONJ	PWAV	mo	ist	AUX	[]	3	b3	12	False
+es	es	PRON	PPER	sb	ist	AUX	[]	3	b3	12	False
+am	an	ADP	APPRART	mo	beteiligt	VERB	[Kontraktionsmechanismus]	3	b3	12	False
+Kontraktionsmechanismus	Kontraktionsmechanismus	NOUN	NN	nk	am	ADP	[]	3	b3	12	False
+beteiligt	beteiligen	VERB	VVPP	pd	ist	AUX	[am]	3	b3	12	False
+ist	sein	AUX	VAFIN	rc	Zellen	NOUN	[wo, es, beteiligt]	3	b3	12	False
+.	--	PUNCT	$.	punct	ist	AUX	[]	3	b3	12	False
 Wenn	wenn	SCONJ	KOUS	cp	absorbiert	VERB	[]	7	p1	1
 ein	ein	DET	ART	nk	Atom	NOUN	[]	7	p1	1
 ruhendes	ruhend	ADJ	ADJA	nk	Atom	NOUN	[]	7	p1	1

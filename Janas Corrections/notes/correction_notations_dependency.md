@@ -5,6 +5,8 @@
 Differences between uncorrected_dependency_trees.tsv and manually_corrected_dependency_trees.tsv before correction
 out of the box due to different source files fed to the dependency parser
 
+spacy Glossary: https://github.com/explosion/spaCy/blob/master/spacy/glossary.py
+
 |Text_id_num |    text id  |    sent_index in text|
 |------------|-------------|----------------------|
 |11              |p5          |5,6       |
@@ -97,6 +99,7 @@ ganz falsch wegen gänsefüsschen
 scheint falsch ,von denen wäre ein Phrasaler Genitiv aber er ist in einer REC deswegen bin ich nciht sicher wie ich es annotieren soll, ich glaube ich bräuchte eine sekundäre kantew
 ### b3 ID: 5
 Consticuency tree nicht eindeutig/ möglich
+![img_18.png](img_18.png)
 ### b3 ID: 6
 
 ### b3 ID: 7
@@ -107,7 +110,8 @@ check because of differences in original file anyway
 ### b3 ID: 9
 
 ### b3 ID: 10
-
+not sure how to annotate "+" - symbol: either as X XY or As SYM, automatically assigned CCONJ however is false for sure, or as Trunc ? 
+        
 ### b3 ID: 11
 
 ### b3 ID: 12

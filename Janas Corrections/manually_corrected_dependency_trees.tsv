@@ -580,58 +580,58 @@ essenzielle	essenziell	ADJ	ADJA	nk	Mineralstoffe	NOUN	[]	2	b2	1	False
 Mineralstoffe	Mineralstoff	NOUN	NN	oa	nehmen	VERB	[auch, essenzielle]	2	b2	1	False
 auf	auf	ADP	PTKVZ	svp	nehmen	VERB	[]	2	b2	1	False
 .	--	PUNCT	$.	punct	entziehen	VERB	[]	2	b2	1	False
-Böden	Böden	NOUN	NN	sb	sind	AUX	[]	2	b2	2
-sind	sein	AUX	VAFIN	ROOT	sind	AUX	[Böden, Unterschiede, auf, .]	2	b2	2
-heterogen	heterogen	ADJ	ADJD	nk	Unterschiede	NOUN	[und]	2	b2	2
-und	und	CCONJ	KON	cd	heterogen	ADJ	[weisen]	2	b2	2
-weisen	weis	ADJ	VVFIN	cj	und	CCONJ	[]	2	b2	2
-Unterschiede	Unterschied	NOUN	NN	sb	sind	AUX	[heterogen, auf]	2	b2	2
-auf	auf	ADP	APPR	mnr	Unterschiede	NOUN	[Raum]	2	b2	2
-kleinem	klein	ADJ	ADJA	nk	Raum	NOUN	[]	2	b2	2
-Raum	Raum	NOUN	NN	nk	auf	ADP	[kleinem]	2	b2	2
-auf	auf	ADP	PTKVZ	svp	sind	AUX	[]	2	b2	2
-.	--	PUNCT	$.	punct	sind	AUX	[]	2	b2	2
-Wurzeln	Wurzel	NOUN	NN	sb	können	AUX	[,, wachsen]	2	b2	3
-,	--	PUNCT	$,	punct	Wurzeln	NOUN	[]	2	b2	3
-die	der	PRON	PRELS	sb	wachsen	VERB	[]	2	b2	3
-durch	durch	ADP	APPR	mo	wachsen	VERB	[Boden]	2	b2	3
-den	der	DET	ART	nk	Boden	NOUN	[]	2	b2	3
-Boden	Boden	NOUN	NN	nk	durch	ADP	[den]	2	b2	3
-wachsen	wachsen	VERB	VVFIN	rc	Wurzeln	NOUN	[die, durch]	2	b2	3
-,	--	PUNCT	$,	punct	können	AUX	[]	2	b2	3
-können	können	AUX	VMFIN	ROOT	können	AUX	[Wurzeln, ,, treffen, .]	2	b2	3
-auf	auf	ADP	APPR	op	treffen	VERB	[Regionen]	2	b2	3
-Regionen	Region	NOUN	NN	nk	auf	ADP	[unterscheiden]	2	b2	3
-treffen	treffen	VERB	VVINF	oc	können	AUX	[auf, ,]	2	b2	3
-,	--	PUNCT	$,	punct	treffen	VERB	[]	2	b2	3
-die	der	PRON	PRELS	sb	unterscheiden	VERB	[]	2	b2	3
-sich	sich	PRON	PRF	oa	unterscheiden	VERB	[]	2	b2	3
-im	in	ADP	APPRART	mo	unterscheiden	VERB	[Mineralstoffgehalt]	2	b2	3
-Wasser-	Wasser	X	TRUNC	cj	und	CCONJ	[]	2	b2	3
-und	und	CCONJ	KON	cd	Mineralstoffgehalt	NOUN	[Wasser-]	2	b2	3
-Mineralstoffgehalt	Mineralstoffgehalt	NOUN	NN	nk	im	ADP	[und]	2	b2	3
-unterscheiden	unterscheiden	VERB	VVFIN	rc	Regionen	NOUN	[die, sich, im]	2	b2	3
-.	--	PUNCT	$.	punct	können	AUX	[]	2	b2	3
-In	in	ADP	APPR	mo	sind	AUX	[Regionen]	2	b2	4
-den	der	DET	ART	nk	Regionen	NOUN	[]	2	b2	4
-besser	gut	ADV	ADJD	mo	versorgten	ADJ	[]	2	b2	4
-versorgten	versorgt	ADJ	ADJA	nk	Regionen	NOUN	[besser]	2	b2	4
-Regionen	Region	NOUN	NN	nk	In	ADP	[den, versorgten]	2	b2	4
-sind	sein	AUX	VAFIN	ROOT	sind	AUX	[In, Wurzeln, verzweigt, .]	2	b2	4
-Wurzeln	Wurzel	NOUN	NN	sb	sind	AUX	[]	2	b2	4
-oft	oft	ADV	ADV	mo	verzweigt	VERB	[]	2	b2	4
-stark	stark	ADV	ADJD	mo	verzweigt	VERB	[]	2	b2	4
-verzweigt	verzweigen	VERB	VVPP	pd	sind	AUX	[oft, stark]	2	b2	4
-.	--	PUNCT	$.	punct	sind	AUX	[]	2	b2	4
-Für	für	ADP	APPR	mo	ist	AUX	[Aufnahme]	2	b2	5
-die	der	DET	ART	nk	Aufnahme	NOUN	[]	2	b2	5
-Aufnahme	Aufnahme	NOUN	NN	nk	Für	ADP	[die, Nährstoffe]	2	b2	5
-mineralischer	mineralisch	ADJ	ADJA	nk	Nährstoffe	NOUN	[]	2	b2	5
-Nährstoffe	Nährstoff	NOUN	NN	ag	Aufnahme	NOUN	[mineralischer]	2	b2	5
-ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Für, Wurzelarchitektur, ,, verhalten, .]	2	b2	5
-die	der	DET	ART	nk	Wurzelarchitektur	NOUN	[]	2	b2	5
-Wurzelarchitektur	Wurzelarchitektur	NOUN	NN	sb	ist	AUX	[die, von]	2	b2	5
-von	von	ADP	APPR	pg	Wurzelarchitektur	NOUN	[Bedeutung]	2	b2	5
+Böden	Böden	NOUN	NN	sb	sind	AUX	[]	2	b2	2	True
+sind	sein	AUX	VAFIN	ROOT	sind	AUX	[Böden, heterogen, und, .]	2	b2	2	True
+heterogen	heterogen	ADJ	ADJD	pd	sind	AUX	[]	2	b2	2	True
+und	und	CCONJ	KON	cd	sind	AUX	[weisen]	2	b2	2	True
+weisen	weis	ADJ	VVFIN	cj	und	CCONJ	[Unterschiede, auf]	2	b2	2	True
+Unterschiede	Unterschied	NOUN	NN	sb	sind	AUX	[heterogen, auf]	2	b2	2	False
+auf	auf	ADP	APPR	mnr	Unterschiede	NOUN	[Raum]	2	b2	2	False
+kleinem	klein	ADJ	ADJA	nk	Raum	NOUN	[]	2	b2	2	False
+Raum	Raum	NOUN	NN	nk	auf	ADP	[kleinem]	2	b2	2	False
+auf	auf	ADP	PTKVZ	svp	weisen	VERB	[]	2	b2	2	True
+.	--	PUNCT	$.	punct	sind	AUX	[]	2	b2	2	False
+Wurzeln	Wurzel	NOUN	NN	sb	können	AUX	[,, wachsen]	2	b2	3	False
+,	--	PUNCT	$,	punct	Wurzeln	NOUN	[]	2	b2	3	False
+die	der	PRON	PRELS	sb	wachsen	VERB	[]	2	b2	3	False
+durch	durch	ADP	APPR	mo	wachsen	VERB	[Boden]	2	b2	3	False
+den	der	DET	ART	nk	Boden	NOUN	[]	2	b2	3	False
+Boden	Boden	NOUN	NN	nk	durch	ADP	[den]	2	b2	3	False
+wachsen	wachsen	VERB	VVFIN	rc	Wurzeln	NOUN	[die, durch]	2	b2	3	False
+,	--	PUNCT	$,	punct	können	AUX	[]	2	b2	3	False
+können	können	AUX	VMFIN	ROOT	können	AUX	[Wurzeln, ,, treffen, .]	2	b2	3	False
+auf	auf	ADP	APPR	op	treffen	VERB	[Regionen]	2	b2	3	False
+Regionen	Region	NOUN	NN	nk	auf	ADP	[unterscheiden]	2	b2	3	False
+treffen	treffen	VERB	VVINF	oc	können	AUX	[auf, ,]	2	b2	3	False
+,	--	PUNCT	$,	punct	treffen	VERB	[]	2	b2	3	False
+die	der	PRON	PRELS	sb	unterscheiden	VERB	[]	2	b2	3	False
+sich	sich	PRON	PRF	oa	unterscheiden	VERB	[]	2	b2	3	False
+im	in	ADP	APPRART	mo	unterscheiden	VERB	[Mineralstoffgehalt]	2	b2	3	False
+Wasser-	Wasser	X	TRUNC	cj	und	CCONJ	[]	2	b2	3	False
+und	und	CCONJ	KON	cd	Mineralstoffgehalt	NOUN	[Wasser-]	2	b2	3	False
+Mineralstoffgehalt	Mineralstoffgehalt	NOUN	NN	nk	im	ADP	[und]	2	b2	3	False
+unterscheiden	unterscheiden	VERB	VVFIN	rc	Regionen	NOUN	[die, sich, im]	2	b2	3	False
+.	--	PUNCT	$.	punct	können	AUX	[]	2	b2	3	False
+In	in	ADP	APPR	mo	sind	AUX	[Regionen]	2	b2	4	False
+den	der	DET	ART	nk	Regionen	NOUN	[]	2	b2	4	False
+besser	gut	ADV	ADJD	mo	versorgten	ADJ	[]	2	b2	4	False
+versorgten	versorgt	ADJ	ADJA	nk	Regionen	NOUN	[besser]	2	b2	4	False
+Regionen	Region	NOUN	NN	nk	In	ADP	[den, versorgten]	2	b2	4	False
+sind	sein	AUX	VAFIN	ROOT	sind	AUX	[In, Wurzeln, verzweigt, .]	2	b2	4	False
+Wurzeln	Wurzel	NOUN	NN	sb	sind	AUX	[]	2	b2	4	False
+oft	oft	ADV	ADV	mo	verzweigt	VERB	[]	2	b2	4	False
+stark	stark	ADV	ADJD	mo	verzweigt	VERB	[]	2	b2	4	False
+verzweigt	verzweigen	VERB	VVPP	pd	sind	AUX	[oft, stark]	2	b2	4	False
+.	--	PUNCT	$.	punct	sind	AUX	[]	2	b2	4	False
+Für	für	ADP	APPR	mo	ist	AUX	[Aufnahme]	2	b2	5	False
+die	der	DET	ART	nk	Aufnahme	NOUN	[]	2	b2	5	False
+Aufnahme	Aufnahme	NOUN	NN	nk	Für	ADP	[die, Nährstoffe]	2	b2	5	False
+mineralischer	mineralisch	ADJ	ADJA	nk	Nährstoffe	NOUN	[]	2	b2	5	False
+Nährstoffe	Nährstoff	NOUN	NN	ag	Aufnahme	NOUN	[mineralischer]	2	b2	5	False
+ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Für, Wurzelarchitektur, ,, verhalten, .]	2	b2	5	False
+die	der	DET	ART	nk	Wurzelarchitektur	NOUN	[]	2	b2	5	False
+Wurzelarchitektur	Wurzelarchitektur	NOUN	NN	sb	ist	AUX	[die, von]	2	b2	5	False
+von	von	ADP	APPR	mo	ist	AUX	[Bedeutung]	2	b2	5	True
 ganz	ganz	ADV	ADV	mo	besonderer	ADJ	[]	2	b2	5
 besonderer	besonderer	ADJ	ADJA	nk	Bedeutung	NOUN	[ganz]	2	b2	5
 Bedeutung	Bedeutung	NOUN	NN	nk	von	ADP	[besonderer]	2	b2	5

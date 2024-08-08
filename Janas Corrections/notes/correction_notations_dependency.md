@@ -69,7 +69,8 @@ heterogen ist falsch annotiert, so wei auch die beiden aufs
 ### b2 ID: 3
 auf Mo oder OP?
 ### b2 ID: 4
-verwzeigt als PD wäre aber im widerspruch zum adjektiv
+verwzeigt als PD wäre aber im widerspruch zum adjektiv. Von ganz besonderer Bedeutung sollte Mo sein vgl. ![img_17.png](img_17.png)
+
 ### b2 ID: 5
 check because of differences in original file anyway
 Für meiner meinung nnach falsche dependency

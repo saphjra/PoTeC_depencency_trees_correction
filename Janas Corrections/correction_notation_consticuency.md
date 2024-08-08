@@ -106,8 +106,9 @@ verzweigt von VVPP zu ADJA, obwohl ich eher zu VVPP tendiere. als folge wird die
 ['(S (PP (APPR In) (ART den) (AP (ADJD besser) (ADJA versorgten)) (NN Regionen)) (VAFIN sind) (NN Wurzeln) (AP (ADV oft) (ADJD stark) (ADJA verzweigt))) ($. .)']
 ### b2 ID: 5
 !!!
+![img.png](img.png)
 POS correct,bei baum zusätzliche CS 
-['(S (PP (APPR Für) (ART die) (NN Aufnahme) (NP (ADJA mineralischer) (NN Nährstoffe))) (VAFIN ist) (NP (ART die) (NN Wurzelarchitektur)) (PP (APPR von) (AP (ADV ganz) (ADJA besonderer)) (NN Bedeutung)) ($, ,) (CS (S (KOUS weil) (PRF sich) (NP (ADJA unterschiedliche) (NN Mineralstoffe)) (AP (ADV ganz) (ADJD verschieden)) (VVFIN verhalten)) (KON und) (S (VP (PP (APPR durch) (ADJA verschiedenartige) (NN Kräfte)) (PP (APPRART im) (NN Boden)) (VVPP gehalten)) (VAFIN werden)))) ($. .)']
+['(S (PP (APPR Für) (ART die) (NN Aufnahme) (NP (ADJA mineralischer) (NN Nährstoffe))) (VAFIN ist) (NP (ART die) (NN Wurzelarchitektur)) (PP (APPR von) (AP (ADV ganz) (ADJA besonderer)) (NN Bedeutung)) ($, ,) (S (KOUS weil) (PRF sich) (NP (ADJA unterschiedliche) (NN Mineralstoffe)) (CVP (VP (AP (ADV ganz) (ADJD verschieden)) (VVFIN verhalten)) (KON und) (VP (PP (APPR durch) (ADJA verschiedenartige) (NN Kräfte)) (PP (APPRART im) (NN Boden)) (VVPP gehalten) (VAFIN werden))))) ($. .)']
 
 ### b2 ID: 6
 PO und Baum correct

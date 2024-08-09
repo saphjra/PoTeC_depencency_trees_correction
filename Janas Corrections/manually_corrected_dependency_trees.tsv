@@ -1436,82 +1436,82 @@ Kontraktionsmechanismus	Kontraktionsmechanismus	NOUN	NN	nk	am	ADP	[]	3	b3	12	Fal
 beteiligt	beteiligen	VERB	VVPP	pd	ist	AUX	[am]	3	b3	12	False
 ist	sein	AUX	VAFIN	rc	Zellen	NOUN	[wo, es, beteiligt]	3	b3	12	False
 .	--	PUNCT	$.	punct	ist	AUX	[]	3	b3	12	False
-Wenn	wenn	SCONJ	KOUS	cp	absorbiert	VERB	[]	7	p1	1
-ein	ein	DET	ART	nk	Atom	NOUN	[]	7	p1	1
-ruhendes	ruhend	ADJ	ADJA	nk	Atom	NOUN	[]	7	p1	1
-Atom	atom	NOUN	NN	sb	absorbiert	VERB	[ein, ruhendes]	7	p1	1
-ein	ein	DET	ART	nk	Photon	NOUN	[]	7	p1	1
-Photon	Photon	NOUN	NN	oa	absorbiert	VERB	[ein]	7	p1	1
-absorbiert	absorbieren	VERB	VVFIN	re	so	ADV	[Wenn, Atom, Photon]	7	p1	1
-,	--	PUNCT	$,	punct	so	ADV	[]	7	p1	1
-so	so	ADV	ADV	mo	nimmt	VERB	[absorbiert, ,]	7	p1	1
-nimmt	nehmen	VERB	VVFIN	ROOT	nimmt	VERB	[so, es, bei, Photonenimpuls, auf, und, .]	7	p1	1
-es	es	PRON	PPER	ep	nimmt	VERB	[]	7	p1	1
-bei	bei	ADP	APPR	mo	nimmt	VERB	[Absorption]	7	p1	1
-der	der	DET	ART	nk	Absorption	NOUN	[]	7	p1	1
-Absorption	Absorption	NOUN	NN	nk	bei	ADP	[der]	7	p1	1
-den	der	DET	ART	nk	Photonenimpuls	NOUN	[]	7	p1	1
-Photonenimpuls	Photonenimpuls	NOUN	NN	da	nimmt	VERB	[den]	7	p1	1
-auf	auf	ADP	PTKVZ	svp	nimmt	VERB	[]	7	p1	1
-und	und	CCONJ	KON	cd	nimmt	VERB	[erfährt]	7	p1	1
-erfährt	erfahren	VERB	VVFIN	cj	und	CCONJ	[deshalb, Rückstoßimpuls]	7	p1	1
-deshalb	deshalb	ADV	PROAV	mo	erfährt	VERB	[]	7	p1	1
-einen	ein	DET	ART	nk	Rückstoßimpuls	NOUN	[]	7	p1	1
-Rückstoßimpuls	Rückstoßimpuls	NOUN	NN	oa	erfährt	VERB	[einen, ,, führt]	7	p1	1
-,	--	PUNCT	$,	punct	Rückstoßimpuls	NOUN	[]	7	p1	1
-der	der	PRON	PRELS	sb	führt	VERB	[]	7	p1	1
-zu	zu	ADP	APPR	mo	führt	VERB	[Rückstoßenergie]	7	p1	1
-einer	ein	DET	ART	nk	Rückstoßenergie	NOUN	[]	7	p1	1
-kinetischen	kinetisch	ADJ	ADJA	nk	Rückstoßenergie	NOUN	[]	7	p1	1
-Rückstoßenergie	Rückstoßenergie	NOUN	NN	nk	zu	ADP	[einer, kinetischen]	7	p1	1
-führt	führen	VERB	VVFIN	rc	Rückstoßimpuls	NOUN	[der, zu]	7	p1	1
-.	--	PUNCT	$.	punct	nimmt	VERB	[]	7	p1	1
-Die	der	DET	ART	nk	Photonenenergie	NOUN	[]	7	p1	2
-Photonenenergie	Photonenenergie	NOUN	NN	sb	wird	AUX	[Die]	7	p1	2
-wird	werden	AUX	VAFIN	ROOT	wird	AUX	[Photonenenergie, übertragen, .]	7	p1	2
-dabei	dabei	ADV	PROAV	mo	übertragen	VERB	[]	7	p1	2
-zum	zu	ADP	APPRART	op	übertragen	VERB	[einen, als]	7	p1	2
-einen	einer	PRON	PIS	nk	zum	ADP	[]	7	p1	2
-als	als	ADP	APPR	mo	zum	ADP	[Rückstoßenergie, und]	7	p1	2
-Rückstoßenergie	Rückstoßenergie	NOUN	NN	nk	als	ADP	[]	7	p1	2
-und	und	CCONJ	KON	cd	als	ADP	[als]	7	p1	2
-zum	zu	ADP	APPRART	mo	als	ADP	[anderen]	7	p1	2
-anderen	anderer	ADJ	PIS	nk	zum	ADP	[]	7	p1	2
-als	als	ADP	APPR	cj	und	CCONJ	[zum, Anregungsenergie]	7	p1	2
-Anregungsenergie	Anregungsenergie	NOUN	NN	nk	als	ADP	[]	7	p1	2
-auf	auf	ADP	APPR	op	übertragen	VERB	[Atom]	7	p1	2
-das	der	DET	ART	nk	Atom	NOUN	[]	7	p1	2
-Atom	Atom	NOUN	NN	nk	auf	ADP	[das]	7	p1	2
-übertragen	übertragen	VERB	VVPP	oc	wird	AUX	[dabei, zum, auf]	7	p1	2
-.	--	PUNCT	$.	punct	wird	AUX	[]	7	p1	2
-Die	der	DET	ART	nk	Frequenz	NOUN	[]	7	p1	3
-Frequenz	Frequenz	NOUN	NN	sb	unterscheidet	VERB	[Die, Anregung]	7	p1	3
-der	der	DET	ART	nk	Anregung	NOUN	[]	7	p1	3
-Anregung	Anregung	NOUN	NN	ag	Frequenz	NOUN	[der]	7	p1	3
-unterscheidet	unterscheiden	VERB	VVFIN	ROOT	unterscheidet	VERB	[Frequenz, sich, also, von, um, .]	7	p1	3
-sich	sich	PRON	PRF	oa	unterscheidet	VERB	[]	7	p1	3
-also	also	ADV	ADV	mo	unterscheidet	VERB	[]	7	p1	3
-von	von	ADP	APPR	mo	unterscheidet	VERB	[der]	7	p1	3
-der	der	PRON	PDS	nk	von	ADP	[Photons]	7	p1	3
-des	der	DET	ART	nk	Photons	NOUN	[]	7	p1	3
-Photons	Photon	NOUN	NN	ag	der	PRON	[des]	7	p1	3
-um	um	ADP	APPR	op	unterscheidet	VERB	[Betrag]	7	p1	3
-einen	ein	DET	ART	nk	Betrag	NOUN	[]	7	p1	3
-gewissen	gewiß	ADJ	ADJA	nk	Betrag	NOUN	[]	7	p1	3
-Betrag	Betrag	NOUN	NN	nk	um	ADP	[einen, gewissen]	7	p1	3
-.	--	PUNCT	$.	punct	unterscheidet	VERB	[]	7	p1	3
-Auch	auch	ADV	ADV	mo	bei	ADP	[]	7	p1	4
-bei	bei	ADP	APPR	mo	erfährt	VERB	[Auch, Emission]	7	p1	4
-der	der	DET	ART	nk	Emission	NOUN	[]	7	p1	4
-Emission	Emission	NOUN	NN	nk	bei	ADP	[der, Photons]	7	p1	4
-eines	ein	DET	ART	nk	Photons	NOUN	[]	7	p1	4
-Photons	Photon	NOUN	NN	ag	Emission	NOUN	[eines]	7	p1	4
-erfährt	erfahren	VERB	VVFIN	ROOT	erfährt	VERB	[bei, Atom, Rückstoß, .]	7	p1	4
-das	der	DET	ART	nk	Atom	NOUN	[]	7	p1	4
-Atom	Atom	NOUN	NN	sb	erfährt	VERB	[das]	7	p1	4
-einen	ein	DET	ART	nk	Rückstoß	NOUN	[]	7	p1	4
-Rückstoß	Rückstoß	NOUN	NN	oa	erfährt	VERB	[einen]	7	p1	4
-.	--	PUNCT	$.	punct	erfährt	VERB	[]	7	p1	4
+Wenn	wenn	SCONJ	KOUS	cp	absorbiert	VERB	[]	7	p1	1	False
+ein	ein	DET	ART	nk	Atom	NOUN	[]	7	p1	1	False
+ruhendes	ruhend	ADJ	ADJA	nk	Atom	NOUN	[]	7	p1	1	False
+Atom	atom	NOUN	NN	sb	absorbiert	VERB	[ein, ruhendes]	7	p1	1	False
+ein	ein	DET	ART	nk	Photon	NOUN	[]	7	p1	1	False
+Photon	Photon	NOUN	NN	oa	absorbiert	VERB	[ein]	7	p1	1	False
+absorbiert	absorbieren	VERB	VVFIN	re	so	ADV	[Wenn, Atom, Photon]	7	p1	1	False
+,	--	PUNCT	$,	punct	so	ADV	[]	7	p1	1	False
+so	so	ADV	ADV	mo	nimmt	VERB	[absorbiert, ,]	7	p1	1	False
+nimmt	nehmen	VERB	VVFIN	ROOT	nimmt	VERB	[so, es, bei, Photonenimpuls, auf, und, .]	7	p1	1	False
+es	es	PRON	PPER	sb	nimmt	VERB	[]	7	p1	1	True
+bei	bei	ADP	APPR	mo	nimmt	VERB	[Absorption]	7	p1	1	False
+der	der	DET	ART	nk	Absorption	NOUN	[]	7	p1	1	False
+Absorption	Absorption	NOUN	NN	nk	bei	ADP	[der]	7	p1	1	False
+den	der	DET	ART	nk	Photonenimpuls	NOUN	[]	7	p1	1	False
+Photonenimpuls	Photonenimpuls	NOUN	NN	ao	nimmt	VERB	[den]	7	p1	1	True
+auf	auf	ADP	PTKVZ	svp	nimmt	VERB	[]	7	p1	1	False
+und	und	CCONJ	KON	cd	nimmt	VERB	[erfährt]	7	p1	1	False
+erfährt	erfahren	VERB	VVFIN	cj	und	CCONJ	[deshalb, Rückstoßimpuls]	7	p1	1	False
+deshalb	deshalb	ADV	PROAV	mo	erfährt	VERB	[]	7	p1	1	False
+einen	ein	DET	ART	nk	Rückstoßimpuls	NOUN	[]	7	p1	1	False
+Rückstoßimpuls	Rückstoßimpuls	NOUN	NN	oa	erfährt	VERB	[einen, ,, führt]	7	p1	1	False
+,	--	PUNCT	$,	punct	Rückstoßimpuls	NOUN	[]	7	p1	1	False
+der	der	PRON	PRELS	sb	führt	VERB	[]	7	p1	1	False
+zu	zu	ADP	APPR	mo	führt	VERB	[Rückstoßenergie]	7	p1	1	False
+einer	ein	DET	ART	nk	Rückstoßenergie	NOUN	[]	7	p1	1	False
+kinetischen	kinetisch	ADJ	ADJA	nk	Rückstoßenergie	NOUN	[]	7	p1	1	False
+Rückstoßenergie	Rückstoßenergie	NOUN	NN	nk	zu	ADP	[einer, kinetischen]	7	p1	1	False
+führt	führen	VERB	VVFIN	rc	Rückstoßimpuls	NOUN	[der, zu]	7	p1	1	False
+.	--	PUNCT	$.	punct	nimmt	VERB	[]	7	p1	1	False
+Die	der	DET	ART	nk	Photonenenergie	NOUN	[]	7	p1	2	False
+Photonenenergie	Photonenenergie	NOUN	NN	sb	wird	AUX	[Die]	7	p1	2	False
+wird	werden	AUX	VAFIN	ROOT	wird	AUX	[Photonenenergie, übertragen, .]	7	p1	2	False
+dabei	dabei	ADV	PROAV	mo	übertragen	VERB	[]	7	p1	2	False
+zum	zu	ADP	APPRART	mo	als	ADP	[einen]	7	p1	2	True
+einen	einer	PRON	PIS	nk	zum	ADP	[]	7	p1	2	False
+als	als	ADP	APPR	mo	übertragen	VERB	[zum, Rückstoßenergie, und]	7	p1	2	True
+Rückstoßenergie	Rückstoßenergie	NOUN	NN	nk	als	ADP	[]	7	p1	2	False
+und	und	CCONJ	KON	cd	als	ADP	[als]	7	p1	2	False
+zum	zu	ADP	APPRART	mo	als	ADP	[anderen]	7	p1	2	False
+anderen	anderer	ADJ	PIS	nk	zum	ADP	[]	7	p1	2	False
+als	als	ADP	APPR	cj	und	CCONJ	[zum, Anregungsenergie]	7	p1	2	False
+Anregungsenergie	Anregungsenergie	NOUN	NN	nk	als	ADP	[]	7	p1	2	False
+auf	auf	ADP	APPR	op	übertragen	VERB	[Atom]	7	p1	2	False
+das	der	DET	ART	nk	Atom	NOUN	[]	7	p1	2	False
+Atom	Atom	NOUN	NN	nk	auf	ADP	[das]	7	p1	2	False
+übertragen	übertragen	VERB	VVPP	oc	wird	AUX	[dabei, als, auf]	7	p1	2	True
+.	--	PUNCT	$.	punct	wird	AUX	[]	7	p1	2	False
+Die	der	DET	ART	nk	Frequenz	NOUN	[]	7	p1	3	False
+Frequenz	Frequenz	NOUN	NN	sb	unterscheidet	VERB	[Die, Anregung]	7	p1	3	False
+der	der	DET	ART	nk	Anregung	NOUN	[]	7	p1	3	False
+Anregung	Anregung	NOUN	NN	ag	Frequenz	NOUN	[der]	7	p1	3	False
+unterscheidet	unterscheiden	VERB	VVFIN	ROOT	unterscheidet	VERB	[Frequenz, sich, also, von, um, .]	7	p1	3	False
+sich	sich	PRON	PRF	oa	unterscheidet	VERB	[]	7	p1	3	False
+also	also	ADV	ADV	mo	unterscheidet	VERB	[]	7	p1	3	False
+von	von	ADP	APPR	op	unterscheidet	VERB	[der]	7	p1	3	True
+der	der	PRON	PDS	nk	von	ADP	[Photons]	7	p1	3	False
+des	der	DET	ART	nk	Photons	NOUN	[]	7	p1	3	False
+Photons	Photon	NOUN	NN	ag	der	PRON	[des]	7	p1	3	False
+um	um	ADP	APPR	mo	unterscheidet	VERB	[Betrag]	7	p1	3	True
+einen	ein	DET	ART	nk	Betrag	NOUN	[]	7	p1	3	False
+gewissen	gewiß	ADJ	ADJA	nk	Betrag	NOUN	[]	7	p1	3	False
+Betrag	Betrag	NOUN	NN	nk	um	ADP	[einen, gewissen]	7	p1	3	False
+.	--	PUNCT	$.	punct	unterscheidet	VERB	[]	7	p1	3	False
+Auch	auch	ADV	ADV	mo	bei	ADP	[]	7	p1	4	False
+bei	bei	ADP	APPR	mo	erfährt	VERB	[Auch, Emission]	7	p1	4	False
+der	der	DET	ART	nk	Emission	NOUN	[]	7	p1	4	False
+Emission	Emission	NOUN	NN	nk	bei	ADP	[der, Photons]	7	p1	4	False
+eines	ein	DET	ART	nk	Photons	NOUN	[]	7	p1	4	False
+Photons	Photon	NOUN	NN	ag	Emission	NOUN	[eines]	7	p1	4	False
+erfährt	erfahren	VERB	VVFIN	ROOT	erfährt	VERB	[bei, Atom, Rückstoß, .]	7	p1	4	False
+das	der	DET	ART	nk	Atom	NOUN	[]	7	p1	4	False
+Atom	Atom	NOUN	NN	sb	erfährt	VERB	[das]	7	p1	4	False
+einen	ein	DET	ART	nk	Rückstoß	NOUN	[]	7	p1	4	False
+Rückstoß	Rückstoß	NOUN	NN	oa	erfährt	VERB	[einen]	7	p1	4	False
+.	--	PUNCT	$.	punct	erfährt	VERB	[]	7	p1	4	False
 Die	der	DET	ART	nk	Rückstoßenergie	NOUN	[]	7	p1	5
 dabei	dabei	ADV	PROAV	mo	erzeugte	ADJ	[]	7	p1	5
 erzeugte	erzeugt	ADJ	ADJA	nk	Rückstoßenergie	NOUN	[dabei]	7	p1	5

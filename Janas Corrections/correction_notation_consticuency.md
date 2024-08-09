@@ -394,13 +394,14 @@ POS correct
 
 ### p4 ID: 3
 POS correct
-['(S (NP (ART Die) (NN Hologrammplatte)) (VAFIN wird) (ADV dann) ($, ,) (VP (KOUI ohne) (PPER sie) (VZ (PTKZU zu) (VVINF bewegen))) ($, ,) (CVP (VP (PP (APPRART am) (ADJA festen) (NN Ort) (NP (ART der) (NN Aufnahme))) (VVPP entwickelt)) (KON und) (VP (PP (APPR mit) (ART der) (NN Referenzwelle)) (VVPP beleuchtet)) ($, ,) (S (KOUS sodass) (NP (ART ein) (NN Hologrammbild)) (VVPP erzeugt) (VAFIN wird)))) ($. .)']
+!!!
+['(S (NP (ART Die) (NN Hologrammplatte)) (VAFIN wird) (ADV dann) ($, ,) (VP (KOUI ohne) (PPER sie) (VZ (PTKZU zu) (VVINF bewegen))) ($, ,) (CVP (VP (PP (APPRART am) (ADJA festen) (NN Ort) (NP (ART der) (NN Aufnahme))) (VVPP entwickelt)) (KON und) (VP (PP (APPR mit) (ART der) (NN Referenzwelle)) (VVPP beleuchtet))) ($, ,) (S (KOUS sodass) (NP (ART ein) (NN Hologrammbild)) (VVPP erzeugt) (VAFIN wird))) ($. .)']
 
 ### p4 ID: 4
 POS correct
-wieder kreuzende kanten
+!!!
 
-['(S (CS (AVP (S (S (VVFIN Nimmt) (PIS man) (PP (APPRART am) (NN Objekt)) (NP (AP (ADV nur) (ADV sehr) (ADJA kleine)) (NN Änderungen)) (PTKVZ vor)) (KON und) (S (VVFIN beleuchtet) (PPER es) (PP (APPRART am) (ADJA gleichen) (NN Ort)) ( PP (ADV wieder) (ADJD genau) (PP (KOKOM wie) (APPR bei) (ART der) (ADJA ersten) (NN Aufnahme))))))) ($, ,) (S (ADV so) (VAFIN werden) (PRF sich) (NP (PDAT diese) (NN Änderungen)) (VP (PP (APPR in) (NN Phasenverschiebungen) (NP (ART der) (NN Signalwelle))) (VVINF äußern)))) ($. .)']
+['(S (AVP (CS (S (VVFIN Nimmt) (PIS man) (PP (APPRART am) (NN Objekt)) (NP (AP (ADV nur) (ADV sehr) (ADJA kleine)) (NN Änderungen)) (PTKVZ vor)) (KON und) (S (VVFIN beleuchtet) (PPER es) (PP (APPRART am) (ADJA gleichen) (NN Ort)) (AVP (ADV wieder) (ADJD genau) (KOKOM wie) (PP (APPR bei) (ART der) (ADJA ersten) (NN Aufnahme))))) ($, ,) (ADV so)) (VAFIN werden) (PRF sich) (NP (PDAT diese) (NN Änderungen)) (VP (PP (APPR in) (NN Phasenverschiebungen) (NP (ART der) (NN Signalwelle))) (VVINF äußern))) ($. .)']
 
 ### p4  ID: 5   
 POS correct

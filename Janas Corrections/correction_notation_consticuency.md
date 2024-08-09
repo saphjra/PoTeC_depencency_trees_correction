@@ -405,15 +405,15 @@ POS correct
 
 ### p4  ID: 5   
 POS correct
+!!!
+['(S (NP (ART Die) (NN Überlagerung) (NP (PDAT dieser) (NN Signalwelle) (PP (APPRART vom) (ADJA veränderten) (NN Objekt))) (PP (APPR mit) (ART der) (NN Rekonstruktionswelle) (PP (APPRART vom) (NN Hologramm) (NP (ART des) (ADJA unveränderten) (NN Objektes))))) (VVFIN führt) (PP (APPR zu) (NN Interferenzstrukturen) (PP (APPRART im) (NP (ADJA holografischen) (NN Bild) ($, ,)  (S (PRELS die) (ADV nur) (PP (APPR für) (PDAT diejenigen) (NN Teile) (NP (ART des) (NN Objektes)) (VVFIN auftreten) ($, ,)  (S (PRELS die) (VP (PRF sich) (VVPP verändert)) (VAFIN haben)))))))) ($. .)']
 
-['(S (NP (ART Die) (NN Überlagerung) (NP (PDAT dieser) (NN Signalwelle)) (PP (APPRART vom) (ADJA veränderten) (NN Objekt)) (PP (APPR mit) (ART der) (NN Rekonstruktionswelle) (PP (APPRART vom) (NN Hologramm) (NP (ART des) (ADJA unveränderten) (NN Objektes))))) (VVFIN führt) ( PP (APPR zu) (NN Interferenzstrukturen)) (PP (APPRART im) (ADJA holografischen) (NN Bild) ($, ,)  (S (PRELS die) (ADV nur) (PP (APPR für) (PDAT diejenigen) (NN Teile) (NP (ART des) (NN Objektes)) (VVFIN auftreten) ($, ,)  (S (PRELS die) (VP (PRF sich) (VVPP verändert)) (VAFIN haben)))))) ($. .)']
-
-
+brächte kreuzende kanten
 ### p4 ID: 6
 POS correct
 
 ['(S (PP (APPR Auf) (PDAT diese) (NN Weise)) (VMFIN kann) (PIS man) (VP (NP (NN Gestaltsänderungen) (VVINF feststellen) ($, ,)  (S (PRELS die) (AP (ADJD wesentlich) (ADJD kleiner) (NP (KOKOM als) (ART eine) (NN Wellenlänge) (NP (ART des) (ADJA beleuchtenden) (NN Lichtes)))) (VAFIN sind))))) ($. .)']
-
+brächte kreuzende kanten, extraponierte relative satz
 ### p5 ID: 1
 POS correct
 

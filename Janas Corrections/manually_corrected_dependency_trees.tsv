@@ -1877,187 +1877,187 @@ der	der	DET	ART	nk	Signalwelle	NOUN	[]	10	p4	4	False
 Signalwelle	Signalwell	NOUN	NN	ag	Phasenverschiebungen	NOUN	[der]	10	p4	4	False
 äußern	äußern	VERB	VVINF	oc	werden	AUX	[so, sich, in]	10	p4	4	False
 .	--	PUNCT	$.	punct	werden	AUX	[]	10	p4	4	False
-Die	der	DET	ART	nk	Überlagerung	NOUN	[]	10	p4	5
-Überlagerung	Überlagerung	NOUN	NN	sb	führt	VERB	[Die, Signalwelle, vom, vom]	10	p4	5
-dieser	dieser	DET	PDAT	nk	Signalwelle	NOUN	[]	10	p4	5
-Signalwelle	Signalwelle	NOUN	NN	ag	Überlagerung	NOUN	[dieser]	10	p4	5
-vom	von	ADP	APPRART	mnr	Überlagerung	NOUN	[Objekt]	10	p4	5
-veränderten	verändert	ADJ	ADJA	nk	Objekt	NOUN	[]	10	p4	5
-Objekt	Objekt	NOUN	NN	nk	vom	ADP	[veränderten, mit]	10	p4	5
-mit	mit	ADP	APPR	mnr	Objekt	NOUN	[Rekonstruktionswelle]	10	p4	5
-der	der	DET	ART	nk	Rekonstruktionswelle	NOUN	[]	10	p4	5
-Rekonstruktionswelle	Rekonstruktionswelle	NOUN	NN	nk	mit	ADP	[der]	10	p4	5
-vom	von	ADP	APPRART	mnr	Überlagerung	NOUN	[Hologramm]	10	p4	5
-Hologramm	Hologramm	NOUN	NN	nk	vom	ADP	[Objektes]	10	p4	5
-des	der	DET	ART	nk	Objektes	NOUN	[]	10	p4	5
-unveränderten	unverändert	ADJ	ADJA	nk	Objektes	NOUN	[]	10	p4	5
-Objektes	Objekt	NOUN	NN	ag	Hologramm	NOUN	[des, unveränderten]	10	p4	5
-führt	führen	VERB	VVFIN	ROOT	führt	VERB	[Überlagerung, zu, .]	10	p4	5
-zu	zu	ADP	APPR	mo	führt	VERB	[Interferenzstrukturen]	10	p4	5
-Interferenzstrukturen	Interferenzstruktur	NOUN	NN	nk	zu	ADP	[im]	10	p4	5
-im	in	ADP	APPRART	mnr	Interferenzstrukturen	NOUN	[Bild]	10	p4	5
-holografischen	holografisch	ADJ	ADJA	nk	Bild	NOUN	[]	10	p4	5
-Bild	Bild	NOUN	NN	nk	im	ADP	[holografischen, ,, auftreten]	10	p4	5
-,	--	PUNCT	$,	punct	Bild	NOUN	[]	10	p4	5
-die	der	PRON	PRELS	sb	auftreten	VERB	[]	10	p4	5
-nur	nur	ADV	ADV	mo	für	ADP	[]	10	p4	5
-für	für	ADP	APPR	mo	auftreten	VERB	[nur, Teile]	10	p4	5
-diejenigen	derjenige	DET	PDAT	nk	Teile	NOUN	[]	10	p4	5
-Teile	Teil	NOUN	NN	nk	für	ADP	[diejenigen, Objektes, haben]	10	p4	5
-des	der	DET	ART	nk	Objektes	NOUN	[]	10	p4	5
-Objektes	Objekt	NOUN	NN	ag	Teile	NOUN	[des]	10	p4	5
-auftreten	auftreten	VERB	VVFIN	rc	Bild	NOUN	[die, für, ,]	10	p4	5
-,	--	PUNCT	$,	punct	auftreten	VERB	[]	10	p4	5
-die	der	PRON	PRELS	sb	haben	AUX	[]	10	p4	5
-sich	sich	PRON	PRF	oa	verändert	VERB	[]	10	p4	5
-verändert	verändern	VERB	VVPP	oc	haben	AUX	[sich]	10	p4	5
-haben	haben	AUX	VAFIN	rc	Teile	NOUN	[die, verändert]	10	p4	5
-.	--	PUNCT	$.	punct	führt	VERB	[]	10	p4	5
-Auf	auf	ADP	APPR	mo	kann	AUX	[Weise]	10	p4	6
-diese	dieser	DET	PDAT	nk	Weise	NOUN	[]	10	p4	6
-Weise	Weise	NOUN	NN	nk	Auf	ADP	[diese]	10	p4	6
-kann	können	AUX	VMFIN	ROOT	kann	AUX	[Auf, man, feststellen, .]	10	p4	6
-man	man	PRON	PIS	sb	kann	AUX	[]	10	p4	6
-Gestaltsänderungen	Gestaltsänderung	NOUN	NN	oa	feststellen	VERB	[sind]	10	p4	6
-feststellen	feststellen	VERB	VVINF	oc	kann	AUX	[Gestaltsänderungen, ,]	10	p4	6
-,	--	PUNCT	$,	punct	feststellen	VERB	[]	10	p4	6
-die	der	PRON	PRELS	sb	sind	AUX	[]	10	p4	6
-wesentlich	wesentlich	ADV	ADJD	mo	kleiner	ADV	[]	10	p4	6
-kleiner	klein	ADV	ADJD	pd	sind	AUX	[wesentlich, Wellenlänge]	10	p4	6
-als	als	ADP	KOKOM	cm	Wellenlänge	NOUN	[]	10	p4	6
-eine	ein	DET	ART	nk	Wellenlänge	NOUN	[]	10	p4	6
-Wellenlänge	Wellenlang	NOUN	NN	cc	kleiner	ADV	[als, eine, Lichtes]	10	p4	6
-des	der	DET	ART	nk	Lichtes	NOUN	[]	10	p4	6
-beleuchtenden	beleuchtend	ADJ	ADJA	nk	Lichtes	NOUN	[]	10	p4	6
-Lichtes	Licht	NOUN	NN	ag	Wellenlänge	NOUN	[des, beleuchtenden]	10	p4	6
-sind	sein	AUX	VAFIN	rc	Gestaltsänderungen	NOUN	[die, kleiner]	10	p4	6
-.	--	PUNCT	$.	punct	kann	AUX	[]	10	p4	6
-Durch	durch	ADP	APPR	mo	können	AUX	[Einführen]	11	p5	1
-Einführen	Einführen	NOUN	NN	nk	Durch	ADP	[Masse]	11	p5	1
-der	der	DET	ART	nk	Masse	NOUN	[]	11	p5	1
-effektiven	effektiv	ADJ	ADJA	nk	Masse	NOUN	[]	11	p5	1
-Masse	Masse	NOUN	NN	ag	Einführen	NOUN	[der, effektiven]	11	p5	1
-können	können	AUX	VMFIN	ROOT	können	AUX	[Durch, Elektronen, werden, und, .]	11	p5	1
-Elektronen	Elektron	NOUN	NN	sb	können	AUX	[im, im]	11	p5	1
-im	in	ADP	APPRART	mnr	Elektronen	NOUN	[Leitungsband]	11	p5	1
-Leitungsband	Leitungsband	NOUN	NN	nk	im	ADP	[und]	11	p5	1
-und	und	CCONJ	KON	cd	Leitungsband	NOUN	[Löcher]	11	p5	1
-Löcher	Loch	NOUN	NN	cj	und	CCONJ	[]	11	p5	1
-im	in	ADP	APPRART	mnr	Elektronen	NOUN	[Valenzband]	11	p5	1
-Valenzband	Valenzband	NOUN	NN	nk	im	ADP	[Kristalles]	11	p5	1
-eines	ein	DET	ART	nk	Kristalles	NOUN	[]	11	p5	1
-Kristalles	Kristall	NOUN	NN	ag	Valenzband	NOUN	[eines, Teilchen]	11	p5	1
-wie	wie	ADP	KOKOM	cm	Teilchen	NOUN	[]	11	p5	1
-freie	frei	ADJ	ADJA	nk	Teilchen	NOUN	[]	11	p5	1
-Teilchen	Teilche	NOUN	NN	cc	Kristalles	NOUN	[wie, freie]	11	p5	1
-aufgefasst	auffassen	VERB	VVPP	oc	werden	AUX	[]	11	p5	1
-werden	werden	AUX	VAINF	oc	können	AUX	[aufgefasst]	11	p5	1
-und	und	CCONJ	KON	cd	können	AUX	[bewegen]	11	p5	1
-bewegen	bewegen	VERB	VVFIN	cj	und	CCONJ	[sich, am]	11	p5	1
-sich	sich	PRON	PRF	oa	bewegen	VERB	[]	11	p5	1
-am	an	ADP	APPRART	mo	bewegen	VERB	[Energieminimum]	11	p5	1
-Energieminimum	Energieminimum	NOUN	NN	nk	am	ADP	[im]	11	p5	1
-im	in	ADP	APPRART	mnr	Energieminimum	NOUN	[Leitungsband, und]	11	p5	1
-Leitungsband	Leitungsband	PROPN	NN	nk	im	ADP	[]	11	p5	1
-und	und	CCONJ	KON	cd	im	ADP	[am]	11	p5	1
-am	an	ADP	APPRART	cj	und	CCONJ	[Energiemaximum]	11	p5	1
-Energiemaximum	Energiemaximum	NOUN	NN	nk	am	ADP	[im]	11	p5	1
-im	in	ADP	APPRART	mnr	Energiemaximum	NOUN	[Valenzband]	11	p5	1
-Valenzband	Valenzband	NOUN	NN	nk	im	ADP	[auf]	11	p5	1
-auf	auf	ADP	APPR	mnr	Valenzband	NOUN	[Parabeln]	11	p5	1
-Parabeln	Parabel	NOUN	NN	nk	auf	ADP	[]	11	p5	1
-.	--	PUNCT	$.	punct	können	AUX	[]	11	p5	1
-Da	da	SCONJ	KOUS	cp	ist	AUX	[]	11	p5	2
-die	der	DET	ART	nk	Masse	NOUN	[]	11	p5	2
-effektive	effektiv	ADJ	ADJA	nk	Masse	NOUN	[]	11	p5	2
-Masse	Masse	NOUN	NN	sb	ist	AUX	[die, effektive]	11	p5	2
-im	in	ADP	APPRART	mo	ist	AUX	[Teil]	11	p5	2
-oberen	oberer	ADJ	ADJA	nk	Teil	NOUN	[]	11	p5	2
-Teil	Teil	NOUN	NN	nk	im	ADP	[oberen, Valenzbandes]	11	p5	2
-des	der	DET	ART	nk	Valenzbandes	NOUN	[]	11	p5	2
-Valenzbandes	Valenzband	NOUN	NN	ag	Teil	NOUN	[des]	11	p5	2
-negativ	negativ	ADV	ADJD	pd	ist	AUX	[]	11	p5	2
-ist	sein	AUX	VAFIN	mo	gekrümmt	VERB	[Da, Masse, im, negativ]	11	p5	2
-,	--	PUNCT	$,	punct	wird	AUX	[]	11	p5	2
-wird	werden	AUX	VAFIN	ROOT	wird	AUX	[,, Energieparabel, gekrümmt, .]	11	p5	2
-die	der	DET	ART	nk	Energieparabel	NOUN	[]	11	p5	2
-Energieparabel	Energieparabel	NOUN	NN	sb	wird	AUX	[die, Löcher]	11	p5	2
-der	der	DET	ART	nk	Löcher	NOUN	[]	11	p5	2
-Löcher	Loch	NOUN	NN	ag	Energieparabel	NOUN	[der]	11	p5	2
-nach	nach	ADP	APPR	mo	gekrümmt	VERB	[unten]	11	p5	2
-unten	unten	ADV	ADV	nk	nach	ADP	[]	11	p5	2
-gekrümmt	gekrümmen	VERB	VVPP	oc	wird	AUX	[ist, nach]	11	p5	2
-.	--	PUNCT	$.	punct	wird	AUX	[]	11	p5	2
-Daraus	daraus	ADV	PROAV	mo	ergeben	VERB	[]	11	p5	3
-ergeben	ergeben	VERB	VVFIN	ROOT	ergeben	VERB	[Daraus, sich, zwischen, Standardbänder, .]	11	p5	3
-sich	sich	PRON	PRF	oa	ergeben	VERB	[]	11	p5	3
-zwischen	zwischen	ADP	APPR	mo	ergeben	VERB	[Parabeln]	11	p5	3
-den	der	DET	ART	nk	Parabeln	NOUN	[]	11	p5	3
-Parabeln	Parabel	NOUN	NN	nk	zwischen	ADP	[den]	11	p5	3
-die	der	DET	ART	nk	Standardbänder	NOUN	[]	11	p5	3
-so	so	ADV	ADV	mo	genannten	ADJ	[]	11	p5	3
-genannten	genannt	ADJ	ADJA	nk	Standardbänder	NOUN	[so]	11	p5	3
-Standardbänder	Standardbänder	NOUN	NN	sb	ergeben	VERB	[die, genannten]	11	p5	3
-.	--	PUNCT	$.	punct	ergeben	VERB	[]	11	p5	3
-Bei	bei	ADP	APPR	mo	kann	AUX	[Absorption]	11	p5	4
-der	der	DET	ART	nk	Absorption	NOUN	[]	11	p5	4
-Absorption	Absorption	NOUN	NN	nk	Bei	ADP	[der, Photons]	11	p5	4
-eines	ein	DET	ART	nk	Photons	NOUN	[]	11	p5	4
-Photons	Photon	NOUN	NN	ag	Absorption	NOUN	[eines]	11	p5	4
-kann	können	AUX	VMFIN	ROOT	kann	AUX	[Bei, Elektron, werden, .]	11	p5	4
-ein	ein	DET	ART	nk	Elektron	NOUN	[]	11	p5	4
-Elektron	Elektron	NOUN	NN	sb	kann	AUX	[ein, aus]	11	p5	4
-aus	aus	ADP	APPR	mnr	Elektron	NOUN	[Valenzband]	11	p5	4
-dem	der	DET	ART	nk	Valenzband	NOUN	[]	11	p5	4
-Valenzband	Valenzband	NOUN	NN	nk	aus	ADP	[dem, in]	11	p5	4
-in	in	ADP	APPR	mnr	Valenzband	NOUN	[Leitungsband]	11	p5	4
-das	der	DET	ART	nk	Leitungsband	NOUN	[]	11	p5	4
-Leitungsband	Leitungsband	NOUN	NN	nk	in	ADP	[das]	11	p5	4
-angeregt	anregen	VERB	VVPP	oc	werden	AUX	[]	11	p5	4
-werden	werden	AUX	VAINF	oc	kann	AUX	[angeregt]	11	p5	4
-.	--	PUNCT	$.	punct	kann	AUX	[]	11	p5	4
-Weil	weil	SCONJ	KOUS	cp	ist	AUX	[]	11	p5	5
-der	der	DET	ART	nk	Wellenvektor	NOUN	[]	11	p5	5
-Wellenvektor	Wellenvektor	NOUN	NN	sb	ist	AUX	[der, Photons]	11	p5	5
-des	der	DET	ART	nk	Photons	NOUN	[]	11	p5	5
-Photons	Photon	NOUN	NN	ag	Wellenvektor	NOUN	[des]	11	p5	5
-sehr	sehr	ADV	ADV	mo	klein	ADV	[]	11	p5	5
-klein	klein	ADV	ADJD	pd	ist	AUX	[sehr]	11	p5	5
-ist	sein	AUX	VAFIN	mo	erhalten	VERB	[Weil, Wellenvektor, klein]	11	p5	5
-,	--	PUNCT	$,	punct	wird	AUX	[]	11	p5	5
-wird	werden	AUX	VAFIN	ROOT	wird	AUX	[,, Wahrscheinlichkeit, größer, ,, bleibt, .]	11	p5	5
-die	der	DET	ART	nk	Wahrscheinlichkeit	NOUN	[]	11	p5	5
-Wahrscheinlichkeit	Wahrscheinlichkeit	NOUN	NN	sb	wird	AUX	[die, für]	11	p5	5
-für	für	ADP	APPR	mnr	Wahrscheinlichkeit	NOUN	[Übergang]	11	p5	5
-einen	ein	DET	ART	nk	Übergang	NOUN	[]	11	p5	5
-solchen	solcher	DET	PIAT	nk	Übergang	NOUN	[]	11	p5	5
-Übergang	Übergang	NOUN	NN	nk	für	ADP	[einen, solchen]	11	p5	5
-viel	viel	ADV	ADV	mo	größer	ADV	[]	11	p5	5
-größer	groß	ADV	ADJD	pd	wird	AUX	[viel]	11	p5	5
-,	--	PUNCT	$,	punct	wird	AUX	[]	11	p5	5
-wenn	wenn	SCONJ	KOUS	cp	bleibt	VERB	[]	11	p5	5
-der	der	DET	ART	nk	Wellenvektor	NOUN	[werden]	11	p5	5
-Wellenvektor	Wellenvektor	NOUN	NN	sb	bleibt	VERB	[der, Elektrons]	11	p5	5
-des	der	DET	ART	nk	Elektrons	NOUN	[]	11	p5	5
-Elektrons	Elektron	NOUN	NN	ag	Wellenvektor	NOUN	[des]	11	p5	5
-dabei	dabei	ADV	PROAV	mo	erhalten	VERB	[]	11	p5	5
-erhalten	erhalten	VERB	VVPP	oc	bleibt	VERB	[ist, dabei]	11	p5	5
-bleibt	bleiben	VERB	VVFIN	mo	wird	AUX	[wenn, Wellenvektor, erhalten, ,]	11	p5	5
-,	--	PUNCT	$,	punct	bleibt	VERB	[]	11	p5	5
-als	als	SCONJ	KOKOM	cm	werden	AUX	[]	11	p5	5
-wenn	wenn	SCONJ	KOUS	cp	werden	AUX	[]	11	p5	5
-wegen	wegen	ADP	APPR	mo	angeregt	VERB	[Impulserhaltung]	11	p5	5
-der	der	DET	ART	nk	Impulserhaltung	NOUN	[]	11	p5	5
-Impulserhaltung	Impulserhaltung	NOUN	NN	nk	wegen	ADP	[der, beim]	11	p5	5
-beim	bei	ADP	APPRART	mnr	Impulserhaltung	NOUN	[Übergang]	11	p5	5
-Übergang	Übergang	NOUN	NN	nk	beim	ADP	[]	11	p5	5
-zusätzlich	zusätzlich	ADV	ADJD	mo	angeregt	VERB	[]	11	p5	5
-ein	ein	DET	ART	nk	Phonon	NOUN	[]	11	p5	5
-Phonon	Phonon	NOUN	NN	oa	angeregt	VERB	[ein]	11	p5	5
-angeregt	anregen	VERB	VVPP	oc	werden	AUX	[wegen, zusätzlich, Phonon, muss]	11	p5	5
-werden	werden	AUX	VAINF	cc	der	DET	[als, wenn, angeregt]	11	p5	5
-muss	muss	ADV	VMFIN	mo	angeregt	VERB	[]	11	p5	5
-.	--	PUNCT	$.	punct	wird	AUX	[]	11	p5	5
+Die	der	DET	ART	nk	Überlagerung	NOUN	[]	10	p4	5	False
+Überlagerung	Überlagerung	NOUN	NN	sb	führt	VERB	[Die, Signalwelle, mit]	10	p4	5	True
+dieser	dieser	DET	PDAT	nk	Signalwelle	NOUN	[]	10	p4	5	False
+Signalwelle	Signalwelle	NOUN	NN	ag	Überlagerung	NOUN	[dieser, vom]	10	p4	5	True
+vom	von	ADP	APPRART	pg	Signalwelle	NOUN	[Objekt]	10	p4	5	True
+veränderten	verändert	ADJ	ADJA	nk	Objekt	NOUN	[]	10	p4	5	False
+Objekt	Objekt	NOUN	NN	nk	vom	ADP	[veränderten]	10	p4	5	True
+mit	mit	ADP	APPR	mnr	Überlagerung	NOUN	[Rekonstruktionswelle]	10	p4	5	True
+der	der	DET	ART	nk	Rekonstruktionswelle	NOUN	[]	10	p4	5	False
+Rekonstruktionswelle	Rekonstruktionswelle	NOUN	NN	nk	mit	ADP	[der, vom]	10	p4	5	True
+vom	von	ADP	APPRART	pg	Rekonstruktionswelle	NOUN	[Hologramm]	10	p4	5	True
+Hologramm	Hologramm	NOUN	NN	nk	vom	ADP	[Objektes]	10	p4	5	False
+des	der	DET	ART	nk	Objektes	NOUN	[]	10	p4	5	False
+unveränderten	unverändert	ADJ	ADJA	nk	Objektes	NOUN	[]	10	p4	5	False
+Objektes	Objekt	NOUN	NN	ag	Hologramm	NOUN	[des, unveränderten]	10	p4	5	False
+führt	führen	VERB	VVFIN	ROOT	führt	VERB	[Überlagerung, zu, .]	10	p4	5	False
+zu	zu	ADP	APPR	po	führt	VERB	[Interferenzstrukturen]	10	p4	5	False
+Interferenzstrukturen	Interferenzstruktur	NOUN	NN	nk	zu	ADP	[im]	10	p4	5	False
+im	in	ADP	APPRART	mnr	Interferenzstrukturen	NOUN	[Bild]	10	p4	5	False
+holografischen	holografisch	ADJ	ADJA	nk	Bild	NOUN	[]	10	p4	5	False
+Bild	Bild	NOUN	NN	nk	im	ADP	[holografischen, ,, auftreten]	10	p4	5	False
+,	--	PUNCT	$,	punct	Bild	NOUN	[]	10	p4	5	False
+die	der	PRON	PRELS	sb	auftreten	VERB	[]	10	p4	5	False
+nur	nur	ADV	ADV	mo	für	ADP	[]	10	p4	5	False
+für	für	ADP	APPR	mo	auftreten	VERB	[nur, Teile]	10	p4	5	False
+diejenigen	derjenige	DET	PDAT	nk	Teile	NOUN	[]	10	p4	5	False
+Teile	Teil	NOUN	NN	nk	für	ADP	[diejenigen, Objektes, haben]	10	p4	5	False
+des	der	DET	ART	nk	Objektes	NOUN	[]	10	p4	5	False
+Objektes	Objekt	NOUN	NN	ag	Teile	NOUN	[des]	10	p4	5	False
+auftreten	auftreten	VERB	VVFIN	rc	Bild	NOUN	[die, für, ,]	10	p4	5	False
+,	--	PUNCT	$,	punct	auftreten	VERB	[]	10	p4	5	False
+die	der	PRON	PRELS	sb	haben	AUX	[]	10	p4	5	False
+sich	sich	PRON	PRF	oa	verändert	VERB	[]	10	p4	5	False
+verändert	verändern	VERB	VVPP	oc	haben	AUX	[sich]	10	p4	5	False
+haben	haben	AUX	VAFIN	rc	Teile	NOUN	[die, verändert]	10	p4	5	False
+.	--	PUNCT	$.	punct	führt	VERB	[]	10	p4	5	False
+Auf	auf	ADP	APPR	mo	kann	AUX	[Weise]	10	p4	6	False
+diese	dieser	DET	PDAT	nk	Weise	NOUN	[]	10	p4	6	False
+Weise	Weise	NOUN	NN	nk	Auf	ADP	[diese]	10	p4	6	False
+kann	können	AUX	VMFIN	ROOT	kann	AUX	[Auf, man, feststellen, .]	10	p4	6	False
+man	man	PRON	PIS	sb	kann	AUX	[]	10	p4	6	False
+Gestaltsänderungen	Gestaltsänderung	NOUN	NN	oa	feststellen	VERB	[sind]	10	p4	6	False
+feststellen	feststellen	VERB	VVINF	oc	kann	AUX	[Gestaltsänderungen, ,]	10	p4	6	False
+,	--	PUNCT	$,	punct	feststellen	VERB	[]	10	p4	6	False
+die	der	PRON	PRELS	sb	sind	AUX	[]	10	p4	6	False
+wesentlich	wesentlich	ADV	ADJD	mo	kleiner	ADV	[]	10	p4	6	False
+kleiner	klein	ADV	ADJD	pd	sind	AUX	[wesentlich, Wellenlänge]	10	p4	6	False
+als	als	ADP	KOKOM	cm	Wellenlänge	NOUN	[]	10	p4	6	False
+eine	ein	DET	ART	nk	Wellenlänge	NOUN	[]	10	p4	6	False
+Wellenlänge	Wellenlang	NOUN	NN	cc	kleiner	ADV	[als, eine, Lichtes]	10	p4	6	False
+des	der	DET	ART	nk	Lichtes	NOUN	[]	10	p4	6	False
+beleuchtenden	beleuchtend	ADJ	ADJA	nk	Lichtes	NOUN	[]	10	p4	6	False
+Lichtes	Licht	NOUN	NN	ag	Wellenlänge	NOUN	[des, beleuchtenden]	10	p4	6	False
+sind	sein	AUX	VAFIN	rc	Gestaltsänderungen	NOUN	[die, kleiner]	10	p4	6	False
+.	--	PUNCT	$.	punct	kann	AUX	[]	10	p4	6	False
+Durch	durch	ADP	APPR	mo	können	AUX	[Einführen]	11	p5	1	False
+Einführen	Einführen	NOUN	NN	nk	Durch	ADP	[Masse]	11	p5	1	False
+der	der	DET	ART	nk	Masse	NOUN	[]	11	p5	1	False
+effektiven	effektiv	ADJ	ADJA	nk	Masse	NOUN	[]	11	p5	1	False
+Masse	Masse	NOUN	NN	ag	Einführen	NOUN	[der, effektiven]	11	p5	1	False
+können	können	AUX	VMFIN	ROOT	können	AUX	[Durch, Elektronen, werden, und, .]	11	p5	1	False
+Elektronen	Elektron	NOUN	NN	sb	können	AUX	[im, und, Kristalles]	11	p5	1	True
+im	in	ADP	APPRART	mnr	Elektronen	NOUN	[Leitungsband]	11	p5	1	False
+Leitungsband	Leitungsband	NOUN	NN	nk	im	ADP	[und]	11	p5	1	False
+und	und	CCONJ	KON	cd	Elektronen	NOUN	[Löcher]	11	p5	1	True
+Löcher	Loch	NOUN	NN	cj	und	CCONJ	[im]	11	p5	1	True
+im	in	ADP	APPRART	mnr	Löcher	NOUN	[Valenzband]	11	p5	1	True
+Valenzband	Valenzband	NOUN	NN	nk	im	ADP	[]	11	p5	1	True
+eines	ein	DET	ART	nk	Kristalles	NOUN	[]	11	p5	1	False
+Kristalles	Kristall	NOUN	NN	ag	Elektronen	NOUN	[eines]	11	p5	1	True
+wie	wie	ADP	APPR	mo	augefasst	VERB	[Teilchen]	11	p5	1	True
+freie	frei	ADJ	ADJA	nk	Teilchen	NOUN	[]	11	p5	1	False
+Teilchen	Teilche	NOUN	NN	cc	Kristalles	NOUN	[freie]	11	p5	1	True
+aufgefasst	auffassen	VERB	VVPP	oc	werden	AUX	[]	11	p5	1	False
+werden	werden	AUX	VAINF	oc	können	AUX	[aufgefasst]	11	p5	1	False
+und	und	CCONJ	KON	cd	können	AUX	[bewegen]	11	p5	1	False
+bewegen	bewegen	VERB	VVFIN	cj	und	CCONJ	[sich, am, auf]	11	p5	1	True
+sich	sich	PRON	PRF	oa	bewegen	VERB	[]	11	p5	1	False
+am	an	ADP	APPRART	mo	bewegen	VERB	[Energieminimum, und]	11	p5	1	True
+Energieminimum	Energieminimum	NOUN	NN	nk	am	ADP	[im]	11	p5	1	False
+im	in	ADP	APPRART	mnr	Energieminimum	NOUN	[Leitungsband]	11	p5	1	True
+Leitungsband	Leitungsband	PROPN	NN	nk	im	ADP	[]	11	p5	1	False
+und	und	CCONJ	KON	cd	am	ADP	[am]	11	p5	1	True
+am	an	ADP	APPRART	cj	und	CCONJ	[Energiemaximum]	11	p5	1	False
+Energiemaximum	Energiemaximum	NOUN	NN	nk	am	ADP	[im]	11	p5	1	False
+im	in	ADP	APPRART	mnr	Energiemaximum	NOUN	[Valenzband]	11	p5	1	False
+Valenzband	Valenzband	NOUN	NN	nk	im	ADP	[auf]	11	p5	1	False
+auf	auf	ADP	APPR	mo	bewegen	VERB	[Parabeln]	11	p5	1	True
+Parabeln	Parabel	NOUN	NN	nk	auf	ADP	[]	11	p5	1	False
+.	--	PUNCT	$.	punct	können	AUX	[]	11	p5	1	False
+Da	da	SCONJ	KOUS	cp	ist	AUX	[]	11	p5	2	False
+die	der	DET	ART	nk	Masse	NOUN	[]	11	p5	2	False
+effektive	effektiv	ADJ	ADJA	nk	Masse	NOUN	[]	11	p5	2	False
+Masse	Masse	NOUN	NN	sb	ist	AUX	[die, effektive]	11	p5	2	False
+im	in	ADP	APPRART	mo	ist	AUX	[Teil]	11	p5	2	False
+oberen	oberer	ADJ	ADJA	nk	Teil	NOUN	[]	11	p5	2	False
+Teil	Teil	NOUN	NN	nk	im	ADP	[oberen, Valenzbandes]	11	p5	2	False
+des	der	DET	ART	nk	Valenzbandes	NOUN	[]	11	p5	2	False
+Valenzbandes	Valenzband	NOUN	NN	ag	Teil	NOUN	[des]	11	p5	2	False
+negativ	negativ	ADV	ADJD	pd	ist	AUX	[]	11	p5	2	False
+ist	sein	AUX	VAFIN	mo	gekrümmt	VERB	[Da, Masse, im, negativ]	11	p5	2	False
+,	--	PUNCT	$,	punct	wird	AUX	[]	11	p5	2	False
+wird	werden	AUX	VAFIN	ROOT	wird	AUX	[,, Energieparabel, gekrümmt, .]	11	p5	2	False
+die	der	DET	ART	nk	Energieparabel	NOUN	[]	11	p5	2	False
+Energieparabel	Energieparabel	NOUN	NN	sb	wird	AUX	[die, Löcher]	11	p5	2	False
+der	der	DET	ART	nk	Löcher	NOUN	[]	11	p5	2	False
+Löcher	Loch	NOUN	NN	ag	Energieparabel	NOUN	[der]	11	p5	2	False
+nach	nach	ADP	APPR	mo	gekrümmt	VERB	[unten]	11	p5	2	False
+unten	unten	ADV	ADV	nk	nach	ADP	[]	11	p5	2	False
+gekrümmt	gekrümmen	VERB	VVPP	oc	wird	AUX	[ist, nach]	11	p5	2	False
+.	--	PUNCT	$.	punct	wird	AUX	[]	11	p5	2	False
+Daraus	daraus	ADV	PROAV	mo	ergeben	VERB	[]	11	p5	3	False
+ergeben	ergeben	VERB	VVFIN	ROOT	ergeben	VERB	[Daraus, sich, zwischen, Standardbänder, .]	11	p5	3	False
+sich	sich	PRON	PRF	oa	ergeben	VERB	[]	11	p5	3	False
+zwischen	zwischen	ADP	APPR	mo	ergeben	VERB	[Parabeln]	11	p5	3	False
+den	der	DET	ART	nk	Parabeln	NOUN	[]	11	p5	3	False
+Parabeln	Parabel	NOUN	NN	nk	zwischen	ADP	[den]	11	p5	3	False
+die	der	DET	ART	nk	Standardbänder	NOUN	[]	11	p5	3	False
+so	so	ADV	ADV	mo	genannten	ADJ	[]	11	p5	3	False
+genannten	genannt	ADJ	ADJA	nk	Standardbänder	NOUN	[so]	11	p5	3	False
+Standardbänder	Standardbänder	NOUN	NN	sb	ergeben	VERB	[die, genannten]	11	p5	3	False
+.	--	PUNCT	$.	punct	ergeben	VERB	[]	11	p5	3	False
+Bei	bei	ADP	APPR	mo	kann	AUX	[Absorption]	11	p5	4	False
+der	der	DET	ART	nk	Absorption	NOUN	[]	11	p5	4	False
+Absorption	Absorption	NOUN	NN	nk	Bei	ADP	[der, Photons]	11	p5	4	False
+eines	ein	DET	ART	nk	Photons	NOUN	[]	11	p5	4	False
+Photons	Photon	NOUN	NN	ag	Absorption	NOUN	[eines]	11	p5	4	False
+kann	können	AUX	VMFIN	ROOT	kann	AUX	[Bei, Elektron, werden, .]	11	p5	4	False
+ein	ein	DET	ART	nk	Elektron	NOUN	[]	11	p5	4	False
+Elektron	Elektron	NOUN	NN	sb	kann	AUX	[ein, aus]	11	p5	4	False
+aus	aus	ADP	APPR	mnr	Elektron	NOUN	[Valenzband]	11	p5	4	False
+dem	der	DET	ART	nk	Valenzband	NOUN	[]	11	p5	4	False
+Valenzband	Valenzband	NOUN	NN	nk	aus	ADP	[dem]	11	p5	4	True
+in	in	ADP	APPR	mo	angeregt	VERB	[Leitungsband]	11	p5	4	True
+das	der	DET	ART	nk	Leitungsband	NOUN	[]	11	p5	4	False
+Leitungsband	Leitungsband	NOUN	NN	nk	in	ADP	[das]	11	p5	4	False
+angeregt	anregen	VERB	VVPP	oc	werden	AUX	[in]	11	p5	4	True
+werden	werden	AUX	VAINF	oc	kann	AUX	[angeregt]	11	p5	4	False
+.	--	PUNCT	$.	punct	kann	AUX	[]	11	p5	4	False
+Weil	weil	SCONJ	KOUS	cp	ist	AUX	[]	11	p5	5	True
+der	der	DET	ART	nk	Wellenvektor	NOUN	[]	11	p5	5	False
+Wellenvektor	Wellenvektor	NOUN	NN	sb	ist	AUX	[der, Photons]	11	p5	5	False
+des	der	DET	ART	nk	Photons	NOUN	[]	11	p5	5	False
+Photons	Photon	NOUN	NN	ag	Wellenvektor	NOUN	[des]	11	p5	5	False
+sehr	sehr	ADV	ADV	mo	klein	ADV	[]	11	p5	5	False
+klein	klein	ADV	ADJD	pd	ist	AUX	[sehr]	11	p5	5	False
+ist	sein	AUX	VAFIN	mo	erhalten	VERB	[Weil, Wellenvektor, klein]	11	p5	5	False
+,	--	PUNCT	$,	punct	wird	AUX	[]	11	p5	5	False
+wird	werden	AUX	VAFIN	ROOT	wird	AUX	[,, ist, Wahrscheinlichkeit, größer, ,, bleibt, .]	11	p5	5	True
+die	der	DET	ART	nk	Wahrscheinlichkeit	NOUN	[]	11	p5	5	False
+Wahrscheinlichkeit	Wahrscheinlichkeit	NOUN	NN	sb	wird	AUX	[die, für]	11	p5	5	False
+für	für	ADP	APPR	mnr	Wahrscheinlichkeit	NOUN	[Übergang]	11	p5	5	False
+einen	ein	DET	ART	nk	Übergang	NOUN	[]	11	p5	5	False
+solchen	solcher	DET	PIAT	nk	Übergang	NOUN	[]	11	p5	5	False
+Übergang	Übergang	NOUN	NN	nk	für	ADP	[einen, solchen]	11	p5	5	False
+viel	viel	ADV	ADV	mo	größer	ADV	[]	11	p5	5	False
+größer	groß	ADV	ADJD	pd	wird	AUX	[viel]	11	p5	5	False
+,	--	PUNCT	$,	punct	wird	AUX	[]	11	p5	5	False
+wenn	wenn	SCONJ	KOUS	cp	bleibt	VERB	[]	11	p5	5	False
+der	der	DET	ART	nk	Wellenvektor	NOUN	[werden]	11	p5	5	False
+Wellenvektor	Wellenvektor	NOUN	NN	sb	bleibt	VERB	[der, Elektrons]	11	p5	5	False
+des	der	DET	ART	nk	Elektrons	NOUN	[]	11	p5	5	False
+Elektrons	Elektron	NOUN	NN	ag	Wellenvektor	NOUN	[des]	11	p5	5	False
+dabei	dabei	ADV	PROAV	mo	erhalten	VERB	[]	11	p5	5	False
+erhalten	erhalten	VERB	VVPP	oc	bleibt	VERB	[dabei]	11	p5	5	True
+bleibt	bleiben	VERB	VVFIN	mo	wird	AUX	[wenn, Wellenvektor, erhalten, ,]	11	p5	5	False
+,	--	PUNCT	$,	punct	bleibt	VERB	[]	11	p5	5	False
+als	als	SCONJ	KOKOM	cm	werden	AUX	[]	11	p5	5	False
+wenn	wenn	SCONJ	KOUS	cp	werden	AUX	[]	11	p5	5	False
+wegen	wegen	ADP	APPR	mo	angeregt	VERB	[Impulserhaltung]	11	p5	5	False
+der	der	DET	ART	nk	Impulserhaltung	NOUN	[]	11	p5	5	False
+Impulserhaltung	Impulserhaltung	NOUN	NN	nk	wegen	ADP	[der, beim]	11	p5	5	False
+beim	bei	ADP	APPRART	mnr	Impulserhaltung	NOUN	[Übergang]	11	p5	5	False
+Übergang	Übergang	NOUN	NN	nk	beim	ADP	[]	11	p5	5	False
+zusätzlich	zusätzlich	ADV	ADJD	mo	angeregt	VERB	[]	11	p5	5	False
+ein	ein	DET	ART	nk	Phonon	NOUN	[]	11	p5	5	False
+Phonon	Phonon	NOUN	NN	sb	angeregt	VERB	[ein]	11	p5	5	True
+angeregt	anregen	VERB	VVPP	oc	werden	AUX	[wegen, zusätzlich, Phonon, muss]	11	p5	5	False
+werden	werden	AUX	VAINF	cc	der	DET	[als, wenn, angeregt]	11	p5	5	True
+muss	muss	VERB	VMFIN	oc	angeregt	VERB	[]	11	p5	5	True
+.	--	PUNCT	$.	punct	wird	AUX	[]	11	p5	5	False
 Liegt	Liegt	VERB	VVFIN	re	so	ADV	[Minimum, senkrecht]	11	p5	6
 das	der	DET	ART	nk	Minimum	NOUN	[]	11	p5	6
 Minimum	Minimum	NOUN	NN	sb	Liegt	VERB	[das, Elektronenparabel]	11	p5	6

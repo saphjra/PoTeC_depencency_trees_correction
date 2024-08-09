@@ -2065,8 +2065,8 @@ der	der	DET	ART	nk	Elektronenparabel	NOUN	[]	11	p5	6
 Elektronenparabel	Elektronenparabel	NOUN	NN	ag	Minimum	NOUN	[der, im]	11	p5	6
 im	in	ADP	APPRART	mnr	Elektronenparabel	NOUN	[Valenzband]	11	p5	6
 Valenzband	Valenzband	NOUN	NN	nk	im	ADP	[]	11	p5	6
-senkrecht	senkrechen	ADV	ADJD	mo	Liegt	VERB	[über]	11	p5	6
-über	über	ADP	APPR	op	senkrecht	ADV	[Maximum]	11	p5	6
+senkrecht	senkrechen	ADV	ADJD	mo	über	ADV	[]	11	p5	6	True
+über	über	ADP	APPR	op	senkrecht	ADV	[senkrecht,Maximum]	11	p5	6	True
 dem	der	DET	ART	nk	Maximum	NOUN	[]	11	p5	6
 Maximum	Maximum	NOUN	NN	nk	über	ADP	[dem, Löcherparabel]	11	p5	6
 der	der	DET	ART	nk	Löcherparabel	NOUN	[]	11	p5	6
@@ -2101,14 +2101,14 @@ bei	bei	ADP	APPR	mo	sind	AUX	[nur, Photonenenergien]	11	p5	7
 höheren	hoch	ADJ	ADJA	nk	Photonenenergien	NOUN	[]	11	p5	7
 Photonenenergien	Photonenenergi	NOUN	NN	nk	bei	ADP	[höheren]	11	p5	7
 möglich	möglich	ADV	ADJD	pd	sind	AUX	[und]	11	p5	7
-und	und	CCONJ	KON	cd	möglich	ADV	[Übergänge]	11	p5	7
+und	und	CCONJ	KON	cd	sind	ADV	[sind]	11	p5	7	True
 indirekte	indirekt	ADJ	ADJA	nk	Übergänge	NOUN	[]	11	p5	7
-Übergänge	Übergang	NOUN	NN	cj	und	CCONJ	[indirekte, mit]	11	p5	7
+Übergänge	Übergang	NOUN	NN	sb	und	CCONJ	[indirekte, mit]	11	p5	7
 mit	mit	ADP	APPR	mnr	Übergänge	NOUN	[Absorptionswahrscheinlichkeit]	11	p5	7
 wesentlich	wesentlich	ADV	ADJD	mo	kleinerer	ADJ	[]	11	p5	7
 kleinerer	klein	ADJ	ADJA	nk	Absorptionswahrscheinlichkeit	NOUN	[wesentlich]	11	p5	7
 Absorptionswahrscheinlichkeit	Absorptionswahrscheinlichkeit	NOUN	NN	nk	mit	ADP	[kleinerer]	11	p5	7
-sind	sein	AUX	VAFIN	oc	sind	AUX	[möglich, Möglichkeit]	11	p5	7
+sind	sein	AUX	VAFIN	cj	sind	AUX	[Übergänge, Möglichkeit]	11	p5	7	True
 die	der	DET	ART	nk	Möglichkeit	NOUN	[]	11	p5	7
 einzige	einzig	ADJ	ADJA	nk	Möglichkeit	NOUN	[]	11	p5	7
 Möglichkeit	Möglichkeit	NOUN	NN	sb	sind	AUX	[die, einzige, für]	11	p5	7

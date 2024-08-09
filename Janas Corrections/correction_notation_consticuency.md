@@ -443,7 +443,9 @@ dabei PROAV PAV
 
 ### p5 ID: 6
 POS correct
-['(S (AVP (S (VVFIN Liegt) (NP (ART das) (NN Minimum) (NP (ART der) (NN Elektronenparabel))) (PP (APPRART im) (NN Valenzband)) (PP (ADJD senkrecht) (APPR über) (ART dem) (NN Maximum) (NP (ART der) (NN Löcherparabel))))) ($, ,)  (ADV so) (VAFIN sind) (NP (ADJA senkrechte) (NN Übergänge)) (PP (ADV bereits) (APPR ab) (NN Photonenenergien) (PP (APPR in) (ART der) (NN Größe) (NP (ART der) (NN Bandlücke)))) (ADJD möglich)) ($. .)']
+!!!!
+
+['(S (AVP (S (VVFIN Liegt) (NP (ART das) (NN Minimum) (NP (ART der) (NN Elektronenparabel))) (PP (APPRART im) (NN Valenzband)) (PP (ADJD senkrecht) (APPR über) (ART dem) (NN Maximum) (NP (ART der) (NN Löcherparabel)))) ($, ,)  (ADV so)) (VAFIN sind) (NP (ADJA senkrechte) (NN Übergänge)) (PP (ADV bereits) (APPR ab) (NN Photonenenergien) (PP (APPR in) (ART der) (NN Größe) (NP (ART der) (NN Bandlücke)))) (ADJD möglich)) ($. .)']
 
 ### p5 ID 7
 Pos correct

@@ -1568,41 +1568,41 @@ Rückstoß	Rückstoß	NOUN	NN	sb	überträgt	VERB	[der, auf]	7	p1	7	False
 auf	auf	ADP	APPR	mo	überträgt	VERB	[dieses]	7	p1	7	True
 dieses	dieser	DET	PDS	nk	auf	ADP	[]	7	p1	7	True
 und	und	CCONJ	KON	cd	überträgt	VERB	[entsprechen]	7	p1	7	True
-die	der	DET	ART	nk	Energie	NOUN	[]	7	p1	7
+die	der	DET	ART	nk	Energie	NOUN	[]	7	p1	7	False
 Energie	Energie	NOUN	NN	sb	entsprechen	VERB	[die, von]	7	p1	7	True
-von	von	ADP	APPR	pg	Energie	NOUN	[Photon]	7	p1	7
-absorbiertem	absorbiert	ADJ	ADJA	nk	Photon	NOUN	[und]	7	p1	7
-und	und	CCONJ	KON	cd	absorbiertem	ADJ	[emittiertem]	7	p1	7
-emittiertem	emittiert	ADJ	ADJA	cj	und	CCONJ	[]	7	p1	7
-Photon	Photon	NOUN	NN	nk	von	ADP	[absorbiertem]	7	p1	7
+von	von	ADP	APPR	pg	Energie	NOUN	[Photon]	7	p1	7	False
+absorbiertem	absorbiert	ADJ	ADJA	nk	Photon	NOUN	[und]	7	p1	7	False
+und	und	CCONJ	KON	cd	absorbiertem	ADJ	[emittiertem]	7	p1	7	False
+emittiertem	emittiert	ADJ	ADJA	cj	und	CCONJ	[]	7	p1	7	False
+Photon	Photon	NOUN	NN	nk	von	ADP	[absorbiertem]	7	p1	7	False
 entsprechen	entsprechen	VERB	VVINF	cj	überträgt	VERB	[Energie, Anregungsenergie]	7	p1	7	True
-in	in	ADP	APPR	mo	entsprechen	VERB	[Anregungsenergie]	7	p1	7
-etwa	etwa	ADV	ADV	mo	Anregungsenergie	NOUN	[]	7	p1	7
-der	der	DET	ART	nk	Anregungsenergie	NOUN	[]	7	p1	7
-Anregungsenergie	Anregungsenergie	NOUN	NN	nk	in	ADP	[etwa, der]	7	p1	7
-.	--	PUNCT	$.	punct	überträgt	VERB	[]	7	p1	7
-Dies	dieser	PRON	PDS	sb	wird	AUX	[]	7	p1	8
-wird	werden	AUX	VAFIN	ROOT	wird	AUX	[Dies, benutzt, .]	7	p1	8
-in	in	ADP	APPR	mo	benutzt	VERB	[Mößbauerspektroskopie]	7	p1	8
-der	der	DET	ART	nk	Mößbauerspektroskopie	NOUN	[]	7	p1	8
-Mößbauerspektroskopie	Mößbauerspektroskopie	NOUN	NN	nk	in	ADP	[der]	7	p1	8
-benutzt	benutzen	VERB	VVPP	oc	wird	AUX	[in, ,, analysieren]	7	p1	8
-,	--	PUNCT	$,	punct	benutzt	VERB	[]	7	p1	8
-um	um	SCONJ	KOUI	cp	analysieren	VERB	[]	7	p1	8
-mit	mit	ADP	APPR	mo	analysieren	VERB	[Hilfe]	7	p1	8
-Hilfe	Hilfe	NOUN	NN	nk	mit	ADP	[Dopplerverschiebung]	7	p1	8
-der	der	DET	ART	nk	Dopplerverschiebung	NOUN	[]	7	p1	8
-Dopplerverschiebung	Dopplerverschiebung	NOUN	NN	ag	Hilfe	NOUN	[der, Emissionslinien]	7	p1	8
-der	der	DET	ART	nk	Emissionslinien	NOUN	[]	7	p1	8
-Emissionslinien	Emissionslini	NOUN	NN	ag	Dopplerverschiebung	NOUN	[der]	7	p1	8
-etwa	etwa	ADV	ADV	mo	Hyperfeinstrukturenaufspaltungen	NOUN	[]	7	p1	8
-Hyperfeinstrukturenaufspaltungen	Hyperfeinstrukturenaufspaltung	NOUN	NN	oa	analysieren	VERB	[etwa, in]	7	p1	8
-in	in	ADP	APPR	mnr	Hyperfeinstrukturenaufspaltungen	NOUN	[Probe]	7	p1	8
-einer	ein	DET	ART	nk	Probe	NOUN	[]	7	p1	8
-Probe	Probe	NOUN	NN	nk	in	ADP	[einer]	7	p1	8
-zu	zu	PART	PTKZU	pm	analysieren	VERB	[]	7	p1	8
-analysieren	analysieren	VERB	VVINF	mo	benutzt	VERB	[um, mit, Hyperfeinstrukturenaufspaltungen, zu]	7	p1	8
-.	--	PUNCT	$.	punct	wird	AUX	[]	7	p1	8
+in	in	ADP	APPR	mo	entsprechen	VERB	[]	7	p1	7	False
+etwa	etwa	ADV	ADV	mo	Anregungsenergie	NOUN	[in]	7	p1	7	True
+der	der	DET	ART	nk	Anregungsenergie	NOUN	[]	7	p1	7	False
+Anregungsenergie	Anregungsenergie	NOUN	NN	da	entsprechen	VERB	[etwa, der]	7	p1	""	True
+.	--	PUNCT	$.	punct	überträgt	VERB	[]	7	p1	7	False
+Dies	dieser	PRON	PDS	sb	wird	AUX	[]	7	p1	8	False
+wird	werden	AUX	VAFIN	ROOT	wird	AUX	[Dies, benutzt, .]	7	p1	8	False
+in	in	ADP	APPR	mo	benutzt	VERB	[Mößbauerspektroskopie]	7	p1	8	False
+der	der	DET	ART	nk	Mößbauerspektroskopie	NOUN	[]	7	p1	8	False
+Mößbauerspektroskopie	Mößbauerspektroskopie	NOUN	NN	nk	in	ADP	[der]	7	p1	8	False
+benutzt	benutzen	VERB	VVPP	oc	wird	AUX	[in, ,, analysieren]	7	p1	8	False
+,	--	PUNCT	$,	punct	benutzt	VERB	[]	7	p1	8	False
+um	um	SCONJ	KOUI	cp	analysieren	VERB	[]	7	p1	8	False
+mit	mit	ADP	APPR	mo	analysieren	VERB	[Hilfe]	7	p1	8	False
+Hilfe	Hilfe	NOUN	NN	nk	mit	ADP	[Dopplerverschiebung]	7	p1	8	False
+der	der	DET	ART	nk	Dopplerverschiebung	NOUN	[]	7	p1	8	False
+Dopplerverschiebung	Dopplerverschiebung	NOUN	NN	ag	Hilfe	NOUN	[der, Emissionslinien]	7	p1	8	False
+der	der	DET	ART	nk	Emissionslinien	NOUN	[]	7	p1	8	False
+Emissionslinien	Emissionslini	NOUN	NN	ag	Dopplerverschiebung	NOUN	[der]	7	p1	8	False
+etwa	etwa	ADV	ADV	mo	Hyperfeinstrukturenaufspaltungen	NOUN	[]	7	p1	8	False
+Hyperfeinstrukturenaufspaltungen	Hyperfeinstrukturenaufspaltung	NOUN	NN	oa	analysieren	VERB	[etwa, in]	7	p1	8	False
+in	in	ADP	APPR	mnr	Hyperfeinstrukturenaufspaltungen	NOUN	[Probe]	7	p1	8	False
+einer	ein	DET	ART	nk	Probe	NOUN	[]	7	p1	8	False
+Probe	Probe	NOUN	NN	nk	in	ADP	[einer]	7	p1	8	False
+zu	zu	PART	PTKZU	pm	analysieren	VERB	[]	7	p1	8	False
+analysieren	analysieren	VERB	VVINF	mo	benutzt	VERB	[um, mit, Hyperfeinstrukturenaufspaltungen, zu]	7	p1	8	False
+.	--	PUNCT	$.	punct	wird	AUX	[]	7	p1	8	False
 Ein	ein	DET	ART	nk	Prion	NOUN	[]	5	b5	1	False
 Prion	Prion	NOUN	NN	sb	ist	AUX	[Ein]	5	b5	1	False
 ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Prion, Protein, .]	5	b5	1	False

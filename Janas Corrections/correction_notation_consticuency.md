@@ -304,9 +304,9 @@ CNP gelöscht und CS eingefügt, aber Konditional satz ist noch nicht richtig, m
 ['(CS (S (S (VVFIN Befindet) (PRF sich) (NP (ART ein) (NN Atom)) (PP (APPR in) (ART einem) (NN Kristallgitter))) ($, ,)  (VVFIN überträgt) (PRF sich) (ART der) (NN Rückstoß) (PP (APPR auf) (PDS dieses))) (KON und) (S (NP (ART die) (NN Energie) (PP (APPR von) (CAP (ADJA absorbiertem) (KON und) (ADJA emittiertem)) (NN Photon))) (VVFIN entsprechen) (NP (PP (APPR in) (ADV etwa)) (ART der) (NN Anregungsenergie)))) ($. .)']
 
 ### p1 ID: 8
-
+xxx
 POS benutz im stimuli falsch, ist ein VVPP kein VVFIN
-['(S (PDS Dies) (VAFIN wird) (VP (PP (APPR in) (ART der) (NN Mößbauerspektroskopie)) (VVPP benutzt)) ($, ,) (VP (KOUI um) (PP (APPR mit) (NN Hilfe) (NP (ART der) (NN Dopplerverschiebung) (NP (ART der) (NN Emissionslinien)))) (NP (ADV etwa) (NN Hyperfeinstrukturenaufspaltungen)) (PP (APPR in) (ART einer) (NN Probe)) (VZ (PTKZU zu) (VVINF analysieren)))) ($. .)']
+['(S (PDS Dies) (VAFIN wird) (VP (PP (APPR in) (ART der) (NN Mößbauerspektroskopie)) (VVPP benutzt)) ($, ,) (AVP (KOUI um) (PP (APPR mit) (NN Hilfe) (NP (ART der) (NN Dopplerverschiebung) (NP (ART der) (NN Emissionslinien)))) (NP (ADV etwa) (NN Hyperfeinstrukturenaufspaltungen)) (PP (APPR in) (ART einer) (NN Probe)) (VZ (PTKZU zu) (VVINF analysieren)))) ($. .)']
 
 ### p2 ID: 1
 

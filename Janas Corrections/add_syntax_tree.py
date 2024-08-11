@@ -75,7 +75,7 @@ def create_syntax_trees(path=None):
 def display_syntax_trees(path=None):
 
     """ function to visualize all dependency trees based on the dependency tree files"""
-
+    hscroll()
     nlp = spacy.load('de_core_news_sm')
     nlp.add_pipe("benepar", config={"model": "benepar_de2"})
 
@@ -95,6 +95,12 @@ def display_syntax_trees(path=None):
         sentences += doc.sents
 
     displacy.serve(sentences, style='dep', auto_select_port=True)
+
+def hscroll(activate=True):
+        """activate/deactivate horizontal scrolling for wide output cells"""
+        from IPython.display import display, HTML
+        style = ('pre-wrap', 'pre')[activate]  # select white-space style
+        display(HTML("<style>pre {white-space: %s !important}</style>" % style))
 
 
 def _create_dependency_trees(sentence: spacy.tokens.span.Span) -> pd.DataFrame:
@@ -130,6 +136,8 @@ def _create_constituency_trees(sentence: spacy.tokens.span.Span) -> tuple[Any, l
 
 def main() -> int:
     path = '/home/popos/PycharmProjects/PoTeC_depencency_trees_correction/stimuli'
+    path = 'C:/Users/saphi/PycharmProjects/PoTeC_depencency_trees_correction/stimuli'
+
     display_syntax_trees(path=path)
     return 0
 

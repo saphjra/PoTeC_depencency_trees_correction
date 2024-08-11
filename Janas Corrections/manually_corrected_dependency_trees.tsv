@@ -1512,70 +1512,70 @@ Atom	Atom	NOUN	NN	sb	erfährt	VERB	[das]	7	p1	4	False
 einen	ein	DET	ART	nk	Rückstoß	NOUN	[]	7	p1	4	False
 Rückstoß	Rückstoß	NOUN	NN	oa	erfährt	VERB	[einen]	7	p1	4	False
 .	--	PUNCT	$.	punct	erfährt	VERB	[]	7	p1	4	False
-Die	der	DET	ART	nk	Rückstoßenergie	NOUN	[]	7	p1	5
-dabei	dabei	ADV	PROAV	mo	erzeugte	ADJ	[]	7	p1	5
-erzeugte	erzeugt	ADJ	ADJA	nk	Rückstoßenergie	NOUN	[dabei]	7	p1	5
-Rückstoßenergie	Rückstoßenergie	NOUN	NN	sb	fehlt	VERB	[Die, erzeugte]	7	p1	5
-fehlt	fehlen	VERB	VVFIN	ROOT	fehlt	VERB	[Rückstoßenergie, Photon, ,, ist, .]	7	p1	5
-dem	der	DET	ART	nk	Photon	NOUN	[]	7	p1	5
-emittierten	emittiert	ADJ	ADJA	nk	Photon	NOUN	[]	7	p1	5
-Photon	Photon	NOUN	NN	da	fehlt	VERB	[dem, emittierten]	7	p1	5
-,	--	PUNCT	$,	punct	fehlt	VERB	[]	7	p1	5
-so	so	ADV	ADV	mo	ist	AUX	[]	7	p1	5
-dass	dass	SCONJ	KOUS	cp	ist	AUX	[]	7	p1	5
-dessen	der	PRON	PDS	ag	Wellenlänge	NOUN	[]	7	p1	5
-Wellenlänge	Wellenlang	NOUN	NN	sb	ist	AUX	[dessen]	7	p1	5
-ebenfalls	ebenfalls	ADV	ADV	mo	verschieden	ADV	[]	7	p1	5
-von	von	ADP	APPR	mo	verschieden	ADV	[jener]	7	p1	5
-jener	jener	PRON	PDS	nk	von	ADP	[]	7	p1	5
-der	der	DET	ART	nk	Anregung	NOUN	[]	7	p1	5
-Anregung	Anregung	NOUN	NN	da	verschieden	ADV	[der]	7	p1	5
-verschieden	verschieden	ADV	ADJD	pd	ist	AUX	[ebenfalls, von, Anregung]	7	p1	5
-ist	sein	AUX	VAFIN	mo	fehlt	VERB	[so, dass, Wellenlänge, verschieden]	7	p1	5
-.	--	PUNCT	$.	punct	fehlt	VERB	[]	7	p1	5
-Atome	Atome	PROPN	NN	sb	können	AUX	[,, unterscheiden]	7	p1	6
-,	--	PUNCT	$,	punct	Atome	PROPN	[]	7	p1	6
-die	der	PRON	PRELS	sb	unterscheiden	VERB	[]	7	p1	6
-sich	sich	PRON	PRF	oa	unterscheiden	VERB	[]	7	p1	6
-nur	nur	ADV	ADV	mo	in	ADP	[]	7	p1	6
-in	in	ADP	APPR	mo	unterscheiden	VERB	[nur, Impuls]	7	p1	6
-ihrem	ihr	DET	PPOSAT	nk	Impuls	NOUN	[]	7	p1	6
-Impuls	Impuls	NOUN	NN	nk	in	ADP	[ihrem]	7	p1	6
-unterscheiden	unterscheiden	VERB	VVFIN	rc	Atome	PROPN	[die, sich, in]	7	p1	6
-,	--	PUNCT	$,	punct	können	AUX	[]	7	p1	6
-können	können	AUX	VMFIN	ROOT	können	AUX	[Atome, ,, also, absorbieren, .]	7	p1	6
-also	also	ADV	ADV	mo	können	AUX	[]	7	p1	6
-Photonen	Photon	NOUN	NN	oa	absorbieren	VERB	[]	7	p1	6
-mit	mit	ADP	APPR	mo	absorbieren	VERB	[Frequenz]	7	p1	6
-unterschiedlicher	unterschiedlich	ADJ	ADJA	nk	Frequenz	NOUN	[]	7	p1	6
-Frequenz	Frequenz	NOUN	NN	nk	mit	ADP	[unterschiedlicher]	7	p1	6
-absorbieren	absorbieren	VERB	VVINF	oc	können	AUX	[Photonen, mit, bzw.]	7	p1	6
-bzw.	bzw.	CCONJ	KON	cd	absorbieren	VERB	[emittieren]	7	p1	6
-emittieren	emittieren	VERB	VVINF	cj	bzw.	CCONJ	[]	7	p1	6
-.	--	PUNCT	$.	punct	können	AUX	[]	7	p1	6
-Befindet	Befindet	VERB	VVFIN	mo	überträgt	VERB	[sich, Atom]	7	p1	7
-sich	sich	PRON	PRF	oa	Befindet	VERB	[]	7	p1	7
-ein	ein	DET	ART	nk	Atom	NOUN	[]	7	p1	7
-Atom	Atom	NOUN	NN	sb	Befindet	VERB	[ein, in]	7	p1	7
-in	in	ADP	APPR	mnr	Atom	NOUN	[Kristallgitter]	7	p1	7
-einem	ein	DET	ART	nk	Kristallgitter	NOUN	[]	7	p1	7
-Kristallgitter	Kristallgitter	NOUN	NN	nk	in	ADP	[einem]	7	p1	7
-,	--	PUNCT	$,	punct	überträgt	VERB	[]	7	p1	7
-überträgt	übertragen	VERB	VVFIN	ROOT	überträgt	VERB	[Befindet, ,, sich, Rückstoß, entsprechen, .]	7	p1	7
-sich	sich	PRON	PRF	oa	überträgt	VERB	[]	7	p1	7
-der	der	DET	ART	nk	Rückstoß	NOUN	[]	7	p1	7
-Rückstoß	Rückstoß	NOUN	NN	sb	überträgt	VERB	[der, auf]	7	p1	7
-auf	auf	ADP	APPR	mnr	Rückstoß	NOUN	[dieses]	7	p1	7
-dieses	dieser	DET	PDS	nk	auf	ADP	[und]	7	p1	7
-und	und	CCONJ	KON	cd	dieses	DET	[Energie]	7	p1	7
+Die	der	DET	ART	nk	Rückstoßenergie	NOUN	[]	7	p1	5	False
+dabei	dabei	ADV	PROAV	mo	erzeugte	ADJ	[]	7	p1	5	False
+erzeugte	erzeugt	ADJ	ADJA	nk	Rückstoßenergie	NOUN	[dabei]	7	p1	5	False
+Rückstoßenergie	Rückstoßenergie	NOUN	NN	sb	fehlt	VERB	[Die, erzeugte]	7	p1	5	False
+fehlt	fehlen	VERB	VVFIN	ROOT	fehlt	VERB	[Rückstoßenergie, Photon, ,, ist, .]	7	p1	5	False
+dem	der	DET	ART	nk	Photon	NOUN	[]	7	p1	5	False
+emittierten	emittiert	ADJ	ADJA	nk	Photon	NOUN	[]	7	p1	5	False
+Photon	Photon	NOUN	NN	da	fehlt	VERB	[dem, emittierten]	7	p1	5	False
+,	--	PUNCT	$,	punct	fehlt	VERB	[]	7	p1	5	False
+so	so	ADV	ADV	mo	ist	AUX	[]	7	p1	5	False
+dass	dass	SCONJ	KOUS	cp	ist	AUX	[]	7	p1	5	False
+dessen	der	PRON	PDS	ag	Wellenlänge	NOUN	[]	7	p1	5	False
+Wellenlänge	Wellenlang	NOUN	NN	sb	ist	AUX	[dessen]	7	p1	5	False
+ebenfalls	ebenfalls	ADV	ADV	mo	verschieden	ADV	[]	7	p1	5	False
+von	von	ADP	APPR	mo	verschieden	ADV	[jener]	7	p1	5	False
+jener	jener	PRON	PDS	nk	von	ADP	[Anregung]	7	p1	5	True
+der	der	DET	ART	nk	Anregung	NOUN	[]	7	p1	5	False
+Anregung	Anregung	NOUN	NN	ag	jener	ADP	[der]	7	p1	5	True
+verschieden	verschieden	ADV	ADJD	pd	ist	AUX	[ebenfalls, von]	7	p1	5	True
+ist	sein	AUX	VAFIN	mo	fehlt	VERB	[so, dass, Wellenlänge, verschieden]	7	p1	5	False
+.	--	PUNCT	$.	punct	fehlt	VERB	[]	7	p1	5	False
+Atome	Atome	PROPN	NN	sb	können	AUX	[,, unterscheiden]	7	p1	6	False
+,	--	PUNCT	$,	punct	Atome	PROPN	[]	7	p1	6	False
+die	der	PRON	PRELS	sb	unterscheiden	VERB	[]	7	p1	6	False
+sich	sich	PRON	PRF	oa	unterscheiden	VERB	[]	7	p1	6	False
+nur	nur	ADV	ADV	mo	in	ADP	[]	7	p1	6	False
+in	in	ADP	APPR	mo	unterscheiden	VERB	[nur, Impuls]	7	p1	6	False
+ihrem	ihr	DET	PPOSAT	nk	Impuls	NOUN	[]	7	p1	6	False
+Impuls	Impuls	NOUN	NN	nk	in	ADP	[ihrem]	7	p1	6	False
+unterscheiden	unterscheiden	VERB	VVFIN	rc	Atome	PROPN	[die, sich, in]	7	p1	6	False
+,	--	PUNCT	$,	punct	können	AUX	[]	7	p1	6	False
+können	können	AUX	VMFIN	ROOT	können	AUX	[Atome, ,, also, absorbieren, .]	7	p1	6	False
+also	also	ADV	ADV	mo	können	AUX	[]	7	p1	6	False
+Photonen	Photon	NOUN	NN	oa	absorbieren	VERB	[]	7	p1	6	False
+mit	mit	ADP	APPR	mo	absorbieren	VERB	[Frequenz]	7	p1	6	False
+unterschiedlicher	unterschiedlich	ADJ	ADJA	nk	Frequenz	NOUN	[]	7	p1	6	False
+Frequenz	Frequenz	NOUN	NN	nk	mit	ADP	[unterschiedlicher]	7	p1	6	False
+absorbieren	absorbieren	VERB	VVINF	oc	können	AUX	[Photonen, mit, bzw.]	7	p1	6	False
+bzw.	bzw.	CCONJ	KON	cd	absorbieren	VERB	[emittieren]	7	p1	6	False
+emittieren	emittieren	VERB	VVINF	cj	bzw.	CCONJ	[]	7	p1	6	False
+.	--	PUNCT	$.	punct	können	AUX	[]	7	p1	6	False
+Befindet	Befindet	VERB	VVFIN	mo	überträgt	VERB	[sich, Atom]	7	p1	7	False
+sich	sich	PRON	PRF	oa	Befindet	VERB	[]	7	p1	7	False
+ein	ein	DET	ART	nk	Atom	NOUN	[]	7	p1	7	False
+Atom	Atom	NOUN	NN	sb	Befindet	VERB	[ein, in]	7	p1	7	False
+in	in	ADP	APPR	mnr	Atom	NOUN	[Kristallgitter]	7	p1	7	False
+einem	ein	DET	ART	nk	Kristallgitter	NOUN	[]	7	p1	7	False
+Kristallgitter	Kristallgitter	NOUN	NN	nk	in	ADP	[einem]	7	p1	7	False
+,	--	PUNCT	$,	punct	überträgt	VERB	[]	7	p1	7	False
+überträgt	übertragen	VERB	VVFIN	ROOT	überträgt	VERB	[Befindet, ,, sich, Rückstoß,auf,und, entsprechen, .]	7	p1	7	True
+sich	sich	PRON	PRF	oa	überträgt	VERB	[]	7	p1	7	False
+der	der	DET	ART	nk	Rückstoß	NOUN	[]	7	p1	7	False
+Rückstoß	Rückstoß	NOUN	NN	sb	überträgt	VERB	[der, auf]	7	p1	7	False
+auf	auf	ADP	APPR	mo	überträgt	VERB	[dieses]	7	p1	7	True
+dieses	dieser	DET	PDS	nk	auf	ADP	[]	7	p1	7	True
+und	und	CCONJ	KON	cd	überträgt	VERB	[entsprechen]	7	p1	7	True
 die	der	DET	ART	nk	Energie	NOUN	[]	7	p1	7
-Energie	Energie	NOUN	NN	cj	und	CCONJ	[die, von]	7	p1	7
+Energie	Energie	NOUN	NN	sb	entsprechen	VERB	[die, von]	7	p1	7	True
 von	von	ADP	APPR	pg	Energie	NOUN	[Photon]	7	p1	7
 absorbiertem	absorbiert	ADJ	ADJA	nk	Photon	NOUN	[und]	7	p1	7
 und	und	CCONJ	KON	cd	absorbiertem	ADJ	[emittiertem]	7	p1	7
 emittiertem	emittiert	ADJ	ADJA	cj	und	CCONJ	[]	7	p1	7
 Photon	Photon	NOUN	NN	nk	von	ADP	[absorbiertem]	7	p1	7
-entsprechen	entsprechen	VERB	VVINF	mo	überträgt	VERB	[in]	7	p1	7
+entsprechen	entsprechen	VERB	VVINF	cj	überträgt	VERB	[Energie, Anregungsenergie]	7	p1	7	True
 in	in	ADP	APPR	mo	entsprechen	VERB	[Anregungsenergie]	7	p1	7
 etwa	etwa	ADV	ADV	mo	Anregungsenergie	NOUN	[]	7	p1	7
 der	der	DET	ART	nk	Anregungsenergie	NOUN	[]	7	p1	7

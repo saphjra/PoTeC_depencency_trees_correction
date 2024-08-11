@@ -290,17 +290,18 @@ pos & Baum correct
 ### p1 ID: 4
 pos & Baum correct
 ### p1 ID: 5
+xxx
 dessen PRELAt oder PDS -> PRELAT 
-['(S (NP (ART Die) (AP (PROAV dabei) (ADJA erzeugte)) (NN Rückstoßenergie)) (VVFIN fehlt) (NP (ART dem) (ADJA emittierten) (NN Photon))) ($, ,) (S (ADV so) (KOUS dass) (NP (PRELAT dessen) (NN Wellenlänge)) (ADV ebenfalls) (AP (PP (APPR von) (PDS jener) (NP (ART der) (NN Anregung))) (ADJD verschieden)) (VAFIN ist)) ($. .)']
+['(S (NP (ART Die) (AP (PROAV dabei) (ADJA erzeugte)) (NN Rückstoßenergie)) (VVFIN fehlt) (NP (ART dem) (ADJA emittierten) (NN Photon)) ($, ,) (AVP (S (ADV so) (KOUS dass) (NP (PRELAT dessen) (NN Wellenlänge)) (ADV ebenfalls) (AP (PP (APPR von) (PDS jener) (NP (ART der) (NN Anregung))) (ADJD verschieden)) (VAFIN ist)))) ($. .)']
 
 ### p1 ID: 6
 
 pos correct
 ['(S (NP (NN Atome) ($, ,) (S (PRELS die) (PRF sich) (PP (ADV nur) (APPR in) (PPOSAT ihrem) (NN Impuls)) (VVFIN unterscheiden))) ($, ,) (VMFIN können) (ADV also) (CVP (VP (NP (NN Photonen) (PP (APPR mit) (ADJA unterschiedlicher) (NN Frequenz))) (VVINF absorbieren)) (KON bzw.) (VP (VVINF emittieren)))) ($. .)']
 ### p1 ID: 7
-
+xxx
 CNP gelöscht und CS eingefügt, aber Konditional satz ist noch nicht richtig, müsste das verb nicht zu dem enstrpicht statt entsprechen sein ?
-['(CS (CS (S (S (VVFIN Befindet) (PRF sich) (NP (ART ein) (NN Atom)) (PP (APPR in) (ART einem) (NN Kristallgitter))) ($, ,)  (VVFIN überträgt) (PRF sich) (ART der) (NN Rückstoß) (PP (APPR auf) (PDS dieses))) (KON und) (S (NP (ART die) (NN Energie) (PP (APPR von) (CAP (ADJA absorbiertem) (KON und) (ADJA emittiertem)) (NN Photon))) (VVFIN entsprechen) (NP (PP (APPR in) (ADV etwa)) (ART der) (NN Anregungsenergie))))) ($. .)']
+['(CS (S (S (VVFIN Befindet) (PRF sich) (NP (ART ein) (NN Atom)) (PP (APPR in) (ART einem) (NN Kristallgitter))) ($, ,)  (VVFIN überträgt) (PRF sich) (ART der) (NN Rückstoß) (PP (APPR auf) (PDS dieses))) (KON und) (S (NP (ART die) (NN Energie) (PP (APPR von) (CAP (ADJA absorbiertem) (KON und) (ADJA emittiertem)) (NN Photon))) (VVFIN entsprechen) (NP (PP (APPR in) (ADV etwa)) (ART der) (NN Anregungsenergie)))) ($. .)']
 
 ### p1 ID: 8
 

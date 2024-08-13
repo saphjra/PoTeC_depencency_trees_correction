@@ -917,146 +917,146 @@ Form	Form	NOUN	NN	nk	in	ADP	[ähnlicher]	1	b1	10	False
 ebenfalls	ebenfalls	ADV	ADV	mo	ist	AUX	[]	1	b1	10	False
 vorhanden	vorhanden	ADV	ADJD	pd	ist	AUX	[]	1	b1	10	False
 .	--	PUNCT	$.	punct	ist	AUX	[]	1	b1	10	False
-Photonische	Photonische	ADJ	ADJA	nk	Kristalle	NOUN	[]	8	p2	1
-Kristalle	Kristalle	NOUN	NN	sb	sind	AUX	[Photonische]	8	p2	1
-sind	sein	AUX	VAFIN	ROOT	sind	AUX	[Kristalle, räumlich, Anordnungen, .]	8	p2	1
-räumlich	räumlich	ADV	ADJD	mo	sind	AUX	[]	8	p2	1
-periodische	periodisch	ADJ	ADJA	nk	Anordnungen	NOUN	[]	8	p2	1
-Anordnungen	Anordnung	NOUN	NN	pd	sind	AUX	[periodische, von, mit]	8	p2	1
-von	von	ADP	APPR	pg	Anordnungen	NOUN	[Medien]	8	p2	1
-dielektrischen	dielektrisch	ADJ	ADJA	nk	Medien	NOUN	[]	8	p2	1
-Medien	Medium	NOUN	NN	nk	von	ADP	[dielektrischen]	8	p2	1
-mit	mit	ADP	APPR	mnr	Anordnungen	NOUN	[Dielektrizitätskonstante]	8	p2	1
-unterschiedlicher	unterschiedlich	ADJ	ADJA	nk	Dielektrizitätskonstante	NOUN	[]	8	p2	1
-Dielektrizitätskonstante	Dielektrizitätskonstante	NOUN	NN	nk	mit	ADP	[unterschiedlicher, und]	8	p2	1
-und	und	CCONJ	KON	cd	Dielektrizitätskonstante	NOUN	[Brechzahlen]	8	p2	1
-damit	damit	ADV	PROAV	mo	unterschiedlichen	ADJ	[]	8	p2	1
-unterschiedlichen	unterschiedlich	ADJ	ADJA	nk	Brechzahlen	NOUN	[damit]	8	p2	1
-Brechzahlen	Brechzahle	NOUN	NN	cj	und	CCONJ	[unterschiedlichen]	8	p2	1
-.	--	PUNCT	$.	punct	sind	AUX	[]	8	p2	1
-Man	man	PRON	PIS	sb	kann	AUX	[]	8	p2	2
-kann	können	AUX	VMFIN	ROOT	kann	AUX	[Man, realisieren, sind, .]	8	p2	2
-sie	sie	PRON	PPER	oa	realisieren	VERB	[]	8	p2	2
-realisieren	realisieren	VERB	VVINF	oc	kann	AUX	[sie, durch]	8	p2	2
-durch	durch	ADP	APPR	mo	realisieren	VERB	[Materialien]	8	p2	2
-transparente	transparent	ADJ	ADJA	nk	Materialien	NOUN	[]	8	p2	2
-Materialien	Material	NOUN	NN	nk	durch	ADP	[transparente, ,]	8	p2	2
-,	--	PUNCT	$,	punct	Materialien	NOUN	[]	8	p2	2
-in	in	ADP	APPR	mo	eingebaut	VERB	[Strukturen]	8	p2	2
-die	der	DET	PRELS	nk	Strukturen	NOUN	[]	8	p2	2
-periodische	periodisch	ADJ	ADJA	nk	Strukturen	NOUN	[]	8	p2	2
-Strukturen	Struktur	NOUN	NN	nk	in	ADP	[die, periodische, z.B., liegen]	8	p2	2
-(	--	PUNCT	$LRB	punct	z.B.	NOUN	[]	8	p2	2
-z.B.	z.B.	NOUN	NN	par	Strukturen	NOUN	[(, Mikrozylinder, )]	8	p2	2
-dielektrische	dielektrisch	ADJ	ADJA	nk	Mikrozylinder	NOUN	[]	8	p2	2
-Mikrozylinder	Mikrozylind	NOUN	NN	nk	z.B.	NOUN	[dielektrische, oder]	8	p2	2
-oder	oder	CCONJ	KON	cd	Mikrozylinder	NOUN	[Kügelchen]	8	p2	2
-Kügelchen	Kügelche	NOUN	NN	cj	oder	CCONJ	[]	8	p2	2
-)	--	PUNCT	$LRB	punct	z.B.	NOUN	[]	8	p2	2
-eingebaut	einbauen	VERB	VVPP	pd	sind	AUX	[in]	8	p2	2
-sind	sein	AUX	VAFIN	oc	kann	AUX	[eingebaut, ,]	8	p2	2
-,	--	PUNCT	$,	punct	sind	AUX	[]	8	p2	2
-deren	der	DET	PRELAT	ag	Abstände	NOUN	[]	8	p2	2
-Abstände	Abständ	NOUN	NN	sb	liegen	VERB	[deren]	8	p2	2
-in	in	ADP	APPR	mo	liegen	VERB	[Größenordnung]	8	p2	2
-der	der	DET	ART	nk	Größenordnung	NOUN	[]	8	p2	2
-Größenordnung	Größenordnung	NOUN	NN	nk	in	ADP	[der, Wellenlänge]	8	p2	2
-der	der	DET	ART	nk	Wellenlänge	NOUN	[]	8	p2	2
-optischen	optisch	ADJ	ADJA	nk	Wellenlänge	NOUN	[]	8	p2	2
-Wellenlänge	Wellenlang	NOUN	NN	ag	Größenordnung	NOUN	[der, optischen]	8	p2	2
-liegen	liegen	VERB	VVFIN	rc	Strukturen	NOUN	[Abstände, in]	8	p2	2
-.	--	PUNCT	$.	punct	kann	AUX	[]	8	p2	2
-Sie	sie	PRON	PPER	sb	beeinflussen	VERB	[]	8	p2	3
-beeinflussen	beeinflussen	VERB	VVFIN	ROOT	beeinflussen	VERB	[Sie, deshalb, Ausbreitung, .]	8	p2	3
-deshalb	deshalb	ADV	PROAV	mo	beeinflussen	VERB	[]	8	p2	3
-die	der	DET	ART	nk	Ausbreitung	NOUN	[]	8	p2	3
-Ausbreitung	Ausbreitung	NOUN	NN	oa	beeinflussen	VERB	[die, von]	8	p2	3
-von	von	ADP	APPR	pg	Ausbreitung	NOUN	[Licht]	8	p2	3
-Licht	Licht	NOUN	NN	nk	von	ADP	[in]	8	p2	3
-in	in	ADP	APPR	mnr	Licht	NOUN	[Materialien]	8	p2	3
-diesen	dieser	DET	PDAT	nk	Materialien	NOUN	[]	8	p2	3
-Materialien	Material	NOUN	NN	nk	in	ADP	[diesen]	8	p2	3
-.	--	PUNCT	$.	punct	beeinflussen	VERB	[]	8	p2	3
-Fällt	fallen	VERB	VVFIN	re	so	ADV	[Lichtwelle, auf]	8	p2	4
-eine	ein	DET	ART	nk	Lichtwelle	NOUN	[]	8	p2	4
-Lichtwelle	Lichtwelle	NOUN	NN	sb	Fällt	VERB	[eine]	8	p2	4
-auf	auf	ADP	APPR	mo	Fällt	VERB	[Struktur]	8	p2	4
-diese	dieser	DET	PDAT	nk	Struktur	NOUN	[]	8	p2	4
-Struktur	Struktur	NOUN	NN	nk	auf	ADP	[diese]	8	p2	4
-,	--	PUNCT	$,	punct	so	ADV	[]	8	p2	4
-so	so	ADV	ADV	mo	reflektiert	VERB	[Fällt, ,]	8	p2	4
-wird	werden	AUX	VAFIN	ROOT	wird	AUX	[Teil, reflektiert, .]	8	p2	4
-ein	ein	DET	ART	nk	Teil	NOUN	[]	8	p2	4
-Teil	Teil	NOUN	NN	sb	wird	AUX	[ein, Wellenamplitude]	8	p2	4
-der	der	DET	ART	nk	Wellenamplitude	NOUN	[]	8	p2	4
-Wellenamplitude	Wellenamplitude	NOUN	NN	ag	Teil	NOUN	[der, an]	8	p2	4
-an	an	ADP	APPR	mnr	Wellenamplitude	NOUN	[Grenzflächen]	8	p2	4
-den	der	DET	ART	nk	Grenzflächen	NOUN	[]	8	p2	4
-Grenzflächen	Grenzfläch	NOUN	NN	nk	an	ADP	[den, Struktur]	8	p2	4
-der	der	DET	ART	nk	Struktur	NOUN	[]	8	p2	4
-periodischen	periodisch	ADJ	ADJA	nk	Struktur	NOUN	[]	8	p2	4
-Struktur	Struktur	NOUN	NN	ag	Grenzflächen	NOUN	[der, periodischen]	8	p2	4
-reflektiert	reflektieren	VERB	VVPP	oc	wird	AUX	[so]	8	p2	4
-.	--	PUNCT	$.	punct	wird	AUX	[]	8	p2	4
-Ist	sein	AUX	VAFIN	mo	überlagern	VERB	[Periode, π-vielfaches]	8	p2	5
-die	der	DET	ART	nk	Periode	NOUN	[]	8	p2	5
-Periode	Periode	NOUN	NN	sb	Ist	AUX	[die, Struktur]	8	p2	5
-der	der	DET	ART	nk	Struktur	NOUN	[]	8	p2	5
-Struktur	Struktur	NOUN	NN	ag	Periode	NOUN	[der]	8	p2	5
-ein	ein	DET	ART	nk	π-vielfaches	NOUN	[]	8	p2	5
-π-vielfaches	π-vielfaches	NOUN	PIS	pd	Ist	AUX	[ein, Wellenlänge]	8	p2	5
-der	der	DET	ART	nk	Wellenlänge	NOUN	[]	8	p2	5
-Wellenlänge	Wellenlang	NOUN	NN	ag	π-vielfaches	NOUN	[der]	8	p2	5
-,	--	PUNCT	$,	punct	überlagern	VERB	[]	8	p2	5
-überlagern	überlagern	VERB	VVFIN	ROOT	überlagern	VERB	[Ist, ,, sich, Anteile, phasenrichtig, und, .]	8	p2	5
-sich	sich	PRON	PRF	oa	überlagern	VERB	[]	8	p2	5
-die	der	DET	ART	nk	Anteile	NOUN	[]	8	p2	5
-reflektierten	reflektiert	ADJ	ADJA	nk	Anteile	NOUN	[]	8	p2	5
-Anteile	Anteil	NOUN	NN	sb	überlagern	VERB	[die, reflektierten]	8	p2	5
-phasenrichtig	phasenrichtig	ADV	ADJD	mo	überlagern	VERB	[]	8	p2	5
-und	und	CCONJ	KON	cd	überlagern	VERB	[addieren]	8	p2	5
-addieren	addieren	VERB	VVFIN	cj	und	CCONJ	[sich, deshalb]	8	p2	5
-sich	sich	PRON	PRF	oa	addieren	VERB	[]	8	p2	5
-deshalb	deshalb	ADV	PROAV	mo	addieren	VERB	[]	8	p2	5
-.	--	PUNCT	$.	punct	überlagern	VERB	[]	8	p2	5
-Das	der	DET	ART	nk	Reflexionsvermögen	NOUN	[]	8	p2	6
-Reflexionsvermögen	Reflexionsvermögen	NOUN	NN	sb	wird	AUX	[Das, Kristalls]	8	p2	6
-des	der	DET	ART	nk	Kristalls	NOUN	[]	8	p2	6
-Kristalls	Kristall	NOUN	NN	ag	Reflexionsvermögen	NOUN	[des]	8	p2	6
-wird	werden	AUX	VAFIN	ROOT	wird	AUX	[Reflexionsvermögen, erhöht, .]	8	p2	6
-erhöht	erhöhen	VERB	VVPP	oc	wird	AUX	[]	8	p2	6
-.	--	PUNCT	$.	punct	wird	AUX	[]	8	p2	6
-Ist	sein	AUX	VAFIN	mo	sind	AUX	[Periode, π-vielfaches]	8	p2	7
-die	der	DET	ART	nk	Periode	NOUN	[]	8	p2	7
-Periode	Periode	NOUN	NN	sb	Ist	AUX	[die, Struktur]	8	p2	7
-der	der	DET	ART	nk	Struktur	NOUN	[]	8	p2	7
-Struktur	Struktur	NOUN	NN	ag	Periode	NOUN	[der]	8	p2	7
-ein	ein	DET	ART	nk	π-vielfaches	NOUN	[]	8	p2	7
-ungeradzahlig	ungeradzahlig	ADV	ADJD	mo	π-vielfaches	NOUN	[]	8	p2	7
-π-vielfaches	π-vielfaches	NOUN	NN	pd	Ist	AUX	[ein, ungeradzahlig, Wellenlänge]	8	p2	7
-der	der	DET	ART	nk	Wellenlänge	NOUN	[]	8	p2	7
-halben	halb	ADJ	ADJA	nk	Wellenlänge	NOUN	[]	8	p2	7
-Wellenlänge	Wellenlang	NOUN	NN	ag	π-vielfaches	NOUN	[der, halben]	8	p2	7
-,	--	PUNCT	$,	punct	sind	AUX	[]	8	p2	7
-sind	sein	AUX	VAFIN	ROOT	sind	AUX	[Ist, ,, Phasen, verschoben, und, .]	8	p2	7
-die	der	DET	ART	nk	Phasen	NOUN	[]	8	p2	7
-Phasen	Phase	NOUN	NN	sb	sind	AUX	[die, Wellen]	8	p2	7
-der	der	DET	ART	nk	Wellen	NOUN	[]	8	p2	7
-reflektierten	reflektiert	ADJ	ADJA	nk	Wellen	NOUN	[]	8	p2	7
-Wellen	Welle	NOUN	NN	ag	Phasen	NOUN	[der, reflektierten]	8	p2	7
-gegeneinander	gegeneinander	ADV	ADV	mo	verschoben	VERB	[]	8	p2	7
-verschoben	verschieben	VERB	VVPP	pd	sind	AUX	[gegeneinander]	8	p2	7
-und	und	CCONJ	KON	cd	sind	AUX	[löschen]	8	p2	7
-die	der	DET	ART	nk	Anteile	NOUN	[]	8	p2	7
-reflektierten	reflektiert	ADJ	ADJA	nk	Anteile	NOUN	[]	8	p2	7
-Anteile	Anteil	NOUN	NN	sb	löschen	VERB	[die, reflektierten]	8	p2	7
-löschen	löschen	VERB	VVFIN	cj	und	CCONJ	[Anteile, sich, teilweise, aus]	8	p2	7
-sich	sich	PRON	PRF	oa	löschen	VERB	[]	8	p2	7
-teilweise	teilweise	ADV	ADV	mo	löschen	VERB	[oder]	8	p2	7
-oder	oder	CCONJ	KON	cd	teilweise	ADV	[ganz]	8	p2	7
-ganz	ganz	ADV	ADV	cj	oder	CCONJ	[]	8	p2	7
-aus	aus	ADP	PTKVZ	svp	löschen	VERB	[]	8	p2	7
-.	--	PUNCT	$.	punct	sind	AUX	[]	8	p2	7
+Photonische	Photonische	ADJ	ADJA	nk	Kristalle	NOUN	[]	8	p2	1	False
+Kristalle	Kristalle	NOUN	NN	sb	sind	AUX	[Photonische]	8	p2	1	False
+sind	sein	AUX	VAFIN	ROOT	sind	AUX	[Kristalle, räumlich, Anordnungen, .]	8	p2	1	False
+räumlich	räumlich	ADV	ADJD	mo	sind	AUX	[]	8	p2	1	False
+periodische	periodisch	ADJ	ADJA	nk	Anordnungen	NOUN	[]	8	p2	1	False
+Anordnungen	Anordnung	NOUN	NN	pd	sind	AUX	[periodische, von, mit]	8	p2	1	False
+von	von	ADP	APPR	pg	Anordnungen	NOUN	[Medien]	8	p2	1	False
+dielektrischen	dielektrisch	ADJ	ADJA	nk	Medien	NOUN	[]	8	p2	1	False
+Medien	Medium	NOUN	NN	nk	von	ADP	[dielektrischen]	8	p2	1	False
+mit	mit	ADP	APPR	mnr	Anordnungen	NOUN	[Dielektrizitätskonstante]	8	p2	1	False
+unterschiedlicher	unterschiedlich	ADJ	ADJA	nk	Dielektrizitätskonstante	NOUN	[]	8	p2	1	False
+Dielektrizitätskonstante	Dielektrizitätskonstante	NOUN	NN	nk	mit	ADP	[unterschiedlicher, und]	8	p2	1	False
+und	und	CCONJ	KON	cd	Dielektrizitätskonstante	NOUN	[Brechzahlen]	8	p2	1	False
+damit	damit	ADV	PROAV	mo	unterschiedlichen	ADJ	[]	8	p2	1	False
+unterschiedlichen	unterschiedlich	ADJ	ADJA	nk	Brechzahlen	NOUN	[damit]	8	p2	1	False
+Brechzahlen	Brechzahle	NOUN	NN	cj	und	CCONJ	[unterschiedlichen]	8	p2	1	False
+.	--	PUNCT	$.	punct	sind	AUX	[]	8	p2	1	False
+Man	man	PRON	PIS	sb	kann	AUX	[]	8	p2	2	False
+kann	können	AUX	VMFIN	ROOT	kann	AUX	[Man, realisieren, sind, .]	8	p2	2	False
+sie	sie	PRON	PPER	oa	realisieren	VERB	[]	8	p2	2	False
+realisieren	realisieren	VERB	VVINF	oc	kann	AUX	[sie, durch]	8	p2	2	False
+durch	durch	ADP	APPR	mo	realisieren	VERB	[Materialien]	8	p2	2	False
+transparente	transparent	ADJ	ADJA	nk	Materialien	NOUN	[]	8	p2	2	False
+Materialien	Material	NOUN	NN	nk	durch	ADP	[transparente, ,]	8	p2	2	False
+,	--	PUNCT	$,	punct	Materialien	NOUN	[]	8	p2	2	False
+in	in	ADP	APPR	mo	eingebaut	VERB	[Strukturen]	8	p2	2	False
+die	der	DET	PRELS	nk	Strukturen	NOUN	[]	8	p2	2	False
+periodische	periodisch	ADJ	ADJA	nk	Strukturen	NOUN	[]	8	p2	2	False
+Strukturen	Struktur	NOUN	NN	nk	in	ADP	[die, periodische, z.B., liegen]	8	p2	2	False
+(	--	PUNCT	$LRB	punct	z.B.	NOUN	[]	8	p2	2	False
+z.B.	z.B.	NOUN	NN	par	Strukturen	NOUN	[(, Mikrozylinder, )]	8	p2	2	False
+dielektrische	dielektrisch	ADJ	ADJA	nk	Mikrozylinder	NOUN	[]	8	p2	2	False
+Mikrozylinder	Mikrozylind	NOUN	NN	nk	z.B.	NOUN	[dielektrische, oder]	8	p2	2	False
+oder	oder	CCONJ	KON	cd	Mikrozylinder	NOUN	[Kügelchen]	8	p2	2	False
+Kügelchen	Kügelche	NOUN	NN	cj	oder	CCONJ	[]	8	p2	2	False
+)	--	PUNCT	$LRB	punct	z.B.	NOUN	[]	8	p2	2	False
+eingebaut	einbauen	VERB	VVPP	pd	sind	AUX	[in]	8	p2	2	False
+sind	sein	AUX	VAFIN	oc	kann	AUX	[eingebaut, ,]	8	p2	2	False
+,	--	PUNCT	$,	punct	sind	AUX	[]	8	p2	2	False
+deren	der	DET	PRELAT	ag	Abstände	NOUN	[]	8	p2	2	False
+Abstände	Abständ	NOUN	NN	sb	liegen	VERB	[deren]	8	p2	2	False
+in	in	ADP	APPR	mo	liegen	VERB	[Größenordnung]	8	p2	2	False
+der	der	DET	ART	nk	Größenordnung	NOUN	[]	8	p2	2	False
+Größenordnung	Größenordnung	NOUN	NN	nk	in	ADP	[der, Wellenlänge]	8	p2	2	False
+der	der	DET	ART	nk	Wellenlänge	NOUN	[]	8	p2	2	False
+optischen	optisch	ADJ	ADJA	nk	Wellenlänge	NOUN	[]	8	p2	2	False
+Wellenlänge	Wellenlang	NOUN	NN	ag	Größenordnung	NOUN	[der, optischen]	8	p2	2	False
+liegen	liegen	VERB	VVFIN	rc	Strukturen	NOUN	[Abstände, in]	8	p2	2	False
+.	--	PUNCT	$.	punct	kann	AUX	[]	8	p2	2	False
+Sie	sie	PRON	PPER	sb	beeinflussen	VERB	[]	8	p2	3	False
+beeinflussen	beeinflussen	VERB	VVFIN	ROOT	beeinflussen	VERB	[Sie, deshalb, Ausbreitung, .]	8	p2	3	False
+deshalb	deshalb	ADV	PROAV	mo	beeinflussen	VERB	[]	8	p2	3	False
+die	der	DET	ART	nk	Ausbreitung	NOUN	[]	8	p2	3	False
+Ausbreitung	Ausbreitung	NOUN	NN	oa	beeinflussen	VERB	[die, von]	8	p2	3	False
+von	von	ADP	APPR	pg	Ausbreitung	NOUN	[Licht]	8	p2	3	False
+Licht	Licht	NOUN	NN	nk	von	ADP	[in]	8	p2	3	False
+in	in	ADP	APPR	mnr	Licht	NOUN	[Materialien]	8	p2	3	False
+diesen	dieser	DET	PDAT	nk	Materialien	NOUN	[]	8	p2	3	False
+Materialien	Material	NOUN	NN	nk	in	ADP	[diesen]	8	p2	3	False
+.	--	PUNCT	$.	punct	beeinflussen	VERB	[]	8	p2	3	False
+Fällt	fallen	VERB	VVFIN	re	so	ADV	[Lichtwelle, auf]	8	p2	4	False
+eine	ein	DET	ART	nk	Lichtwelle	NOUN	[]	8	p2	4	False
+Lichtwelle	Lichtwelle	NOUN	NN	sb	Fällt	VERB	[eine]	8	p2	4	False
+auf	auf	ADP	APPR	mo	Fällt	VERB	[Struktur]	8	p2	4	False
+diese	dieser	DET	PDAT	nk	Struktur	NOUN	[]	8	p2	4	False
+Struktur	Struktur	NOUN	NN	nk	auf	ADP	[diese]	8	p2	4	False
+,	--	PUNCT	$,	punct	so	ADV	[]	8	p2	4	False
+so	so	ADV	ADV	mo	reflektiert	VERB	[Fällt, ,]	8	p2	4	False
+wird	werden	AUX	VAFIN	ROOT	wird	AUX	[Teil, reflektiert, .]	8	p2	4	False
+ein	ein	DET	ART	nk	Teil	NOUN	[]	8	p2	4	False
+Teil	Teil	NOUN	NN	sb	wird	AUX	[ein, Wellenamplitude]	8	p2	4	False
+der	der	DET	ART	nk	Wellenamplitude	NOUN	[]	8	p2	4	False
+Wellenamplitude	Wellenamplitude	NOUN	NN	ag	Teil	NOUN	[der]	8	p2	4	False
+an	an	ADP	APPR	mo	reflektiert	VERB	[Grenzflächen]	8	p2	4	False
+den	der	DET	ART	nk	Grenzflächen	NOUN	[]	8	p2	4	False
+Grenzflächen	Grenzfläch	NOUN	NN	nk	an	ADP	[den, Struktur]	8	p2	4	False
+der	der	DET	ART	nk	Struktur	NOUN	[]	8	p2	4	False
+periodischen	periodisch	ADJ	ADJA	nk	Struktur	NOUN	[]	8	p2	4	False
+Struktur	Struktur	NOUN	NN	ag	Grenzflächen	NOUN	[der, periodischen]	8	p2	4	Flse
+reflektiert	reflektieren	VERB	VVPP	oc	wird	AUX	[so, an]	8	p2	4	True
+.	--	PUNCT	$.	punct	wird	AUX	[]	8	p2	4	False
+Ist	sein	AUX	VAFIN	mo	überlagern	VERB	[Periode, π-vielfaches]	8	p2	5	False
+die	der	DET	ART	nk	Periode	NOUN	[]	8	p2	5	False
+Periode	Periode	NOUN	NN	sb	Ist	AUX	[die, Struktur]	8	p2	5	False
+der	der	DET	ART	nk	Struktur	NOUN	[]	8	p2	5	False
+Struktur	Struktur	NOUN	NN	ag	Periode	NOUN	[der]	8	p2	5	False
+ein	ein	DET	ART	nk	π-vielfaches	NOUN	[]	8	p2	5	False
+π-vielfaches	π-vielfaches	NOUN	PIS	pd	Ist	AUX	[ein, Wellenlänge]	8	p2	5	False
+der	der	DET	ART	nk	Wellenlänge	NOUN	[]	8	p2	5	False
+Wellenlänge	Wellenlang	NOUN	NN	ag	π-vielfaches	NOUN	[der]	8	p2	5	False
+,	--	PUNCT	$,	punct	überlagern	VERB	[]	8	p2	5	False
+überlagern	überlagern	VERB	VVFIN	ROOT	überlagern	VERB	[Ist, ,, sich, Anteile, phasenrichtig, und, .]	8	p2	5	False
+sich	sich	PRON	PRF	oa	überlagern	VERB	[]	8	p2	5	False
+die	der	DET	ART	nk	Anteile	NOUN	[]	8	p2	5	False
+reflektierten	reflektiert	ADJ	ADJA	nk	Anteile	NOUN	[]	8	p2	5	False
+Anteile	Anteil	NOUN	NN	sb	überlagern	VERB	[die, reflektierten]	8	p2	5	False
+phasenrichtig	phasenrichtig	ADV	ADJD	mo	überlagern	VERB	[]	8	p2	5	False
+und	und	CCONJ	KON	cd	überlagern	VERB	[addieren]	8	p2	5	False
+addieren	addieren	VERB	VVFIN	cj	und	CCONJ	[sich, deshalb]	8	p2	5	False
+sich	sich	PRON	PRF	oa	addieren	VERB	[]	8	p2	5	False
+deshalb	deshalb	ADV	PROAV	mo	addieren	VERB	[]	8	p2	5	False
+.	--	PUNCT	$.	punct	überlagern	VERB	[]	8	p2	5	False
+Das	der	DET	ART	nk	Reflexionsvermögen	NOUN	[]	8	p2	6	False
+Reflexionsvermögen	Reflexionsvermögen	NOUN	NN	sb	wird	AUX	[Das, Kristalls]	8	p2	6	False
+des	der	DET	ART	nk	Kristalls	NOUN	[]	8	p2	6	False
+Kristalls	Kristall	NOUN	NN	ag	Reflexionsvermögen	NOUN	[des]	8	p2	6	False
+wird	werden	AUX	VAFIN	ROOT	wird	AUX	[Reflexionsvermögen, erhöht, .]	8	p2	6	False
+erhöht	erhöhen	VERB	VVPP	oc	wird	AUX	[]	8	p2	6	False
+.	--	PUNCT	$.	punct	wird	AUX	[]	8	p2	6	False
+Ist	sein	AUX	VAFIN	mo	sind	AUX	[Periode, π-vielfaches]	8	p2	7	False
+die	der	DET	ART	nk	Periode	NOUN	[]	8	p2	7	False
+Periode	Periode	NOUN	NN	sb	Ist	AUX	[die, Struktur]	8	p2	7	False
+der	der	DET	ART	nk	Struktur	NOUN	[]	8	p2	7	False
+Struktur	Struktur	NOUN	NN	ag	Periode	NOUN	[der]	8	p2	7	False
+ein	ein	DET	ART	nk	π-vielfaches	NOUN	[]	8	p2	7	False
+ungeradzahlig	ungeradzahlig	ADV	ADJD	mo	π-vielfaches	NOUN	[]	8	p2	7	False
+π-vielfaches	π-vielfaches	NOUN	NN	pd	Ist	AUX	[ein, ungeradzahlig, Wellenlänge]	8	p2	7	False
+der	der	DET	ART	nk	Wellenlänge	NOUN	[]	8	p2	7	False
+halben	halb	ADJ	ADJA	nk	Wellenlänge	NOUN	[]	8	p2	7	False
+Wellenlänge	Wellenlang	NOUN	NN	ag	π-vielfaches	NOUN	[der, halben]	8	p2	7	False
+,	--	PUNCT	$,	punct	sind	AUX	[]	8	p2	7	False
+sind	sein	AUX	VAFIN	ROOT	sind	AUX	[Ist, ,, Phasen, verschoben, und, .]	8	p2	7	False
+die	der	DET	ART	nk	Phasen	NOUN	[]	8	p2	7	False
+Phasen	Phase	NOUN	NN	sb	sind	AUX	[die, Wellen]	8	p2	7	False
+der	der	DET	ART	nk	Wellen	NOUN	[]	8	p2	7	False
+reflektierten	reflektiert	ADJ	ADJA	nk	Wellen	NOUN	[]	8	p2	7	False
+Wellen	Welle	NOUN	NN	ag	Phasen	NOUN	[der, reflektierten]	8	p2	7	False
+gegeneinander	gegeneinander	ADV	ADV	mo	verschoben	VERB	[]	8	p2	7	False
+verschoben	verschieben	VERB	VVPP	pd	sind	AUX	[gegeneinander]	8	p2	7	False
+und	und	CCONJ	KON	cd	sind	AUX	[löschen]	8	p2	7	False
+die	der	DET	ART	nk	Anteile	NOUN	[]	8	p2	7	False
+reflektierten	reflektiert	ADJ	ADJA	nk	Anteile	NOUN	[]	8	p2	7	False
+Anteile	Anteil	NOUN	NN	sb	löschen	VERB	[die, reflektierten]	8	p2	7	False
+löschen	löschen	VERB	VVFIN	cj	und	CCONJ	[Anteile, sich, teilweise, aus]	8	p2	7	False
+sich	sich	PRON	PRF	oa	löschen	VERB	[]	8	p2	7	False
+teilweise	teilweise	ADV	ADV	mo	löschen	VERB	[oder]	8	p2	7	False
+oder	oder	CCONJ	KON	cd	teilweise	ADV	[ganz]	8	p2	7	False
+ganz	ganz	ADV	ADV	cj	oder	CCONJ	[]	8	p2	7	False
+aus	aus	ADP	PTKVZ	svp	löschen	VERB	[]	8	p2	7	False
+.	--	PUNCT	$.	punct	sind	AUX	[]	8	p2	7	False
 Eine	ein	DET	ART	nk	Parenchymzelle	NOUN	[]	4	b4	1	False
 chlorophyllhaltige	chlorophyllhaltig	ADJ	ADJA	nk	Parenchymzelle	NOUN	[]	4	b4	1	False
 Parenchymzelle	Parenchymzelle	NOUN	NN	sb	exportiert	VERB	[Eine, chlorophyllhaltige, aus, in]	4	b4	1	True

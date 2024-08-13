@@ -157,41 +157,41 @@ des	der	DET	ART	nk	Halbkreises	NOUN	[]	6	p0	5	False
 nächsten	nächster	ADJ	ADJA	nk	Halbkreises	NOUN	[]	6	p0	5	False
 Halbkreises	Halbkreis	NOUN	NN	ag	Radius	NOUN	[des, nächsten]	6	p0	5	False
 .	--	PUNCT	$.	punct	nimmt	VERB	[]	6	p0	5	False
-Die	der	DET	ART	nk	Ionen	NOUN	[]	6	p0	6	True
-Ionen	Ione	NOUN	NN	sb	durchlaufen	VERB	[Die]	6	p0	6	True
-durchlaufen	durchlaufen	VERB	VVFIN	ROOT	durchlaufen	VERB	[Ionen, deshalb, Bahn, .]	6	p0	6	True
-deshalb	deshalb	ADV	PROAV	mo	durchlaufen	VERB	[]	6	p0	6	True
-eine	ein	DET	ART	nk	Bahn	NOUN	[]	6	p0	6	True
-spiralartige	spiralartig	ADJ	ADJA	nk	Bahn	NOUN	[]	6	p0	6	True
-Bahn	Bahn	NOUN	NN	oa	durchlaufen	VERB	[eine, spiralartige, ,, besteht]	6	p0	6	True
-,	--	PUNCT	$,	punct	Bahn	NOUN	[]	6	p0	6	True
-die	der	PRON	PRELS	sb	besteht	VERB	[]	6	p0	6	True
-aus	aus	ADP	APPR	mo	besteht	VERB	[Halbkreisen]	6	p0	6	True
-lauter	lauter	DET	PIAT	nk	Halbkreisen	NOUN	[]	6	p0	6	True
-Halbkreisen	Halbkreis	NOUN	NN	nk	aus	ADP	[lauter]	6	p0	6	True
-mit	mit	ADP	APPR	mo	besteht	VERB	[Radien]	6	p0	6	True
+Die	der	DET	ART	nk	Ionen	NOUN	[]	6	p0	6	False
+Ionen	Ione	NOUN	NN	sb	durchlaufen	VERB	[Die]	6	p0	6	False
+durchlaufen	durchlaufen	VERB	VVFIN	ROOT	durchlaufen	VERB	[Ionen, deshalb, Bahn, .]	6	p0	6	False
+deshalb	deshalb	ADV	PROAV	mo	durchlaufen	VERB	[]	6	p0	6	False
+eine	ein	DET	ART	nk	Bahn	NOUN	[]	6	p0	6	False
+spiralartige	spiralartig	ADJ	ADJA	nk	Bahn	NOUN	[]	6	p0	6	False
+Bahn	Bahn	NOUN	NN	oa	durchlaufen	VERB	[eine, spiralartige, ,, besteht]	6	p0	6	False
+,	--	PUNCT	$,	punct	Bahn	NOUN	[]	6	p0	6	False
+die	der	PRON	PRELS	sb	besteht	VERB	[]	6	p0	6	False
+aus	aus	ADP	APPR	mo	besteht	VERB	[Halbkreisen]	6	p0	6	False
+lauter	lauter	DET	PIAT	nk	Halbkreisen	NOUN	[]	6	p0	6	False
+Halbkreisen	Halbkreis	NOUN	NN	nk	aus	ADP	[lauter, mit]	6	p0	6	True
+mit	mit	ADP	APPR	mnr	Halbkreisen	NOUN	[Radien]	6	p0	6	True
 wachsenden	wachsend	ADJ	ADJA	nk	Radien	NOUN	[]	6	p0	6	True
 Radien	Radi	NOUN	NN	nk	mit	ADP	[wachsenden]	6	p0	6	True
-besteht	bestehen	VERB	VVFIN	rc	Bahn	NOUN	[die, aus, mit, ,, haben]	6	p0	6	True
-,	--	PUNCT	$,	punct	besteht	VERB	[]	6	p0	6	True
-bis	bis	SCONJ	KOUS	cp	haben	AUX	[]	6	p0	6	True
-sie	sie	PRON	PPER	sb	haben	AUX	[]	6	p0	6	True
-den	der	DET	ART	nk	Rand	NOUN	[]	6	p0	6	True
-Rand	Rand	NOUN	NN	oa	erreicht	VERB	[den, Magnetfeldes]	6	p0	6	True
-des	der	DET	ART	nk	Magnetfeldes	NOUN	[]	6	p0	6	True
-Magnetfeldes	Magnetfeld	NOUN	NN	ag	Rand	NOUN	[des]	6	p0	6	True
-erreicht	erreichen	VERB	VVPP	oc	haben	AUX	[Rand]	6	p0	6	True
-haben	haben	AUX	VAFIN	mo	besteht	VERB	[bis, sie, erreicht, und]	6	p0	6	True
-und	und	CCONJ	KON	cd	haben	AUX	[können]	6	p0	6	True
-dort	dort	ADV	ADV	mo	extrahiert	VERB	[]	6	p0	6	True
-durch	durch	ADP	APPR	mo	extrahiert	VERB	[Ablenkfeld]	6	p0	6	True
-ein	ein	DET	ART	nk	Ablenkfeld	NOUN	[]	6	p0	6	True
-elektrisches	elektrisch	ADJ	ADJA	nk	Ablenkfeld	NOUN	[]	6	p0	6	True
-Ablenkfeld	Ablenkfeld	NOUN	NN	nk	durch	ADP	[ein, elektrisches]	6	p0	6	True
-extrahiert	extrahiern	VERB	VVPP	oc	werden	AUX	[dort, durch]	6	p0	6	True
-werden	werden	AUX	VAINF	oc	können	AUX	[extrahiert]	6	p0	6	True
-können	können	AUX	VMFIN	cj	und	CCONJ	[werden]	6	p0	6	True
-.	--	PUNCT	$.	punct	durchlaufen	VERB	[]	6	p0	6	True
+besteht	bestehen	VERB	VVFIN	rc	Bahn	NOUN	[die, aus, ,, haben]	6	p0	6	True
+,	--	PUNCT	$,	punct	besteht	VERB	[]	6	p0	6	False
+bis	bis	SCONJ	KOUS	cp	haben	AUX	[]	6	p0	6	False
+sie	sie	PRON	PPER	sb	haben	AUX	[]	6	p0	6	False
+den	der	DET	ART	nk	Rand	NOUN	[]	6	p0	6	False
+Rand	Rand	NOUN	NN	oa	erreicht	VERB	[den, Magnetfeldes]	6	p0	6	False
+des	der	DET	ART	nk	Magnetfeldes	NOUN	[]	6	p0	6	False
+Magnetfeldes	Magnetfeld	NOUN	NN	ag	Rand	NOUN	[des]	6	p0	6	False
+erreicht	erreichen	VERB	VVPP	oc	haben	AUX	[Rand]	6	p0	6	False
+haben	haben	AUX	VAFIN	mo	besteht	VERB	[bis, sie, erreicht, und]	6	p0	6	False
+und	und	CCONJ	KON	cd	haben	AUX	[können]	6	p0	6	False
+dort	dort	ADV	ADV	mo	extrahiert	VERB	[]	6	p0	6	False
+durch	durch	ADP	APPR	mo	extrahiert	VERB	[Ablenkfeld]	6	p0	6	False
+ein	ein	DET	ART	nk	Ablenkfeld	NOUN	[]	6	p0	6	False
+elektrisches	elektrisch	ADJ	ADJA	nk	Ablenkfeld	NOUN	[]	6	p0	6	False
+Ablenkfeld	Ablenkfeld	NOUN	NN	nk	durch	ADP	[ein, elektrisches]	6	p0	6	False
+extrahiert	extrahiern	VERB	VVPP	oc	werden	AUX	[dort, durch]	6	p0	6	False
+werden	werden	AUX	VAINF	oc	können	AUX	[extrahiert]	6	p0	6	False
+können	können	AUX	VMFIN	cj	und	CCONJ	[werden]	6	p0	6	False
+.	--	PUNCT	$.	punct	durchlaufen	VERB	[]	6	p0	6	False
 Um	um	SCONJ	KOUI	cp	können	AUX	[]	0	b0	1	False
 das	der	DET	ART	nk	Vorhandensein	NOUN	[]	0	b0	1	False
 Vorhandensein	Vorhandensein	NOUN	NN	oa	feststellen	VERB	[das, Polymerasekettenreaktion-Produkte]	0	b0	1	False
@@ -2058,60 +2058,60 @@ angeregt	anregen	VERB	VVPP	oc	werden	AUX	[wegen, zusätzlich, Phonon, muss]	11	p
 werden	werden	AUX	VAINF	cc	der	DET	[als, wenn, angeregt]	11	p5	5	True
 muss	muss	VERB	VMFIN	oc	angeregt	VERB	[]	11	p5	5	True
 .	--	PUNCT	$.	punct	wird	AUX	[]	11	p5	5	False
-Liegt	Liegt	VERB	VVFIN	re	so	ADV	[Minimum, senkrecht]	11	p5	6
-das	der	DET	ART	nk	Minimum	NOUN	[]	11	p5	6
-Minimum	Minimum	NOUN	NN	sb	Liegt	VERB	[das, Elektronenparabel]	11	p5	6
-der	der	DET	ART	nk	Elektronenparabel	NOUN	[]	11	p5	6
-Elektronenparabel	Elektronenparabel	NOUN	NN	ag	Minimum	NOUN	[der, im]	11	p5	6
-im	in	ADP	APPRART	mnr	Elektronenparabel	NOUN	[Valenzband]	11	p5	6
-Valenzband	Valenzband	NOUN	NN	nk	im	ADP	[]	11	p5	6
+Liegt	Liegt	VERB	VVFIN	re	so	ADV	[Minimum, senkrecht]	11	p5	6	False
+das	der	DET	ART	nk	Minimum	NOUN	[]	11	p5	6	False
+Minimum	Minimum	NOUN	NN	sb	Liegt	VERB	[das, Elektronenparabel]	11	p5	6	False
+der	der	DET	ART	nk	Elektronenparabel	NOUN	[]	11	p5	6	False
+Elektronenparabel	Elektronenparabel	NOUN	NN	ag	Minimum	NOUN	[der, im]	11	p5	6	False
+im	in	ADP	APPRART	mnr	Elektronenparabel	NOUN	[Valenzband]	11	p5	6	False
+Valenzband	Valenzband	NOUN	NN	nk	im	ADP	[]	11	p5	6	False
 senkrecht	senkrechen	ADV	ADJD	mo	über	ADV	[]	11	p5	6	True
 über	über	ADP	APPR	op	senkrecht	ADV	[senkrecht,Maximum]	11	p5	6	True
-dem	der	DET	ART	nk	Maximum	NOUN	[]	11	p5	6
-Maximum	Maximum	NOUN	NN	nk	über	ADP	[dem, Löcherparabel]	11	p5	6
-der	der	DET	ART	nk	Löcherparabel	NOUN	[]	11	p5	6
-Löcherparabel	Löcherparabel	NOUN	NN	ag	Maximum	NOUN	[der]	11	p5	6
-,	--	PUNCT	$,	punct	so	ADV	[]	11	p5	6
-so	so	ADV	ADV	mo	sind	AUX	[Liegt, ,]	11	p5	6
-sind	sein	AUX	VAFIN	ROOT	sind	AUX	[so, Übergänge, bereits, ab, möglich, .]	11	p5	6
-senkrechte	senkrechter	ADJ	ADJA	nk	Übergänge	NOUN	[]	11	p5	6
-Übergänge	Übergänge	NOUN	NN	sb	sind	AUX	[senkrechte]	11	p5	6
-bereits	bereits	ADV	ADV	mo	sind	AUX	[]	11	p5	6
-ab	ab	ADP	APPR	mo	sind	AUX	[Photonenenergien]	11	p5	6
-Photonenenergien	Photonenenergi	NOUN	NN	nk	ab	ADP	[in]	11	p5	6
-in	in	ADP	APPR	mnr	Photonenenergien	NOUN	[Größe]	11	p5	6
-der	der	DET	ART	nk	Größe	NOUN	[]	11	p5	6
-Größe	Größe	NOUN	NN	nk	in	ADP	[der, Bandlücke]	11	p5	6
-der	der	DET	ART	nk	Bandlücke	NOUN	[]	11	p5	6
-Bandlücke	Bandlücke	NOUN	NN	ag	Größe	NOUN	[der]	11	p5	6
-möglich	möglich	ADV	ADJD	pd	sind	AUX	[]	11	p5	6
-.	--	PUNCT	$.	punct	sind	AUX	[]	11	p5	6
-Sind	sein	AUX	VAFIN	re	so	ADV	[Extrema, verschoben]	11	p5	7
-die	der	DET	ART	nk	Extrema	NOUN	[]	11	p5	7
-Extrema	Extrema	NOUN	NN	sb	Sind	AUX	[die]	11	p5	7
-gegeneinander	gegeneinander	ADV	ADV	mo	verschoben	VERB	[]	11	p5	7
-verschoben	verschieben	VERB	VVPP	oc	Sind	AUX	[gegeneinander]	11	p5	7
-,	--	PUNCT	$,	punct	so	ADV	[]	11	p5	7
-so	so	ADV	ADV	mo	sind	AUX	[Sind, ,]	11	p5	7
-sind	sein	AUX	VAFIN	ROOT	sind	AUX	[so, Übergänge, bei, sind, .]	11	p5	7
-direkte	direkt	ADJ	ADJA	nk	Übergänge	NOUN	[]	11	p5	7
-Übergänge	Übergänge	NOUN	NN	sb	sind	AUX	[direkte]	11	p5	7
-nur	nur	ADV	ADV	mo	bei	ADP	[]	11	p5	7
-bei	bei	ADP	APPR	mo	sind	AUX	[nur, Photonenenergien]	11	p5	7
-höheren	hoch	ADJ	ADJA	nk	Photonenenergien	NOUN	[]	11	p5	7
-Photonenenergien	Photonenenergi	NOUN	NN	nk	bei	ADP	[höheren]	11	p5	7
-möglich	möglich	ADV	ADJD	pd	sind	AUX	[und]	11	p5	7
+dem	der	DET	ART	nk	Maximum	NOUN	[]	11	p5	6	False
+Maximum	Maximum	NOUN	NN	nk	über	ADP	[dem, Löcherparabel]	11	p5	6	False
+der	der	DET	ART	nk	Löcherparabel	NOUN	[]	11	p5	6	False
+Löcherparabel	Löcherparabel	NOUN	NN	ag	Maximum	NOUN	[der]	11	p5	6	False
+,	--	PUNCT	$,	punct	so	ADV	[]	11	p5	6	False
+so	so	ADV	ADV	mo	sind	AUX	[Liegt, ,]	11	p5	6	False
+sind	sein	AUX	VAFIN	ROOT	sind	AUX	[so, Übergänge, bereits, ab, möglich, .]	11	p5	6	False
+senkrechte	senkrechter	ADJ	ADJA	nk	Übergänge	NOUN	[]	11	p5	6	False
+Übergänge	Übergänge	NOUN	NN	sb	sind	AUX	[senkrechte]	11	p5	6	False
+bereits	bereits	ADV	ADV	mo	sind	AUX	[]	11	p5	6	False
+ab	ab	ADP	APPR	mo	sind	AUX	[Photonenenergien]	11	p5	6	False
+Photonenenergien	Photonenenergi	NOUN	NN	nk	ab	ADP	[in]	11	p5	6	False
+in	in	ADP	APPR	mnr	Photonenenergien	NOUN	[Größe]	11	p5	6	False
+der	der	DET	ART	nk	Größe	NOUN	[]	11	p5	6	False
+Größe	Größe	NOUN	NN	nk	in	ADP	[der, Bandlücke]	11	p5	6	False
+der	der	DET	ART	nk	Bandlücke	NOUN	[]	11	p5	6	False
+Bandlücke	Bandlücke	NOUN	NN	ag	Größe	NOUN	[der]	11	p5	6	False
+möglich	möglich	ADV	ADJD	pd	sind	AUX	[]	11	p5	6	False
+.	--	PUNCT	$.	punct	sind	AUX	[]	11	p5	6	False
+Sind	sein	AUX	VAFIN	re	so	ADV	[Extrema, verschoben]	11	p5	7	False
+die	der	DET	ART	nk	Extrema	NOUN	[]	11	p5	7	False
+Extrema	Extrema	NOUN	NN	sb	Sind	AUX	[die]	11	p5	7	False
+gegeneinander	gegeneinander	ADV	ADV	mo	verschoben	VERB	[]	11	p5	7	False
+verschoben	verschieben	VERB	VVPP	oc	Sind	AUX	[gegeneinander]	11	p5	7	False
+,	--	PUNCT	$,	punct	so	ADV	[]	11	p5	7	False
+so	so	ADV	ADV	mo	sind	AUX	[Sind, ,]	11	p5	7	False
+sind	sein	AUX	VAFIN	ROOT	sind	AUX	[so, Übergänge, bei, sind, .]	11	p5	7	False
+direkte	direkt	ADJ	ADJA	nk	Übergänge	NOUN	[]	11	p5	7	False
+Übergänge	Übergänge	NOUN	NN	sb	sind	AUX	[direkte]	11	p5	7	False
+nur	nur	ADV	ADV	mo	bei	ADP	[]	11	p5	7	False
+bei	bei	ADP	APPR	mo	sind	AUX	[nur, Photonenenergien]	11	p5	7	False
+höheren	hoch	ADJ	ADJA	nk	Photonenenergien	NOUN	[]	11	p5	7	False
+Photonenenergien	Photonenenergi	NOUN	NN	nk	bei	ADP	[höheren]	11	p5	7	False
+möglich	möglich	ADV	ADJD	pd	sind	AUX	[und]	11	p5	7	False
 und	und	CCONJ	KON	cd	sind	ADV	[sind]	11	p5	7	True
-indirekte	indirekt	ADJ	ADJA	nk	Übergänge	NOUN	[]	11	p5	7
-Übergänge	Übergang	NOUN	NN	sb	und	CCONJ	[indirekte, mit]	11	p5	7
-mit	mit	ADP	APPR	mnr	Übergänge	NOUN	[Absorptionswahrscheinlichkeit]	11	p5	7
-wesentlich	wesentlich	ADV	ADJD	mo	kleinerer	ADJ	[]	11	p5	7
-kleinerer	klein	ADJ	ADJA	nk	Absorptionswahrscheinlichkeit	NOUN	[wesentlich]	11	p5	7
-Absorptionswahrscheinlichkeit	Absorptionswahrscheinlichkeit	NOUN	NN	nk	mit	ADP	[kleinerer]	11	p5	7
+indirekte	indirekt	ADJ	ADJA	nk	Übergänge	NOUN	[]	11	p5	7	False
+Übergänge	Übergang	NOUN	NN	sb	und	CCONJ	[indirekte, mit]	11	p5	7	False
+mit	mit	ADP	APPR	mnr	Übergänge	NOUN	[Absorptionswahrscheinlichkeit]	11	p5	7	False
+wesentlich	wesentlich	ADV	ADJD	mo	kleinerer	ADJ	[]	11	p5	7	False
+kleinerer	klein	ADJ	ADJA	nk	Absorptionswahrscheinlichkeit	NOUN	[wesentlich]	11	p5	7	False
+Absorptionswahrscheinlichkeit	Absorptionswahrscheinlichkeit	NOUN	NN	nk	mit	ADP	[kleinerer]	11	p5	7	False
 sind	sein	AUX	VAFIN	cj	sind	AUX	[Übergänge, Möglichkeit]	11	p5	7	True
-die	der	DET	ART	nk	Möglichkeit	NOUN	[]	11	p5	7
-einzige	einzig	ADJ	ADJA	nk	Möglichkeit	NOUN	[]	11	p5	7
-Möglichkeit	Möglichkeit	NOUN	NN	sb	sind	AUX	[die, einzige, für]	11	p5	7
-für	für	ADP	APPR	mnr	Möglichkeit	NOUN	[Photonenabsorption]	11	p5	7
-Photonenabsorption	Photonenabsorption	NOUN	NN	nk	für	ADP	[]	11	p5	7
-.	--	PUNCT	$.	punct	sind	AUX	[]	11	p5	7
+die	der	DET	ART	nk	Möglichkeit	NOUN	[]	11	p5	7	False
+einzige	einzig	ADJ	ADJA	nk	Möglichkeit	NOUN	[]	11	p5	7	False
+Möglichkeit	Möglichkeit	NOUN	NN	sb	sind	AUX	[die, einzige, für]	11	p5	7	False
+für	für	ADP	APPR	mnr	Möglichkeit	NOUN	[Photonenabsorption]	11	p5	7	False
+Photonenabsorption	Photonenabsorption	NOUN	NN	nk	für	ADP	[]	11	p5	7	False
+.	--	PUNCT	$.	punct	sind	AUX	[]	11	p5	7	False

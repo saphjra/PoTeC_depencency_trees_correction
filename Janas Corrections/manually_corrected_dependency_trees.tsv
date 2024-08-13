@@ -358,214 +358,214 @@ von	von	ADP	APPR	pg	Form	NOUN	[Banden]	0	b0	10	False
 Banden	Bande	NOUN	NN	nk	von	ADP	[]	0	b0	10	False
 sehen	sehen	VERB	VVINF	oc	kann	AUX	[Polymerasekettenreaktion-Produkte, in, und]	0	b0	10	False
 und	und	CCONJ	KON	cd	sehen	VERB	[fotografieren]	0	b0	10	False
-fotografieren	fotografieren	VERB	VVINF	cj	und	CCONJ	[]	0	b0	10	False
+fotografieren	fotografieren	VERB	VVINF	cj	und	CCONJ	[]	0	b0	10	Flse
 .	--	PUNCT	$.	punct	kann	AUX	[]	0	b0	10	False
-Der	der	DET	ART	nk	Durchbruch	NOUN	[]	9	p3	1
-entscheidende	entscheidend	ADJ	ADJA	nk	Durchbruch	NOUN	[]	9	p3	1
-Durchbruch	Durchbruch	NOUN	NN	sb	gelang	VERB	[Der, entscheidende, zur]	9	p3	1
-zur	zu	ADP	APPRART	mnr	Durchbruch	NOUN	[Aufstellung]	9	p3	1
-Aufstellung	Aufstellung	NOUN	NN	nk	zur	ADP	[Ordnungsschemas]	9	p3	1
-eines	ein	DET	ART	nk	Ordnungsschemas	NOUN	[]	9	p3	1
-Ordnungsschemas	Ordnungsschema	NOUN	NN	ag	Aufstellung	NOUN	[eines]	9	p3	1
-gelang	gelingen	VERB	VVFIN	ROOT	gelang	VERB	[Durchbruch, Quarkmodell, .]	9	p3	1
-dem	der	DET	ART	nk	Quarkmodell	NOUN	[]	9	p3	1
-Quarkmodell	Quarkmodell	NOUN	NN	da	gelang	VERB	[dem, ,, ansieht]	9	p3	1
-,	--	PUNCT	$,	punct	Quarkmodell	NOUN	[]	9	p3	1
-das	der	PRON	PRELS	sb	ansieht	VERB	[]	9	p3	1
-die	der	DET	ART	nk	Vielzahl	NOUN	[]	9	p3	1
-Vielzahl	Vielzahl	NOUN	NN	oa	ansieht	VERB	[die, Teilchen, sind]	9	p3	1
-der	der	DET	ART	nk	Teilchen	NOUN	[]	9	p3	1
-bisher	bisher	ADV	ADV	mo	gefundenen	ADJ	[]	9	p3	1
-gefundenen	gefunden	ADJ	ADJA	nk	Teilchen	NOUN	[bisher]	9	p3	1
-als	als	ADP	APPR	mo	angenommenen	ADJ	[Elementarteilchen]	9	p3	1
-""""	--	PUNCT	$LRB	punct	Elementarteilchen	NOUN	[]	9	p3	1
-Elementarteilchen	Elementarteilch	NOUN	NN	nk	als	ADP	"["", ""]"	9	p3	1
-""""	--	PUNCT	$LRB	punct	Elementarteilchen	NOUN	[]	9	p3	1
-angenommenen	angenommen	ADJ	ADJA	nk	Teilchen	NOUN	[als]	9	p3	1
-Teilchen	Teilche	NOUN	NN	ag	Vielzahl	NOUN	[der, gefundenen, angenommenen]	9	p3	1
-als	als	ADP	APPR	mo	ansieht	VERB	[Systeme]	9	p3	1
-Systeme	System	NOUN	NN	nk	als	ADP	[mit]	9	p3	1
-mit	mit	ADP	APPR	mnr	Systeme	NOUN	[Struktur]	9	p3	1
-innerer	inner	ADJ	ADJA	nk	Struktur	NOUN	[]	9	p3	1
-Struktur	Struktur	NOUN	NN	nk	mit	ADP	[innerer]	9	p3	1
-ansieht	ansehen	VERB	VVFIN	rc	Quarkmodell	NOUN	[das, Vielzahl, als, ,]	9	p3	1
-,	--	PUNCT	$,	punct	ansieht	VERB	[]	9	p3	1
-die	der	PRON	PRELS	sb	sind	AUX	[]	9	p3	1
-aus	aus	ADP	APPR	mo	zusammengesetzt	VERB	[Teilchen]	9	p3	1
-wenigen	weniger	DET	PIAT	nk	Teilchen	NOUN	[]	9	p3	1
-""""	--	PUNCT	$LRB	punct	elementareren	VERB	[]	9	p3	1
-noch	noch	ADV	ADV	mo	elementareren	VERB	[]	9	p3	1
-elementareren	elementareren	VERB	ADJA	nk	Teilchen	NOUN	"["", noch, ""]"	9	p3	1
-""""	--	PUNCT	$LRB	punct	elementareren	VERB	[]	9	p3	1
-Teilchen	Teilche	NOUN	NN	nk	aus	ADP	[wenigen, elementareren]	9	p3	1
-zusammengesetzt	zusammensetzen	VERB	VVPP	oc	sind	AUX	[aus]	9	p3	1
-sind	sein	AUX	VAFIN	rc	Vielzahl	NOUN	[die, zusammengesetzt]	9	p3	1
-.	--	PUNCT	$.	punct	gelang	VERB	[]	9	p3	1
-Trägt	Tragen	VERB	VVFIN	re	so	ADV	[man, Hadronen, in, ein, ,]	9	p3	2
-man	man	PRON	PIS	sb	Trägt	VERB	[]	9	p3	2
-die	der	DET	ART	nk	Hadronen	NOUN	[wird]	9	p3	2
-bisher	bisher	ADV	ADV	mo	bekannten	ADJ	[]	9	p3	2
-bekannten	bekannt	ADJ	ADJA	nk	Hadronen	NOUN	[bisher]	9	p3	2
-Hadronen	Hadrone	NOUN	NN	oa	Trägt	VERB	[die, bekannten]	9	p3	2
-in	in	ADP	APPR	mo	Trägt	VERB	[Diagramm]	9	p3	2
-einem	ein	DET	ART	nk	Diagramm	NOUN	[]	9	p3	2
-Diagramm	Diagramm	NOUN	NN	nk	in	ADP	[einem]	9	p3	2
-ein	ein	ADV	PTKVZ	svp	Trägt	VERB	[]	9	p3	2
-,	--	PUNCT	$,	punct	Trägt	VERB	[]	9	p3	2
-in	in	ADP	APPR	mo	gewählt	VERB	[dem]	9	p3	2
-dem	der	PRON	PRELS	nk	in	ADP	[]	9	p3	2
-ihre	ihr	DET	PPOSAT	nk	Masse	NOUN	[]	9	p3	2
-Masse	Masse	NOUN	NN	sb	wird	AUX	[ihre]	9	p3	2
-als	als	ADP	APPR	mo	gewählt	VERB	[Ordinate]	9	p3	2
-Ordinate	Ordinate	NOUN	NN	nk	als	ADP	[und]	9	p3	2
-und	und	CCONJ	KON	cd	Ordinate	NOUN	[Spin]	9	p3	2
-ihr	ihr	DET	PPOSAT	nk	Spin	NOUN	[]	9	p3	2
-Spin	Spin	NOUN	NN	cj	und	CCONJ	[ihr]	9	p3	2
-als	als	ADP	APPR	mo	gewählt	VERB	[Abszisse]	9	p3	2
-Abszisse	Absziß	NOUN	NN	nk	als	ADP	[]	9	p3	2
-gewählt	wählen	VERB	VVPP	oc	wird	AUX	[in, als, als]	9	p3	2
-wird	werden	AUX	VAFIN	rc	die	DET	[Masse, gewählt]	9	p3	2
-,	--	PUNCT	$,	punct	so	ADV	[]	9	p3	2
-so	so	ADV	ADV	mo	fällt	VERB	[Trägt, ,, gibt]	9	p3	2
-fällt	fallen	VERB	VVFIN	ROOT	fällt	VERB	[so, auf, ,, .]	9	p3	2
-auf	auf	ADP	PTKVZ	svp	fällt	VERB	[]	9	p3	2
-,	--	PUNCT	$,	punct	fällt	VERB	[]	9	p3	2
-dass	dass	SCONJ	KOUS	cp	gibt	VERB	[]	9	p3	2
-es	es	PRON	PPER	ep	gibt	VERB	[]	9	p3	2
-bestimmte	bestimmt	ADJ	ADJA	nk	Gruppen	NOUN	[]	9	p3	2
-Gruppen	Gruppe	NOUN	NN	oa	gibt	VERB	[bestimmte, sind]	9	p3	2
-gibt	geben	VERB	VVFIN	re	so	ADV	[dass, es, Gruppen, ,, haben]	9	p3	2
-,	--	PUNCT	$,	punct	gibt	VERB	[]	9	p3	2
-in	in	ADP	APPR	mo	sind	AUX	[denen]	9	p3	2
-denen	der	PRON	PRELS	nk	in	ADP	[]	9	p3	2
-die	der	DET	ART	nk	Teilchen	NOUN	[]	9	p3	2
-Teilchen	Teilche	NOUN	NN	sb	sind	AUX	[die]	9	p3	2
-in	in	ADP	APPR	mo	benachbart	VERB	[Diagramm]	9	p3	2
-diesem	dieser	DET	PDAT	nk	Diagramm	NOUN	[]	9	p3	2
-Diagramm	Diagramm	NOUN	NN	nk	in	ADP	[diesem]	9	p3	2
-eng	eng	ADV	ADJD	mo	benachbart	VERB	[]	9	p3	2
-benachbart	benachbaren	VERB	VVPP	pd	sind	AUX	[in, eng]	9	p3	2
-sind	sein	AUX	VAFIN	rc	Gruppen	NOUN	[in, Teilchen, benachbart, ,]	9	p3	2
-,	--	PUNCT	$,	punct	sind	AUX	[]	9	p3	2
-d.h.	d.h.-	PUNCT	VVFIN	punct	Spin	NOUN	[]	9	p3	2
-gleichen	gleich	ADJ	ADJA	nk	Spin	NOUN	[]	9	p3	2
-Spin	Spin	NOUN	NN	sb	haben	VERB	[d.h., gleichen, ,, Parität]	9	p3	2
-,	--	PUNCT	$,	punct	Spin	NOUN	[]	9	p3	2
-gleiche	gleich	ADJ	ADJA	nk	Parität	NOUN	[]	9	p3	2
-Parität	Parität	NOUN	NN	cj	Spin	NOUN	[gleiche, und]	9	p3	2
-und	und	CCONJ	KON	cd	Parität	NOUN	[Masse]	9	p3	2
-fast	fast	ADV	ADV	mo	gleiche	ADJ	[]	9	p3	2
-gleiche	gleich	ADJ	ADJA	nk	Masse	NOUN	[fast]	9	p3	2
-Masse	Masse	NOUN	NN	cj	und	CCONJ	[gleiche]	9	p3	2
-haben	haben	VERB	VAFIN	cj	gibt	VERB	[Spin]	9	p3	2
-.	--	PUNCT	$.	punct	fällt	VERB	[]	9	p3	2
-Dies	dieser	PRON	PDS	oa	brachte	VERB	[]	9	p3	3
-brachte	bringen	VERB	VVFIN	ROOT	brachte	VERB	[Dies, Gell-Mann, unabhängig, auf, .]	9	p3	3
-Murray	Murray	PROPN	NE	pnc	Gell-Mann	PROPN	[]	9	p3	3
-Gell-Mann	Gell-Mann	PROPN	NE	sb	brachte	VERB	[Murray, und]	9	p3	3
-und	und	CCONJ	KON	cd	Gell-Mann	PROPN	[Zweig]	9	p3	3
-George	George	PROPN	NE	pnc	Zweig	PROPN	[]	9	p3	3
-Zweig	Zweig	PROPN	NE	cj	und	CCONJ	[George]	9	p3	3
-unabhängig	unabhängig	ADV	ADJD	mo	brachte	VERB	[voneinander]	9	p3	3
-voneinander	voneinander	ADV	ADV	mo	unabhängig	ADV	[]	9	p3	3
-auf	auf	ADP	APPR	mo	brachte	VERB	[Idee]	9	p3	3
-die	der	DET	ART	nk	Idee	NOUN	[]	9	p3	3
-Idee	Idee	NOUN	NN	nk	auf	ADP	[die, ,, sollten]	9	p3	3
-,	--	PUNCT	$,	punct	Idee	NOUN	[]	9	p3	3
-dass	dass	SCONJ	KOUS	cp	sollten	AUX	[]	9	p3	3
-Hadronen	Hadrone	NOUN	NN	sb	sollten	AUX	[]	9	p3	3
-aus	aus	ADP	APPR	mo	zusammengesetzt	ADV	[Teilchen]	9	p3	3
-wenigen	weniger	DET	PIAT	nk	Teilchen	NOUN	[]	9	p3	3
-""""	--	PUNCT	$LRB	punct	elementareren	ADJ	[]	9	p3	3
-elementareren	elementarer	ADJ	ADJA	nk	Teilchen	NOUN	"["", ""]"	9	p3	3
-""""	--	PUNCT	$LRB	punct	elementareren	ADJ	[]	9	p3	3
-Teilchen	Teilche	NOUN	NN	nk	aus	ADP	[wenigen, elementareren]	9	p3	3
-zusammengesetzt	zusammensetzen	ADV	VVPP	oc	sein	AUX	[aus]	9	p3	3
-sein	sein	AUX	VAINF	oc	sollten	AUX	[zusammengesetzt]	9	p3	3
-sollten	sollen	AUX	VMFIN	oc	Idee	NOUN	[dass, Hadronen, sein]	9	p3	3
-.	--	PUNCT	$.	punct	brachte	VERB	[]	9	p3	3
-Diese	dieser	DET	PDAT	nk	Idee	NOUN	[]	9	p3	4
-Idee	Idee	NOUN	NN	sb	wurde	AUX	[Diese]	9	p3	4
-wurde	werden	AUX	VAFIN	ROOT	wurde	AUX	[Idee, unterstützt, .]	9	p3	4
-unterstützt	unterstützen	VERB	VVPP	oc	wurde	AUX	[durch]	9	p3	4
-durch	durch	ADP	APPR	mo	unterstützt	VERB	[Moment]	9	p3	4
-das	der	DET	ART	nk	Moment	NOUN	[]	9	p3	4
-anomale	anomal	ADJ	ADJA	nk	Moment	NOUN	[]	9	p3	4
-magnetische	magnetisch	ADJ	ADJA	nk	Moment	NOUN	[]	9	p3	4
-Moment	Moment	NOUN	NN	nk	durch	ADP	[das, anomale, magnetische, Neutrons, ,, sollte]	9	p3	4
-des	der	DET	ART	nk	Neutrons	NOUN	[]	9	p3	4
-Neutrons	Neutron	NOUN	NN	ag	Moment	NOUN	[des]	9	p3	4
-,	--	PUNCT	$,	punct	Moment	NOUN	[]	9	p3	4
-das	der	PRON	PRELS	sb	sollte	AUX	[]	9	p3	4
-als	als	ADP	APPR	mo	sollte	AUX	[Teilchen]	9	p3	4
-neutrales	neutral	ADJ	ADJA	nk	Teilchen	NOUN	[]	9	p3	4
-Teilchen	Teilchen	NOUN	NN	nk	als	ADP	[neutrales]	9	p3	4
-eigentlich	eigentlich	ADV	ADV	mo	sollte	AUX	[]	9	p3	4
-kein	kein	DET	PIAT	nk	Moment	NOUN	[]	9	p3	4
-magnetisches	magnetisch	ADJ	ADJA	nk	Moment	NOUN	[]	9	p3	4
-Moment	Moment	NOUN	NN	oa	haben	AUX	[kein, magnetisches]	9	p3	4
-haben	haben	AUX	VAINF	oc	sollte	AUX	[Moment, ist]	9	p3	4
-sollte	sollen	AUX	VMFIN	rc	Moment	NOUN	[das, als, eigentlich, haben, ,]	9	p3	4
-,	--	PUNCT	$,	punct	sollte	AUX	[]	9	p3	4
-außer	außer	ADP	APPR	ac	ist	AUX	[]	9	p3	4
-wenn	wenn	SCONJ	KOUS	cp	ist	AUX	[]	9	p3	4
-es	es	PRON	PPER	sb	ist	AUX	[]	9	p3	4
-aus	aus	ADP	APPR	mo	zusammengesetzt	VERB	[Teilchen]	9	p3	4
-geladenen	geladen	ADJ	ADJA	nk	Teilchen	NOUN	[]	9	p3	4
-Teilchen	Teilche	NOUN	NN	nk	aus	ADP	[geladenen, kompensieren]	9	p3	4
-zusammengesetzt	zusammensetzen	VERB	VVPP	pd	ist	AUX	[aus]	9	p3	4
-ist	sein	AUX	VAFIN	mo	haben	AUX	[außer, wenn, es, zusammengesetzt, ,]	9	p3	4
-,	--	PUNCT	$,	punct	ist	AUX	[]	9	p3	4
-deren	der	DET	PRELAT	ag	Ladungen	NOUN	[]	9	p3	4
-Ladungen	Ladung	NOUN	NN	sb	kompensieren	VERB	[deren]	9	p3	4
-sich	sich	PRON	PRF	oa	kompensieren	VERB	[]	9	p3	4
-zu	zu	ADP	APPR	mo	kompensieren	VERB	[null]	9	p3	4
-null	null	NUM	CARD	nk	zu	ADP	[]	9	p3	4
-kompensieren	kompensieren	VERB	VVFIN	rc	Teilchen	NOUN	[Ladungen, sich, zu]	9	p3	4
-.	--	PUNCT	$.	punct	wurde	AUX	[]	9	p3	4
-Außerdem	außerdem	ADV	PROAV	mo	gefunden	VERB	[]	9	p3	5
-wurde	werden	AUX	VAFIN	ROOT	wurde	AUX	[gefunden, haben, .]	9	p3	5
-bei	bei	ADP	APPR	mo	gefunden	VERB	[Streuung]	9	p3	5
-der	der	DET	ART	nk	Streuung	NOUN	[]	9	p3	5
-Streuung	Streuung	NOUN	NN	nk	bei	ADP	[der, von, an]	9	p3	5
-von	von	ADP	APPR	pg	Streuung	NOUN	[Elektronen]	9	p3	5
-hochenergetischen	hochenergetisch	ADJ	ADJA	nk	Elektronen	NOUN	[]	9	p3	5
-Elektronen	Elektron	NOUN	NN	nk	von	ADP	[hochenergetischen, und]	9	p3	5
-und	und	CCONJ	KON	cd	Elektronen	NOUN	[Protonen]	9	p3	5
-Protonen	Proton	NOUN	NN	cj	und	CCONJ	[]	9	p3	5
-an	an	ADP	APPR	mnr	Streuung	NOUN	[Protonen]	9	p3	5
-Protonen	Proton	NOUN	NN	nk	an	ADP	[und]	9	p3	5
-und	und	CCONJ	KON	cd	Protonen	NOUN	[Neutronen]	9	p3	5
-Neutronen	Neutron	NOUN	NN	cj	und	CCONJ	[]	9	p3	5
-gefunden	finden	VERB	VVPP	oc	wurde	AUX	[Außerdem, bei, ,]	9	p3	5
-,	--	PUNCT	$,	punct	gefunden	VERB	[]	9	p3	5
-dass	dass	SCONJ	KOUS	cp	haben	VERB	[]	9	p3	5
-beide	beide	DET	PIAT	nk	Nukleonen	NOUN	[]	9	p3	5
-Nukleonen	Nukleon	NOUN	NN	sb	haben	VERB	[beide]	9	p3	5
-viele	vieler	DET	PIAT	nk	Anregungszustände	NOUN	[]	9	p3	5
-Anregungszustände	Anregungszustand	NOUN	NN	oa	haben	VERB	[viele]	9	p3	5
-haben	haben	VERB	VAFIN	sb	wurde	AUX	[dass, Nukleonen, Anregungszustände]	9	p3	5
-.	--	PUNCT	$.	punct	wurde	AUX	[]	9	p3	5
-Sie	sie	PRON	PPER	sb	können	AUX	[]	9	p3	6
-können	können	AUX	VMFIN	ROOT	können	AUX	[Sie, deshalb, sein, ,, sondern]	9	p3	6
-deshalb	deshalb	ADV	PROAV	mo	können	AUX	[]	9	p3	6
-keine	kein	DET	PIAT	nk	Teilchen	NOUN	[]	9	p3	6
-""""	--	PUNCT	$LRB	punct	elementaren	ADJ	[]	9	p3	6
-elementaren	elementar	ADJ	ADJA	nk	Teilchen	NOUN	"["", ""]"	9	p3	6
-""""	--	PUNCT	$LRB	punct	elementaren	ADJ	[]	9	p3	6
-Teilchen	Teilche	NOUN	NN	pd	sein	AUX	[keine, elementaren]	9	p3	6
-sein	sein	AUX	VAINF	oc	können	AUX	[Teilchen]	9	p3	6
-,	--	PUNCT	$,	punct	können	AUX	[]	9	p3	6
-sondern	sondern	CCONJ	KON	cd	können	AUX	[müssen]	9	p3	6
-müssen	müssen	AUX	VMFIN	cj	sondern	CCONJ	[elementaren]	9	p3	6
-aus	aus	ADP	APPR	mo	elementaren	VERB	[]	9	p3	6
-""""	--	PUNCT	$LRB	punct	elementaren	VERB	[]	9	p3	6
-wirklich	wirklich	ADV	ADJD	mo	elementaren	VERB	[]	9	p3	6
-elementaren	elementar	VERB	ADJA	oc	müssen	AUX	"[aus, "", wirklich, ""]"	9	p3	6
-""""	--	PUNCT	$LRB	punct	elementaren	VERB	[]	9	p3	6
-Teilchen	Teilche	NOUN	NN	sb	bestehen	VERB	[]	9	p3	7
-bestehen	bestehen	VERB	VVFIN	ROOT	bestehen	VERB	[Teilchen, .]	9	p3	7
-.	--	PUNCT	$.	punct	bestehen	VERB	[]	9	p3	7
+Der	der	DET	ART	nk	Durchbruch	NOUN	[]	9	p3	1	False
+entscheidende	entscheidend	ADJ	ADJA	nk	Durchbruch	NOUN	[]	9	p3	1	False
+Durchbruch	Durchbruch	NOUN	NN	sb	gelang	VERB	[Der, entscheidende, zur]	9	p3	1	False
+zur	zu	ADP	APPRART	mnr	Durchbruch	NOUN	[Aufstellung]	9	p3	1	False
+Aufstellung	Aufstellung	NOUN	NN	nk	zur	ADP	[Ordnungsschemas]	9	p3	1	False
+eines	ein	DET	ART	nk	Ordnungsschemas	NOUN	[]	9	p3	1	False
+Ordnungsschemas	Ordnungsschema	NOUN	NN	ag	Aufstellung	NOUN	[eines]	9	p3	1	False
+gelang	gelingen	VERB	VVFIN	ROOT	gelang	VERB	[Durchbruch, Quarkmodell, .]	9	p3	1	False
+dem	der	DET	ART	nk	Quarkmodell	NOUN	[]	9	p3	1	False
+Quarkmodell	Quarkmodell	NOUN	NN	da	gelang	VERB	[dem, ,, ansieht]	9	p3	1	False
+,	--	PUNCT	$,	punct	Quarkmodell	NOUN	[]	9	p3	1	False
+das	der	PRON	PRELS	sb	ansieht	VERB	[]	9	p3	1	False
+die	der	DET	ART	nk	Vielzahl	NOUN	[]	9	p3	1	False
+Vielzahl	Vielzahl	NOUN	NN	oa	ansieht	VERB	[die, Teilchen, sind]	9	p3	1	False
+der	der	DET	ART	nk	Teilchen	NOUN	[]	9	p3	1	False
+bisher	bisher	ADV	ADV	mo	gefundenen	ADJ	[]	9	p3	1	False
+gefundenen	gefunden	ADJ	ADJA	nk	Teilchen	NOUN	[bisher]	9	p3	1	False
+als	als	ADP	APPR	mo	angenommenen	ADJ	[Elementarteilchen]	9	p3	1	False
+""""	--	PUNCT	$LRB	punct	Elementarteilchen	NOUN	[]	9	p3	1	False
+Elementarteilchen	Elementarteilch	NOUN	NN	nk	als	ADP	"["", ""]"	9	p3	1	False
+""""	--	PUNCT	$LRB	punct	Elementarteilchen	NOUN	[]	9	p3	1	False
+angenommenen	angenommen	ADJ	ADJA	nk	Teilchen	NOUN	[als]	9	p3	1	False
+Teilchen	Teilche	NOUN	NN	ag	Vielzahl	NOUN	[der, gefundenen, angenommenen]	9	p3	1	False
+als	als	ADP	APPR	mo	ansieht	VERB	[Systeme]	9	p3	1	False
+Systeme	System	NOUN	NN	nk	als	ADP	[mit]	9	p3	1	False
+mit	mit	ADP	APPR	mnr	Systeme	NOUN	[Struktur]	9	p3	1	False
+innerer	inner	ADJ	ADJA	nk	Struktur	NOUN	[]	9	p3	1	False
+Struktur	Struktur	NOUN	NN	nk	mit	ADP	[innerer]	9	p3	1	False
+ansieht	ansehen	VERB	VVFIN	rc	Quarkmodell	NOUN	[das, Vielzahl, als, ,]	9	p3	1	False
+,	--	PUNCT	$,	punct	ansieht	VERB	[]	9	p3	1	False
+die	der	PRON	PRELS	sb	sind	AUX	[]	9	p3	1	False
+aus	aus	ADP	APPR	mo	zusammengesetzt	VERB	[Teilchen]	9	p3	1	False
+wenigen	weniger	DET	PIAT	nk	Teilchen	NOUN	[]	9	p3	1	False
+""""	--	PUNCT	$LRB	punct	elementareren	VERB	[]	9	p3	1	False
+noch	noch	ADV	ADV	mo	elementareren	VERB	[]	9	p3	1	False
+elementareren	elementareren	VERB	ADJA	nk	Teilchen	NOUN	"["", noch, ""]"	9	p3	1	False
+""""	--	PUNCT	$LRB	punct	elementareren	VERB	[]	9	p3	1	False
+Teilchen	Teilche	NOUN	NN	nk	aus	ADP	[wenigen, elementareren]	9	p3	1	False
+zusammengesetzt	zusammensetzen	VERB	VVPP	oc	sind	AUX	[aus]	9	p3	1	False
+sind	sein	AUX	VAFIN	rc	Vielzahl	NOUN	[die, zusammengesetzt]	9	p3	1	False
+.	--	PUNCT	$.	punct	gelang	VERB	[]	9	p3	1	False
+Trägt	Tragen	VERB	VVFIN	re	so	ADV	[man, Hadronen, in, ein, ,]	9	p3	2	False
+man	man	PRON	PIS	sb	Trägt	VERB	[]	9	p3	2	False
+die	der	DET	ART	nk	Hadronen	NOUN	[wird]	9	p3	2	False
+bisher	bisher	ADV	ADV	mo	bekannten	ADJ	[]	9	p3	2	False
+bekannten	bekannt	ADJ	ADJA	nk	Hadronen	NOUN	[bisher]	9	p3	2	False
+Hadronen	Hadrone	NOUN	NN	oa	Trägt	VERB	[die, bekannten]	9	p3	2	False
+in	in	ADP	APPR	mo	Trägt	VERB	[Diagramm]	9	p3	2	False
+einem	ein	DET	ART	nk	Diagramm	NOUN	[]	9	p3	2	False
+Diagramm	Diagramm	NOUN	NN	nk	in	ADP	[einem]	9	p3	2	False
+ein	ein	ADV	PTKVZ	svp	Trägt	VERB	[]	9	p3	2	False
+,	--	PUNCT	$,	punct	Trägt	VERB	[]	9	p3	2	False
+in	in	ADP	APPR	mo	gewählt	VERB	[dem]	9	p3	2	False
+dem	der	PRON	PRELS	nk	in	ADP	[]	9	p3	2	False
+ihre	ihr	DET	PPOSAT	nk	Masse	NOUN	[]	9	p3	2	False
+Masse	Masse	NOUN	NN	sb	wird	AUX	[ihre]	9	p3	2	False
+als	als	ADP	APPR	mo	gewählt	VERB	[Ordinate]	9	p3	2	False
+Ordinate	Ordinate	NOUN	NN	nk	als	ADP	[und]	9	p3	2	False
+und	und	CCONJ	KON	cd	Ordinate	NOUN	[Spin]	9	p3	2	False
+ihr	ihr	DET	PPOSAT	nk	Spin	NOUN	[]	9	p3	2	False
+Spin	Spin	NOUN	NN	cj	und	CCONJ	[ihr]	9	p3	2	False
+als	als	ADP	APPR	mo	gewählt	VERB	[Abszisse]	9	p3	2	False
+Abszisse	Absziß	NOUN	NN	nk	als	ADP	[]	9	p3	2	False
+gewählt	wählen	VERB	VVPP	oc	wird	AUX	[in, als, als]	9	p3	2	False
+wird	werden	AUX	VAFIN	rc	die	DET	[Masse, gewählt]	9	p3	2	False
+,	--	PUNCT	$,	punct	so	ADV	[]	9	p3	2	False
+so	so	ADV	ADV	mo	fällt	VERB	[Trägt, ,, gibt]	9	p3	2	False
+fällt	fallen	VERB	VVFIN	ROOT	fällt	VERB	[so, auf, ,, .]	9	p3	2	False
+auf	auf	ADP	PTKVZ	svp	fällt	VERB	[]	9	p3	2	False
+,	--	PUNCT	$,	punct	fällt	VERB	[]	9	p3	2	False
+dass	dass	SCONJ	KOUS	cp	gibt	VERB	[]	9	p3	2	False
+es	es	PRON	PPER	ep	gibt	VERB	[]	9	p3	2	False
+bestimmte	bestimmt	ADJ	ADJA	nk	Gruppen	NOUN	[]	9	p3	2	False
+Gruppen	Gruppe	NOUN	NN	oa	gibt	VERB	[bestimmte, sind]	9	p3	2	False
+gibt	geben	VERB	VVFIN	re	so	ADV	[dass, es, Gruppen, ,, haben]	9	p3	2	False
+,	--	PUNCT	$,	punct	gibt	VERB	[]	9	p3	2	False
+in	in	ADP	APPR	mo	sind	AUX	[denen]	9	p3	2	False
+denen	der	PRON	PRELS	nk	in	ADP	[]	9	p3	2	False
+die	der	DET	ART	nk	Teilchen	NOUN	[]	9	p3	2	False
+Teilchen	Teilche	NOUN	NN	sb	sind	AUX	[die]	9	p3	2	False
+in	in	ADP	APPR	mo	benachbart	VERB	[Diagramm]	9	p3	2	False
+diesem	dieser	DET	PDAT	nk	Diagramm	NOUN	[]	9	p3	2	False
+Diagramm	Diagramm	NOUN	NN	nk	in	ADP	[diesem]	9	p3	2	False
+eng	eng	ADV	ADJD	mo	benachbart	VERB	[]	9	p3	2	False
+benachbart	benachbaren	VERB	VVPP	pd	sind	AUX	[in, eng]	9	p3	2	False
+sind	sein	AUX	VAFIN	rc	Gruppen	NOUN	[in, Teilchen, benachbart, ,]	9	p3	2	False
+,	--	PUNCT	$,	punct	sind	AUX	[]	9	p3	2	False
+d.h.	d.h.-	PUNCT	VVFIN	punct	Spin	NOUN	[]	9	p3	2	False
+gleichen	gleich	ADJ	ADJA	nk	Spin	NOUN	[]	9	p3	2	False
+Spin	Spin	NOUN	NN	sb	haben	VERB	[d.h., gleichen, ,, Parität]	9	p3	2	False
+,	--	PUNCT	$,	punct	Spin	NOUN	[]	9	p3	2	False
+gleiche	gleich	ADJ	ADJA	nk	Parität	NOUN	[]	9	p3	2	False
+Parität	Parität	NOUN	NN	cj	Spin	NOUN	[gleiche, und]	9	p3	2	False
+und	und	CCONJ	KON	cd	Parität	NOUN	[Masse]	9	p3	2	False
+fast	fast	ADV	ADV	mo	gleiche	ADJ	[]	9	p3	2	False
+gleiche	gleich	ADJ	ADJA	nk	Masse	NOUN	[fast]	9	p3	2	False
+Masse	Masse	NOUN	NN	cj	und	CCONJ	[gleiche]	9	p3	2	False
+haben	haben	VERB	VAFIN	cj	gibt	VERB	[Spin]	9	p3	2	False
+.	--	PUNCT	$.	punct	fällt	VERB	[]	9	p3	2	False
+Dies	dieser	PRON	PDS	oa	brachte	VERB	[]	9	p3	3	False
+brachte	bringen	VERB	VVFIN	ROOT	brachte	VERB	[Dies, Gell-Mann, unabhängig, auf, .]	9	p3	3	False
+Murray	Murray	PROPN	NE	pnc	Gell-Mann	PROPN	[]	9	p3	3	False
+Gell-Mann	Gell-Mann	PROPN	NE	sb	brachte	VERB	[Murray, und]	9	p3	3	False
+und	und	CCONJ	KON	cd	Gell-Mann	PROPN	[Zweig]	9	p3	3	False
+George	George	PROPN	NE	pnc	Zweig	PROPN	[]	9	p3	3	False
+Zweig	Zweig	PROPN	NE	cj	und	CCONJ	[George]	9	p3	3	False
+unabhängig	unabhängig	ADV	ADJD	mo	brachte	VERB	[voneinander]	9	p3	3	False
+voneinander	voneinander	ADV	ADV	mo	unabhängig	ADV	[]	9	p3	3	False
+auf	auf	ADP	APPR	mo	brachte	VERB	[Idee]	9	p3	3	False
+die	der	DET	ART	nk	Idee	NOUN	[]	9	p3	3	False
+Idee	Idee	NOUN	NN	nk	auf	ADP	[die, ,, sollten]	9	p3	3	False
+,	--	PUNCT	$,	punct	Idee	NOUN	[]	9	p3	3	False
+dass	dass	SCONJ	KOUS	cp	sollten	AUX	[]	9	p3	3	False
+Hadronen	Hadrone	NOUN	NN	sb	sollten	AUX	[]	9	p3	3	False
+aus	aus	ADP	APPR	mo	zusammengesetzt	ADV	[Teilchen]	9	p3	3	False
+wenigen	weniger	DET	PIAT	nk	Teilchen	NOUN	[]	9	p3	3	False
+""""	--	PUNCT	$LRB	punct	elementareren	ADJ	[]	9	p3	3	False
+elementareren	elementarer	ADJ	ADJA	nk	Teilchen	NOUN	"["", ""]"	9	p3	3	False
+""""	--	PUNCT	$LRB	punct	elementareren	ADJ	[]	9	p3	3	False
+Teilchen	Teilche	NOUN	NN	nk	aus	ADP	[wenigen, elementareren]	9	p3	3	False
+zusammengesetzt	zusammensetzen	ADV	VVPP	oc	sein	AUX	[aus]	9	p3	3	False
+sein	sein	AUX	VAINF	oc	sollten	AUX	[zusammengesetzt]	9	p3	3	False
+sollten	sollen	AUX	VMFIN	oc	Idee	NOUN	[dass, Hadronen, sein]	9	p3	3	False
+.	--	PUNCT	$.	punct	brachte	VERB	[]	9	p3	3	False
+Diese	dieser	DET	PDAT	nk	Idee	NOUN	[]	9	p3	4	False
+Idee	Idee	NOUN	NN	sb	wurde	AUX	[Diese]	9	p3	4	False
+wurde	werden	AUX	VAFIN	ROOT	wurde	AUX	[Idee, unterstützt, .]	9	p3	4	False
+unterstützt	unterstützen	VERB	VVPP	oc	wurde	AUX	[durch]	9	p3	4	False
+durch	durch	ADP	APPR	mo	unterstützt	VERB	[Moment]	9	p3	4	False
+das	der	DET	ART	nk	Moment	NOUN	[]	9	p3	4	False
+anomale	anomal	ADJ	ADJA	nk	Moment	NOUN	[]	9	p3	4	False
+magnetische	magnetisch	ADJ	ADJA	nk	Moment	NOUN	[]	9	p3	4	False
+Moment	Moment	NOUN	NN	nk	durch	ADP	[das, anomale, magnetische, Neutrons, ,, sollte]	9	p3	4	False
+des	der	DET	ART	nk	Neutrons	NOUN	[]	9	p3	4	False
+Neutrons	Neutron	NOUN	NN	ag	Moment	NOUN	[des]	9	p3	4	False
+,	--	PUNCT	$,	punct	Moment	NOUN	[]	9	p3	4	False
+das	der	PRON	PRELS	sb	sollte	AUX	[]	9	p3	4	False
+als	als	ADP	APPR	mo	sollte	AUX	[Teilchen]	9	p3	4	False
+neutrales	neutral	ADJ	ADJA	nk	Teilchen	NOUN	[]	9	p3	4	False
+Teilchen	Teilchen	NOUN	NN	nk	als	ADP	[neutrales]	9	p3	4	False
+eigentlich	eigentlich	ADV	ADV	mo	sollte	AUX	[]	9	p3	4	False
+kein	kein	DET	PIAT	nk	Moment	NOUN	[]	9	p3	4	False
+magnetisches	magnetisch	ADJ	ADJA	nk	Moment	NOUN	[]	9	p3	4	False
+Moment	Moment	NOUN	NN	oa	haben	AUX	[kein, magnetisches]	9	p3	4	False
+haben	haben	AUX	VAINF	oc	sollte	AUX	[Moment, ist]	9	p3	4	False
+sollte	sollen	AUX	VMFIN	rc	Moment	NOUN	[das, als, eigentlich, haben, ,]	9	p3	4	False
+,	--	PUNCT	$,	punct	sollte	AUX	[]	9	p3	4	False
+außer	außer	ADP	APPR	ac	ist	AUX	[]	9	p3	4	False
+wenn	wenn	SCONJ	KOUS	cp	ist	AUX	[]	9	p3	4	False
+es	es	PRON	PPER	sb	ist	AUX	[]	9	p3	4	False
+aus	aus	ADP	APPR	mo	zusammengesetzt	VERB	[Teilchen]	9	p3	4	False
+geladenen	geladen	ADJ	ADJA	nk	Teilchen	NOUN	[]	9	p3	4	False
+Teilchen	Teilche	NOUN	NN	nk	aus	ADP	[geladenen, kompensieren]	9	p3	4	False
+zusammengesetzt	zusammensetzen	VERB	VVPP	pd	ist	AUX	[aus]	9	p3	4	False
+ist	sein	AUX	VAFIN	mo	haben	AUX	[außer, wenn, es, zusammengesetzt, ,]	9	p3	4	False
+,	--	PUNCT	$,	punct	ist	AUX	[]	9	p3	4	False
+deren	der	DET	PRELAT	ag	Ladungen	NOUN	[]	9	p3	4	False
+Ladungen	Ladung	NOUN	NN	sb	kompensieren	VERB	[deren]	9	p3	4	False
+sich	sich	PRON	PRF	oa	kompensieren	VERB	[]	9	p3	4	False
+zu	zu	ADP	APPR	mo	kompensieren	VERB	[null]	9	p3	4	False
+null	null	NUM	CARD	nk	zu	ADP	[]	9	p3	4	False
+kompensieren	kompensieren	VERB	VVFIN	rc	Teilchen	NOUN	[Ladungen, sich, zu]	9	p3	4	False
+.	--	PUNCT	$.	punct	wurde	AUX	[]	9	p3	4	False
+Außerdem	außerdem	ADV	PROAV	mo	gefunden	VERB	[]	9	p3	5	False
+wurde	werden	AUX	VAFIN	ROOT	wurde	AUX	[gefunden, haben, .]	9	p3	5	False
+bei	bei	ADP	APPR	mo	gefunden	VERB	[Streuung]	9	p3	5	False
+der	der	DET	ART	nk	Streuung	NOUN	[]	9	p3	5	False
+Streuung	Streuung	NOUN	NN	nk	bei	ADP	[der, von, an]	9	p3	5	False
+von	von	ADP	APPR	pg	Streuung	NOUN	[Elektronen]	9	p3	5	False
+hochenergetischen	hochenergetisch	ADJ	ADJA	nk	Elektronen	NOUN	[]	9	p3	5	False
+Elektronen	Elektron	NOUN	NN	nk	von	ADP	[hochenergetischen, und]	9	p3	5	False
+und	und	CCONJ	KON	cd	Elektronen	NOUN	[Protonen]	9	p3	5	False
+Protonen	Proton	NOUN	NN	cj	und	CCONJ	[]	9	p3	5	False
+an	an	ADP	APPR	mnr	Streuung	NOUN	[Protonen]	9	p3	5	False
+Protonen	Proton	NOUN	NN	nk	an	ADP	[und]	9	p3	5	False
+und	und	CCONJ	KON	cd	Protonen	NOUN	[Neutronen]	9	p3	5	False
+Neutronen	Neutron	NOUN	NN	cj	und	CCONJ	[]	9	p3	5	False
+gefunden	finden	VERB	VVPP	oc	wurde	AUX	[Außerdem, bei, ,]	9	p3	5	False
+,	--	PUNCT	$,	punct	gefunden	VERB	[]	9	p3	5	False
+dass	dass	SCONJ	KOUS	cp	haben	VERB	[]	9	p3	5	False
+beide	beide	DET	PIAT	nk	Nukleonen	NOUN	[]	9	p3	5	False
+Nukleonen	Nukleon	NOUN	NN	sb	haben	VERB	[beide]	9	p3	5	False
+viele	vieler	DET	PIAT	nk	Anregungszustände	NOUN	[]	9	p3	5	False
+Anregungszustände	Anregungszustand	NOUN	NN	oa	haben	VERB	[viele]	9	p3	5	False
+haben	haben	VERB	VAFIN	sb	wurde	AUX	[dass, Nukleonen, Anregungszustände]	9	p3	5	False
+.	--	PUNCT	$.	punct	wurde	AUX	[]	9	p3	5	False
+Sie	sie	PRON	PPER	sb	können	AUX	[]	9	p3	6	False
+können	können	AUX	VMFIN	ROOT	können	AUX	[Sie, deshalb, sein, ,, sondern]	9	p3	6	False
+deshalb	deshalb	ADV	PROAV	mo	können	AUX	[]	9	p3	6	False
+keine	kein	DET	PIAT	nk	Teilchen	NOUN	[]	9	p3	6	False
+""""	--	PUNCT	$LRB	punct	elementaren	ADJ	[]	9	p3	6	False
+elementaren	elementar	ADJ	ADJA	nk	Teilchen	NOUN	"["", ""]"	9	p3	6	False
+""""	--	PUNCT	$LRB	punct	elementaren	ADJ	[]	9	p3	6	False
+Teilchen	Teilche	NOUN	NN	pd	sein	AUX	[keine, elementaren]	9	p3	6	False
+sein	sein	AUX	VAINF	oc	können	AUX	[Teilchen]	9	p3	6	False
+,	--	PUNCT	$,	punct	können	AUX	[]	9	p3	6	False
+sondern	sondern	CCONJ	KON	cd	können	AUX	[müssen]	9	p3	6	False
+müssen	müssen	AUX	VMFIN	cj	sondern	CCONJ	[bestehen]	9	p3	6	True
+aus	aus	ADP	APPR	mo	bestehen	VERB	[Teilchen]	9	p3	6	True
+""""	--	PUNCT	$LRB	punct	elementaren	VERB	[]	9	p3	6	False
+wirklich	wirklich	ADV	ADJD	mo	elementaren	VERB	[]	9	p3	6	False
+elementaren	elementar	VERB	ADJA	oc	müssen	AUX	"["", wirklich, ""]"	9	p3	6	True
+""""	--	PUNCT	$LRB	punct	elementaren	VERB	[]	9	p3	6	True
+Teilchen	Teilche	NOUN	NN	sb	bestehen	VERB	[elementaren]	9	p3	6	True
+bestehen	bestehen	VERB	VVFIN	oc	müssen	AUX	[aus, .]	9	p3	6	True
+.	--	PUNCT	$.	punct	bestehen	VERB	[]	9	p3	6	True
 Wurzeln	Wurzel	NOUN	NN	sb	entziehen	VERB	[]	2	b2	1	False
 entziehen	entziehen	VERB	VVFIN	ROOT	entziehen	VERB	[Wurzeln, Boden,Wasser,,, aber, .]	2	b2	1	True
 dem	der	DET	ART	nk	Boden	NOUN	[]	2	b2	1	False

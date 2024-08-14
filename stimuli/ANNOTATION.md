@@ -9,23 +9,6 @@ process and more detailed descriptions of manual tags is explained in more detai
 All text were manually PoS-tagged according to the Suttgart-Tübingen-Tagset 
 (Schiller et al. (1999), [STTS](http://www.sfs.uni-tuebingen.de/resources/stts-1999.pdf)).
 
-### STTS tags vs. spacy tags provided by automated tagger in the consticuency and dependency trees files
-It is important to notice that the STTS tags are not always identical to the tags provided by the spacy library.
-as the spacy tagger is bases on the Tiger annotation schema 
-(S. Albert et al. (2003), [TIGER](https://www.linguistics.ruhr-uni-bochum.de/~dipper/pub/tiger_annot.pdf)),
-which itself is uses the STTS Tagset but differs in the following tags:
-
-
-|TIGER |  STTS  |  
-|------------|-------------|
-|PIAT |   PIAT/PIDAT|
-|PROAV|   PAV|
-
-The distinction between PIAT and PIDAT is not made and PIAT is used for attributive indefinite pronouns with and without determiners. 
-PROAV is used instead of the STTS tag PAV  with the same meaning.
-Additionally, ADV Prepositions are tagged as ADV if they modify numerals. 
-
-
 
 ### Hand-crafted tags
 
@@ -50,6 +33,26 @@ _follow_ the current word. If there is no punctuation mark after the word, the t
 * **Word/Char indices in sentence/text**: Several types of positional information on the words and characters in the text or sentences was added as tags. 
 
 
+## Dependency and Constituency Trees
+### STTS tags vs. spacy tags provided by automated tagger in the consticuency and dependency trees files
+It is important to notice that the STTS tags are not always identical to the tags provided by the spacy library.
+as the spacy tagger is bases on the Tiger annotation schema 
+(S. Albert et al. (2003), [TIGER](https://www.linguistics.ruhr-uni-bochum.de/~dipper/pub/tiger_annot.pdf)),
+which itself uses the STTS Tagset but differs in the following tags:
+
+
+|TIGER |  STTS  |  
+|------------|-------------|
+|PIAT |   PIAT/PIDAT|
+|PROAV|   PAV|
+
+The distinction between PIAT and PIDAT is not made and PIAT is used for attributive indefinite pronouns with and without determiners. 
+PROAV is used instead of the STTS tag PAV  with the same meaning.
+Additionally, ADV Prepositions are tagged as ADV if they modify numerals. 
+
+Furthermore, is the german abbreviation **d.h.** for this means  ("das heisst") treated differently. STTS annotates it as KON whereas .
+![img.png](img.png)
+
 ### Dependency Trees
 In addition to the word tags, we provide dependency trees for all the texts. The trees were created with spacy's [Dependency Parser](https://spacy.io/api/dependencyparser)
 based on [Tiger2Dep](https://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/tiger2dep/). The trees are provided as a list of tuples, where the tuples contain the word, PoS-tag and the dependency relation to the head of the word.
@@ -64,7 +67,7 @@ In
 
 Manual corrections were made to adjust the trees for the same sentence splits as in the
 word features files defined by ``sent_index_in_text``. 
-An additional colum manually_corrected was added to the file to indicate the corrected words.
+An additional colum manually_corrected was added to the file to indicate for which words manual corrections were made.
 
 
 ### Constituency Trees
@@ -82,11 +85,11 @@ It had problems parsing quotation marks, relative clauses and other complex stru
 Therefore, the trees were manually corrected and provided in: 
 > `manually_corrected_constituency_trees.tsv`
 
-Some of the sentences could not be parsed exactly according to the tiger scheme and were therefore corrected to the best of the annotators knowledge,
+Some of the sentences could not be parsed exactly according to the tiger schema and were therefore corrected to the best of the annotators knowledge,
 as it is not possible to annotate crossing dependencies with simple parenthesis notation. 
 
 Examples for sentences, which are not possible to annotate with parathesis are: 
-p5 ID 7, p4 ID 6, p3 ID 3, p0 ID2,  b4 ID 10, b3 ID 12 & 5, b2 Id 3. 
+p5 ID 7, p4 ID 6, p3 ID 3, p0 ID 2 & 4 % 5 ,  b4 ID 10, b3 ID 12 & 5, b2 Id 3. 
 
 An additional colum ``manually_corrected`` was added to the file to indicate the corrected sentences.
 

@@ -38,7 +38,7 @@ stimuli/merged_wf_tt/wf_tt_p4_merged.csv
 Line: 132
 PoS_tag: art	STTS_PoS_tag: PRELS	word:die
 
-stimuli/merged_wf_tt/wf_tt_p1_merged.csv
+stimuli/merged_wf_tt/wf_tt_p1_merged.csv  # -> PAV
 Line: 19
 PoS_tag: adv	STTS_PoS_tag: PAV	word:deshalb
 
@@ -50,15 +50,15 @@ stimuli/merged_wf_tt/wf_tt_p1_merged.csv
 Line: 72
 PoS_tag: adv	STTS_PoS_tag: PAV	word:dabei
 
-stimuli/merged_wf_tt/wf_tt_p1_merged.csv
+stimuli/merged_wf_tt/wf_tt_p1_merged.csv # PRLEs
 Line: 91
 PoS_tag: art	STTS_PoS_tag: PRELS	word:die
 
-stimuli/merged_wf_tt/wf_tt_p1_merged.csv
+stimuli/merged_wf_tt/wf_tt_p1_merged.csv # -> APPR
 Line: 101
 PoS_tag: adv	STTS_PoS_tag: APPR	word:mit
 
-stimuli/merged_wf_tt/wf_tt_p1_merged.csv
+stimuli/merged_wf_tt/wf_tt_p1_merged.csv # KON
 Line: 105
 PoS_tag: xy	STTS_PoS_tag: KON	word:bzw.
 
@@ -146,15 +146,15 @@ stimuli/merged_wf_tt/wf_tt_b4_merged.csv
 Line: 121
 PoS_tag: nn	STTS_PoS_tag: PPER	word:Sie
 
-stimuli/merged_wf_tt/wf_tt_p0_merged.csv
+stimuli/merged_wf_tt/wf_tt_p0_merged.csv  # angeschaut manual stimmt
 Line: 54
 PoS_tag: ptkvz	STTS_PoS_tag: APZR	word:zu
 
-stimuli/merged_wf_tt/wf_tt_p0_merged.csv
+stimuli/merged_wf_tt/wf_tt_p0_merged.csv # -> PAV
 Line: 138
 PoS_tag: adv	STTS_PoS_tag: PAV	word:daher
 
-stimuli/merged_wf_tt/wf_tt_p0_merged.csv
+stimuli/merged_wf_tt/wf_tt_p0_merged.csv  # PAV
 Line: 148
 PoS_tag: adv	STTS_PoS_tag: PAV	word:deshalb
 
@@ -210,11 +210,11 @@ stimuli/merged_wf_tt/wf_tt_b1_merged.csv
 Line: 154
 PoS_tag: adja	STTS_PoS_tag: NN	word:Eukaryoten
 
-stimuli/merged_wf_tt/wf_tt_p2_merged.csv
+stimuli/merged_wf_tt/wf_tt_p2_merged.csv # -> PAV
 Line: 14
 PoS_tag: adv	STTS_PoS_tag: PAV	word:damit
 
-stimuli/merged_wf_tt/wf_tt_p2_merged.csv
+stimuli/merged_wf_tt/wf_tt_p2_merged.csv # KON
 Line: 28
 PoS_tag: xy	STTS_PoS_tag: KON	word:z.B.
 

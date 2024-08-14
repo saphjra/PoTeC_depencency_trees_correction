@@ -53,12 +53,12 @@ emittierten	emittiert	ADJ	ADJA	nk	Ionen	NOUN	[von]	6	p0	3	False
 positiven	positiv	ADJ	ADJA	nk	Ionen	NOUN	[]	6	p0	3	False
 Ionen	Ione	NOUN	NN	sb	werden	AUX	[Die, emittierten, positiven]	6	p0	3	False
 werden	werden	AUX	VAFIN	ROOT	werden	AUX	[Ionen, beschleunigt, .]	6	p0	3	False
-auf	auf	ADP	APPR	mo	beschleunigt	VERB	[Kammerhälfte]	6	p0	3	False
+auf	auf	ADP	APPR	mo	beschleunigt	VERB	[Kammerhälfte, zu]	6	p0	3	True
 die	der	DET	ART	nk	Kammerhälfte	NOUN	[]	6	p0	3	False
 negative	negativ	ADJ	ADJA	nk	Kammerhälfte	NOUN	[]	6	p0	3	False
 Kammerhälfte	Kammerhälfte	NOUN	NN	nk	auf	ADP	[die, negative]	6	p0	3	False
-zu	zu	PART	PTKZU	pm	beschleunigt	VERB	[]	6	p0	3	False
-beschleunigt	beschleunigen	VERB	VVINF	oc	werden	AUX	[auf, zu]	6	p0	3	False
+zu	zu	PART	PTKZU	ac	auf	ADP	[]	6	p0	3	True
+beschleunigt	beschleunigen	VERB	VVINF	oc	werden	AUX	[auf]	6	p0	3	True
 .	--	PUNCT	$.	punct	werden	AUX	[]	6	p0	3	False
 Da	da	SCONJ	KOUS	cp	existiert	VERB	[]	6	p0	4	False
 im	in	ADP	APPRART	mo	existiert	VERB	[Inneren]	6	p0	4	False

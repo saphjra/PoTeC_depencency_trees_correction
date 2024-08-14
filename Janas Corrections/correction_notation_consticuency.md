@@ -266,19 +266,17 @@ Zu von PRKZU zu APZR geändert
 Baum übersprungen nochmals kontrollieren
 
 ### p0 ID: 4
-!!!
+xxx
 Pos correct? wieder ein als das ich als APPR annotieren würde nicht als KOKOM
 ['(S (S (KOUS Da) (PP (APPRART im) (NN Inneren) (NP (ART der) (NN Kammerhälften) (PP (APPR mit) (ADJA metallischen) (NN Wänden)))) (NP (PIAT kein) (ADJA elektrisches) (NN Feld)) (VVFIN existiert)) ($, ,)  (VVFIN beschreiben) (NP (ART die) (NN Ionen)) (ADV hier) (PP (APPRART im) (NN Magnetfeld)) (NP (ART einen) (NN Halbkreis) (PP (APPR in) (ART der) (NN x-y-Ebene))) ($, ,) (S (NP (PRELAT dessen) (NN Radius)) (CC (VP (PP (APPR durch) (ART die) (AP (PP (APPR als) (NN Zentripetalkraft)) (ADJA wirkende)) (NN Lorentzkraft)) (VVPP festgelegt)) (KON und) (S (NP (PRELAT dessen) (NN Umlaufszeit)) (AP (ADJD unabhängig) (PP (APPRART vom) (NN Radius))) (VAFIN ist))))) ($. .)']
 ### p0 ID: 5
-!!!
+xxx
 
-Pos deshalb PROAV oder PAV
-['(S (S (VAFIN Wird) (NP (ART die) (NN Hochfrequenz)) (ADV nun) (VP (AVP (ADJD genau) (ADV so)) (VVPP gewählt))) ($, ,) (S (KOUS dass) (NP (ART die) (NN Ionen)) (PP (APPR nach) (NN Durchlaufen) (NP (ART des) (NN Halbkreises))) (PP (ADV immer) (APPR zu) (ART einem) (NN Zeitpunkt) (ADV wieder)) (PP (APPRART am) (NN Spalt) (VVFIN ankommen) ($, ,) (S (PP (APPR bei) (PRELS dem)) (NP (ART die) (ADJA richtige) (NN Polarität) (NP (ART der) (NN Beschleunigungsspannung))) (VVFIN anliegt))) ($, ,) (CS (VVFIN nimmt) (NP (PPOSAT ihre) (ADJA kinetische) (NN Energie)) (PP (APPR bei) (NN Durchlaufen) (NP (ART des) (NN Spaltes))) (PTKVZ zu)) ($, ,) (CS (S (NP (PPOSAT ihre) (NN Geschwindigkeit)) (VVFIN wächst)) (KON und) (NP (PROAV daher) (ADV auch) (ART der) (NN Radius) (NP (ART des) (ADJA nächsten) (NN Halbkreises)))))) ($. .)']
+['(CS (AVP (S (VAFIN Wird) (NP (ART die) (NN Hochfrequenz)) (ADV nun) (VP (AVP (ADJD genau) (ADV so)) (VVPP gewählt)) ($, ,) (S (KOUS dass) (NP (ART die) (NN Ionen)) (PP (APPR nach) (NN Durchlaufen) (NP (ART des) (NN Halbkreises))) (PP (ADV immer) (APPR zu) (ART einem) (NN Zeitpunkt) (ADV wieder)) (PP (APPRART am) (NN Spalt) (VVFIN ankommen) ($, ,) (S (PP (APPR bei) (PRELS dem)) (NP (ART die) (ADJA richtige) (NN Polarität) (NP (ART der) (NN Beschleunigungsspannung))) (VVFIN anliegt)))))) ($, ,)  (VVFIN nimmt) (NP (PPOSAT ihre) (ADJA kinetische) (NN Energie)) (PP (APPR bei) (NN Durchlaufen) (NP (ART des) (NN Spaltes))) (PTKVZ zu) ($, ,) (CC (S (NP (PPOSAT ihre) (NN Geschwindigkeit)) (VVFIN wächst)) (KON und) (NP (PROAV daher) (ADV auch) (ART der) (NN Radius) (NP (ART des) (ADJA nächsten) (NN Halbkreises))))) ($. .)']
 ### p0 ID: 6
 
-!!! nicht angezeigt
-deshalb RROAV PAV
-['(CS (S (NP (ART Die) (NN Ionen)) (VVFIN durchlaufen) (PROAV deshalb) (NP (ART eine) (ADJA spiralartige) (NN Bahn) ($, ,) (S (PRELS die) (PP (APPR aus) (PIAT lauter) (NN Halbkreisen)) (PP (APPR mit) (ADJA wachsenden) (NN Radien)) (VVFIN besteht)))) ($, ,) (CS (S (KOUS bis) (PPER sie) (VP (NP (ART den) (NN Rand) (NP (ART des) (NN Magnetfeldes))) (VVPP erreicht)) (VAFIN haben)) (KON und) (S (VP (VP (ADV dort) (PP (APPR durch) (ART ein) (ADJA elektrisches) (NN Ablenkfeld)) (VVPP extrahiert)) (VAINF werden)) (VMFIN können)))) ($. .)']
+xxx
+['(S (NP (ART Die) (NN Ionen)) (VVFIN durchlaufen) (PROAV deshalb) (NP (ART eine) (ADJA spiralartige) (NN Bahn) ($, ,) (S (PRELS die) (PP (APPR aus) (PIAT lauter) (NN Halbkreisen)) (PP (APPR mit) (ADJA wachsenden) (NN Radien)) (VVFIN besteht))) ($, ,) (CS (S (KOUS bis) (PPER sie) (VP (NP (ART den) (NN Rand) (NP (ART des) (NN Magnetfeldes))) (VVPP erreicht)) (VAFIN haben)) (KON und) (S (VP (VP (ADV dort) (PP (APPR durch) (ART ein) (ADJA elektrisches) (NN Ablenkfeld)) (VVPP extrahiert)) (VAINF werden)) (VMFIN können)))) ($. .)']
 ### p1 ID: 1
 Daher PROAV PAv
 ['(CS (S (AVP (S (KOUS Wenn) (NP (ART ein) (ADJA ruhendes) (NN Atom)) (NP (ART ein) (NN Photon)) (VVFIN absorbiert)) ($, ,)  (ADV so)) (VVFIN nimmt) (PPER es) (PP (APPR bei) (ART der) (NN Absorption)) (NP (ART den) (NN Photonenimpuls)) (PTKVZ auf)) (KON und) (S (VVFIN erfährt) (PROAV deshalb) (NP (ART einen) (NN Rückstoßimpuls) ($, ,) (S (PRELS der) (PP (APPR zu) (ART einer) (ADJA kinetischen) (NN Rückstoßenergie)) (VVFIN führt))))) ($. .)']
@@ -299,6 +297,7 @@ dessen PRELAt oder PDS -> PRELAT
 pos correct
 ['(S (NP (NN Atome) ($, ,) (S (PRELS die) (PRF sich) (PP (ADV nur) (APPR in) (PPOSAT ihrem) (NN Impuls)) (VVFIN unterscheiden))) ($, ,) (VMFIN können) (ADV also) (CVP (VP (NP (NN Photonen) (PP (APPR mit) (ADJA unterschiedlicher) (NN Frequenz))) (VVINF absorbieren)) (KON bzw.) (VP (VVINF emittieren)))) ($. .)']
 ### p1 ID: 7
+xxx evt AVP einfügen?
 
 CNP gelöscht und CS eingefügt, aber Konditional satz ist noch nicht richtig, müsste das verb nicht zu dem enstrpicht statt entsprechen sein ?
 ['(CS (S (S (VVFIN Befindet) (PRF sich) (NP (ART ein) (NN Atom)) (PP (APPR in) (ART einem) (NN Kristallgitter))) ($, ,)  (VVFIN überträgt) (PRF sich) (ART der) (NN Rückstoß) (PP (APPR auf) (PDS dieses))) (KON und) (S (NP (ART die) (NN Energie) (PP (APPR von) (CAP (ADJA absorbiertem) (KON und) (ADJA emittiertem)) (NN Photon))) (VVFIN entsprechen) (NP (PP (APPR in) (ADV etwa)) (ART der) (NN Anregungsenergie)))) ($. .)']

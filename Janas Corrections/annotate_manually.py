@@ -175,12 +175,12 @@ def manually_corrected_cols(file_path, index_not_manually_corrected_sentences: l
     for i in index_not_manually_corrected_sentences:
         #data['manually_corrected'] = np.where(data['index'] == i, True)
         data.loc[data['index'] == i, 'manually_corrected'] = False
-    data.to_csv(f"{file_path}_correted", sep='\t', encoding='utf-8', index=False)
+    data.to_csv(f"{file_path}_correted_test", sep='\t', encoding='utf-8', index=False)
 
 def display_constituency_trees():
     args = parse_args()
     sentence_Id = 0
-    file_path = 'manually_corrected_constituency_trees.tsv'
+    file_path = 'old_manually_corrected_constituency_trees.tsv'
     #file_path = args.file_path
     root = tk.Tk()
 
@@ -195,10 +195,9 @@ def display_constituency_trees():
 
 
 if __name__ == "__main__":
-    #args = parse_args()
-    #sentence_Id = 0
-    #file_path = 'constituency_trees_1.tsv'
-    #index_not_manually_corrected_sentences = [2, 8, 9, 11, 15, 17, 19, 25, 27, 35, 39, 49, 55, 58, 68, 69, 79, 96, 97]
-    #manually_corrected_cols(file_path, index_not_manually_corrected_sentences)
-    #
-    display_constituency_trees()
+    args = parse_args()
+    sentence_Id = 0
+    file_path = 'old_manually_corrected_constituency_trees.tsv'
+    index_not_manually_corrected_sentences = [2, 8, 9, 11, 15, 17, 19, 25, 27, 35, 39, 49, 55, 58, 68, 69, 79, 96, 97]
+    manually_corrected_cols(file_path, index_not_manually_corrected_sentences)
+    #    display_constituency_trees()

@@ -82,6 +82,8 @@ word features files defined by ``sent_index_in_text``.
 provides the original annotation of Benepar without manual corrections. However, inspection of the trees showed a lot of errors. 
 It had problems parsing quotation marks, relative clauses and other complex structures. 
 
+
+
 Therefore, the trees were manually corrected and provided in: 
 > `manually_corrected_constituency_trees.tsv`
 
@@ -92,6 +94,8 @@ Examples for sentences, which are not possible to annotate with parathesis are:
 p5 ID 7, p4 ID 6, p3 ID 3, p0 ID 2 & 4 % 5 ,  b4 ID 10, b3 ID 12 & 5, b2 Id 3. 
 
 An additional colum ``manually_corrected`` was added to the file to indicate the corrected sentences.
+
+![img_1.png](img_1.png)
 
 
 ## DlexDB annotations

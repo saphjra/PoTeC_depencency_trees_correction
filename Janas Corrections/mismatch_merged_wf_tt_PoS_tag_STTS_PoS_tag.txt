@@ -153,8 +153,9 @@ PoS_tag: ptkvz	STTS_PoS_tag: APZR	word:zu
 stimuli/merged_wf_tt/wf_tt_p0_merged.csv # -> PAV
 Line: 138
 PoS_tag: adv	STTS_PoS_tag: PAV	word:daher
-
-stimuli/merged_wf_tt/wf_tt_p0_merged.csv  # PAV
+/home/popos/Pictures/Screenshots/Screenshot from 2024-08-14 14-59-54.png
+/home/popos/Pictures/Screenshots/Screenshot from 2024-08-14 15-33-53.png
+stimuli/merged_wf_tt/wf_tt_p0_merged.csv
 Line: 148
 PoS_tag: adv	STTS_PoS_tag: PAV	word:deshalb
 

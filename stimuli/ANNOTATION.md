@@ -31,14 +31,35 @@ _follow_ the current word. If there is no punctuation mark after the word, the t
 * **Sentence beginning**: If the word is the first word of a sentence.
 * **Word/Char indices in sentence/text**: Several types of positional information on the words and characters in the text or sentences was added as tags. 
 
+
+### Dependency Trees
+In addition to the word tags, we provide dependency trees for all of the texts. The trees were created with spacy's [Dependency Parser](https://spacy.io/api/dependencyparser)
+based on [Tiger2Dep](https://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/tiger2dep/). The trees are provided as a list of tuples, where the tuples contain the word, PoS-tag and the dependency relation to the head of the word.
+Small manual corrections were made to adjust the trees for the same sentence splits as in the
+word features files defined by ``sent_index_in_text``. Apart from that, further manual correction might be necessary 
+to correct mistakes in the dependency trees made by the tool. 
+
+> `uncorrected_dependency_trees.tsv`
+
 ### Constituency Trees
-In addition to the word tags, we provide dependency trees for all of the texts. The trees were created using the tool 
+We also provide constituency trees for all of the texts. The trees were created using the tool 
 [benepar](https://pypi.org/project/benepar/). The trees are provided as a list of tuples, where the tuples contain the word, PoS-tag and are nested according
 to the sentence structure. Small manual corrections were made to adjust the trees for the same sentence splits as in the
 word features files defined by ``sent_index_in_text``. Apart from that, further manual correction might be necessary 
 to correct mistakes in the dependency trees made by the tool. 
 
-> `dependency_trees.tsv`
+> `uncorrected_consticuency_trees.tsv`
+
+provides the original annotation of Benepar without manual corrections. However, inspection of the trees showed a lot of errors. 
+It had problems parsing quotation marks, relative clauses and other complex structures. 
+
+Therefore, the trees were manually corrected and provided in: 
+> `manually_corrected_constituency_trees.tsv`
+
+Some of the sentences could not be parsed exactly according to the tiger scheme and were therefore corrected to the best of the annotators knowledge,
+as it is not possible to annotate crossing dependencies with simple parenthesis notation. 
+An additional colum ``manually_corrected`` was added to the file to indicate the corrected sentences.
+
 
 ## DlexDB annotations
 

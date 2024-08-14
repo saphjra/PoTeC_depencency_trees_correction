@@ -258,11 +258,12 @@ Pos correct
 ### p0 ID: 2
 
 Pos correct
+bräuchte kreuzende kanten 
 ['(S (NP (ART Die) (NN Kammer)) (VAFIN ist) (VP (PP (APPR in) (CARD zwei) (ADJA D-förmige) (NN Hälften) (VVPP aufgeteilt) ($, ,) (S (PP (APPR zwischen) (PRELS denen)) (NP (ART eine) (NN Hochfrequenzspannung)) (VVFIN anliegt))))) ($. .)']
 ### p0 ID: 3
 
 Zu von PRKZU zu APZR geändert
-['(S (NP (ART Die) (AP (APPR von) (ART der) (NN Ionenquelle) (PP (APPRART im) (NN Spalt) (PP (APPR zwischen) (ART den) (NN Kammern))) (PP (APPRART im) (NN Zentrum) (NP (ART der) (NN Anordnung))) (ADJA emittierten)) (ADJA positiven) (NN Ionen)) (VAFIN werden) (VP (PP (APPR auf) (ART die) (ADJA negative) (NN Kammerhälfte)) (VZ (APZR zu) (VVINF beschleunigt)))) ($. .)']
+['(S (NP (ART Die) (AP (APPR von) (ART der) (NN Ionenquelle) (PP (APPRART im) (NN Spalt) (PP (APPR zwischen) (ART den) (NN Kammern))) (PP (APPRART im) (NN Zentrum) (NP (ART der) (NN Anordnung))) (ADJA emittierten)) (ADJA positiven) (NN Ionen)) (VAFIN werden) (VP (PP (APPR auf) (ART die) (ADJA negative) (NN Kammerhälfte) APPR zu)) (VVINF beschleunigt)))) ($. .)']
 Baum übersprungen nochmals kontrollieren
 
 ### p0 ID: 4

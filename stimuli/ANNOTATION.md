@@ -53,12 +53,16 @@ to correct mistakes in the dependency trees made by the tool.
 provides the original annotation of Benepar without manual corrections. However, inspection of the trees showed a lot of errors. 
 It had problems parsing quotation marks, relative clauses and other complex structures. 
 
+
+
 Therefore, the trees were manually corrected and provided in: 
 > `manually_corrected_constituency_trees.tsv`
 
 Some of the sentences could not be parsed exactly according to the tiger scheme and were therefore corrected to the best of the annotators knowledge,
 as it is not possible to annotate crossing dependencies with simple parenthesis notation. 
 An additional colum ``manually_corrected`` was added to the file to indicate the corrected sentences.
+
+![img_1.png](img_1.png)
 
 
 ## DlexDB annotations

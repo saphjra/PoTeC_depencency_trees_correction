@@ -179,7 +179,7 @@ def manually_corrected_cols(file_path, index_not_manually_corrected_sentences: l
 
 def display_constituency_trees():
     args = parse_args()
-    sentence_Id = 0
+    sentence_Id = 55
     file_path = 'manually_corrected_constituency_trees.tsv'
     #file_path = args.file_path
     root = tk.Tk()

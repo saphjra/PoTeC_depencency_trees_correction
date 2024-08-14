@@ -458,9 +458,10 @@ Pos correct
 
 
 ## Unterschiede in der Annotation stammen teilweise davon, dass im consticency_tree_file nach TIGER annotiert ist, und diese bei den folgenden TAGS vom STTS abweicht:
-TIGER   STTS    
-PIAT    PIAT/PIDAT
-PROAV   PAV
+|TIGER |  STTS  |  
+|------------|-------------|
+|PIAT |   PIAT/PIDAT|
+|PROAV|   PAV|
 
 Es macht meiner Meinung nach keinen Sinn die POS im consticuency tree den STTS tags anzupassen, wenn ihr dem TIGER Schema folgen wollt, 
 Ich würde eher die POS tags col umbenennen im word feature file und dort anpassen, oder eine weitere col einfügen mit den TIGER tags. Oder sonst irgednwie darauf verweisen

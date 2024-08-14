@@ -9,12 +9,30 @@ process and more detailed descriptions of manual tags is explained in more detai
 All text were manually PoS-tagged according to the Suttgart-Tübingen-Tagset 
 (Schiller et al. (1999), [STTS](http://www.sfs.uni-tuebingen.de/resources/stts-1999.pdf)).
 
+### STTS tags vs. spacy tags provided by automated tagger in the consticuency and dependency trees files
+It is important to notice that the STTS tags are not always identical to the tags provided by the spacy library.
+as the spacy tagger is bases on the Tiger annotation schema 
+(S. Albert et al. (2003), [TIGER](https://www.linguistics.ruhr-uni-bochum.de/~dipper/pub/tiger_annot.pdf)),
+which itself is uses the STTS Tagset but differs in the following tags:
+
+
+|TIGER |  STTS  |  
+|------------|-------------|
+|PIAT |   PIAT/PIDAT|
+|PROAV|   PAV|
+
+The distinction between PIAT and PIDAT is not made and PIAT is used for attributive indefinite pronouns with and without determiners. 
+PROAV is used instead of the STTS tag PAV  with the same meaning.
+Additionally, ADV Prepositions are tagged as ADV if they modify numerals. 
+
+
+
 ### Hand-crafted tags
 
 In addition to the standard STTS tags, the following tags were added manually. Those tags reflect features of words 
 that are important for studying eye-movements and that might show an effect on eye-movements. 
 
-* **Technical term**: This feature is used to tag two types of technical terms: the first enocdes whether the word is a technical term
+* **Technical term**: This feature is used to tag two types of technical terms: the first enocodes whether the word is a technical term
 that is generally understandable for a layperson (e.g. "DNA") and the second whether the word is a technical term that is only
 understandable for a domain expert (e.g. "DNA-Strang").
 * **Abbreviation**: If the word is an abbreviation and does not contain other word parts, e.g. "DNA". 
@@ -33,7 +51,7 @@ _follow_ the current word. If there is no punctuation mark after the word, the t
 
 
 ### Dependency Trees
-In addition to the word tags, we provide dependency trees for all of the texts. The trees were created with spacy's [Dependency Parser](https://spacy.io/api/dependencyparser)
+In addition to the word tags, we provide dependency trees for all the texts. The trees were created with spacy's [Dependency Parser](https://spacy.io/api/dependencyparser)
 based on [Tiger2Dep](https://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/tiger2dep/). The trees are provided as a list of tuples, where the tuples contain the word, PoS-tag and the dependency relation to the head of the word.
 
 > `uncorrected_dependency_trees.tsv`
@@ -50,7 +68,7 @@ An additional colum manually_corrected was added to the file to indicate the cor
 
 
 ### Constituency Trees
-We also provide constituency trees for all of the texts. The trees were created using the tool 
+We also provide constituency trees for all  texts. The trees were created using the tool 
 [benepar](https://pypi.org/project/benepar/). The trees are provided as a list of tuples, where the tuples contain the word, PoS-tag and are nested according to the sentence structure. 
 
 Small manual corrections were made to adjust the trees for the same sentence splits as in the
@@ -95,6 +113,8 @@ Also, as all words have previously been manually tagged, both tags were compared
  * **Wrong lemma**: If the lemma was wrong, it was manually corrected if possible and else recorded as missing value.
 
 # References
+S. Albert et al. (2003). tiger Annotationsschema, Universität des Saarlandes and Universität Stuttgart and Universität Potsdam, pp. 1–148.
+https://www.linguistics.ruhr-uni-bochum.de/~dipper/pub/tiger_annot.pdf
 
 Schiller, A., Teufel, S., Stöckert, C. (1999). Guidelines für das Tagging
 deutscher Textcorpora mit STTS (Kleines und großes Tagset). www.sfs.uni-tuebingen.de/resources/stts-1999.pdf.

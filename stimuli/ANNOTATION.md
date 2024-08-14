@@ -35,18 +35,26 @@ _follow_ the current word. If there is no punctuation mark after the word, the t
 ### Dependency Trees
 In addition to the word tags, we provide dependency trees for all of the texts. The trees were created with spacy's [Dependency Parser](https://spacy.io/api/dependencyparser)
 based on [Tiger2Dep](https://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/tiger2dep/). The trees are provided as a list of tuples, where the tuples contain the word, PoS-tag and the dependency relation to the head of the word.
-Small manual corrections were made to adjust the trees for the same sentence splits as in the
-word features files defined by ``sent_index_in_text``. Apart from that, further manual correction might be necessary 
-to correct mistakes in the dependency trees made by the tool. 
 
 > `uncorrected_dependency_trees.tsv`
 
+Apart from that, further manual correction might be necessary 
+to correct mistakes in the dependency trees made by the tool. 
+
+In 
+> `manually_corrected_dependency_trees.tsv`
+
+Manual corrections were made to adjust the trees for the same sentence splits as in the
+word features files defined by ``sent_index_in_text``. 
+An additional colum manually_corrected was added to the file to indicate the corrected words.
+
+
 ### Constituency Trees
 We also provide constituency trees for all of the texts. The trees were created using the tool 
-[benepar](https://pypi.org/project/benepar/). The trees are provided as a list of tuples, where the tuples contain the word, PoS-tag and are nested according
-to the sentence structure. Small manual corrections were made to adjust the trees for the same sentence splits as in the
-word features files defined by ``sent_index_in_text``. Apart from that, further manual correction might be necessary 
-to correct mistakes in the dependency trees made by the tool. 
+[benepar](https://pypi.org/project/benepar/). The trees are provided as a list of tuples, where the tuples contain the word, PoS-tag and are nested according to the sentence structure. 
+
+Small manual corrections were made to adjust the trees for the same sentence splits as in the
+word features files defined by ``sent_index_in_text``. 
 
 > `uncorrected_consticuency_trees.tsv`
 
@@ -58,6 +66,10 @@ Therefore, the trees were manually corrected and provided in:
 
 Some of the sentences could not be parsed exactly according to the tiger scheme and were therefore corrected to the best of the annotators knowledge,
 as it is not possible to annotate crossing dependencies with simple parenthesis notation. 
+
+Examples for sentences, which are not possible to annotate with parathesis are: 
+p5 ID 7, p4 ID 6, p3 ID 3, p0 ID2,  b4 ID 10, b3 ID 12 & 5, b2 Id 3. 
+
 An additional colum ``manually_corrected`` was added to the file to indicate the corrected sentences.
 
 

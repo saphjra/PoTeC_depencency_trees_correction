@@ -66,8 +66,23 @@ In
 > `manually_corrected_dependency_trees.tsv`
 
 Manual corrections were made to adjust the trees for the same sentence splits as in the
-word features files defined by ``sent_index_in_text``. 
+word features files defined by ``sent_index_in_text``.
+
 An additional colum manually_corrected was added to the file to indicate for which words manual corrections were made.
+The file contains the following key columns:
+
+spacy_word: The word in the sentence.
+spacy_lemma: The lemma of the word.
+spacy_pos: Part of speech.
+spacy_tag: Detailed POS tag.
+dependency: Dependency relation of the word.
+dependency_head: The head (governing word) of the current word.
+dependency_head_pos: POS of the dependency head.
+dependency_children: List of children (dependent words).
+text_id_numeric: Numeric identifier for the text.
+text_id: Text identifier.
+sent_index_in_text: Index of the sentence in the text.
+manually_corrected: Whether this line was manually corrected.
 
 
 ### Constituency Trees

@@ -180,7 +180,7 @@ def manually_corrected_cols(file_path, index_not_manually_corrected_sentences: l
 def display_constituency_trees():
     args = parse_args()
     sentence_Id = 55
-    file_path = 'manually_corrected_constituency_trees.tsv'
+    file_path = 'manually_corrected_constituency_trees_outdated.tsv'
     #file_path = args.file_path
     root = tk.Tk()
 
@@ -192,7 +192,11 @@ def display_constituency_trees():
     # root.attributes('-fullscreen', True)
     app = SampleViewer(root, file_path, args.languages, args.all_samples, args.no_punctuation, sentence_Id)
     root.mainloop()
-
+def replace_spacy_con_trees():
+    file_path = 'manually_corrected_constituency_trees_outdated.tsv'
+    data = pd.read_csv(file_path, sep='\t', encoding='utf-8')
+    data['spacy_constituency_tree'] = data['str_constituents'].str.replace('[\'', '').str.replace('\']', '')
+    data.to_csv(f"{file_path}_corrected", sep='\t', encoding='utf-8', index=False)
 
 if __name__ == "__main__":
     #args = parse_args()
@@ -201,4 +205,5 @@ if __name__ == "__main__":
     #index_not_manually_corrected_sentences = [2, 8, 9, 11, 15, 17, 19, 25, 27, 35, 39, 49, 55, 58, 68, 69, 79, 96, 97]
     #manually_corrected_cols(file_path, index_not_manually_corrected_sentences)
     #
-    display_constituency_trees()
+    #display_constituency_trees()
+    replace_spacy_con_trees()

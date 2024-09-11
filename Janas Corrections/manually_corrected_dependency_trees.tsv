@@ -64,8 +64,8 @@ Da	da	SCONJ	KOUS	cp	existiert	VERB	[]	6	p0	4	False
 im	in	ADP	APPRART	mo	existiert	VERB	[Inneren]	6	p0	4	False
 Inneren	innere	NOUN	NN	nk	im	ADP	[Kammerhälften]	6	p0	4	False
 der	der	DET	ART	nk	Kammerhälften	NOUN	[]	6	p0	4	False
-Kammerhälften	Kammerhälft	NOUN	NN	ag	Inneren	NOUN	[der]	6	p0	4	False
-mit	mit	ADP	APPR	mnr	Kammerhälften	VERB	[Wänden]	6	p0	4	True
+Kammerhälften	Kammerhälft	NOUN	NN	ag	Inneren	NOUN	[der, mit]	6	p0	4	False
+mit	mit	ADP	APPR	mnr	Kammerhälften	NOUN	[Wänden]	6	p0	4	True
 metallischen	metallisch	ADJ	ADJA	nk	Wänden	NOUN	[]	6	p0	4	False
 Wänden	Wand	NOUN	NN	nk	mit	ADP	[metallischen]	6	p0	4	False
 kein	kein	DET	PIAT	nk	Feld	NOUN	[]	6	p0	4	False
@@ -107,9 +107,9 @@ die	der	DET	ART	nk	Hochfrequenz	NOUN	[]	6	p0	5	False
 Hochfrequenz	Hochfrequenz	NOUN	NN	sb	Wird	AUX	[die]	6	p0	5	False
 nun	nun	ADV	ADV	mo	gewählt	VERB	[ankommen]	6	p0	5	True
 genau	genau	ADV	ADJD	mo	so	ADV	[]	6	p0	5	False
-so	so	ADV	ADV	mo	gewählt	VERB	[genau]	6	p0	5	False
-gewählt	wählen	VERB	VVPP	oc	Wird	AUX	[so, ,]	6	p0	5	False
-,	--	PUNCT	$,	punct	gewählt	VERB	[]	6	p0	5	False
+so	so	ADV	ADV	mo	gewählt	VERB	[genau, ankommen]	6	p0	5	True
+gewählt	wählen	VERB	VVPP	oc	Wird	AUX	[nun, so, ,]	6	p0	5	False
+,	--	PUNCT	$,	punct	gewählt	VERB	[]	6	p0	5	True
 dass	dass	SCONJ	KOUS	cp	ankommen	VERB	[]	6	p0	5	False
 die	der	DET	ART	nk	Ionen	NOUN	[anliegt]	6	p0	5	False
 Ionen	Ione	NOUN	NN	sb	ankommen	VERB	[die]	6	p0	5	False
@@ -558,12 +558,12 @@ sein	sein	AUX	VAINF	oc	können	AUX	[Teilchen]	9	p3	6	False
 ,	--	PUNCT	$,	punct	können	AUX	[]	9	p3	6	False
 sondern	sondern	CCONJ	KON	cd	können	AUX	[müssen]	9	p3	6	False
 müssen	müssen	AUX	VMFIN	cj	sondern	CCONJ	[bestehen]	9	p3	6	True
-aus	aus	ADP	APPR	mo	bestehen	VERB	[Teilchen]	9	p3	6	True
-""""	--	PUNCT	$LRB	punct	elementaren	VERB	[]	9	p3	6	False
-wirklich	wirklich	ADV	ADJD	mo	elementaren	VERB	[]	9	p3	6	False
-elementaren	elementar	VERB	ADJA	oc	müssen	AUX	"["", wirklich, ""]"	9	p3	6	True
-""""	--	PUNCT	$LRB	punct	elementaren	VERB	[]	9	p3	6	True
-Teilchen	Teilche	NOUN	NN	sb	bestehen	VERB	[elementaren]	9	p3	6	True
+aus	aus	ADP	APPR	op	bestehen	VERB	[Teilchen]	9	p3	6	True
+""""	--	PUNCT	$LRB	punct	elementaren	ADJ	[]	9	p3	6	True
+wirklich	wirklich	ADV	ADJD	mo	elementaren	ADJ	[]	9	p3	6	True
+elementaren	elementar	ADJ	ADJA	oc	müssen	AUX	"["", wirklich, ""]"	9	p3	6	True
+""""	--	PUNCT	$LRB	punct	elementaren	ADJ	[]	9	p3	6	True
+Teilchen	Teilche	NOUN	NN	nk	aus	ADP	[elementaren]	9	p3	6	True
 bestehen	bestehen	VERB	VVFIN	oc	müssen	AUX	[aus, .]	9	p3	6	True
 .	--	PUNCT	$.	punct	bestehen	VERB	[]	9	p3	6	True
 Wurzeln	Wurzel	NOUN	NN	sb	entziehen	VERB	[]	2	b2	1	False
@@ -584,8 +584,8 @@ Böden	Böden	NOUN	NN	sb	sind	AUX	[]	2	b2	2	True
 sind	sein	AUX	VAFIN	ROOT	sind	AUX	[Böden, heterogen, und, .]	2	b2	2	True
 heterogen	heterogen	ADJ	ADJD	pd	sind	AUX	[]	2	b2	2	True
 und	und	CCONJ	KON	cd	sind	AUX	[weisen]	2	b2	2	True
-weisen	weis	ADJ	VVFIN	cj	und	CCONJ	[Unterschiede, auf]	2	b2	2	True
-Unterschiede	Unterschied	NOUN	NN	sb	sind	AUX	[heterogen, auf]	2	b2	2	False
+weisen	weisen	VERB	VVFIN	cj	und	CCONJ	[Unterschiede, auf]	2	b2	2	True
+Unterschiede	Unterschied	NOUN	NN	oa	weisen	VERB	[heterogen, auf]	2	b2	2	True
 auf	auf	ADP	APPR	mnr	Unterschiede	NOUN	[Raum]	2	b2	2	False
 kleinem	klein	ADJ	ADJA	nk	Raum	NOUN	[]	2	b2	2	False
 Raum	Raum	NOUN	NN	nk	auf	ADP	[kleinem]	2	b2	2	False
@@ -628,7 +628,7 @@ die	der	DET	ART	nk	Aufnahme	NOUN	[]	2	b2	5	False
 Aufnahme	Aufnahme	NOUN	NN	nk	Für	ADP	[die, Nährstoffe]	2	b2	5	False
 mineralischer	mineralisch	ADJ	ADJA	nk	Nährstoffe	NOUN	[]	2	b2	5	False
 Nährstoffe	Nährstoff	NOUN	NN	ag	Aufnahme	NOUN	[mineralischer]	2	b2	5	False
-ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Für, Wurzelarchitektur, ,, verhalten, .]	2	b2	5	False
+ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Für, Wurzelarchitektur, von, ,, verhalten, .]	2	b2	5	True
 die	der	DET	ART	nk	Wurzelarchitektur	NOUN	[]	2	b2	5	False
 Wurzelarchitektur	Wurzelarchitektur	NOUN	NN	sb	ist	AUX	[die, von]	2	b2	5	False
 von	von	ADP	APPR	mo	ist	AUX	[Bedeutung]	2	b2	5	True
@@ -1063,7 +1063,7 @@ Parenchymzelle	Parenchymzelle	NOUN	NN	sb	exportiert	VERB	[Eine, chlorophyllhalti
 in	in	ADP	APPR	mnr	Parenchymzelle	NOUN	[Angiospermenblatt]	4	b4	1	False
 einem	ein	DET	ART	nk	Angiospermenblatt	NOUN	[]	4	b4	1	False
 Angiospermenblatt	Angiospermenblatt	NOUN	NN	nk	in	ADP	[einem]	4	b4	1	False
-exportiert	exportieren	VERB	VVFIN	ROOT	exportiert	VERB	[Parenchymzelle, Material, und, .]	4	b4	1	False
+exportiert	exportieren	VERB	VVFIN	ROOT	exportiert	VERB	[Parenchymzelle, aus, Material, und, .]	4	b4	1	True
 organisches	organisch	ADJ	ADJA	nk	Material	NOUN	[]	4	b4	1	False
 Material	Material	NOUN	NN	ao	exportiert	VERB	[organisches, in]	4	b4	1	True
 in	in	ADP	APPR	mnr	Material	NOUN	[Form]	4	b4	1	False
@@ -1238,7 +1238,7 @@ Enzyme	Enzyme	NOUN	NN	pd	sind	AUX	[,, umwandeln]	3	b3	1	True
 welche	welcher	PRON	PRELS	sb	umwandeln	VERB	[]	3	b3	1	False
 die	der	DET	ART	nk	Energie	NOUN	[]	3	b3	1	False
 Energie	Energie	NOUN	NN	oa	umwandeln	VERB	[die, aus]	3	b3	1	True
-aus	aus	ADP	APPR	mnr	Energie	Noun	[Hydrolyse]	3	b3	1	True
+aus	aus	ADP	APPR	mnr	Energie	NOUN	[Hydrolyse]	3	b3	1	True
 der	der	DET	ART	nk	Hydrolyse	NOUN	[]	3	b3	1	False
 Hydrolyse	Hydrolyse	NOUN	NN	nk	aus	ADP	[der, von, in]	3	b3	1	False
 von	von	ADP	APPR	pg	Hydrolyse	NOUN	[ATP]	3	b3	1	False

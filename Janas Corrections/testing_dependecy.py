@@ -10,10 +10,13 @@ def check_dependency_inconsistencies(df):
 
     # Iterate over the rows of the dataframe
     for index, row in df.iterrows():
+        word_text_id = row['text_id']
+        word_sent_index = row['sent_index_in_text']
         word = row['spacy_word']
         head = row['dependency_head']
         head_pos = row['dependency_head_pos']
         head_children = row['dependency_children']
+
 
         # Check if the word is a child of its head in any row
         if head != "ROOT":
@@ -28,6 +31,8 @@ def check_dependency_inconsistencies(df):
                     if word not in head_children_list:
                         inconsistencies.append({
                         'type': 'dependency_inconsistency',
+                        'text_id': word_text_id,
+                        'sent_index': word_sent_index,
                         'word': word,
                         'head': head,
                         'expected_in_head_children': word,
@@ -39,6 +44,8 @@ def check_dependency_inconsistencies(df):
                 if head_tag != head_pos:
                     inconsistencies.append({
                         'type': 'pos_inconsistency',
+                        'text_id': word_text_id,
+                        'sent_index': word_sent_index,
                         'word': word,
                         'head': head,
                         'expected_head_pos': head_tag,
@@ -58,11 +65,12 @@ print(len(inconsistencies))
 if inconsistencies:
     for inconsistency in inconsistencies:
         if inconsistency['type'] == 'dependency_inconsistency':
-            print(f"[Dependency Inconsistency] Word: {inconsistency['word']}, Head: {inconsistency['head']}")
+
+            print(f"Dependency Inconsistency \nindex: {inconsistency['text_id']} {inconsistency['sent_index']} \nWord: {inconsistency['word']}, Head: {inconsistency['head']}")
             print(f"Expected in head's children: {inconsistency['expected_in_head_children']}")
             print(f"Head's children found: {inconsistency['head_children_found']}\n")
         elif inconsistency['type'] == 'pos_inconsistency':
-            print(f"[POS Inconsistency] Word: {inconsistency['word']}, Head: {inconsistency['head']}")
+            print(f"POS Inconsistency \nindex: {inconsistency['text_id']} {inconsistency['sent_index']} \nWord: {inconsistency['word']}, Head: {inconsistency['head']}")
             print(f"Expected POS of head: {inconsistency['expected_head_pos']}")
             print(f"Found POS of head: {inconsistency['found_head_pos']}\n")
 else:

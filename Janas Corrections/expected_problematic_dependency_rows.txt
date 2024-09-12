@@ -1,0 +1,474 @@
+Dependency Inconsistency 
+index: p0 3.0 
+Word: Zentrum, Head: im
+Expected in head's children: Zentrum
+Head's children found: [Spalt]
+
+Dependency Inconsistency 
+index: p0 4.0 
+Word: Magnetfeld, Head: im
+Expected in head's children: Magnetfeld
+Head's children found: [Inneren]
+
+Dependency Inconsistency 
+index: p0 5.0 
+Word: anliegt, Head: die
+Expected in head's children: anliegt
+Head's children found: []
+
+Dependency Inconsistency 
+index: p0 5.0 
+Word: Durchlaufen, Head: bei
+Expected in head's children: Durchlaufen
+Head's children found: [dem]
+
+Dependency Inconsistency 
+index: p0 5.0 
+Word: Spaltes, Head: Durchlaufen
+Expected in head's children: Spaltes
+Head's children found: [Halbkreises]
+
+Dependency Inconsistency 
+index: p0 5.0 
+Word: nächsten, Head: Halbkreises
+Expected in head's children: nächsten
+Head's children found: [des]
+
+Dependency Inconsistency 
+index: b0 10.0 
+Word: fotografieren, Head: und
+Expected in head's children: fotografieren
+Head's children found: [durch]
+
+Dependency Inconsistency 
+index: p3 1.0 
+Word: Systeme, Head: als
+Expected in head's children: Systeme
+Head's children found: [Elementarteilchen]
+
+Dependency Inconsistency 
+index: p3 1.0 
+Word: wenigen, Head: Teilchen
+Expected in head's children: wenigen
+Head's children found: [der, gefundenen, angenommenen]
+
+Dependency Inconsistency 
+index: p3 1.0 
+Word: elementareren, Head: Teilchen
+Expected in head's children: elementareren
+Head's children found: [der, gefundenen, angenommenen]
+
+Dependency Inconsistency 
+index: p3 2.0 
+Word: dem, Head: in
+Expected in head's children: dem
+Head's children found: [Diagramm]
+
+Dependency Inconsistency 
+index: p3 2.0 
+Word: Abszisse, Head: als
+Expected in head's children: Abszisse
+Head's children found: [Ordinate]
+
+Dependency Inconsistency 
+index: p3 2.0 
+Word: denen, Head: in
+Expected in head's children: denen
+Head's children found: [Diagramm]
+
+Dependency Inconsistency 
+index: p3 2.0 
+Word: diesem, Head: Diagramm
+Expected in head's children: diesem
+Head's children found: [einem]
+
+Dependency Inconsistency 
+index: p3 2.0 
+Word: d.h., Head: Spin
+Expected in head's children: d.h.
+Head's children found: [ihr]
+
+Dependency Inconsistency 
+index: p3 2.0 
+Word: gleichen, Head: Spin
+Expected in head's children: gleichen
+Head's children found: [ihr]
+
+Dependency Inconsistency 
+index: p3 2.0 
+Word: ,, Head: Spin
+Expected in head's children: ,
+Head's children found: [ihr]
+
+Dependency Inconsistency 
+index: p3 2.0 
+Word: Parität, Head: Spin
+Expected in head's children: Parität
+Head's children found: [ihr]
+
+Dependency Inconsistency 
+index: p3 2.0 
+Word: fast, Head: gleiche
+Expected in head's children: fast
+Head's children found: []
+
+Dependency Inconsistency 
+index: p3 2.0 
+Word: gleiche, Head: Masse
+Expected in head's children: gleiche
+Head's children found: [ihre]
+
+Dependency Inconsistency 
+index: p3 2.0 
+Word: Masse, Head: und
+Expected in head's children: Masse
+Head's children found: [Spin]
+
+Dependency Inconsistency 
+index: p3 4.0 
+Word: kein, Head: Moment
+Expected in head's children: kein
+Head's children found: [das, anomale, magnetische, Neutrons, ,, sollte]
+
+Dependency Inconsistency 
+index: p3 4.0 
+Word: magnetisches, Head: Moment
+Expected in head's children: magnetisches
+Head's children found: [das, anomale, magnetische, Neutrons, ,, sollte]
+
+Dependency Inconsistency 
+index: p3 4.0 
+Word: geladenen, Head: Teilchen
+Expected in head's children: geladenen
+Head's children found: [neutrales]
+
+Dependency Inconsistency 
+index: p3 4.0 
+Word: kompensieren, Head: Teilchen
+Expected in head's children: kompensieren
+Head's children found: [neutrales]
+
+Dependency Inconsistency 
+index: p3 5.0 
+Word: und, Head: Protonen
+Expected in head's children: und
+Head's children found: []
+
+Dependency Inconsistency 
+index: p3 5.0 
+Word: Neutronen, Head: und
+Expected in head's children: Neutronen
+Head's children found: [Protonen]
+
+Dependency Inconsistency 
+index: p3 6.0 
+Word: wirklich, Head: elementaren
+Expected in head's children: wirklich
+Head's children found: [", "]
+
+Dependency Inconsistency 
+index: p3 6.0 
+Word: elementaren, Head: müssen
+Expected in head's children: elementaren
+Head's children found: [bestehen]
+
+Dependency Inconsistency 
+index: b2 7.0 
+Word: als, Head: können
+Expected in head's children: als
+Head's children found: [Pflanzen, transportieren, .]
+
+Dependency Inconsistency 
+index: b2 7.0 
+Word: sie, Head: können
+Expected in head's children: sie
+Head's children found: [Pflanzen, transportieren, .]
+
+Dependency Inconsistency 
+index: b2 7.0 
+Word: anreichern, Head: können
+Expected in head's children: anreichern
+Head's children found: [Pflanzen, transportieren, .]
+
+Dependency Inconsistency 
+index: b1 4.0 
+Word: sucht, Head: und
+Expected in head's children: sucht
+Head's children found: [rechts]
+
+Dependency Inconsistency 
+index: b1 7.0 
+Word: dem, Head: Strang
+Expected in head's children: dem
+Head's children found: [Der, verdrängte]
+
+Dependency Inconsistency 
+index: b1 7.0 
+Word: aufweist, Head: Strang
+Expected in head's children: aufweist
+Head's children found: [Der, verdrängte]
+
+Dependency Inconsistency 
+index: p2 2.0 
+Word: Größenordnung, Head: in
+Expected in head's children: Größenordnung
+Head's children found: [Strukturen]
+
+Dependency Inconsistency 
+index: p2 4.0 
+Word: der, Head: Struktur
+Expected in head's children: der
+Head's children found: [diese]
+
+Dependency Inconsistency 
+index: p2 4.0 
+Word: periodischen, Head: Struktur
+Expected in head's children: periodischen
+Head's children found: [diese]
+
+Dependency Inconsistency 
+index: b4 1.0 
+Word: Form, Head: in
+Expected in head's children: Form
+Head's children found: [Angiospermenblatt]
+
+Dependency Inconsistency 
+index: b4 1.0 
+Word: selbst, Head: in
+Expected in head's children: selbst
+Head's children found: [Angiospermenblatt]
+
+Dependency Inconsistency 
+index: b4 1.0 
+Word: Nacht, Head: in
+Expected in head's children: Nacht
+Head's children found: [Angiospermenblatt]
+
+Dependency Inconsistency 
+index: b4 2.0 
+Word: Speicher, Head: aus
+Expected in head's children: Speicher
+Head's children found: [Photosynthese]
+
+Dependency Inconsistency 
+index: b4 5.0 
+Word: finden, Head: ist
+Expected in head's children: finden
+Head's children found: [Stärke, Polymer, wirkt, .]
+
+Dependency Inconsistency 
+index: b4 8.0 
+Word: Weise, Head: in
+Expected in head's children: Weise
+Head's children found: [Membran]
+
+Dependency Inconsistency 
+index: b3 1.0 
+Word: mechanische, Head: Energie
+Expected in head's children: mechanische
+Head's children found: [die, aus]
+
+Dependency Inconsistency 
+index: b3 7.0 
+Word: Myosin, Head: von
+Expected in head's children: Myosin
+Head's children found: [Kopf]
+
+Dependency Inconsistency 
+index: b3 8.0 
+Word: Myosin, Head: von
+Expected in head's children: Myosin
+Head's children found: [Calciumionen]
+
+Dependency Inconsistency 
+index: b3 12.0 
+Word: wo, Head: ist
+Expected in head's children: wo
+Head's children found: [Es, finden, ,, .]
+
+Dependency Inconsistency 
+index: b3 12.0 
+Word: es, Head: ist
+Expected in head's children: es
+Head's children found: [Es, finden, ,, .]
+
+Dependency Inconsistency 
+index: b3 12.0 
+Word: beteiligt, Head: ist
+Expected in head's children: beteiligt
+Head's children found: [Es, finden, ,, .]
+
+Dependency Inconsistency 
+index: p1 2.0 
+Word: anderen, Head: zum
+Expected in head's children: anderen
+Head's children found: [einen]
+
+Dependency Inconsistency 
+index: p1 2.0 
+Word: Anregungsenergie, Head: als
+Expected in head's children: Anregungsenergie
+Head's children found: [zum, Rückstoßenergie, und]
+
+Dependency Inconsistency 
+index: p1 3.0 
+Word: Photons, Head: der
+Expected in head's children: Photons
+Head's children found: []
+
+POS Inconsistency 
+index: p1 3.0 
+Word: Photons, Head: der
+Expected POS of head: DET
+Found POS of head: PRON
+
+Dependency Inconsistency 
+index: p1 7.0 
+Word: emittiertem, Head: und
+Expected in head's children: emittiertem
+Head's children found: [entsprechen]
+
+Dependency Inconsistency 
+index: p1 8.0 
+Word: Probe, Head: in
+Expected in head's children: Probe
+Head's children found: [Mößbauerspektroskopie]
+
+Dependency Inconsistency 
+index: b5 1.0 
+Word: einem, Head: Protein
+Expected in head's children: einem
+Head's children found: [ein, infektiöses, ,, abstammt]
+
+Dependency Inconsistency 
+index: b5 1.0 
+Word: endogenen, Head: Protein
+Expected in head's children: endogenen
+Head's children found: [ein, infektiöses, ,, abstammt]
+
+Dependency Inconsistency 
+index: b5 1.0 
+Word: Tertiär-, Head: und
+Expected in head's children: Tertiär-
+Head's children found: [besitzt]
+
+Dependency Inconsistency 
+index: b5 1.0 
+Word: diesem, Head: von
+Expected in head's children: diesem
+Head's children found: [Protein]
+
+Dependency Inconsistency 
+index: b5 5.0 
+Word: finden, Head: sind
+Expected in head's children: finden
+Head's children found: [die, angeordnet]
+
+Dependency Inconsistency 
+index: b5 5.0 
+Word: und, Head: sind
+Expected in head's children: und
+Head's children found: [die, angeordnet]
+
+Dependency Inconsistency 
+index: b5 5.0 
+Word: auftritt, Head: und
+Expected in head's children: auftritt
+Head's children found: [umfasst]
+
+Dependency Inconsistency 
+index: b5 6.0 
+Word: Primärstruktur, Head: mit
+Expected in head's children: Primärstruktur
+Head's children found: [sich]
+
+Dependency Inconsistency 
+index: p4 3.0 
+Word: sodass, Head: wird
+Expected in head's children: sodass
+Head's children found: [Hologrammplatte, entwickelt, wird, .]
+
+Dependency Inconsistency 
+index: p4 3.0 
+Word: Hologrammbild, Head: wird
+Expected in head's children: Hologrammbild
+Head's children found: [Hologrammplatte, entwickelt, wird, .]
+
+Dependency Inconsistency 
+index: p4 3.0 
+Word: erzeugt, Head: wird
+Expected in head's children: erzeugt
+Head's children found: [Hologrammplatte, entwickelt, wird, .]
+
+Dependency Inconsistency 
+index: p4 4.0 
+Word: Ort, Head: am
+Expected in head's children: Ort
+Head's children found: [Objekt]
+
+Dependency Inconsistency 
+index: p4 4.0 
+Word: diese, Head: Änderungen
+Expected in head's children: diese
+Head's children found: [kleine]
+
+Dependency Inconsistency 
+index: p4 5.0 
+Word: Hologramm, Head: vom
+Expected in head's children: Hologramm
+Head's children found: [Objekt]
+
+Dependency Inconsistency 
+index: p5 1.0 
+Word: Valenzband, Head: im
+Expected in head's children: Valenzband
+Head's children found: [Leitungsband]
+
+Dependency Inconsistency 
+index: p5 1.0 
+Word: bewegen, Head: und
+Expected in head's children: bewegen
+Head's children found: [Löcher]
+
+Dependency Inconsistency 
+index: p5 1.0 
+Word: am, Head: und
+Expected in head's children: am
+Head's children found: [Löcher]
+
+Dependency Inconsistency 
+index: p5 1.0 
+Word: Energiemaximum, Head: am
+Expected in head's children: Energiemaximum
+Head's children found: [Energieminimum, und]
+
+Dependency Inconsistency 
+index: p5 1.0 
+Word: Valenzband, Head: im
+Expected in head's children: Valenzband
+Head's children found: [Leitungsband]
+
+Dependency Inconsistency 
+index: p5 5.0 
+Word: Elektrons, Head: Wellenvektor
+Expected in head's children: Elektrons
+Head's children found: [der, Photons]
+
+Dependency Inconsistency 
+index: p5 7.0 
+Word: indirekte, Head: Übergänge
+Expected in head's children: indirekte
+Head's children found: [direkte]
+
+Dependency Inconsistency 
+index: p5 7.0 
+Word: mit, Head: Übergänge
+Expected in head's children: mit
+Head's children found: [direkte]
+
+Dependency Inconsistency 
+index: p5 7.0 
+Word: Möglichkeit, Head: sind
+Expected in head's children: Möglichkeit
+Head's children found: [so, Übergänge, bei, möglich, und , .]
+

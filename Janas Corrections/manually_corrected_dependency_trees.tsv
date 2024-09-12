@@ -1295,7 +1295,7 @@ ist	sein	AUX	VAFIN	ROOT	ist	AUX	[Kette, beteiligt, .]	3	b3	5	False
 an	an	ADP	APPR	op	beteiligt	VERB	[Ausbildung]	3	b3	5	False
 der	der	DET	ART	nk	Ausbildung	NOUN	[]	3	b3	5	False
 Ausbildung	Ausbildung	NOUN	NN	nk	an	ADP	[der, Kopfregion]	3	b3	5	True
-einer	ein	DET	ART	nk	Schwanz-	NOUN	[]	3	b3	5	True
+einer	ein	DET	ART	nk	Schwanz-	X	[]	3	b3	5	True
 Schwanz-	Schwanz	X	TRUNC	cj	und	CCONJ	[einer]	3	b3	5	True
 und	und	CCONJ	KON	cd	Kopfregion	NOUN	[Schwanz-]	3	b3	5	False
 einer	ein	DET	ART	nk	Kopfregion	NOUN	[]	3	b3	5	False
@@ -1325,7 +1325,7 @@ Schwanz	Schwanz	NOUN	NN	nk	zu	ADP	[]	3	b3	7	False
 können	können	AUX	VMFIN	ROOT	können	AUX	[Im, Ketten, binden, .]	3	b3	7	True
 unterschiedliche	unterschiedlich	ADJ	ADJA	nk	Ketten	NOUN	[]	3	b3	7	True
 leichte	leicht	ADJ	ADJA	nk	Ketten	NOUN	[]	3	b3	7	False
-Ketten	Kette	NOUN	NN	sb	können	VERB	[unterschiedliche, leichte]	3	b3	7	False
+Ketten	Kette	NOUN	NN	sb	können	AUX	[unterschiedliche, leichte]	3	b3	7	False
 binden	binden	VERB	VVINF	oc	können	AUX	[Ketten, und]	3	b3	7	False
 und	und	CCONJ	KON	cd	binden	VERB	[mitwirken]	3	b3	7	False
 auf	auf	ADP	APPR	mo	mitwirken	VERB	[Weise]	3	b3	7	False
@@ -1423,7 +1423,7 @@ Muskelzellen	Muskelzell	NOUN	NN	ag	Apparat	NOUN	[der]	3	b3	12	False
 zu	zu	PART	PTKZU	pm	finden	VERB	[]	3	b3	12	False
 finden	finden	VERB	VVINF	oc	ist	AUX	[im, zu]	3	b3	12	True
 ,	--	PUNCT	$,	punct	ist	AUX	[in]	3	b3	12	False
-aber	aber	CCONJ	KON	cd	im	ADP	[in]	3	b3	12	True
+aber	aber	CCONJ	KON	cd	im	ADP	[in, auch]	3	b3	12	True
 auch	auch	ADV	ADV	mo	aber	CCONJ	[]	3	b3	12	True
 in	in	ADP	APPR	cj	aber	CCONJ	[Zellen]	3	b3	12	False
 anderen	anderer	ADJ	ADJA	nk	Zellen	NOUN	[]	3	b3	12	False
@@ -1529,7 +1529,7 @@ ebenfalls	ebenfalls	ADV	ADV	mo	verschieden	ADV	[]	7	p1	5	False
 von	von	ADP	APPR	mo	verschieden	ADV	[jener]	7	p1	5	False
 jener	jener	PRON	PDS	nk	von	ADP	[Anregung]	7	p1	5	True
 der	der	DET	ART	nk	Anregung	NOUN	[]	7	p1	5	False
-Anregung	Anregung	NOUN	NN	ag	jener	ADP	[der]	7	p1	5	True
+Anregung	Anregung	NOUN	NN	ag	jener	PRON	[der]	7	p1	5	True
 verschieden	verschieden	ADV	ADJD	pd	ist	AUX	[ebenfalls, von]	7	p1	5	True
 ist	sein	AUX	VAFIN	mo	fehlt	VERB	[so, dass, Wellenlänge, verschieden]	7	p1	5	False
 .	--	PUNCT	$.	punct	fehlt	VERB	[]	7	p1	5	False
@@ -1576,7 +1576,7 @@ und	und	CCONJ	KON	cd	absorbiertem	ADJ	[emittiertem]	7	p1	7	False
 emittiertem	emittiert	ADJ	ADJA	cj	und	CCONJ	[]	7	p1	7	False
 Photon	Photon	NOUN	NN	nk	von	ADP	[absorbiertem]	7	p1	7	False
 entsprechen	entsprechen	VERB	VVINF	cj	überträgt	VERB	[Energie, Anregungsenergie]	7	p1	7	True
-in	in	ADP	APPR	mo	entsprechen	VERB	[]	7	p1	7	False
+in	in	ADP	APPR	mo	etwa	ADV	[]	7	p1	7	False
 etwa	etwa	ADV	ADV	mo	Anregungsenergie	NOUN	[in]	7	p1	7	True
 der	der	DET	ART	nk	Anregungsenergie	NOUN	[]	7	p1	7	False
 Anregungsenergie	Anregungsenergie	NOUN	NN	da	entsprechen	VERB	[etwa, der]	7	p1	""	True
@@ -1836,8 +1836,8 @@ mit	mit	ADP	APPR	mo	beleuchtet	VERB	[Referenzwelle]	10	p4	3	True
 der	der	DET	ART	nk	Referenzwelle	NOUN	[]	10	p4	3	False
 Referenzwelle	Referenzwelle	NOUN	NN	nk	mit	ADP	[der]	10	p4	3	False
 beleuchtet	beleuchten	VERB	VVPP	cj	und	CCONJ	[mit]	10	p4	3	False
-,	--	PUNCT	$,	punct	sodass	VERB	[]	10	p4	3	False
-sodass	sodass	SCONJ	KOUS	cp	wird	VERB	[,]	10	p4	3	True
+,	--	PUNCT	$,	punct	sodass	SCONJ	[]	10	p4	3	False
+sodass	sodass	SCONJ	KOUS	cp	wird	AUX	[,]	10	p4	3	True
 ein	ein	DET	ART	nk	Hologrammbild	NOUN	[]	10	p4	3	False
 Hologrammbild	Hologrammbild	NOUN	NN	sb	wird	AUX	[ein]	10	p4	3	True
 erzeugt	erzeugen	VERB	VVPP	oc	wird	AUX	[]	10	p4	3	True
@@ -1949,7 +1949,7 @@ eines	ein	DET	ART	nk	Kristalles	NOUN	[]	11	p5	1	False
 Kristalles	Kristall	NOUN	NN	ag	Elektronen	NOUN	[eines]	11	p5	1	True
 wie	wie	ADP	APPR	mo	augefasst	VERB	[Teilchen]	11	p5	1	True
 freie	frei	ADJ	ADJA	nk	Teilchen	NOUN	[]	11	p5	1	False
-Teilchen	Teilche	NOUN	NN	cc	Kristalles	NOUN	[freie]	11	p5	1	True
+Teilchen	Teilche	NOUN	NN	cc	wie	ADP	[freie]	11	p5	1	True
 aufgefasst	auffassen	VERB	VVPP	oc	werden	AUX	[]	11	p5	1	False
 werden	werden	AUX	VAINF	oc	können	AUX	[aufgefasst]	11	p5	1	False
 und	und	CCONJ	KON	cd	können	AUX	[bewegen]	11	p5	1	False
@@ -2023,7 +2023,7 @@ des	der	DET	ART	nk	Photons	NOUN	[]	11	p5	5	False
 Photons	Photon	NOUN	NN	ag	Wellenvektor	NOUN	[des]	11	p5	5	False
 sehr	sehr	ADV	ADV	mo	klein	ADV	[]	11	p5	5	False
 klein	klein	ADV	ADJD	pd	ist	AUX	[sehr]	11	p5	5	False
-ist	sein	AUX	VAFIN	mo	erhalten	VERB	[Weil, Wellenvektor, klein]	11	p5	5	False
+ist	sein	AUX	VAFIN	mo	wird	AUX	[Weil, Wellenvektor, klein]	11	p5	5	False
 ,	--	PUNCT	$,	punct	wird	AUX	[]	11	p5	5	False
 wird	werden	AUX	VAFIN	ROOT	wird	AUX	[,, ist, Wahrscheinlichkeit, größer, ,, bleibt, .]	11	p5	5	True
 die	der	DET	ART	nk	Wahrscheinlichkeit	NOUN	[]	11	p5	5	False
@@ -2042,7 +2042,7 @@ des	der	DET	ART	nk	Elektrons	NOUN	[]	11	p5	5	False
 Elektrons	Elektron	NOUN	NN	ag	Wellenvektor	NOUN	[des]	11	p5	5	False
 dabei	dabei	ADV	PROAV	mo	erhalten	VERB	[]	11	p5	5	False
 erhalten	erhalten	VERB	VVPP	oc	bleibt	VERB	[dabei]	11	p5	5	True
-bleibt	bleiben	VERB	VVFIN	mo	wird	AUX	[wenn, Wellenvektor, erhalten, ,]	11	p5	5	False
+bleibt	bleiben	VERB	VVFIN	mo	wird	AUX	[wenn, Wellenvektor, erhalten, muss, ,]	11	p5	5	False
 ,	--	PUNCT	$,	punct	bleibt	VERB	[]	11	p5	5	False
 als	als	SCONJ	KOKOM	cm	werden	AUX	[]	11	p5	5	False
 wenn	wenn	SCONJ	KOUS	cp	werden	AUX	[]	11	p5	5	False
@@ -2054,19 +2054,19 @@ beim	bei	ADP	APPRART	mnr	Impulserhaltung	NOUN	[Übergang]	11	p5	5	False
 zusätzlich	zusätzlich	ADV	ADJD	mo	angeregt	VERB	[]	11	p5	5	False
 ein	ein	DET	ART	nk	Phonon	NOUN	[]	11	p5	5	False
 Phonon	Phonon	NOUN	NN	sb	angeregt	VERB	[ein]	11	p5	5	True
-angeregt	anregen	VERB	VVPP	oc	werden	AUX	[wegen, zusätzlich, Phonon, muss]	11	p5	5	False
-werden	werden	AUX	VAINF	cc	der	DET	[als, wenn, angeregt]	11	p5	5	True
-muss	muss	VERB	VMFIN	oc	angeregt	VERB	[]	11	p5	5	True
+angeregt	anregen	VERB	VVPP	oc	werden	AUX	[wegen, zusätzlich, Phonon]	11	p5	5	False
+werden	werden	AUX	VAINF	cc	muss	AUX	[als, wenn, angeregt]	11	p5	5	True
+muss	muss	AUX	VMFIN	oc	bleibt	VERB	[werden]	11	p5	5	True
 .	--	PUNCT	$.	punct	wird	AUX	[]	11	p5	5	False
 Liegt	Liegt	VERB	VVFIN	re	so	ADV	[Minimum, senkrecht]	11	p5	6	False
 das	der	DET	ART	nk	Minimum	NOUN	[]	11	p5	6	False
-Minimum	Minimum	NOUN	NN	sb	Liegt	VERB	[das, Elektronenparabel]	11	p5	6	False
+Minimum	Minimum	NOUN	NN	sb	Liegt	VERB	[das, Elektronenparabel, über]	11	p5	6	True
 der	der	DET	ART	nk	Elektronenparabel	NOUN	[]	11	p5	6	False
 Elektronenparabel	Elektronenparabel	NOUN	NN	ag	Minimum	NOUN	[der, im]	11	p5	6	False
 im	in	ADP	APPRART	mnr	Elektronenparabel	NOUN	[Valenzband]	11	p5	6	False
 Valenzband	Valenzband	NOUN	NN	nk	im	ADP	[]	11	p5	6	False
-senkrecht	senkrechen	ADV	ADJD	mo	über	ADV	[]	11	p5	6	True
-über	über	ADP	APPR	op	senkrecht	ADV	[senkrecht,Maximum]	11	p5	6	True
+senkrecht	senkrecht	ADJ	ADJD	mo	über	ADP	[]	11	p5	6	True
+über	über	ADP	APPR	op	Minimum	NOUN	[senkrecht, Maximum]	11	p5	6	True
 dem	der	DET	ART	nk	Maximum	NOUN	[]	11	p5	6	False
 Maximum	Maximum	NOUN	NN	nk	über	ADP	[dem, Löcherparabel]	11	p5	6	False
 der	der	DET	ART	nk	Löcherparabel	NOUN	[]	11	p5	6	False
@@ -2074,7 +2074,7 @@ Löcherparabel	Löcherparabel	NOUN	NN	ag	Maximum	NOUN	[der]	11	p5	6	False
 ,	--	PUNCT	$,	punct	so	ADV	[]	11	p5	6	False
 so	so	ADV	ADV	mo	sind	AUX	[Liegt, ,]	11	p5	6	False
 sind	sein	AUX	VAFIN	ROOT	sind	AUX	[so, Übergänge, bereits, ab, möglich, .]	11	p5	6	False
-senkrechte	senkrechter	ADJ	ADJA	nk	Übergänge	NOUN	[]	11	p5	6	False
+senkrechte	senkrecht	ADJ	ADJA	nk	Übergänge	NOUN	[]	11	p5	6	False
 Übergänge	Übergänge	NOUN	NN	sb	sind	AUX	[senkrechte]	11	p5	6	False
 bereits	bereits	ADV	ADV	mo	sind	AUX	[]	11	p5	6	False
 ab	ab	ADP	APPR	mo	sind	AUX	[Photonenenergien]	11	p5	6	False
@@ -2093,7 +2093,7 @@ gegeneinander	gegeneinander	ADV	ADV	mo	verschoben	VERB	[]	11	p5	7	False
 verschoben	verschieben	VERB	VVPP	oc	Sind	AUX	[gegeneinander]	11	p5	7	False
 ,	--	PUNCT	$,	punct	so	ADV	[]	11	p5	7	False
 so	so	ADV	ADV	mo	sind	AUX	[Sind, ,]	11	p5	7	False
-sind	sein	AUX	VAFIN	ROOT	sind	AUX	[so, Übergänge, bei, sind, .]	11	p5	7	False
+sind	sein	AUX	VAFIN	ROOT	sind	AUX	[so, Übergänge, bei, möglich, und , .]	11	p5	7	False
 direkte	direkt	ADJ	ADJA	nk	Übergänge	NOUN	[]	11	p5	7	False
 Übergänge	Übergänge	NOUN	NN	sb	sind	AUX	[direkte]	11	p5	7	False
 nur	nur	ADV	ADV	mo	bei	ADP	[]	11	p5	7	False
@@ -2101,17 +2101,17 @@ bei	bei	ADP	APPR	mo	sind	AUX	[nur, Photonenenergien]	11	p5	7	False
 höheren	hoch	ADJ	ADJA	nk	Photonenenergien	NOUN	[]	11	p5	7	False
 Photonenenergien	Photonenenergi	NOUN	NN	nk	bei	ADP	[höheren]	11	p5	7	False
 möglich	möglich	ADV	ADJD	pd	sind	AUX	[und]	11	p5	7	False
-und	und	CCONJ	KON	cd	sind	ADV	[sind]	11	p5	7	True
+und	und	CCONJ	KON	cd	sind	AUX	[sind]	11	p5	7	True
 indirekte	indirekt	ADJ	ADJA	nk	Übergänge	NOUN	[]	11	p5	7	False
-Übergänge	Übergang	NOUN	NN	sb	und	CCONJ	[indirekte, mit]	11	p5	7	False
+Übergänge	Übergang	NOUN	NN	sb	sind	AUX	[indirekte, mit]	11	p5	7	False
 mit	mit	ADP	APPR	mnr	Übergänge	NOUN	[Absorptionswahrscheinlichkeit]	11	p5	7	False
 wesentlich	wesentlich	ADV	ADJD	mo	kleinerer	ADJ	[]	11	p5	7	False
 kleinerer	klein	ADJ	ADJA	nk	Absorptionswahrscheinlichkeit	NOUN	[wesentlich]	11	p5	7	False
 Absorptionswahrscheinlichkeit	Absorptionswahrscheinlichkeit	NOUN	NN	nk	mit	ADP	[kleinerer]	11	p5	7	False
-sind	sein	AUX	VAFIN	cj	sind	AUX	[Übergänge, Möglichkeit]	11	p5	7	True
+sind	sein	AUX	VAFIN	cj	und	CCONJ	[Übergänge, Möglichkeit]	11	p5	7	True
 die	der	DET	ART	nk	Möglichkeit	NOUN	[]	11	p5	7	False
 einzige	einzig	ADJ	ADJA	nk	Möglichkeit	NOUN	[]	11	p5	7	False
-Möglichkeit	Möglichkeit	NOUN	NN	sb	sind	AUX	[die, einzige, für]	11	p5	7	False
+Möglichkeit	Möglichkeit	NOUN	NN	pd	sind	AUX	[die, einzige, für]	11	p5	7	False
 für	für	ADP	APPR	mnr	Möglichkeit	NOUN	[Photonenabsorption]	11	p5	7	False
 Photonenabsorption	Photonenabsorption	NOUN	NN	nk	für	ADP	[]	11	p5	7	False
 .	--	PUNCT	$.	punct	sind	AUX	[]	11	p5	7	False

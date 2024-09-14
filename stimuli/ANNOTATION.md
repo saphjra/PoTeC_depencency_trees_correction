@@ -59,10 +59,7 @@ based on [Tiger2Dep](https://www.ims.uni-stuttgart.de/forschung/ressourcen/werkz
 
 > `uncorrected_dependency_trees.tsv`
 
-Apart from that, further manual correction might be necessary 
-to correct mistakes in the dependency trees made by the tool. 
-
-In 
+in the file: 
 > `manually_corrected_dependency_trees.tsv`
 
 Manual corrections were made to adjust the trees for the same sentence splits as in the
@@ -86,7 +83,7 @@ manually_corrected: Whether this line was manually corrected.
 
 
 ### Constituency Trees
-We also provide constituency trees for all  texts. The trees were created using the tool 
+We also provide constituency trees for all texts. The trees were created using the tool 
 [benepar](https://pypi.org/project/benepar/). The trees are provided as a list of tuples, where the tuples contain the word, PoS-tag and are nested according to the sentence structure. 
 
 Small manual corrections were made to adjust the trees for the same sentence splits as in the
@@ -97,21 +94,29 @@ word features files defined by ``sent_index_in_text``.
 provides the original annotation of Benepar without manual corrections. However, inspection of the trees showed a lot of errors. 
 It had problems parsing quotation marks, relative clauses and other complex structures. 
 
-
-
-Therefore, the trees were manually corrected and provided in: 
+Therefore, futher manual corrections were necessary, which are provided in: 
 > `manually_corrected_constituency_trees.tsv`
 
 Some of the sentences could not be parsed exactly according to the tiger schema and were therefore corrected to the best of the annotators knowledge,
 as it is not possible to annotate crossing dependencies with simple parenthesis notation. 
+Crossing dependencies are for example present in extrapositioned relative clauses, as show in the following image: 
+
+![img.png](img.png)
+(S. Albert et al. (2003), [TIGER](https://www.linguistics.ruhr-uni-bochum.de/~dipper/pub/tiger_annot.pdf), pp. 31),
+
+In the provided file, the exprapositoned relative clause is indicated by the doubled labled phrase (VP, PP), where the PP 
+describes the relative clause " zwischen denen eine Hochfrewuenzspannung anliegt" which should be subbortdinated to its head "Hälfte"
+for the lack of a better solution: 
+
+![img_1.png](img_1.png)
+
+The correct Constituency tree would look like: 
+![constituency_tree.png](..%2FJanas%20Corrections%2Fconstituency_tree.png)
 
 Examples for sentences, which are not possible to annotate with parathesis are: 
 p5 ID 7, p4 ID 6, p3 ID 3, p0 ID 2 & 4 % 5 ,  b4 ID 10, b3 ID 12 & 5, b2 Id 3. 
 
 An additional colum ``manually_corrected`` was added to the file to indicate the corrected sentences.
-
-![img_1.png](img_1.png)
-
 
 ## DlexDB annotations
 

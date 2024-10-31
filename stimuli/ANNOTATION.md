@@ -50,8 +50,9 @@ The distinction between PIAT and PIDAT is not made and PIAT is used for attribut
 PROAV is used instead of the STTS tag PAV  with the same meaning.
 Additionally, ADV Prepositions are tagged as ADV if they modify numerals. 
 
-Furthermore, is the german abbreviation **d.h.** for this means  ("das heisst") treated differently. STTS annotates it as KON whereas .
-![img.png](img.png)
+Furthermore, is the german abbreviation **d.h.** for this means  ("das heisst") treated differently. STTS annotates it as KON whereas the Tiger Schema annotated them seperatly, as
+"d." -> PDS and "h." -> VVFIN (S. Albert et al. (2003), [TIGER](https://www.linguistics.ruhr-uni-bochum.de/~dipper/pub/tiger_annot.pdf), p.95).
+
 
 ### Dependency Trees
 In addition to the word tags, we provide dependency trees for all the texts. The trees were created with spacy's [Dependency Parser](https://spacy.io/api/dependencyparser)
@@ -68,18 +69,18 @@ word features files defined by ``sent_index_in_text``.
 An additional colum manually_corrected was added to the file to indicate for which words manual corrections were made.
 The file contains the following key columns:
 
-spacy_word: The word in the sentence.
-spacy_lemma: The lemma of the word.
-spacy_pos: Part of speech.
-spacy_tag: Detailed POS tag.
-dependency: Dependency relation of the word.
-dependency_head: The head (governing word) of the current word.
-dependency_head_pos: POS of the dependency head.
-dependency_children: List of children (dependent words).
-text_id_numeric: Numeric identifier for the text.
-text_id: Text identifier.
-sent_index_in_text: Index of the sentence in the text.
-manually_corrected: Whether this line was manually corrected.
+* spacy_word:  The word in the sentence.
+* spacy_lemma: The lemma of the word.
+* spacy_pos: Part of speech.
+* spacy_tag: Detailed POS tag.
+* dependency: Dependency relation of the word.
+* dependency_head: The head (governing word) of the current word.
+* dependency_head_pos: POS of the dependency head.
+* dependency_children: List of children (dependent words).
+* text_id_numeric: Numeric identifier for the text.
+* text_id: Text identifier.
+* sent_index_in_text: Index of the sentence in the text.
+* manually_corrected: Whether this line was manually corrected.
 
 
 ### Constituency Trees
